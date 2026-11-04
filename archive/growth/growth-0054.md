@@ -1,0 +1,30 @@
+---
+id: growth-0054
+domain: growth
+claim: 영업 수수료 소득은 환수될 수 있어 대출 심사에서 소득증명의 50%로만 인정되므로, 매출(수수료 총액)을 연봉으로 착각하지 말고 순수익을
+  따로 계산하며 실적 경쟁을 위한 페이백은 하지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=bqR7VxYpTBE
+  author: 안대장TV (@angyuho85)
+  seen: '2026-11-03'
+  quote: 정말로 순수익을 철저하게 계산하셔야 됩니다.
+  source: 안대장TV (@angyuho85)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 영업
+- 순수익
+- 대출
+- 실적
+- 페이백
+---
+영업 조직에서는 실적이 계급처럼 취급돼 페이백까지 하며 실적을 채우는 경우가 있는데, 이는 회사에만 좋고 영업인에게는 득이 없다. 보험 등 영업 소득은 언제든 환수되거나 뺏길 수 있는 돈이라 대출 회사는 소득증명을 50%로 잘라 계산한다. 이번 달 2,000만 원을 벌어도 다음 달 0원일 수 있으니 매출을 연봉으로 보지 말고 순수익을 철저히 계산한다. 영업인의 실제 자존감은 통장의 현금이라고 말한다.

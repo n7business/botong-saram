@@ -1,0 +1,28 @@
+---
+id: mindset-0038
+domain: mindset
+claim: 혜님은 교육만 듣고 끝내면 성공 경험이 생기지 않는다고 보고, 계속 실행하고 피드백받고 방향을 제시받는 환경을 만들어야 사람이 바뀐다고
+  판단한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=frRoSzZ41o4
+  author: 혜님 (@hyenimtv)
+  seen: '2026-11-03'
+  quote: 사람이 바뀌려면 계속 실행하고 피드백받고 방향을 제시받는 환경이 필요합니다.
+  source: 혜님 인스타그램마케팅 (@hyenimtv)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 실행
+- 피드백
+- 교육
+---
+교육을 아무리 많이 들어도 실행으로 이어지지 않으면 성공 경험이 쌓이지 않습니다. 화자가 소개한 주부는 아이템 없이 교육비로 약 3,000만 원을 쓰고도 시행착오만 겪었습니다. 같은 처지의 사람들과 하는 챌린지를 기획해 실행하고 피드백받는 구조를 만들자, 공동구매·지식창업·광고 수익으로 넓혀 월 순수익 700만 원까지 벌었습니다. 교육 수강보다 실행과 피드백이 반복되는 환경을 먼저 만드는 것이 핵심입니다.

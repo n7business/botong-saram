@@ -1,0 +1,28 @@
+---
+id: business-plan-0087
+domain: business-plan
+claim: 모두의 창업 로컬 트랙은 특정 지역의 관광 자원·특산품·주민과 연결된 사업만 해당하므로, 지방에 산다거나 경쟁률이 낮아 보인다는 이유로
+  기술·콘텐츠·플랫폼·제품 아이템을 로컬 트랙에 내면 성격 불일치로 오히려 불리하다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=yz6lSvqZ_mo
+  author: 창업주일
+  seen: '2026-11-03'
+  quote: 지방에 산다거나 경쟁률이 낮아 보인다는 이유로 로컬 트랙을 고르면 성격이 맞지 않아 오히려 불리하다.
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 로컬트랙
+- 트랙선택
+---
+트랙은 거주지가 아니라 아이템 성격으로 고른다. 기술·콘텐츠·플랫폼·제품 아이템은 일반 기술 트랙이다. 경주, 전주 한옥마을, 제주 관광지처럼 특정 지역의 관광 자원·특산품·주민과 직접 연결된 사업만 로컬 트랙에 맞는다. 로컬 트랙 통과율이 높다는 숫자만 보고 트랙을 바꾸면 심사위원이 아이템과 트랙의 불일치를 먼저 본다. 같은 아이디어라도 트랙 선택에 따라 결과가 달라진다.

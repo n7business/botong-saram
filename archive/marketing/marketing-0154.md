@@ -1,0 +1,30 @@
+---
+id: marketing-0154
+domain: marketing
+claim: AI 영상 프롬프트에 ASMR·필링이 흐르는 장면·마지막 컷 인사 같은 연출 요소와 '시네마틱 라이팅', '웜 스튜디오 글로우' 같은
+  카메라·조명 명령어를 함께 넣으면 결과물 품질이 크게 좋아진다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=Qi81yHGqUyg
+  author: 인스타언니 초이픽스 (@insta_unnei_choi)
+  seen: '2026-11-03'
+  quote: '''시네마틱 라이팅'', ''웜 스튜디오 글로우'' 같은 카메라·조명 명령어'
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 프롬프트
+- 힉스필드
+- 조명
+- 릴스
+---
+인물과 행동을 정한 다음에는 연출 요소를 프롬프트에 덧붙입니다. 예시에서는 먹는 소리 ASMR 효과, 붉은 필링이 흐르는 장면, 마지막 컷의 할로윈 인사를 넣었습니다. 여기에 '시네마틱 라이팅', '웜 스튜디오 글로우' 같은 카메라·조명 명령어를 더하면 직접 촬영하지 않아도 영화 같은 장면이 나옵니다. 연출은 마지막 컷 인사처럼 시즌이나 이벤트와 연결하면 바로 홍보 영상으로 쓸 수 있습니다.

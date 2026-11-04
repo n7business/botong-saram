@@ -1,0 +1,29 @@
+---
+id: growth-0096
+domain: growth
+claim: 월 매출이 1년 넘게 그대로라면 먼저 지역 검색량과 플레이스 노출 순위를 확인하고, 검색 수요와 상위 노출이 이미 있는데도 매출이 멈춰
+  있다면 광고를 늘리기보다 검색 결과에서 눌러 들어오게 하는 힘과 들어온 뒤 가고 싶게 만드는 힘을 고친다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=J5hfRVEQlJw
+  author: 장사 권프로
+  seen: '2026-11-03'
+  quote: 네이버에서 이 지역 닭갈비를 한 달에 770명이 검색하고
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 매출정체
+- 진단
+- 외식
+---
+네이버 검색광고 키워드 도구 등으로 '지역명+업종' 월 검색량을 보고, 내 매장이 플레이스 광고 없이 몇 위에 노출되는지 확인한다. 사례 닭갈비집은 지역 닭갈비 월 검색 770회에 자연 노출 2위였는데도 월 매출이 2,000만~2,300만 원에서 1년 넘게 멈춰 있었다. 이 경우 수요나 노출은 문제가 아니다. 대표 사진처럼 클릭을 부르는 요소와 소개글·메뉴 설명·리뷰 답글처럼 방문을 결정하게 하는 요소가 약한 것이 원인이다. 그러니 광고비를 쓰기 전에 이 두 구간부터 점검한다. 단일 매장 진단 사례이므로 내 매장의 클릭 수·전환 지표로 다시 확인해야 한다.

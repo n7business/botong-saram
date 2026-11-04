@@ -1,0 +1,28 @@
+---
+id: marketing-0005
+domain: marketing
+claim: 예약 경쟁이 치열한 시즌 상품·팝업은 상품 자체보다 '예약 일정·꿀팁'을 정리한 정보형 콘텐츠를 먼저 내놓아 관심을 선점한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://gogumafarm.kr/올해-가을은-이렇게-즐긴다-sns에서-포착한-2026-가을-트렌/
+  author: 고구마팜(외부 필진 로갱)
+  seen: '2026-11-03'
+  quote: 경쟁이 치열한 시즌 명소일수록 본 것만큼 가는 법이 공유 돼요.
+  source: 고구마팜
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 시즌마케팅
+- 정보형콘텐츠
+- 예약
+- 팝업
+---
+화담숲처럼 단풍철 100% 온라인 사전 예약으로 운영되는 명소는 SNS에 단풍 사진만큼 '예약 꿀팁' 콘텐츠가 많이 올라온다. 경쟁이 치열한 시즌 상품일수록 사람들은 '본 것'만큼 '가는 법'을 공유하기 때문이다. 시즌 한정 상품·팝업·클래스를 준비하는 사업자라면 오픈 전에 예약 오픈 일시, 예약 방법, 놓치기 쉬운 추가 예약 항목(입장권 외 모노레일처럼) 등을 정리한 정보형 게시물을 먼저 올리는 것이 효과적이다. 정보형 콘텐츠는 저장·공유가 잘 되어 본 상품 홍보보다 도달이 넓어질 수 있다. 예약 조건이 바뀌면 콘텐츠도 즉시 갱신해야 신뢰를 잃지 않는다.

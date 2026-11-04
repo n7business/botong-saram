@@ -1,0 +1,32 @@
+---
+id: law-basics-0063
+domain: law-basics
+claim: 주택을 살 때는 생애최초·출산양육 등 취득세 감면 대상인지 잔금 전에 확인하되, 주택가액·취득 시기·보유 주택 여부와 감면 후 지켜야
+  할 사후 조건까지 함께 검토해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.threads.com/@__jjjjjeee/post/DerCajbCZxi
+  author: 법무사 정승제 (@__jjjjjeee)
+  seen: '2026-11-03'
+  quote: 집값과 취득 시기, 주택 보유 여부, 감면받은 뒤 지켜야 할 조건까지 같이 확인해야 해.
+  source: 법무사 정승제 (@__jjjjjeee)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 지방세특례제한법
+  article: 제36조의3, 제36조의5
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 취득세
+- 감면
+- 주택
+- 세무
+---
+주택 취득세는 얼마 내는지보다 감면 대상인지 먼저 확인한다. 생애최초 주택 구입 감면, 출산·양육 목적 주택 구입 감면 등이 있다. 다만 '첫 집', '아이 출산'만으로 자동 적용되지 않고 주택가액 한도, 취득 시기, 다른 주택 보유 여부 요건을 모두 충족해야 한다. 감면받은 뒤 일정 기간 실거주·보유 등 사후 조건을 어기면 감면세액을 추징당하므로 조건까지 확인한다. 잔금 준비 단계에서 법무사·구청에 감면 신청 가능 여부를 묻는다.

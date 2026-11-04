@@ -1,0 +1,29 @@
+---
+id: ai-tools-0081
+domain: ai-tools
+claim: VS Code에서 AI가 써 준 .md 문서는 읽을 때 미리 보기(Windows Ctrl+Shift+V, Mac Cmd+Shift+V)로
+  열고, 직접 고칠 때는 원본 편집기로 돌아간다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=9O7mrfNoS7k
+  author: 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)
+  seen: '2026-11-03'
+  quote: 측면에서 미리 보기 열기라는게 있습니다.
+  source: 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- vscode
+- 마크다운
+- 미리 보기
+- 단축키
+---
+VS Code는 기본적으로 마크다운 원본만 보여 줘서 굵은 글씨·제목 서식이 적용된 모습이 보이지 않는다. .md 파일을 열고 오른쪽 위 '미리 보기로 열기'를 누르면 서식 적용 화면으로 바뀌고, 같은 자리의 '원본 파일로 다시 열기'로 돌아온다. '측면에서 미리 보기 열기'를 쓰면 원본과 미리 보기가 나란히 열려 고치는 즉시 반영을 확인할 수 있다. 커서로 직접 고칠 때는 원본이, 읽기만 할 때는 미리 보기가 편하다. GitHub 스타일로 보고 싶으면 'Markdown Preview GitHub Styling' 확장을 선택적으로 설치한다.

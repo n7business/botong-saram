@@ -1,0 +1,30 @@
+---
+id: ai-tools-0076
+domain: ai-tools
+claim: 에이전트에 Gmail·구글 드라이브를 연결할 때는 Gmail은 읽기 권한만 승인하고, 드라이브 권한에는 수정·삭제가 포함돼 폴더 제한이
+  안 되므로 지시문에 사용할 폴더와 '원본은 읽기만, 답장은 초안까지만, 삭제·공유 변경 금지'를 적어 둔다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=k_n8fmTt8Ck
+  author: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+  seen: '2026-11-03'
+  quote: Gmail은 읽기 권한 하나만 승인해서 실수로 보내거나 지울 일을 막고
+  source: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 에이전트
+- Gmail
+- 구글드라이브
+- 권한
+- 보안
+---
+브라우저에 로그인했다고 서버 에이전트가 내 파일을 읽을 수 있는 건 아니며, API를 켜는 것과 OAuth로 계정 사용을 승인하는 것은 별개다. 승인 화면 목록에 맡길 일만 있는지 확인하고 Gmail은 읽기 권한 하나만 승인해 실수로 보내거나 지울 일을 막는다. 드라이브·Docs 권한은 특정 폴더로 제한되지 않으므로 AGENTS.md 같은 지시문으로 범위를 긋는다. 연결됐다는 답만 믿지 말고 실제 계정·권한·읽기·생성까지 확인하고, inbox와 outbox 폴더를 나눠 원본과 결과가 섞이지 않게 한다. 메일은 되돌리기 어려우므로 발송은 사람이 직접 한다.

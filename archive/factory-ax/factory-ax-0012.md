@@ -1,0 +1,30 @@
+---
+id: factory-ax-0012
+domain: factory-ax
+claim: 제조공장은 압축공기 시스템이 전체 전력의 20~30%를 차지하므로, 전기요금을 줄이려면 조명·설비보다 압축기 효율·누설·유지보수부터 점검해야
+  한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.kidd.co.kr/news/247873
+  author: 산업일보 (누리 코세 아트라스콥코 코리아 압축기 사업부문 사장 인터뷰)
+  seen: '2026-11-03'
+  quote: 제조공장에서 압축공기 시스템이 전체 전력 소비의 평균 20~30%를 차지한다
+  source: 산업일보
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 압축공기
+- 에너지비용
+- 전기요금
+- 설비유지보수
+- TCO
+---
+자동차·식음료·섬유 등 압축공기를 쓰는 공장이라면 압축기가 전력 소비의 평균 20~30%를 차지한다. 전기요금을 줄이려면 이 부분이 가장 큰 절감 대상이다. 고효율 압축기 교체, 배관 누설 점검, 열 회수 시스템, 가동 상태 모니터링 순으로 검토한다. 압축기는 오래 쓰는 설비이므로 정품 부품과 전문 엔지니어 유지보수로 성능을 유지해야 하며, 구매가보다 전체 수명주기 총소유비용(TCO) 기준으로 판단한다. 수치는 압축기 제조사 임원의 발언이므로 자기 공장의 실제 비중은 전력 측정으로 확인한다.

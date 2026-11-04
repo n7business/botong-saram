@@ -1,0 +1,33 @@
+---
+id: metrics-0040
+domain: metrics
+claim: 1인 지배주주 법인의 대표 보수는 지급 전에 주주총회 결의로 정하고, 동종 업계 보수 수준 비교 자료를 남기며, 이익이 계속 나는데 배당이
+  0인 구조를 피해야 손금으로 인정받는다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=2vytFcha_yI
+  author: 이상화세무사의 모래세무 (@nicetax)
+  seen: '2026-11-03'
+  quote: 보수는 지급하기 전에 주총 결의로 정합니다.
+  source: 이상화세무사의 모래세무 (@nicetax)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 법인세법 시행령
+  article: 제43조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 임원보수
+- 지배주주
+- 주주총회
+- 손금
+- 배당
+---
+주주가 혼자라도 이사 보수는 정관이나 주총 결의로 사전에 정해야 하고, 연말 이익을 보고 나서 정하면 판례가 지적한 '영업이익과 보수의 연동'이 된다. 지배주주 임원에게 정당한 사유 없이 같은 직위 임원보다 많이 주면 초과분은 손금불산입이고, 임원 상여는 정관·주총·이사회로 정한 지급기준을 넘는 금액이 손금불산입이다. 대법원은 이익의 대부분을 보수로 가져가고 배당은 없는 패턴을 이익처분 상여와 실질이 같다고 보아 보수 전체를 손금불산입할 수 있다고 했다. 따라서 보수 결정 의사록, 비슷한 매출 규모·업종 대표 보수 수준 외부 자료 한 장, 보수와 배당 배분 설계를 갖춰 둔다. 정관에 적었다는 사실만으로는 세법의 문을 통과하지 못한다.

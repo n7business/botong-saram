@@ -1,0 +1,30 @@
+---
+id: metrics-0062
+domain: metrics
+claim: 투자를 받을 때 실적이 나쁘면 주식 수가 늘어나는 리픽싱 조건을 붙인 상환전환우선주(RCPS)는 자본이 아니라 부채로 잡혀 부채비율이
+  급등하고 자본잠식처럼 보일 수 있으므로, 계약 전에 회계상 분류와 재무제표 영향을 확인한다.
+status: verified
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=1nZR0c_fdcE
+  author: 오늘부터 회계사 (권순한 회계사)
+  seen: '2026-11-03'
+  quote: 상환전환우선주(RCPS)는 국제회계기준상 부채가 될 수 있습니다.
+  source: 오늘부터 회계사 (@오늘부터회계사)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-05-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 투자유치
+- RCPS
+- 리픽싱
+- 부채비율
+verified_by: 실무자 실측(단일 출처)
+---
+RCPS 투자 계약에 '적자를 내면 전환 주식 수를 늘린다' 같은 리픽싱 조건이 있으면, 국제회계기준상 그 투자금은 자본이 아니라 금융부채로 분류될 수 있습니다. 이 경우 매년 공정가치 평가손실이 금융비용으로 반영되고, 장부상 자본이 크게 줄어 부채비율이 비정상적으로 높아집니다. 이 숫자는 대출 심사나 거래처 신용평가에서 불리하게 읽힐 수 있습니다. 조건이 발동해 보통주로 전환되면 부채가 자본으로 바뀌지만, 분류가 바뀔 뿐 새 현금이 들어오지는 않고 투자자 지분은 커집니다. 투자 계약서의 리픽싱·상환 조건은 회계사에게 재무제표 영향을 먼저 검토받습니다.

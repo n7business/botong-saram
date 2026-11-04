@@ -1,0 +1,27 @@
+---
+id: ai-tools-0005
+domain: ai-tools
+claim: AI 도구 품질 이상은 막연한 불만 대신 /feedback 명령이나 재현 가능한 구체 예시로 보고해야 실제 수정으로 이어진다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.anthropic.com/research/april-23-postmortem
+  author: Anthropic Engineering
+  seen: '2026-11-03'
+  quote: the people who used the /feedback command to share their issues with us
+  source: Anthropic Engineering 블로그
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 피드백
+- 장애보고
+- claude-code
+---
+Anthropic은 두 차례 사고 모두 초기 보고가 '정상적인 피드백 변동'과 구분되지 않아 조사 착수가 늦었다고 밝혔다. 결국 원인 확인을 가능하게 한 것은 /feedback 명령으로 보낸 신고와 온라인에 올라온 구체적·재현 가능한 예시였다. 개인정보 보호 정책상 엔지니어는 신고되지 않은 대화를 열어볼 수 없으므로, 신고하지 않은 문제는 조사 대상이 되지 않는다. 이상을 느끼면 세션 안에서 /feedback으로 즉시 보내고, 가능하면 입력·출력·버전·시각을 함께 적는다. 공식 설명은 X의 ClaudeDevs 계정과 GitHub 스레드에서 확인한다.

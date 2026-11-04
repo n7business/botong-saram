@@ -1,0 +1,30 @@
+---
+id: factory-ax-0025
+domain: factory-ax
+claim: 사이클 타임이 1~4시간인 대형 선반 가공은 퇴근 직전에 걸어 두고 오토파워오프를 켜면 M30에서 화면과 유압 메인까지 꺼져 전기를 아끼면서
+  밤사이 한 개를 더 뽑을 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=oLANISg2sYc
+  author: Malco JACK (베스트정공 대표)
+  seen: '2026-11-03'
+  quote: 유압까지 내려가요
+  source: Malco JACK — 베스트정공 대표 (@MalcoJack)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- CNC선반
+- 오토파워오프
+- 무인가공
+- 야간가동
+- 전기절감
+---
+오토파워오프는 주로 MCT에서 5~10시간짜리 블록·금형 가공에 쓰이지만, 선반에서도 큰 가공물처럼 1~4시간 걸리는 작업에 쓸모가 있습니다. 프로그램이 M30을 만나면 화면이 꺼지고 유압까지 내려가서 유압 펌프 전력이 절약됩니다. 10개짜리 작업이라면 매일 퇴근 때 하나씩 걸어 두는 것만으로 5일 동안 하루 1~2시간씩 가동 시간을 버는 효과가 있습니다. MCT는 출고 때부터 기능이 있는 경우가 많고, 선반은 따로 달아야 할 수 있습니다.

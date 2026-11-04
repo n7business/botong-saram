@@ -1,0 +1,29 @@
+---
+id: business-plan-0016
+domain: business-plan
+claim: 폐업 이력이나 과거 동일 사업 수혜 이력이 있으면 예비창업패키지 참여가 제한될 수 있으므로 공고문의 신청 제외 대상·재참여 제한 항목을
+  먼저 확인하고 해당되면 재도전성공패키지나 초기창업패키지를 검토해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.swp.io.kr/guide/yebi-changup-package.html
+  author: 스프링워터 파트너스
+  seen: '2026-11-03'
+  quote: 폐업 이력이나 과거 동일 사업 수혜 이력이 있으면 참여 제한이 적용될 수 있습니다.
+  source: 스프링워터 파트너스 예창패 가이드
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 예비창업패키지
+- 신청자격
+- 재창업
+- 중복수혜
+---
+예창패 자격 미달은 서류 단계에서 바로 탈락하므로 신청 전 자가 점검이 먼저다. 사업자등록 이력, 업력, 연령, 재참여·중복 지원 제한을 공고문 기준으로 확인한다. 폐업 시점이나 중복 수혜 여부 같은 개별 사안은 주관기관에 문의해 판단한다. 동일 기간에 여러 정부지원사업에 선정되면 중복 지원 제한을 받을 수 있으므로 각 공고문의 지원 제외 대상·중복 지원 조건도 함께 본다. 재창업자는 재도전성공패키지 등 다른 트랙이 현실적일 수 있다.

@@ -1,0 +1,29 @@
+---
+id: growth-0004
+domain: growth
+claim: AI 쇼핑 추천은 대형 브랜드 2~3곳에 쏠리므로, 작은 브랜드는 '소형·1~2인 가구'처럼 조건이 붙은 틈새 질문을 겨냥한 콘텐츠로
+  AI 답변에 들어가야 한다.
+status: candidate
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48653
+  author: EO 플래닛(필자 미표기)
+  seen: '2026-11-03'
+  quote: 작은 제품을 묻는 질문에서는 답이 넓어졌습니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI검색
+- GEO
+- 틈새마케팅
+- 소형브랜드
+---
+김치냉장고 질문 10개를 ChatGPT·Perplexity·Gemini·Google AI 개요·네이버 AI 브리핑에 각 3회 물어 134건을 분석했더니 등장 브랜드는 11곳뿐이었고 삼성 81%, LG 78%, 딤채 57%로 세 곳이 대부분을 차지했다. 넓은 질문에서는 작은 브랜드가 거의 나오지 않는다. 반면 '소형'과 '1~2인 가구' 질문 답변 29건 중 13건에 미닉스가 나왔고 락앤락도 9건 중 7건이 이 두 질문에서 나왔다. 네이버 데이터랩에서도 '소형·미니 김치냉장고' 관심도가 '뚜껑형'·'스탠드형'보다 네 배 넘게 높았다. 작은 사업자는 범용 키워드 대신 가구 수·크기·전기요금 같은 구체 조건을 제품 페이지와 글 제목에 명시해 AI가 그 조건 질문에서 인용할 수 있게 만든다. AI마다 자주 꺼내는 브랜드가 달라 한 곳만 보지 말고 여러 AI에 같은 질문을 던져 확인한다.

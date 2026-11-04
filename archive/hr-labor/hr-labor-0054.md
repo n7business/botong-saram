@@ -1,0 +1,32 @@
+---
+id: hr-labor-0054
+domain: hr-labor
+claim: 근로감독 통보를 받은 뒤 준비하면 늦으므로 ①근로계약·인사서류 ②임금(최저임금·가산수당·주휴수당·임금명세서·평균임금) ③근로시간·휴게·휴가
+  ④법정교육·안전 네 영역을 지금 체크리스트로 점검해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=PdSJVtJVWOE
+  author: 달리는 노무사 (@runnomu)
+  seen: '2026-11-03'
+  quote: 체크리스트 지금 저장해 두고 하나씩 점검해 보세요
+  source: 달리는 노무사 (@runnomu)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제17조, 제48조, 제50조, 제54조, 제56조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 근로감독
+- 셀프점검
+- 체크리스트
+- 임금명세서
+---
+근로감독은 서류 몇 장이 아니라 사업장 전체 노무관리를 점검하며, 일부 항목은 시정 기간이 7~14일로 짧아 통보 후에는 고칠 시간이 부족합니다. 서류 영역은 근로계약서·임금대장·근로자 명부·취업규칙·퇴사자 연차 및 퇴직금 정산 서류입니다. 임금 영역은 최저임금 준수, 연장·야간·휴일수당 실제 지급, 주휴수당, 임금명세서 필수항목, 퇴직금용 평균임금 계산입니다. 근로시간 영역은 주 52시간 초과 여부, 휴게시간 실제 보장, 공휴일 규정이고, 마지막은 법정 의무교육과 산업안전 서류입니다. 업종·규모별 추가 항목은 노무사 진단을 받는 것이 안전합니다.

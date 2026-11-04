@@ -1,0 +1,29 @@
+---
+id: marketing-0104
+domain: marketing
+claim: AI 영상 도구로 인스타 릴스용 영상을 만들 때는 화면 비율을 9:16, 품질을 1080으로 설정해야 세로형 숏폼으로 바로 올릴 수 있는
+  영상이 나온다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=Qi81yHGqUyg
+  author: 인스타언니 초이픽스 (@insta_unnei_choi)
+  seen: '2026-11-03'
+  quote: 9대 16 해야 세형 초폼 릴스 사진이 나옵니다.
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 릴스
+- AI영상
+- 영상규격
+---
+힉스필드 등에서 영상을 생성할 때 비율을 기본값(가로)으로 두면 릴스에 올릴 때 잘리거나 여백이 생긴다. 생성 전에 화면 비율을 9:16으로, 품질을 1080으로 지정한다. 길이는 모델에 따라 최대 30초까지 가능하지만 길이에 비례해 크레딧이 소모되므로 릴스에 필요한 길이만 설정한다.

@@ -1,0 +1,1563 @@
+# 영역별 추적 소스. 매일 수집기가 이 파일을 읽는다.
+# type: threads | instagram | youtube | blog | newsletter | x
+# weight: 출처 신뢰도 0~1 (교차 확인 시 가중치). 공식 계정은 1.0.
+# license: 법·노무·세무·인허가 영역(licensing, hr-labor, tax, law-basics) 필수. 자격·등록번호 확인 URL. 없으면 수집기가 건너뜀.
+# contributor: true 이면 기고자 채널(docs/contributors.md 절차 통과).
+marketing:
+- name: Meta 비즈니스 지원 센터
+  type: official
+  url: https://www.facebook.com/business/help
+  author: Meta
+  weight: 1.0
+  cadence: 상시 갱신(정책·광고 규격 변경 시)
+  why: 메타 광고·인스타·Threads 비즈니스 기능의 1차 출처. 2026-11-03 접속 확인(페이지명 "Meta 비즈니스 지원 센터").
+  mode: page
+- name: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
+  type: official
+  url: https://blog.naver.com/naver_search
+  author: 네이버 검색
+  weight: 1.0
+  cadence: 월 1~3회
+  why: 네이버 검색 알고리즘·서치어드바이저·리치결과 반영 공지를 내는 공식 블로그. 2026-11-03 접속 확인(제목 "NAVER Search & Tech"). 본문 크롤링은 네이버 정책상 불가, 수동 열람 필요.
+- name: YouTube 크리에이터 (한국 공식 채널)
+  type: official
+  url: https://www.youtube.com/@ytcreatorskorea
+  author: YouTube Korea
+  weight: 1.0
+  cadence: 월 2~4회
+  why: '"한국 크리에이터분들을 위한 YouTube의 공식 채널"로 명시. 쇼츠·수익화·알고리즘 업데이트를 직접 설명. 구독자 7.85만, 2026-11-03 확인.'
+- name: 하이아웃풋클럽 블로그
+  type: blog
+  url: https://blog.highoutputclub.com/
+  author: 하이아웃풋클럽 (원온원노트 대표, 와니 등)
+  weight: 0.75
+  cadence: 주 1~2회
+  why: 1인 사업가·작은 브랜드 콘텐츠 마케팅. 회원 사례를 수치로 공개(조회수 1만에 신청 150명, 200만 조회 매출 0원 등), Threads·매니챗 실전 가이드. 최근 글 2026-09-26, 2026-11-03 확인.
+- name: 고구마팜
+  type: blog
+  url: https://gogumafarm.kr/
+  author: 더에스엠씨(The SMC)
+  weight: 0.6
+  cadence: 주 3~4회
+  why: "마케팅 트렌드 미디어. 릴스·쇼츠·크리에이터 협업 사례를 꾸준히 분석. 최근 글 2026-11-02, 2026-11-03 확인. 자사 실적 공개는 아님."
+- name: 돈버는 기술, 마브사끼
+  type: youtube
+  url: https://www.youtube.com/@mabsaki
+  author: 조남규 (바이스퀘어)
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 네이버 플레이스·바이럴 마케팅 실무 채널, 구독자 14.3만(2026-11-03). 상위노출 사례를 자주 공개하나 대행업 홍보 성격이 섞여 수치 검증은 약함.
+- name: 깡대표
+  type: youtube
+  url: https://www.youtube.com/@Kkangceo
+  author: 깡대표
+  weight: 0.6
+  cadence: 주 2~3회
+  why: '"자영업의 모든 것" 채널, 구독자 30.6만(2026-11-03). 자영업자 인스타 콘텐츠로 매출 변화(월 6천만→7천만 원대 등) 사례를 다룸. 수치는 출연자 주장 기반.'
+- name: 캐릿
+  type: newsletter
+  url: https://www.careet.net/
+  author: (주)대학내일
+  weight: 0.6
+  cadence: 주 1회(트렌드 배송)
+  why: Z세대·숏폼 트렌드, 이슈 캘린더, 마케팅 레퍼런스를 정기 발행. 최근 글 2026-11-03(2027 이슈 캘린더), 2026-11-03 확인.
+- name: 오픈애즈
+  type: blog
+  url: https://www.openads.co.kr/home
+  author: NHN AD
+  weight: 0.6
+  cadence: 주 2~3회
+  why: 광고·브랜딩·카피 관점의 마케팅 칼럼 및 업계 리포트. 최근 오리지널 글 2026-10-28, 2026-11-03 확인.
+- name: 아이보스
+  type: blog
+  url: https://www.i-boss.co.kr/
+  author: 아이보스(마케팅 커뮤니티)
+  weight: 0.5
+  cadence: 매일(커뮤니티·칼럼)
+  why: "국내 최대 마케터 커뮤니티. 메타 광고 진단 웨비나, 2026 자영업 마케팅 트렌드 칼럼 등 2026년 글이 검색으로 확인됨."
+  unverified: true
+- name: 네이버 서치어드바이저 가이드 (SEO 공식)
+  type: official
+  url: https://searchadvisor.naver.com/guide
+  author: 네이버
+  weight: 1.0
+  cadence: 수시
+  why: 네이버 검색 노출 기준 공식 문서. SEO·블로그·플레이스 정책 원문(evidence=policy)
+  follow: 8
+  mode: page
+- name: Google 검색 센터 블로그 (SEO 공식)
+  type: official
+  url: https://developers.google.com/search/blog?hl=ko
+  author: Google Search Central
+  weight: 1.0
+  cadence: 주 1~2회
+  why: 구글 검색 정책·알고리즘 변경 공식 공지(evidence=policy)
+  follow: 5
+- name: Google 검색 센터 문서 — 스팸 정책
+  type: official
+  url: https://developers.google.com/search/docs/essentials/spam-policies?hl=ko
+  author: Google Search Central
+  weight: 1.0
+  cadence: 개정 시
+  why: '''하지 말 것'' 근거 원문(자동 생성 콘텐츠·링크 스팸 등)'
+  follow: 0
+  mode: page
+- name: 커리어노마드 (@careernomad_)
+  type: threads
+  url: https://www.threads.com/@careernomad_
+  author: careernomad_
+  topic: threads
+  followers: 6.3만 (Threads)
+  weight: 0.7
+  cadence: 매일 1~3개
+  why: 팔로워 1명→2.1만→6.3만 과정과 누적 글 1만 개 경험으로 스레드 글쓰기·주제 비율(일반 70%·전문 30%)·퍼스널브랜딩 노하우를 반복 공개. 2026-11-03 Aside로 프로필·최근 글(11/3, 11/2) 확인.
+  influencer: true
+  also:
+  - mindset
+- name: 장사맛집 오팀장 (@장사맛집오팀장)
+  type: youtube
+  url: https://www.youtube.com/@장사맛집오팀장
+  author: 오팀장 (부산 포맨티코 운영)
+  topic: threads
+  followers: 구독자 6,070명 (YouTube)
+  weight: 0.6
+  cadence: 주 1회 내외
+  why: "자영업자 관점에서 '스레드 마케팅 총정리', '7일 만에 팔로워 500명' 등 동네장사용 스레드 운영법을 반복 게시(조회 5.4만). 2026-11-03 유튜브 확인(최근 업로드 3일 전)."
+  influencer: true
+  also:
+  - mindset
+- name: 인스타언니 초이픽스 (@insta_unnei_choi)
+  type: youtube
+  url: https://www.youtube.com/@insta_unnei_choi
+  author: 초이픽스 (『인사이트 아카이브』 저자)
+  topic: instagram
+  followers: 구독자 4,610명 (YouTube) / 인스타 869
+  weight: 0.6
+  cadence: 주 1~2회
+  why: "'릴스 올리기 전 알고리즘 총정리'(조회 14.8만), '릴스 알고리즘 타는 5가지 설정' 등 계정 설정·릴스 구조 노하우를 꾸준히 게시. 2026-11-03 유튜브·인스타·스레드 확인(최근 업로드 4일 전)."
+  influencer: true
+  also:
+  - mindset
+- name: 혜님 인스타그램마케팅 (@hyenimtv)
+  type: youtube
+  url: https://www.youtube.com/@hyenimtv
+  author: 혜님
+  topic: instagram
+  followers: 구독자 1.98만 (YouTube)
+  weight: 0.6
+  cadence: 주 1회 내외
+  why: 계정 주제 선정·릴스 10분 제작법·수익화 시점(팔로워 몇 명부터) 등 인스타 성장 과정을 경험담 중심으로 반복 공개. 수치 근거보다 경험 위주. 2026-11-03 유튜브 확인(최근 업로드 9일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 마케터은진 (@success_eunjin)
+  type: youtube
+  url: https://www.youtube.com/@success_eunjin
+  author: 마케터은진 (『내 이름으로 먹고삽니다』 저자)
+  topic: instagram
+  followers: 구독자 1.17만 (YouTube)
+  weight: 0.7
+  cadence: 월 2~3회
+  why: '''2026 인스타 팔로워 빠르게 늘리는 법''(조회 4.7만), 팔리는 브랜드 SNS 차이점, 인스타 수익화 5단계 로드맵 등 소상공인 브랜드용 인스타 운영법을 반복 게시. 2026-11-03 유튜브 확인(최근 업로드 3일 전).'
+  influencer: true
+  also:
+  - mindset
+- name: 머니코치 최준호 (@moneycoach)
+  type: youtube
+  url: https://www.youtube.com/@moneycoach
+  author: 최준호 (네이버 마케팅 도서 저자)
+  topic: seo
+  followers: 구독자 17.5만 (YouTube)
+  weight: 0.7
+  cadence: 주 1회
+  why: 플레이스 신규 로직(테마별 추천·인기 급상승), 블로그 상위노출 변경(인기글 폐지), 토스 리워드 영향 등 네이버 로직 변화를 사례로 반복 해설. 2026-11-03 유튜브 확인(최근 업로드 2일·7일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 이상한마케팅 (@isanghan_marketing)
+  type: youtube
+  url: https://www.youtube.com/@isanghan_marketing
+  author: 이상한마케팅
+  topic: seo
+  followers: 구독자 17.9만 (YouTube)
+  weight: 0.6
+  cadence: 주 1~2회
+  why: "플레이스 상위노출 로직·플레이스 광고 세팅·2027 네이버 노출 판도 변화를 총정리 형식으로 반복 공개. 2026-11-03 유튜브 확인(최근 업로드 6일 전)."
+  influencer: true
+  also:
+  - mindset
+- name: 새벽리더 블로그 강의 (@MorningLeader)
+  type: youtube
+  url: https://www.youtube.com/@MorningLeader
+  author: 새벽리더 (14년차 네이버 IT 인플루언서)
+  topic: seo
+  followers: 구독자 3.17만 (YouTube)
+  weight: 0.7
+  cadence: 주 2~3회
+  why: 네이버 홈판 노출·제목 작성·블로그 수익화 속도를 수강생 인증 수치와 함께 반복 공개(일 방문자 1만 이상 블로그 운영). 2026-11-03 유튜브 확인(최근 업로드 17시간·3일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 캡선생 김용석 (@kap_writing)
+  type: threads
+  url: https://www.threads.com/@kap_writing
+  author: '김용석 (『AI가 선택하는 브랜드의 비밀: AEO』 저자)'
+  topic: seo
+  followers: 1.1만 (Threads)
+  weight: 0.6
+  cadence: 주 3~5개
+  why: "AEO 저서와 10인 미만 스몰 브랜드 컨설팅 경험으로 AI 검색 노출·브랜드 구조·스레드 팔로워 1만 달성법을 공개. 2026-11-03 Aside로 프로필·최근 글(10/30) 확인."
+  influencer: true
+  also:
+  - mindset
+- name: 애드스트럭트 왕현 (@애드스트럭트)
+  type: youtube
+  url: https://www.youtube.com/@애드스트럭트
+  author: 왕현 (Meta 인증 비즈니스 파트너)
+  topic: ads
+  followers: 구독자 7,140명 (YouTube)
+  weight: 0.7
+  cadence: 주 1회
+  why: "광고비 누적 100억·매출 16억 계정 사례, DB 단가 절감 설정, 업종별(건기식·뷰티 vs 의류) 메타 광고 구조를 실계정 수치로 반복 공개. 2026-11-03 유튜브 확인(최근 업로드 4일·6일 전)."
+  influencer: true
+  also:
+  - mindset
+- name: 마케팅쉐어 이과장 (@마케팅쉐어)
+  type: youtube
+  url: https://www.youtube.com/@마케팅쉐어
+  author: 이과장
+  topic: ads
+  followers: 구독자 1.98만 (YouTube)
+  weight: 0.6
+  cadence: 주 1회 내외
+  why: "메타 광고 보고서 분석·조치법(조회 3.2만), 잠재고객 캠페인 세팅, 메타 본사 행사 노하우 공유 등 메타 광고 운영법을 반복 게시. 2026-11-03 유튜브 확인(최근 업로드 8일 전)."
+  influencer: true
+  also:
+  - mindset
+- name: 광고 건너뛰려다 걸려 넘어진 (@w0rkhardpla2hard)
+  type: instagram
+  url: https://www.instagram.com/w0rkhardpla2hard/
+  author: w0rkhardpla2hard (카피라이터)
+  topic: ads
+  followers: 4.2만 (Instagram)
+  weight: 0.6
+  cadence: 주 2~3회
+  why: "국내외 광고 캠페인 카피 분석과 '블로그 제목 카피 모음' 등 카피라이팅 레퍼런스를 꾸준히 큐레이션. 2026-11-03 Aside로 프로필·최근 글(11/2, 10/31, 10/29) 확인."
+  influencer: true
+  also:
+  - mindset
+- name: 빌리쌤 (@billy___ssam)
+  type: threads
+  url: https://www.threads.com/@billy___ssam
+  author: 빌리쌤
+  topic: threads
+  followers: 4.9만 (Threads)
+  weight: 0.6
+  cadence: 매일 3~10개
+  why: "'스레드 알려주는 남자'. 업로드 시간대(아침 6~9시·저녁 20~24시), 첫 30분 댓글 운영, 외부 링크는 본문 말고 댓글에, 5천 미만은 댓글·이상은 브랜딩 등 스레드 운영 수칙을 목록형으로 반복 게시. 2026-11-04 Aside로 프로필·최근 글 20개 확인."
+  influencer: true
+growth:
+- name: 중소벤처기업부 통계자료 (소상공인실태조사)
+  type: official
+  url: https://www.mss.go.kr/site/smba/foffice/ex/statDB/MainSubStat.do
+  author: 중소벤처기업부
+  weight: 1.0
+  cadence: 연 1회(실태조사 결과 발표, 2024년 기준 조사 2026-03-13 발표)
+  why: 소상공인실태조사 발표 주체. 사업체 수 613만4천 개, 창업비용 평균 8,300만 원 등 공식 수치. 2026-11-03 접속 확인(통계자료 메뉴).
+  mode: page
+- name: KOSIS 국가통계포털
+  type: official
+  url: https://kosis.kr/index/index.do
+  author: 국가데이터처(구 통계청)
+  weight: 1.0
+  cadence: 상시(서비스업조사·소상공인실태조사 등 통계표 갱신)
+  why: 업종별·지역별 사업체·매출 통계의 1차 출처. 2026-11-03 접속 확인. 개별 통계표 URL은 SSO 리다이렉트가 있어 검색창 경유 필요.
+- name: 소상공인365 (소진공 빅데이터 플랫폼)
+  type: official
+  url: https://bigdata.sbiz.or.kr/
+  author: 소상공인시장진흥공단
+  weight: 1.0
+  cadence: 월 1회(상권·업종 데이터 갱신)
+  why: 소상공인시장진흥공단이 운영하는 상권·업종·매출 빅데이터 서비스. 2026-11-03 접속 확인(페이지명 "소상공인365").
+  mode: page
+- name: 하이아웃풋클럽 블로그 (오퍼·가격·DM)
+  type: blog
+  url: https://blog.highoutputclub.com/
+  author: 하이아웃풋클럽
+  weight: 0.75
+  cadence: 주 1~2회
+  why: '"고객이 비싸다고 할 때 답변하는 법", 1인 사업가 초기 고객 확보, 인스타 매니챗 가이드 등 오퍼·가격·리드 확보를 실무 수치와 함께 다룸. 2026-11-03 확인.'
+- name: 오픈서베이 블로그
+  type: blog
+  url: https://blog.opensurvey.co.kr/
+  author: 오픈서베이
+  weight: 0.7
+  cadence: 월 2~3회
+  why: 소비자 패널 기반 트렌드 리포트(식생활·소비·구매 경로)를 데이터로 공개. 최근 글 2026-10-27, 2026-11-03 확인.
+- name: 채널톡 블로그
+  type: blog
+  url: https://channel.io/ko/blog
+  author: 채널코퍼레이션
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 상담·CRM·리텐션 사례 리포트(AI 전화 성공 사례 등). 최근 글 2026-10-29, 2026-11-03 확인. 벤더 블로그라 자사 솔루션 중심.
+- name: 토스페이먼츠피드
+  type: blog
+  url: https://www.tosspayments.com/blog
+  author: 토스페이먼츠
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 사장님 대상 결제·수수료·세무·GEO 그로스 세미나 정리. 최근 글 2026-11-01, 2026-11-03 확인. 벤더 블로그.
+- name: 스티비 블로그
+  type: blog
+  url: https://blog.stibee.com/
+  author: 스티비
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 이메일 뉴스레터 리텐션(웰컴 메일, 고객사례 인터뷰) 실무 가이드. 최근 글 2026-10-28, 2026-11-03 확인. 벤더 블로그.
+- name: 디스콰이엇
+  type: blog
+  url: https://disquiet.io/
+  author: 디스콰이엇(메이커 커뮤니티)
+  weight: 0.5
+  cadence: 매일(회원 글)
+  why: 메이커들이 출시·가격·전환 수치를 직접 공유하는 커뮤니티. 2026-11-03 접속 확인. 개별 글 신뢰도 편차 큼.
+- name: EO 플래닛
+  type: blog
+  url: https://eopla.net/
+  author: (주)이오스튜디오
+  weight: 0.5
+  cadence: 매일(창업자 기고)
+  why: "창업자 대상 사업 전략·영업·마케팅 기고 플랫폼. 2026-11-03 접속 확인."
+  link_pattern: /magazines/|/posts/|/articles/
+- name: 장사 권프로 (@권프로)
+  type: youtube
+  url: https://www.youtube.com/@권프로
+  author: 권정훈 / 장사 권프로
+  followers: 23만
+  weight: 0.8
+  cadence: 주 1~2회
+  why: 자영업 코칭 경험으로 재방문(손님 90% 다시 오게 하는 법)·매출 정체 원인·장사 마케팅 전략을 반복 게시하고 유료코칭 핵심내용도 공개. 2026-11-03 확인(최근 업로드 1일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 장사왕 임사부 (@장사왕임사부)
+  type: youtube
+  url: https://www.youtube.com/@장사왕임사부
+  author: 임사부
+  followers: 11.5만
+  weight: 0.7
+  cadence: 주 1회
+  why: 배달매장 1400개 운영 대표로 배달앱 세팅법·원가율·원가표 자료 공개 등 매출 실무를 반복 게시. 2026-11-03 확인(최근 업로드 14시간 전).
+  influencer: true
+  also:
+  - mindset
+- name: 안대장TV (@angyuho85)
+  type: youtube
+  url: https://www.youtube.com/@angyuho85
+  author: 안대장
+  followers: 27.9만
+  weight: 0.7
+  cadence: 주 1~2회
+  why: 영업인 출신으로 상황별 영업 멘트·거절 대응·브랜드 전략(55억 엑시트 경험)을 반복 게시. 2026-11-03 확인(최근 업로드 3일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 다점포왕TV (@dajumpo)
+  type: youtube
+  url: https://www.youtube.com/@dajumpo
+  author: 다점포왕 (신주옥미 본사·한국외식다점포협회 운영)
+  followers: 3.09만
+  weight: 0.7
+  cadence: 주 2~3회
+  why: 본인 매장 월매출(2억6,700만원 등)을 공개하며 외곽상권 창업 공식·다점포 시스템화 노하우를 반복. 2026-11-03 확인(최근 업로드 1일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)
+  type: youtube
+  url: https://www.youtube.com/@슈퍼자영업자조세이돈
+  author: 조세이돈
+  followers: 2.09만
+  weight: 0.7
+  cadence: 월 2~3회
+  why: 18년 배달장사 경험으로 원가 실체·일매출 300만원 달성법·매출 상승 방법을 수치와 함께 게시. 2026-11-03 확인(최근 업로드 13시간 전).
+  influencer: true
+  also:
+  - mindset
+- name: 무빙워터 (@무빙워터)
+  type: youtube
+  url: https://www.youtube.com/@무빙워터
+  author: 무빙워터
+  followers: 27.8만
+  weight: 0.6
+  cadence: 월 2~3회
+  why: 1인 기업 운영자로 협업제안 1,000건 경험 기반 제안서 작성법·퇴사 없이 1인기업 되는 법을 다룸. 최근 브이로그 비중 높음. 2026-11-03 확인(최근 업로드 2주 전).
+  influencer: true
+  also:
+  - mindset
+- name: 태오의 실행비즈니스 (@teo_daily_business)
+  type: threads
+  url: https://www.threads.com/@teo_daily_business
+  author: 태오 / @teo_daily_business
+  followers: 1.2만
+  weight: 0.6
+  cadence: 거의 매일
+  why: 삼성 반도체 엔지니어 퇴사 후 3년째 1인 지식창업·컨설팅 운영 경험으로 퇴사 질문 답변·고객 기준 설정·AI 수익화를 게시. 무료 강의 모집 글도 섞임. 2026-11-03 확인(최근 게시 2026-10-27).
+  influencer: true
+  also:
+  - mindset
+- name: 황민지 | 100만원으로 시작한 8년차 사장 (@nana___2.2)
+  type: instagram
+  url: https://www.instagram.com/nana___2.2/
+  author: 황민지 / @nana___2.2
+  followers: 1.9만
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 100만원으로 시작해 답례품 브랜드 2개를 운영하는 소규모 사업자로 창업·운영·비용 절감 노하우를 게시. 2026-11-03 확인(최근 게시 2026-11-02).
+  influencer: true
+  also:
+  - mindset
+metrics:
+- name: 한국은행 기업경영분석
+  type: official
+  url: https://www.bok.or.kr/portal/singl/newsData/list.do?menuNo=200455
+  author: 한국은행 경제통계국
+  weight: 1.0
+  cadence: 연 1회(속보 포함 연 2회)
+  why: 업종·규모별 매출액영업이익률·부채비율 등 KPI 벤치마크의 원천. 2026-11-03 접속, '2025년 기업경영분석 결과(통계편)' 게시 확인.
+- name: 한국은행 경제통계시스템(ECOS)
+  type: official
+  url: https://ecos.bok.or.kr/#/?langCd=kor
+  author: 한국은행
+  weight: 1.0
+  cadence: 상시(월·분기 통계 갱신)
+  unverified: true
+  why: 금리·물가·기업경영분석 원자료 조회. 2026-11-03 한국은행 메인에서 링크 확인했으나 SPA라 본문 응답이 비어 직접 내용 확인 못 함.
+- name: 중소벤처기업부 보도자료
+  type: official
+  url: https://www.mss.go.kr/site/smba/ex/bbs/List.do?cbIdx=86
+  author: 중소벤처기업부
+  weight: 1.0
+  cadence: 거의 매일
+  why: 소상공인·중소기업 실태조사, 금융지원 정책 수치의 1차 출처. 2026-11-03 접속, 당일 게시글 확인.
+- name: 클로브 블로그
+  type: blog
+  url: https://clobe.ai/blog
+  author: 클로브(Clobe)
+  weight: 0.7
+  cadence: 주 2~5회
+  why: 번레이트·런웨이 계산, 전표·원천세 실무를 수식과 절차로 설명. 2026-11-03 접속, 11월 2일자 글 5건 확인.
+- name: 토스페이먼츠피드
+  type: blog
+  url: https://www.tosspayments.com/blog
+  author: 토스페이먼츠
+  weight: 0.6
+  cadence: 주 1~3회
+  why: 카드수수료율·PG 비용 등 온라인 사업자 단위경제의 비용 항목을 구체 숫자로 다룸. 2026-11-03 접속, 10~11월 글 확인.
+- name: 토스플레이스 사장님 스토리
+  type: blog
+  url: https://tossplace.com/story
+  author: 토스플레이스
+  weight: 0.5
+  cadence: 월 수 회(게시일 미표기)
+  why: 음식점·카페·소매 업종별 원가율 계산법(매출원가÷매출액) 등 가격 결정 기초를 다룸. 2026-11-03 접속 확인, 운영사 명시. 홍보 성격 강해 0.5.
+- name: 한국신용데이터 보도자료(소상공인 동향 리포트)
+  type: blog
+  url: https://www.kcd.co.kr/news/?type=%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C
+  author: 한국신용데이터(캐시노트 운영사)
+  weight: 0.7
+  cadence: 분기 1회(리포트) + 수시 보도자료
+  why: 캐시노트 사용 사업장 표본(16만 곳)의 평균 매출·영업이익을 분기 발표. 2026-11-03 접속 확인, 목록은 JS 렌더링이라 미표시.
+- name: 아웃스탠딩
+  type: newsletter
+  url: https://outstanding.kr/
+  author: 아웃스탠딩(최용식 대표)
+  weight: 0.6
+  cadence: 매일
+  why: 스타트업 DB IPO 리포트 등 공시 재무를 풀어 손익 구조를 해설. 2026-11-03 접속, 11월 2일자 기사 확인. 유료 구독 기반.
+- name: Up Side(브런치) — 스타트업에 CFO로 간 회계사
+  type: blog
+  url: https://brunch.co.kr/@upside
+  author: Up Side(회계사 출신 스타트업 CFO, 필명)
+  weight: 0.6
+  cadence: 부정기(누적 102편)
+  why: 회계법인에서 스타트업 CFO로 옮긴 현업자의 재무 운영기. 2026-11-03 접속, 브런치 추천 작품·102편 확인. 최근 게시일은 목록 미노출로 미확인.
+- name: 더나은삶TV
+  type: youtube
+  url: https://www.youtube.com/@thebetterlifetv
+  author: 더나은삶TV(공인회계사, 회계법인·사모펀드 출신)
+  weight: 0.6
+  cadence: 미확인(채널 본문 로딩 제한)
+  why: 재무상태표·손익계산서 읽는 법을 비전공자용으로 강의. 2026-11-03 채널 존재 확인, 구독자·최근 업로드는 페이지 잘림으로 미확인.
+- name: 이상화세무사의 모래세무 (@nicetax)
+  type: youtube
+  url: https://www.youtube.com/@nicetax
+  author: 이상화 세무사
+  followers: 2.65만
+  weight: 0.7
+  cadence: 주 1회
+  why: 시리즈 '숫자로 경영하는 리더'로 법인 대표용 재무제표 읽는 법·흑자도산 막는 현금흐름 90일 솔루션·가지급금 관리를 반복 게시. 2026-11-03 확인(최근 업로드 6일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 오늘부터 회계사 (@오늘부터회계사)
+  type: youtube
+  url: https://www.youtube.com/@오늘부터회계사
+  author: 회계법인 마일스톤 회계사들
+  followers: 12.2만
+  weight: 0.6
+  cadence: 주 1회
+  why: 회계사가 실제 기업(컬리·교보문고·성심당 등)의 손익 구조를 뜯어보고 대표 인터뷰로 엑시트·현금 이야기를 다룸. 회계법인 채널이라 영업 목적 있음. 2026-11-03 확인(최근 업로드 3일 전).
+  influencer: true
+  also:
+  - mindset
+- name: 장사는 김형철 (@장사는김형철)
+  type: youtube
+  url: https://www.youtube.com/@장사는김형철
+  author: 김형철 (육미안 운영)
+  followers: 1.73만
+  weight: 0.7
+  cadence: 월 2~3회
+  why: 본인 매장(육미안) 순수익을 공개하고 식당 코스트 정확히 계산하는 법·불경기 매출 대응을 경영자 눈높이로 설명. 2026-11-03 확인(최근 업로드 3주 전).
+  influencer: true
+  also:
+  - mindset
+- name: 자영업 다이어리 (@startupdiary2)
+  type: youtube
+  url: https://www.youtube.com/@startupdiary2
+  author: 자영업 다이어리 (12년차 자영업자)
+  followers: 12.6만
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 프랜차이즈(메가커피·배스킨라빈스 등) 일매출 기준 월 순이익 계산을 반복하며 자영업 수익 구조를 숫자로 설명. 인터뷰 비중도 큼. 2026-11-03 확인(최근 업로드 1시간 전).
+  influencer: true
+  also:
+  - mindset
+- name: 사군카페인 (@sa_caffeine)
+  type: youtube
+  url: https://www.youtube.com/@sa_caffeine
+  author: 사군카페인 (카페 운영자)
+  followers: 25.6만
+  weight: 0.6
+  cadence: 주 1회
+  why: 카페 5년 운영자로 장사 순이익 계산법·준비 없이 창업하면 적자인 이유·오피스 상권 매출을 본인 수치로 설명. 창업기 브이로그 비중 있음. 2026-11-03 확인(최근 업로드 7일 전).
+  influencer: true
+  also:
+  - mindset
+factory-ax:
+- name: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+  type: official
+  url: https://www.smart-factory.kr/
+  author: 스마트제조혁신추진단(KOSMO)
+  weight: 1.0
+  cadence: 수시(사업 공고·공급기업 Pool 공지)
+  why: 스마트공장 구축·고도화 사업 신청과 공지의 본진. 2026-11-03 접속, 제목 확인. 공지 목록 URL은 로그인 전 화면에서 미노출(알림/참여마당→공지사항 경로).
+- name: 중소벤처기업부 사업공고
+  type: official
+  url: https://www.mss.go.kr/site/smba/ex/bbs/List.do?cbIdx=310
+  author: 중소벤처기업부
+  weight: 1.0
+  cadence: 주 수 회
+  why: '''2027년 스마트 제조혁신 지원사업 통합공고''(2026-10-30) 게시 확인. 2026-11-03 접속.'
+- name: KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례
+  type: official
+  url: https://www.kamp-ai.kr/
+  author: 중소벤처기업부·KAIST 제조AI빅데이터센터
+  weight: 1.0
+  cadence: 수시(우수사례·데이터셋·경진대회)
+  why: 제조AI 적용 우수사례(Best-Practice)·AI솔루션 실증사례 메뉴 보유, 제조 AI 사례집의 실질 발행처. 2026-11-03 접속 확인.
+- name: 한국생산기술연구원 보도자료
+  type: official
+  url: https://www.kitech.re.kr/pages/61
+  author: 한국생산기술연구원
+  weight: 1.0
+  cadence: 주 1~3회
+  why: 중소 제조 기술지원·실증 사업 공고와 성과 발표. 2026-11-03 접속, 11월 2일자 보도자료 확인.
+- name: 산업통상부 보도자료
+  type: official
+  url: https://www.motir.go.kr/kor/article/ATCL3f49a5a8c
+  author: 산업통상부(구 산업통상자원부, 도메인 motir.go.kr로 이전)
+  weight: 1.0
+  cadence: 거의 매일
+  why: 공장 인허가·산업 AI 정책의 1차 출처. 2026-11-03 접속, 당일 보도자료 확인.
+- name: 삼성전자 스마트공장 구축 지원
+  type: blog
+  url: https://www.samsung.com/sec/sustainability/popup/popup_doc/AYStS66aC68AIyC3
+  author: 삼성전자 스마트공장지원센터
+  weight: 0.7
+  cadence: 연 1~2회 갱신
+  why: 2015~2025년 3,625개사 지원 실적과 사례(에스시디디 공정 이동동선 73% 감소 등) 수치 공개. 2026-11-03 접속, 2026-06-26 갱신 확인.
+- name: 마키나락스 뉴스
+  type: blog
+  url: https://makinarocks.ai/news
+  author: 마키나락스(MakinaRocks)
+  weight: 0.6
+  cadence: 주 1~3회
+  why: 제조 이상탐지·공정제어 AI 적용 사례와 업계 기사 큐레이션. 2026-11-03 접속, 10월 21~26일 글 확인. 벤더 콘텐츠라 0.6.
+- name: 인터엑스 AX 인사이트
+  type: blog
+  url: https://www.interxlab.com/bbs/board.php?bo_table=case
+  author: 인터엑스(INTERX)
+  weight: 0.6
+  cadence: 분기 1회 내외
+  why: 시멘트 벽돌·스프링 공정 등 중소 제조 현장 AX 구축 사례를 공정 단위로 기술. 2026-11-03 접속, 2025-04-21 글이 최신이라 빈도 낮음.
+- name: 헬로티
+  type: blog
+  url: https://www.hellot.net/
+  author: ㈜첨단(헬로티 편집부)
+  weight: 0.6
+  cadence: 매일
+  why: 제조 AX 현장 기사('막내 AI' 함정, 산업AI EXPO 성과 등)와 공급기업 동향. 2026-11-03 접속, 11월 2일 갱신 확인.
+- name: 산업일보
+  type: blog
+  url: https://www.kidd.co.kr/
+  author: ㈜다아라
+  weight: 0.5
+  cadence: 매일
+  why: '''K-로봇 확산의 조건'' 등 피지컬 AI·로봇 공장 도입 연재. 2026-11-03 접속, 10월 23일자 기사 확인. 기사 날짜 표기 불명확해 0.5.'
+- name: 기계맨 CNC MCT (@GIGYEMAN)
+  type: youtube
+  url: https://www.youtube.com/@GIGYEMAN
+  author: 기계맨 / @GIGYEMAN
+  followers: 5.94천
+  weight: 0.6
+  cadence: 거의 매일 (10/25·27·28·29, 11/1)
+  why: 현직 가공 실무자. 공구 브랜드 고르는 법, CNC 선반·머시닝센터 차이, 선반 후작업 지그 등 현장 가공 노하우 875편 반복. 팔로워 1만 미만(기준 미달) 2026-11-01 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: Malco JACK — 베스트정공 대표 (@MalcoJack)
+  type: youtube
+  url: https://www.youtube.com/@MalcoJack
+  author: Malco JACK / @MalcoJack
+  followers: 5.23천
+  weight: 0.6
+  cadence: 주 3~4회 (10/13~11/2 사이 15편)
+  why: 부산 사상 CNC선반 공장 운영 대표. 3+2축 포스트·자동 디버링으로 세팅 횟수 줄이기, 절삭유 교체·희석 관리, 마스터캠 도입 결정 등 실제 공장 운영 자동화 노하우 반복. 팔로워 1만 미만(기준 미달) 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 오군아 (@오군아)
+  type: youtube
+  url: https://www.youtube.com/@오군아
+  author: 오군아 / @오군아
+  followers: 5.58천
+  weight: 0.6
+  cadence: 월 수 회, 전시회 시 집중 업로드 (9/5, 11/2 ×5)
+  why: 대전 MCT 가공업 대표. 5축 장비 도입 검토와 선배의 사업 조언, 마스터캠 3D 가공·모의가공 강의, JIMTOF 장비 리뷰 등 중소 가공업 설비 투자 판단 반복. 팔로워 1만 미만(기준 미달) 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 공학자의 자동화 실무 (@kwh-Astartech)
+  type: youtube
+  url: https://www.youtube.com/@kwh-Astartech
+  author: 기계공학자 / @kwh-Astartech
+  followers: 4.75천
+  weight: 0.6
+  cadence: 격주 1회 (8/30, 9/13·27, 10/11·25)
+  why: 대기업 재직자 직무강의 경력의 기계공학자. PLC 35편·전장설계 18편·공압 밸브 원리 등 공장 자동화 실무 e-러닝 연재. 팔로워 1만 미만(기준 미달) 2026-10-25 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: THE ENGINEER (@theengineerfajob)
+  type: youtube
+  url: https://www.youtube.com/@theengineerfajob
+  author: 디엔지니어 / @theengineerfajob
+  followers: 3.31천
+  weight: 0.5
+  cadence: 월 2~4회 (8/7·21·24·28, 9/4), 이후 2개월 공백
+  why: 자동화 분야 전문가 실무 채널. "제조기업은 왜 이 AI에만 돈을 낼까 — 제조 AI의 진짜 가치", 텍스트·이미지로 산업장비 3D 생성 데모 등 제조 AI 적용 관점. 팔로워 1만 미만(기준 미달), 마지막 업로드 2026-09-04 확인
+  influencer: true
+  also:
+  - mindset
+licensing:
+- name: 정부24
+  type: official
+  url: https://www.gov.kr
+  author: 행정안전부
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시
+  why: 영업신고·등록·허가 민원 신청과 구비서류의 공식 창구. 2026-11-03 접속 확인.
+  mode: page
+- name: 법제처 생활법령정보
+  type: official
+  url: https://www.easylaw.go.kr
+  author: 법제처
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시 (법령 개정 시 콘텐츠 갱신)
+  why: 창업·인허가·외국인 고용을 사안별로 풀어 쓴 공식 해설. 2026-11-03 접속 확인.
+  mode: page
+- name: 하이코리아 (출입국·비자)
+  type: official
+  url: https://www.hikorea.go.kr
+  author: 법무부 출입국·외국인정책본부
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시 (공지·비자 요건 개정)
+  why: 체류자격별 요건·서류·수수료, 전자민원의 공식 출처. 2026-11-03 접속 확인.
+  mode: page
+- name: 고용허가제 EPS
+  type: official
+  url: https://www.eps.go.kr
+  author: 고용노동부·한국산업인력공단
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시 (신규 고용허가 접수 회차 공지)
+  why: E-9 고용허가 신청·접수 일정·사업주 교육의 공식 출처. 2026-11-03 접속 확인.
+  mode: page
+- name: 중소벤처24
+  type: official
+  url: https://portal.smes.go.kr/home
+  author: 중소벤처기업부
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시 (지원사업 공고·확인서 발급)
+  why: 중소기업·소상공인 확인서, 보조금·지원사업 공고와 사후관리 안내의 공식 창구. 2026-11-03 접속 확인(smes.go.kr → portal.smes.go.kr 리다이렉트).
+  mode: page
+- name: 국민신문고
+  type: official
+  url: https://www.epeople.go.kr
+  author: 국민권익위원회
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시
+  why: 민원·고충 신청과 제도개선 사례의 공식 창구. 2026-11-03 접속 확인.
+- name: 심유중행정사의 해썹인허가
+  type: youtube
+  url: https://www.youtube.com/channel/UCKaUzhKUPAk_vG4UPhgjTng
+  author: 심유중 (행정사, 민세움행정사그룹 대표 행정사)
+  license: 채널 설명에 "현직 행정사가 직접 운영"·대표 행정사 직통 기재. 대한행정사회 행정사검색(https://daaa.or.kr/vtSub07/index01.html) 자동 조회 실패 → 수동 확인 필요 / 2026-11-03 대한행정사회 검색 0건(정회원만 검색됨) → 미확인 유지
+  license_unverified: true
+  weight: 0.5
+  cadence: 주 2~3회 (최근 4일·5일·6일·10일 전)
+  why: 식품제조·축산물가공 영업등록, HACCP 시설기준, 제조업 업종별 인허가를 행정사가 직접 설명. 구독자 4.54천. 2026-11-03 확인.
+- name: 정다운 행정사 사무소 (행정아카데미)
+  type: youtube
+  url: https://www.youtube.com/@movieholiday8690
+  author: 정다운 행정사 사무소 (대표 행정사 성명 미확인, 화성시 토지·공장 인허가 공무 25년 경력 서성진 행정사와 연합)
+  license: 채널 설명에 사무소명·행정사 연합만 기재, 운영자 성명 미확인. 대한행정사회 행정사검색 수동 확인 필요
+  license_unverified: true
+  weight: 0.5
+  cadence: 월 1회 내외 (최근 3주·3개월·5개월 전)
+  why: 농지·토지·공장 인허가, HACCP, 출입국 비자를 다루는 행정사 채널 중 구독자 최다(2.16만). 2026-11-03 확인.
+- name: 하상인 행정사 사무소
+  type: blog
+  url: https://lawdocs.tistory.com
+  author: 하상인 (행정사)
+  license: '대한행정사회 행정사검색 2026-11-03 조회 1건: 하상인행정사사무소(서울 구로구 개봉로 127) — Aside 브라우저 확인'
+  weight: 0.8
+  cadence: 월 8~10건 (2026-10월 8건, 최신 2026-11-02)
+  why: 비자(D-10·E-2 등) 신청 절차, 출입국 단속 판례, 행정심판 쟁송요건을 판례 번호와 함께 정리. 총 727편. 2026-11-03 확인.
+- name: 비자정보코리아 (VisaInfo-Korea)
+  type: blog
+  url: https://visainfo-korea.com
+  author: 강장원 (행정사, 행정사합동사무소 더나은 소속, 출입국·비자 전문)
+  license: 블로그 소개 페이지에 행정사 자격번호 16101012137 자체 공개. 대한행정사회 행정사검색 수동 대조 필요 / 2026-11-03 대한행정사회 검색 0건(정회원만 검색됨) → 미확인 유지
+  license_unverified: true
+  weight: 0.5
+  cadence: 주 1~3회 (소개 페이지 명시)
+  why: 비자 신청·변경·연장, 체류 관리, 국적·귀화를 행정사가 절차 중심으로 정리. 2026-11-03 확인.
+- name: 이박사의 민원행정 연구소
+  type: youtube
+  url: https://www.youtube.com/@이박사의민원행정
+  author: 행정사사무소 한양 (인천 본부·강남 지사, 대표 행정사 성명 미확인)
+  license: 채널·사이트(www.1hanyang.co.kr)에 사무소명만 기재, 운영자 성명 미확인. 대한행정사회 행정사검색 수동 확인 필요
+  license_unverified: true
+  weight: 0.5
+  cadence: 월 1~2회 (최근 2주·2주·3개월 전)
+  why: 비영리법인·공익법인 지정, 사회적기업 인증, 공장등록, 조달청 등록 등 사업자 인허가·민원을 행정사 사무소가 직접 설명. 구독자 977. 2026-11-03 확인.
+- name: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+  type: youtube
+  url: https://www.youtube.com/@VISAinKOREA1
+  author: 장만익 (행정사, 장행닷컴행정사사무소)
+  license: 대한행정사회 행정사 검색 '장만익' → 장행닷컴행정사사무소(서울 강서구 마곡중앙2로 5 메트로비즈타워 1009호, 02-523-3075) 등재, 채널 전화번호와 일치. 2026-11-03 확인
+  followers: 구독자 1.34만명
+  weight: 0.8
+  cadence: 주 2~3편 (최신 15시간 전 'E-7-4 연장', 3일 전 'E-7-4→D-10', 7일 전, 2주 전 2편)
+  why: 외국인 고용 비자(E-7-4, D-10, F-2-99, 유학생 비자 정책) 변경을 법무부 발표 직후 해설. 외국인 근로자 채용하는 소규모 사업자에게 직접 쓰이는 정보. 한·영 혼용. 2026-11-03 확인
+  influencer: true
+- name: 행정사박성현 [당신의 행정전문가] (@박성현행정사)
+  type: youtube
+  url: https://www.youtube.com/@박성현행정사
+  author: 박성현 (행정사, 행정사합동사무소 해답 대표)
+  license: 대한행정사회 행정사 검색 '박성현' → 0건(정회원만 검색되므로 비회원 가능성). 채널 소개 '행정사인허가협회 홍보이사'. 2026-11-03 확인
+  license_unverified: true
+  followers: 구독자 5.68천명
+  weight: 0.5
+  cadence: 주 1편 (최신 5일 전 '항만용역업 등록기준', 12일 전 '근로자파견업 허가', 2주 전 '기업부설연구소', 3주 전 2편)
+  why: 업종별 인허가 등록요건(자본금·사무실·인력)을 한 편에 하나씩 총정리. 여행업·파견업·민간자격·투자자문업 등 창업 단계 인허가 질문에 바로 맞음. 2026-11-03 확인
+  influencer: true
+- name: 대전 행정사 정택우 (행정사법인 온빛) (@onvit.administrative)
+  type: threads
+  url: https://www.threads.com/@onvit.administrative
+  author: 정택우 (행정사, 행정사법인 온빛 대전지소)
+  license: 대한행정사회 행정사 검색 '정택우' → 온빛 대전지소 행정사사무소(대전 중구 계룡로 923 하우스토리1차 215호, 042-223-7466) 등재, 프로필 '행정사법인온빛'과 일치. 2026-11-03 확인
+  followers: '257'
+  weight: 0.8
+  cadence: 월 3~5건 (2026-10-06, 10-03, 10-02)
+  why: 종합여행업 등록 요건·사업계획서, 전기공사업 등 공사업 면허 등록, 사회적기업·가족친화 인증 등 지역 소기업 인허가 사례를 올림. 홍보 비중이 높아 사실 확인 필요. 2026-11-03 확인
+  influencer: true
+- name: 행정사 박승빈 | 영업정지 행정처분 구제 (@seungbin_park_the_apa)
+  type: threads
+  url: https://www.threads.com/@seungbin_park_the_apa
+  author: 박승빈 (행정사, 행정사사무소 율현)
+  license: 대한행정사회 행정사 검색 '박승빈' → 0건(정회원만 검색됨). 프로필 '행정사사무소 율현 since 2017'. 2026-11-03 확인
+  license_unverified: true
+  followers: '515'
+  weight: 0.5
+  cadence: 월 2~4건 (2026-09-17, 09-14, 09-13), 일상 글 혼재
+  why: 주점·편의점·노래방·숙박업 영업정지(청소년 주류 판매 등) 감경·면제 사례를 경찰조사 단계 대응부터 설명. 자영업자 행정처분 구제라는 빈 주제를 채움. 2026-11-03 확인
+  influencer: true
+- name: 유모티 행정사 (@yumotii)
+  type: threads
+  url: https://www.threads.com/@yumotii
+  author: 유재호 (행정사, 기업·법인 인허가·신고·인증)
+  license: 대한행정사회 행정사 검색 '유재호' → 0건(정회원만 검색됨). 프로필 'Certified Korea Visa Agent'(출입국민원 대행기관) 기재. 2026-11-03 확인
+  license_unverified: true
+  followers: '121'
+  weight: 0.5
+  cadence: 거의 매일 (2026-10-22 2건, 10-21)
+  why: 개인사업자 vs 법인 핵심 차이, 몰라서 놓친 지원금과 서류 하나로 막힌 인허가, 스타트업 정부지원사업·규제샌드박스 등 대표님 대상 행정 노하우. 리더십 글 혼재. 2026-11-03 확인
+  influencer: true
+- name: 김월수 행정사 (@kimweolsoo)
+  type: youtube
+  url: https://www.youtube.com/@kimweolsoo
+  author: 김월수 (행정사, 김월수 행정사 사무소, 출입국 20년 경력)
+  license: 대한행정사회 행정사 검색 '김월수' → 0건(정회원만 검색됨). 채널에 사무소 주소(서울 영등포구 도림로 159 대창신협 3층 304호) 공개. 2026-11-03 확인
+  license_unverified: true
+  followers: 구독자 2.08만명
+  weight: 0.5
+  cadence: 월 1~2편, 최근 둔화 (최신 2개월 전 '거소증 F-4' 2편, 8개월 전 4편)
+  why: 동포 체류자격 H-2·F-4 통합, 거소증 발급 등 동포 근로자를 고용하는 사업장에 필요한 비자 변경을 쉽게 설명. 외국인 고용 외 주제(국적·결혼)는 필터링 필요. 2026-11-03 확인
+  influencer: true
+business-plan:
+- name: K-Startup 사업공고(모집중)
+  type: official
+  url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do
+  author: 창업진흥원·중소벤처기업부
+  weight: 1.0
+  cadence: 매일
+  why: 예비·초기창업패키지 등 모든 창업지원 공고의 1차 목록. 2026-11-03 접속, 11월 2일 등록 공고 3건 확인.
+- name: 기업마당 지원사업 공고
+  type: official
+  url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200View.do
+  author: 중소벤처기업부·중소기업연구원(기업마당)
+  weight: 1.0
+  cadence: 매일(지자체 공고 포함)
+  why: 바우처·지자체 지원사업까지 포괄. 2026-11-03 접속, 11월 2일 공고 확인. RSS는 https://www.bizinfo.go.kr/uss/rss/bizinfoApi.do 이며 인증키 필요(정책정보 개방 /apiList.do 에서 발급).
+- name: 창업진흥원 사업공고
+  type: official
+  url: https://www.kised.or.kr/menu.es?mid=a10302000000
+  author: 창업진흥원
+  weight: 1.0
+  cadence: 월 수 회
+  why: 창진원 직접 공고(주관기관 모집·멤버십 등). 2026-11-03 접속, 2026-08-04 공고 확인. 공지사항은 /menu.es?mid=a10301000000.
+- name: 벤처스퀘어 지원사업 아카이브
+  type: blog
+  url: https://www.venturesquare.net/announcement
+  author: 벤처스퀘어
+  weight: 0.6
+  cadence: 매일
+  why: "기관·지자체 공고를 원문 그대로 다시 올려 K-Startup 누락분 보완. 2026-11-03 접속, 11월 2일자 3건 확인."
+- name: 스타트업레시피 뉴스레터
+  type: newsletter
+  url: https://startuprecipe.co.kr/
+  author: 주식회사 미디어레시피(이석원)
+  weight: 0.6
+  cadence: 매일(DailyRecipe)
+  why: 투자·정부사업 소식을 일간 AI서머리로 발송. 2026-11-03 접속, 당일 글 3건과 구독 양식 확인.
+- name: 더브이씨 지원사업(grants)
+  type: blog
+  url: https://thevc.kr/grants
+  author: 더브이씨(THE VC)
+  weight: 0.7
+  cadence: 매일
+  why: 공고 원문 PDF를 함께 보관해 연도별 비교에 유용(검색 결과에서 2026 통합공고 PDF 다수 확인). 2026-11-03 두 차례 접속 모두 HTTP 500.
+  unverified: true
+- name: 넥스트유니콘 인사이트(메이크덱)
+  type: blog
+  url: https://www.nextunicorn.kr/insight
+  author: 주식회사 넥스트유니콘(장재용)
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 2026 예창패 자격·단계별 탈락 기준(60→70점) 변화 등 공고 해석 글을 꾸준히 발행. 2026-11-03 메인 접속·인사이트 메뉴 확인, 개별 글은 403으로 본문 미확인. 컨설팅 판매 연계라 0.6.
+- name: 스프링워터 파트너스 예창패 가이드
+  type: blog
+  url: https://www.swp.io.kr/guide/yebi-changup-package.html
+  author: 스프링워터 파트너스(액셀러레이터)
+  weight: 0.5
+  cadence: 수시 갱신(최종 2026-11-02)
+  why: 예창패 2027 지원금·자격·일정을 한 페이지로 유지보수. 2026-11-03 접속 확인. '서류 합격률 100%' 등 자사 홍보 수치라 0.5.
+- name: 하이아웃풋클럽 블로그
+  type: blog
+  url: https://blog.highoutputclub.com/
+  author: 하이아웃풋클럽
+  weight: 0.5
+  cadence: 주 1회 내외
+  why: PSST 작성 팁·정부지원사업 공고 정리 글. 2026-11-03 접속, 2026-09-26 글 확인. 유료 강의 연계라 0.5.
+- name: 이오플래닛 매거진
+  type: blog
+  url: https://eopla.net/magazines
+  author: ㈜이오스튜디오(EO STUDIO)
+  weight: 0.5
+  cadence: 매일(사용자 기고)
+  why: 합격자·심사 경험 기고가 올라오는 창업 커뮤니티. 2026-11-03 접속, 당일 글 확인. 기고자 검증 없어 0.5.
+  link_pattern: /magazines/|/posts/|/articles/
+- name: 엠마쌤 (@emmassam)
+  type: youtube
+  url: https://www.youtube.com/@emmassam
+  author: 엠마쌤 (하우그로우)
+  followers: 5.39만
+  weight: 0.7
+  cadence: 주 2~3회
+  why: 정부지원사업 심사위원 관점의 불합격 사업계획서 유형·발표평가 팁·딥테크 예창패 합격 노하우(4번 탈락 경험)를 반복 게시. 최근엔 대표 고민상담 콘텐츠도 섞임. 2026-11-03 확인(최근 업로드 17시간 전).
+  influencer: true
+  also:
+  - mindset
+- name: 창업주일. 창업주가 하는 일 (@창업주일)
+  type: youtube
+  url: https://www.youtube.com/@창업주일
+  author: 창업주일
+  followers: 1.23만
+  weight: 0.7
+  cadence: 월 1~2회
+  why: 초창패 PSST 프레임워크·디딤돌 도약형 2억 과제 사업계획서·모두의창업 2기 선정전략 등 공고별 합격 전략을 게시. 2026-11-03 확인(최근 업로드 1개월 전).
+  influencer: true
+  also:
+  - mindset
+- name: 민썸 MinSsum, 스타트업 크리에이터 (@MinSsum)
+  type: youtube
+  url: https://www.youtube.com/@MinSsum
+  author: 민썸
+  followers: 1.27만
+  weight: 0.6
+  cadence: 분기 1~2회(최근 뜸함)
+  why: 예창패·청년창업사관학교 사업계획서를 실제 서비스(2억 제안받은 서비스)로 함께 쓰는 형식, 발표자료 준비 과정 공개. 2026-11-03 확인(최근 업로드 7개월 전).
+  influencer: true
+  also:
+  - mindset
+- name: 퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)
+  type: instagram
+  url: https://www.instagram.com/qtum.be/
+  author: 퀀텀비 / @qtum.be
+  followers: 2.2만
+  weight: 0.6
+  cadence: 주 1~2회
+  why: 전략기획 컨설턴트 출신으로 IR·사업계획서 500건 이상 경험 기반 정부지원금·정책자금 신청 노하우를 카드뉴스로 게시. 컨설팅 모집 성격 있음. 2026-11-03 확인(최근 게시 2026-11-03).
+  influencer: true
+  also:
+  - mindset
+- name: 똑생똑사 김대표 | 제조업CEO (@ddoksang_kms)
+  type: instagram
+  url: https://www.instagram.com/ddoksang_kms/
+  author: 김대표 / @ddoksang_kms
+  followers: 1.6만
+  weight: 0.7
+  cadence: 월 1~2회(최근 뜸함)
+  why: 제조업 대표가 직접 받은 정부지원사업(지원금·수상) 신청 과정과 배운 점을 "직접 해본 것만" 공유. 2026-11-03 확인(최근 게시 2026-06-20).
+  influencer: true
+  also:
+  - mindset
+- name: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+  type: youtube
+  url: https://www.youtube.com/@정석Biz
+  author: 이동건
+  followers: 3.34천 (1만 미만, 범위 밖이지만 심사위원 실무자라 참고용 수록)
+  weight: 0.7
+  cadence: 주 1~2회
+  why: 모두의창업 지역 오디션 심사위원이자 사업계획서 멘토로 예창패·초창패·청창사 실제 사례를 PSST 항목별로 분석하고 발표자료 구성을 설명. 2026-11-03 확인(최근 업로드 5일 전).
+  influencer: true
+  also:
+  - mindset
+ai-tools:
+- name: Claude Code 공식 문서
+  type: official
+  url: https://code.claude.com/docs/en/overview
+  author: Anthropic
+  weight: 1.0
+  cadence: 상시 갱신
+  why: 설치·CLAUDE.md·스킬·훅·MCP·예약 작업 등 기능의 1차 출처. 2026-11-03 접속 확인. 한국어 플랫폼 문서는 https://platform.claude.com/docs/ko/intro (같은 날 확인).
+- name: Claude Code 릴리스 노트 (CHANGELOG)
+  type: official
+  url: https://github.com/anthropics/claude-code/blob/main/CHANGELOG.md
+  author: Anthropic
+  weight: 1.0
+  cadence: 주 1~3회(버전 릴리스마다)
+  why: 버전별 변경 사항 원문. 2026-11-03 raw 파일 응답 확인. 추적은 raw URL(https://github.com/anthropics/claude-code/raw/refs/heads/main/CHANGELOG.md) 권장.
+- name: Anthropic Engineering 블로그
+  type: official
+  url: https://www.anthropic.com/engineering
+  author: Anthropic
+  weight: 1.0
+  cadence: 월 1~2회
+  why: Claude Code 설계·품질 보고·에이전트 운영 글. 최근 글 2026-10-13, 2026-11-03 확인. 뉴스룸은 https://www.anthropic.com/news.
+- name: 조코딩 JoCoding
+  type: youtube
+  url: https://www.youtube.com/@jocoding
+  author: 조코딩
+  weight: 0.7
+  cadence: 주 1~2회
+  why: 바이브 코딩·AI 도구 실습을 가장 넓게 다루는 국내 채널, 구독자 75.2만(2026-11-03). 비개발자 대상 설명 강점.
+- name: 테디노트 TeddyNote
+  type: youtube
+  url: https://www.youtube.com/@teddynote
+  author: 이경록
+  weight: 0.7
+  cadence: 주 1회
+  why: LLM·에이전트 실무 튜토리얼과 오픈소스 코드 공개, 구독자 5.25만(2026-11-03). 규모보다 검증 가능한 코드가 강점.
+- name: 일잘러 장피엠
+  type: youtube
+  url: https://www.youtube.com/@jangpm
+  author: 장피엠
+  weight: 0.7
+  cadence: 주 1회
+  why: 비개발 직군의 AI 업무 자동화(문서·시트·노코드) 실무 채널, 구독자 13.8만(2026-11-03).
+- name: 노마드 코더 Nomad Coders
+  type: youtube
+  url: https://www.youtube.com/@nomadcoders
+  author: 니꼴라스
+  weight: 0.6
+  cadence: 주 1~2회
+  why: Claude Code·신규 AI 코딩 도구 리뷰를 빠르게 올림, 구독자 49.5만(2026-11-03). 도구 소개 중심이라 실적 근거는 약함.
+- name: 지피터스 GPTers
+  type: blog
+  url: https://www.gpters.org/
+  author: 지피터스
+  weight: 0.7
+  cadence: 매일(스터디 사례 글)
+  why: AI 업무 자동화 스터디 커뮤니티(24기까지 운영). 회원이 실제 자동화 결과물과 과정을 사례로 공개. 2026-11-03 접속 확인.
+- name: 요즘IT
+  type: blog
+  url: https://yozm.wishket.com/magazine/
+  author: 위시켓
+  weight: 0.6
+  cadence: 매일
+  why: '"클로드 코드 토큰 한도 아끼는 방법", "비개발자를 위한 클로드 코드" 등 실무 기고 다수. 2026-11-03 확인(11월 2주 인기 목록).'
+  link_pattern: /magazine/detail/
+- name: GeekNews
+  type: blog
+  url: https://news.hada.io/
+  author: GeekNews(xguru)
+  weight: 0.6
+  cadence: 매일
+  why: Claude Code·AI 에이전트 릴리스와 해외 글을 한국어로 큐레이션. 2026-11-03 확인(1시간 전 글). 1차 출처가 아니므로 원문 링크 확인 필요.
+- name: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+  type: threads
+  url: https://www.threads.com/@yun_ja_dong
+  author: 윤자동 / @yun_ja_dong
+  followers: 2.5만
+  weight: 0.8
+  cadence: 매일 수 회 (스레드 체인형), 매주 목요일 20시 유튜브 라이브
+  why: 자동화 18년차. "앱보다 구글시트 표부터", 클로드코드로 폰 제어·영상 생성 자동화 등 소상공인·왕초보 눈높이 반복 업무 자동화 노하우. 2026-11-02 게시 확인
+  influencer: true
+  also:
+  - mindset
+- name: 짐코딩 (@gymcoding)
+  type: youtube
+  url: https://www.youtube.com/@gymcoding
+  author: 짐코딩 / @gymcoding
+  followers: 5.49만
+  weight: 0.7
+  cadence: 주 2~3회 (10/20·22·26·27, 11/2)
+  why: 클로드 코드 입문·CLAUDE.md 메모리 전략·스킬로 카드뉴스 자동 생성·플러그인 토큰 절약 등 Claude Code 실무 설정 노하우를 반복. 개발자 출신이라 비개발자에겐 중급. 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 코드깎는노인
+  type: youtube
+  url: https://www.youtube.com/channel/UCRpOIr-NJpK9S483ge20Pgw
+  author: 코드깎는노인 / threads @cokac_com(4.4천)
+  followers: 5.69만
+  weight: 0.7
+  cadence: 주 2~3회 (10/26·28·29·29·31)
+  why: '"클로드코드 50분 마스터", "코덱스 1시간 마스터", 바이브코더 필수 용어 등 완전 초보자용 바이브 코딩 강의 반복. 2026-10-31 업로드 확인'
+  influencer: true
+  also:
+  - mindset
+- name: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+  type: youtube
+  url: https://www.youtube.com/@VibecodingUniversity
+  author: 양실장 / @VibecodingUniversity
+  followers: 4.66만
+  weight: 0.7
+  cadence: 주 2~4회 (10/29·31, 11/2 ×3)
+  why: AX 컨설턴트. 바이브코딩으로 2개월 1억 매출 수강생 사례, 도메인 전문성 기반 AX 해커톤, 사업자 대상 "AI로 돈 버는 법" 강의 반복. 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  type: youtube
+  url: https://www.youtube.com/@Vibe_RaiN
+  author: 레인 / @Vibe_RaiN
+  followers: 1.23만
+  weight: 0.7
+  cadence: 거의 매일 (10/30·31, 11/1 ×2, 11/2)
+  why: 비개발자 6년차 대기업 엔지니어. Claude Code 왕초보 60분 풀가이드, 클로드로 직장인 워크플로우 개조(DB~배포), 회의자료·이미지 정리 자동화 등 비개발자 실무 적용 반복. 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 직장인 AI 업무 자동화 | 라핀
+  type: youtube
+  url: https://www.youtube.com/@라핀_AI_자동화
+  author: 라핀 / @라핀_AI_자동화
+  followers: 2.06만
+  weight: 0.7
+  cadence: 주 1~2회 (10/12·16·22·26)
+  why: 코딩 없이 클로드로 보고서·PPT·엑셀 취합 프로그램 만들기, 컨텍스트·스킬·에이전트 개념을 직장인 눈높이로 반복. 2026-10-26 업로드 확인
+  influencer: true
+  also:
+  - mindset
+- name: 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)
+  type: youtube
+  url: https://www.youtube.com/@ProfHanBuhm
+  author: 한범 / @ProfHanBuhm
+  followers: 1.22만
+  weight: 0.6
+  cadence: 묶음 업로드 (9/26 5편 동시, 월 1회꼴)
+  why: '"왕초보 클로드코드" 17강 연재 — 바탕화면·다운로드 폴더 청소, CLAUDE.md 그대로 설치, 파일 학습 끄기 등 코딩 전무자용 생활 밀착 예제. 마지막 업로드 2026-09-26 확인'
+  influencer: true
+  also:
+  - mindset
+- name: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+  type: youtube
+  url: https://www.youtube.com/@ai.sam_hottman
+  author: 샘 호트만 / @ai.sam_hottman
+  followers: 1.41만
+  weight: 0.6
+  cadence: 주 2회 (10/24·24·28·31, 11/2)
+  why: 크리에이터·사업자 대상 n8n 8시간 마스터클래스, 왕초보용 클로드 코드 데스크탑 새 기능 정리, 무료 Claude Code 스킬 11개 등 성과형 자동화 강의 반복. 2026-11-02 업로드 확인
+  influencer: true
+  also:
+  - mindset
+hr-labor:
+- name: 고용노동부 보도자료
+  type: official
+  url: https://www.moel.go.kr/news/enews/report/enewsList.do
+  author: 고용노동부 (정부부처)
+  license: 정부부처 공식 누리집
+  weight: 1.0
+  cadence: 평일 약 2건 (총 16,152건)
+  why: 2026-11-03 확인, 당일 게시물 4건('장시간 노동 기획감독' 등). 근로시간·임금·해고 정책 변화의 1차 출처.
+- name: 고용노동부 행정해석(질의회시)
+  type: official
+  url: https://moel.go.kr/info/publicdata/qnrinfo/qnrInfoList.do
+  author: 고용노동부 (정부부처)
+  license: 정부부처 공식 누리집
+  weight: 1.0
+  cadence: 비정기 (총 98건, 최신 2022-08-03) — 신규 해석은 노무법인 뉴스레터(명률)로 보완
+  why: 2026-11-03 확인. 연차·수당·퇴직금 등 실무 해석의 공식 근거. 갱신이 느려 보조 추적용.
+- name: 근로복지공단 보도자료·공지
+  type: official
+  url: https://www.comwel.or.kr/comwel/noti/pres.jsp
+  author: 근로복지공단 (고용노동부 산하)
+  license: 공공기관 공식 누리집 (공지사항 https://www.comwel.or.kr/comwel/noti/noti.jsp)
+  weight: 1.0
+  cadence: 주 1~3건 (보도자료 최신 2026-10-28, 공지 2026-10-30)
+  why: 2026-11-03 확인. 고용·산재보험 신고, 퇴직연금(푸른씨앗), 두루누리 지원 변경의 공식 출처.
+- name: 4대사회보험 정보연계센터 기관별 공지사항
+  type: official
+  url: https://www.4insure.or.kr/pbiz/ntcn/selectInstNtcMttrList.do
+  author: 4대사회보험 정보연계센터 (국민연금공단 운영)
+  license: 공공기관 공식 누리집
+  weight: 1.0
+  cadence: 월 2~4건 (최신 2026-10-29, 총 102건)
+  why: 2026-11-03 확인. 4대보험 취득·상실 신고 시스템 변경, 두루누리 안내 등 사업장 신고 실무 공지.
+- name: 최저임금위원회 보도자료
+  type: official
+  url: https://www.minimumwage.go.kr/customer/news/list.do
+  author: 최저임금위원회 (고용노동부 소속)
+  license: 정부기관 공식 누리집 (고시·공지 https://www.minimumwage.go.kr/customer/notice/list.do)
+  weight: 1.0
+  cadence: 매년 4~8월 심의기 집중 (최신 보도 2026-07-15 '2027년 최저임금안 10,700원', 공지 2026-10-16)
+  why: 2026-11-03 확인. 최저임금 결정·고시의 1차 출처. 7~8월 집중 추적.
+- name: 왕노무사TV [노동법알려Dream]
+  type: youtube
+  url: https://www.youtube.com/@왕노무사TV
+  author: 김왕영 (공인노무사, 노무법인 우린 대표)
+  license: 한국공인노무사회 검색 '김왕영' → 노무법인 우린(경기 고양) 등재. 법인 프로필 https://www.woorinhr.com/people/gimwangyeong
+  weight: 0.8
+  cadence: 월 2~4편 (최신 2026-09-16 '부당해고 보상', 2026-09-10 '포괄임금 추가수당')
+  why: 2026-11-03 확인, 구독자 6.09만. 해고·권고사직·퇴직금·포괄임금 실무 사례 중심. 근로자 관점이 많아 사업주 리스크 역추적용.
+- name: 비법수다 (전효진 노무사)
+  type: youtube
+  url: https://www.youtube.com/@secretsuda
+  author: 전효진 (공인노무사, 제대로 노무사사무소)
+  license: 한국공인노무사회 검색 '전효진' → 제대로 노무사사무소(부산 기장군) 등재
+  weight: 0.8
+  cadence: 주 1~3편 (최신 2026-10-24 '수습기간 해고·시용 차이', 2026-10-20, 2026-10-19)
+  why: 2026-11-03 확인, 구독자 2.3천. 채널 소개가 '사장님을 위한 인사 비법' — 소규모 사업주 타겟이 명확.
+- name: 노무법인 명률 뉴스레터
+  type: newsletter
+  url: https://mrnosa.stibee.com/
+  author: 노무법인 명률 소속 공인노무사 (강대기·김상헌·김채연·박종필 등)
+  license: 한국공인노무사회 검색 사무소명 '명률' → 노무법인 명률(서울 영등포구 여의도동 백상빌딩 714호, 노무사 6명) 등재. 뉴스레터 발행 주소 동일.
+  weight: 0.8
+  cadence: 주간(월요일) — 최신 '11월 1주차' 2026-11-02
+  why: '2026-11-03 확인. 매주 노동뉴스·대법 판례·고용노동부 행정해석(예: 임금근로시간정책과-1018, 2025.4.9.)·정책을 한 호에 정리. 고용노동부 질의회시 갱신 공백을 메움.'
+- name: 윤보름노무사 (Threads)
+  type: threads
+  url: https://www.threads.com/@full_nomusa
+  author: 윤보름 (공인노무사, 태건인사노무컨설팅)
+  license: 한국공인노무사회 검색 '윤보름' → 태건인사노무컨설팅(경기 안양시 동안구) 등재
+  weight: 0.8
+  cadence: 주 1~2건 (최신 2026-10-20, 10-15, 10-13, 10-10)
+  why: '2026-11-03 확인, 팔로워 1,176. ''알바 당일 퇴사 시 임금'' 등 #소상공인 #인사노무 해시태그로 대표님 질문에 직접 답하는 형식.'
+- name: 박실로 노무사 블로그
+  type: blog
+  url: https://silronomu.com/
+  author: 박실로 (공인노무사, 한동노무법인 광주지사 대표)
+  license: 한국공인노무사회 검색 '박실로' → 한동노무법인 광주지사(광주 북구) 등재
+  weight: 0.8
+  cadence: 월 1~3건 (글 URL 기준 최신 2026-05, 2026-04, 2026-01). 하위 블로그 blog.silronomu.com 병행
+  why: 2026-11-03 확인. '2026 OT 가이드', 건설·병원 등 업종별 노무 가이드를 길게 정리하는 지역 노무사. 갱신 느리면 교체 후보.
+- name: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+  type: youtube
+  url: https://www.youtube.com/@사업주직원관리방법
+  author: 한은경 (공인노무사, 노무법인 대정)
+  license: 한국공인노무사회 공인노무사 찾기 '한은경' → 노무법인 대정(서울 금천구 디지털로10길 37 가산아스크타워 347호) 등재, 채널 소개 '노무법인 대정 한은경 노무사'와 일치. 2026-11-03 확인
+  followers: 구독자 867명
+  weight: 0.8
+  cadence: 주 1편 내외 (최신 3일 전 '알바비 급여 기준 11가지', 11일 전, 13일 전, 2주 전)
+  why: 채널 소개가 '직원관리가 어려운 대표님을 위한 채널'. 가짜 3.3% 프리랜서, 직원 1명 실제 인건비, 5인 이상 연차·가산수당, 임금체불 출석요구서 대응 등 사업주 리스크만 반복. 2026-11-03 확인
+  influencer: true
+- name: 노무닥터 김기민 노무사 (@nomudoctor)
+  type: youtube
+  url: https://www.youtube.com/@nomudoctor
+  author: 김기민 (공인노무사, 노무법인 유어스 대표)
+  license: 한국공인노무사회 공인노무사 찾기 '김기민' → 노무법인 유어스(서울 강남구 논현로75길 21 정원빌딩 4층) 등재, 채널 소개 '노무법인 유어스 대표'와 일치. 2026-11-03 확인
+  followers: 구독자 441명
+  weight: 0.8
+  cadence: 주 1편 (매주 금요일 11시 공지, 최신 4일 전·6일 전·11일 전·2주 전)
+  why: '"사장님 편에서 노무분쟁 해법"을 내건 채널. 채용취소, 권고사직 사직서, 산재 공상처리, 2026-10-08 시행 임금체불 처벌 강화 등 사업주 대응을 3단계로 정리. 초보 사장님 노무 강의 풀영상도 있음. 2026-11-03 확인'
+  influencer: true
+- name: 달리는 노무사 (@runnomu)
+  type: youtube
+  url: https://www.youtube.com/@runnomu
+  author: 이윤정 (공인노무사, 노무법인 런 인사컨설팅 서울본사 대표노무사)
+  license: 한국공인노무사회 공인노무사 찾기 '이윤정' → 3건 중 '노무법인 런 인사컨설팅 서울본사'(서울 성동구 성수일로12가길 12-14 102호) 등재, 채널 소개와 사무소명 일치. 2026-11-03 확인
+  followers: 구독자 1.33천명
+  weight: 0.8
+  cadence: 월 3~5편 (최신 1개월 전 3편, 2개월 전 4편)
+  why: 근로감독 전 셀프 점검, 근로자성 판단 12가지, 근로계약서 한 줄 실수, '내일부터 나오지 마세요' 해고 리스크, 2026 포괄임금제 변화 등 대표·인사담당자 대상 주제. 2026-11-03 확인
+  influencer: true
+- name: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+  type: threads
+  url: https://www.threads.com/@angela_cpla
+  author: 박혜리 (공인노무사, 노무법인 시너지 대표)
+  license: 한국공인노무사회 공인노무사 찾기 '박혜리' → 노무법인 시너지(서울 강남구 테헤란로 151 역삼하이츠빌딩 901호) 등재, 프로필 '노무법인 시너지 대표 공인노무사'와 일치. 2026-11-03 확인
+  followers: 6,951
+  weight: 0.8
+  cadence: 거의 매일 (2026-10-24, 10-23, 10-22 연속 게시)
+  why: 직원 실수 손해를 월급에서 공제 금지(근기법 43조), 실업급여 신청 기한, 체불임금 진정 변제 사례 등 '노무사 소신발언' 포맷으로 중소기업 대표 질문에 답함. 2026-11-03 확인
+  influencer: true
+- name: 다정한 노무사 이채경 (@chaenomu)
+  type: threads
+  url: https://www.threads.com/@chaenomu
+  author: 이채경 (공인노무사, 채우리노동법률사무소 대표노무사)
+  license: 한국공인노무사회 공인노무사 찾기 '이채경' → 회원 1건 등재되나 사무소명·소재지 '-'로 비공개. 프로필의 '채우리노동법률사무소'와 대조 불가. 2026-11-03 확인
+  license_unverified: true
+  followers: 3,784
+  weight: 0.5
+  cadence: 거의 매일 (2026-10-16, 10-15, 10-14 연속 게시)
+  why: 3.3% 공제해도 프리랜서 아님, 연차 사용촉진 했는데도 수당 줘야 하는 경우, 수습 3.3% 후 정직원 전환 안내의 오류 등 소규모 사업장 실무 오해를 바로잡는 글. 사무소 확인되면 0.8로 상향. 2026-11-03 확인
+  influencer: true
+- name: 이인재 노무사 | 해고·산재 상담 (@lee.injae_nomusa)
+  type: threads
+  url: https://www.threads.com/@lee.injae_nomusa
+  author: 이인재 (공인노무사, 노무법인 시너지)
+  license: 한국공인노무사회 공인노무사 찾기 '이인재' → 0건(소속 노무사는 미등재 가능). 프로필 '노무법인 시너지'는 박혜리 노무사 등재 사무소와 동일하나 본인 등재는 미확인. 2026-11-03 확인
+  license_unverified: true
+  followers: 3,526
+  weight: 0.5
+  cadence: 거의 매일 (2026-10-18 2건, 10-17)
+  why: 학원 강사 근로계약서, 사내근로복지기금과 4대보험, 3.3% 강사의 근로자성·퇴직금 소급 리스크 등 '사장님들께 노무사 소신발언' 시리즈. 2026-11-03 확인
+  influencer: true
+tax:
+- name: 국세청 보도자료
+  type: official
+  url: https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=2201&bbsId=1028
+  author: 국세청 (정부기관)
+  license: 정부기관 공식 누리집 (공지사항 https://www.nts.go.kr/nts/na/ntt/selectNttList.do?mi=2207&bbsId=1011)
+  weight: 1.0
+  cadence: 주 3~5건 (최신 2026-11-02 '근로·자녀장려금 12월 1일까지 기한 후 신청')
+  why: 2026-11-03 확인. 부가세·종소세 신고 안내, 세무조사 방침, 홈택스 서비스 변경의 1차 출처.
+- name: 국세법령정보시스템 (세법해석례·판례)
+  type: official
+  url: https://taxlaw.nts.go.kr/
+  author: 국세청 (정부기관)
+  license: 정부기관 공식 누리집
+  weight: 1.0
+  cadence: 상시 (질의회신·사전답변·심판청구·판례 수시 등재)
+  why: 2026-11-03 확인. 구 txsi.hometax.go.kr는 접속 불가, taxlaw.nts.go.kr로 이전됨. 경비 인정·사업자 판정 등 사례 근거 검색용.
+- name: 재정경제부 보도자료 (세제)
+  type: official
+  url: https://mofe.go.kr/nw/nes/nesdta.do?bbsId=MOSFBBS_000000000028&menuNo=4010100
+  author: 재정경제부 세제실 (구 기획재정부, 정부부처)
+  license: 정부부처 공식 누리집 (moef.go.kr → mofe.go.kr 301 이전 확인)
+  weight: 1.0
+  cadence: 평일 1~3건 (최신 2026-11-03, 세제 관련 2026-10-30 '9월 국세수입 동향', '한-독 이중과세방지협정')
+  why: 2026-11-03 확인. 세법개정안·시행령 개정 발표의 원출처. 기획재정부 명칭이 바뀌어 URL 주의.
+- name: 국세상담센터 공지사항·FAQ
+  type: official
+  url: https://call.nts.go.kr/call/na/ntt/selectNttList.do?mi=4007&bbsId=6125
+  author: 국세청 국세상담센터 (정부기관)
+  license: 정부기관 공식 누리집 (FAQ https://call.nts.go.kr/call/cm/cntnts/cntntsView.do?mi=2016&cntntsId=7020)
+  weight: 1.0
+  cadence: 주 2~4건 (최신 2026-10-29, 총 706건)
+  why: 2026-11-03 확인. 홈택스 공지는 WebSquare 앱 내부라 URL 추적 불가 → 상담센터 공지·세목별 Q&A로 대체. 홈택스 상담사례 검색 링크도 이 사이트에서 제공.
+- name: 국세청 아는형 (염지훈 세무사)
+  type: youtube
+  url: https://www.youtube.com/@ntstax
+  author: 염지훈 (세무사, 가현세무법인 삼성지점 대표세무사, 국세청 재산세과 출신)
+  license: 한국세무사회 세무사 찾기 '염지훈' → 서울 강남구 개업 1건. 채널 설명란에 염지훈·최형석·임수정·송노용 세무사 실명 공개
+  weight: 0.8
+  cadence: 주 2~3편 (최신 2026-11-02 '법인 돈 가족 설계', 2026-10-29 '2026 세제개정 후 부동산 매도 순서')
+  why: 2026-11-03 확인, 구독자 32.9만(세무사 채널 1위). 재산세·법인 비중이 높지만 세제개정 해설 속도가 빠름. 사업자 세목 외 주제는 필터링 필요.
+- name: 절세연구소 (김창휘 세무사)
+  type: youtube
+  url: https://www.youtube.com/@taxhelper2048
+  author: 김창휘 (세무사, 세무그룹 절세연구소 대표)
+  license: 한국세무사회 세무사 찾기 '김창휘' → 서울 송파구 개업 1건. 택슬리 프로필 https://taxly.kr/expert/3980-김창휘-세무사
+  weight: 0.8
+  cadence: 주 1~2편 (최신 2026-10-28 '폐업 신고 총정리 — 폐업 후 부가세·종소세', 2026-10-21 '스마트스토어 부가세·비용처리')
+  why: 2026-11-03 확인, 구독자 9.55천. 개인사업자 경비처리·부가세·폐업까지 소규모 사업자 세목에 정확히 맞춤.
+- name: 세금 줄여주는 회사 밖 경리 (서원욱 세무사)
+  type: youtube
+  url: https://www.youtube.com/@서원욱세무사
+  author: 서원욱 (세무사)
+  license: 한국세무사회 세무사 찾기 '서원욱' → 서울 서초구 개업 1건. 채널 설명란에 본인 실명·직통 연락처 공개
+  weight: 0.8
+  cadence: 주 2~3편 (최신 2026-10-30 '장특공제 한도 신설', 2026-10-29 '병원 건물 가족법인')
+  why: 2026-11-03 확인, 구독자 2.42천. '개인/법인 사업자를 위한 절세 채널'로 사업자 부가세·증빙 3종 정리 등 실무형. 최근 양도세 주제 혼재.
+- name: 세무사 강효정 (Threads)
+  type: threads
+  url: https://www.threads.com/@taxexpert_gng
+  author: 강효정 (세무사, 세무법인 엑스퍼트 강남점 대표세무사)
+  license: 한국세무사회 세무사 찾기 '강효정' → 서울 강남구 개업 1건. 프로필에 세무법인 엑스퍼트 강남점 명시 (법인 채널 https://www.youtube.com/@taxexpertofficial)
+  weight: 0.8
+  cadence: 월 1~3건 (확인 시점 기준 '14시간 전' 게시, 2026-07-21, 2026-07-16)
+  why: 2026-11-03 확인, 팔로워 1,596. 전자상거래·플랫폼 판매자 부가세 신고 정책 변화, '홈택스 ID·비번 요구하는 사무실 피하라' 등 소규모 온라인 사업자 밀착 주제.
+- name: 용세무사 l 이용운 (Threads)
+  type: threads
+  url: https://www.threads.com/@yong_tax_
+  author: 이용운 (세무사)
+  license: 한국세무사회 세무사 찾기 '이용운' → 개업 2건(서울 강남구, 경기 성남시 분당구). 계정이 둘 중 어느 사무소인지 프로필에 사무소명이 없어 연결 미확인
+  license_unverified: true
+  weight: 0.5
+  cadence: 주 3~5건 ('사업자 절세팁' 시리즈 86편째, 최신 4일 전·5일 전 연속 게시, 2026-04-05)
+  why: 2026-11-03 확인, 팔로워 20.1K. 프리랜서 vs 개인사업자, 직원 1명 채용 시 실부담, 순이익별 종소세·건보료 등 '보통사람' 질문과 가장 가까운 콘텐츠. 사무소 확인되면 0.8로 상향.
+- name: 릭택스 Taxnote (절세노트) 뉴스레터
+  type: newsletter
+  url: https://rictax.stibee.com/
+  author: 정용호·박지용 (세무사, 릭택스 공동대표)
+  license: 한국세무사회 세무사 찾기 '정용호'·'박지용' → 각각 서울 성동구 개업 등재. rictax.kr 사무소 주소 서울 성동구 연무장7길 11 (사업자번호 381-15-01917)
+  weight: 0.8
+  cadence: '월 2회 (최신 #64 ''노란우산공제로 절세하기'' 2026-09-11)'
+  why: 2026-11-03 확인. 사업자 대상 절세 주제를 호당 1개씩 정리하는 메일 포맷이라 아카이브 인용 단위로 적합.
+- name: 영세업자(곽영세무사) (@라온세무회계)
+  type: youtube
+  url: https://www.youtube.com/@라온세무회계
+  author: 곽영 (세무사, 라온세무회계)
+  license: 한국세무사회 세무사 찾기 '곽영' → 부산 기장군 개업, 전화 051-724-8888이 채널 소개 문의전화와 일치. 2026-11-03 확인
+  followers: 구독자 5.06천명
+  weight: 0.8
+  cadence: 월 1편 내외, 최근 둔화 (최신 4개월 전 '벤처기업인증 세금', 6개월 전 2편, 7개월 전 3편)
+  why: '"사업자와 소상공인에게 꼭 필요한 세금"을 표방. 벤처인증 세액감면, 정부지원금과 인증, 차용증 공증·확정일자 등 개인·법인사업자 실무. 갱신 느리면 교체 후보. 2026-11-03 확인'
+  influencer: true
+- name: 서경화 세무사 (@tax_dagyeom)
+  type: threads
+  url: https://www.threads.com/@tax_dagyeom
+  author: 서경화 (세무사, 다겸세무회계 대표, 한국여성세무사회 상임이사)
+  license: 한국세무사회 세무사 찾기 '서경화' → 서울 강남구 개업 1건, 프로필 '강남 신논현역 다겸세무회계'와 소재지 일치. 2026-11-03 확인
+  followers: 2,093
+  weight: 0.8
+  cadence: 거의 매일 (2026-10-30 하루 3건)
+  why: 아내 월급 비용처리 요건(실제 근무·적정 급여·지급내역), 계약 전 세무 확인 등 가족 사업장·소규모 사업자 질문에 정석으로 답함. 시사 글도 섞임. 2026-11-03 확인
+  influencer: true
+- name: 송진명 세무사 (@taxnode_song)
+  type: threads
+  url: https://www.threads.com/@taxnode_song
+  author: 송진명 (세무사, 세무회계 이움)
+  license: 한국세무사회 세무사 찾기 '송진명' → 서울 광진구 개업 1건. 프로필 '세무회계 이움'(litt.ly/iumtax) 2013년 합격 세무사. 2026-11-03 확인
+  followers: '599'
+  weight: 0.8
+  cadence: 거의 매일 (2026-10-28 3건)
+  why: 가족이 통신·전기 면허업체를 운영해 도소매·음식점 기본 세무부터 건설·공사업 세무, 법인전환까지 '사장님들이 알아야 할 돈과 세금'을 씀. 일상 글 비중 있음. 2026-11-03 확인
+  influencer: true
+- name: '"그냥 따라해 이유 묻지마" 안재환 세무사 (@just_followtax)'
+  type: threads
+  url: https://www.threads.com/@just_followtax
+  author: 안재환 (세무사, 세무법인 민화 강동지사)
+  license: 한국세무사회 세무사 찾기 '안재환' → 개업 1건(서울 강남구, 02-598-3800). 프로필의 '세무법인민화 강동지사'와 소재지가 달라 동일인 연결 미확인(세무법인 민화는 서울지방국세청 관할 등재). 2026-11-03 확인
+  license_unverified: true
+  followers: 5.2만
+  weight: 0.5
+  cadence: 거의 매일 (2026-10-30 3건, 네일샵 세무조사 5편 연재)
+  why: 혼자 사업하면 외워야 할 비용처리 항목 7개, 해외구매대행 매출은 수수료만·청년창업감면, 네일샵 세무조사는 부가세가 문제 등 1인 사업자용 절세를 단문 시리즈로. 사무소 확인되면 0.8로 상향. 2026-11-03 확인
+  influencer: true
+- name: 이상화세무사의 모래세무 (@nicetax)
+  type: youtube
+  url: https://www.youtube.com/@nicetax
+  author: 이상화 (세무사, 나이스세무법인 본점 대표)
+  license: 한국세무사회 세무사 찾기 '이상화' → 개업 4건(군포·금천·종로·안동), 세무법인 찾기 '나이스세무법인' 등재(서울지방국세청 02-877-3259). 4건 중 어느 등재가 본인인지 사무소명 대조 불가. 2026-11-03 확인
+  license_unverified: true
+  followers: 구독자 2.65만명
+  weight: 0.5
+  cadence: 주 1~2편 (최신 6일 전 '법인차 리스 세무조사', 13일 전, 2주 전, 3주 전)
+  why: 법인 설립·개인→법인전환, 가지급금, 대표 급여·상여·퇴직금 세팅, 법인 통장 자금 등 소규모 법인 대표 세무에 집중. 개인사업자 주제는 적음. 2026-11-03 확인
+  influencer: true
+- name: 절세엔지니어 이동현 세무사 (@절세엔지니어이동현)
+  type: youtube
+  url: https://www.youtube.com/@절세엔지니어이동현
+  author: 이동현 (세무사)
+  license: 한국세무사회 세무사 찾기 '이동현' → 개업 7건(용산·부산진·강서·안양·보령·의정부·서초). 채널에 사무소명이 없어 연결 미확인. 2026-11-03 확인
+  license_unverified: true
+  followers: 구독자 1.91천명
+  weight: 0.5
+  cadence: 주 1편 (최신 4일 전 '유튜버 비용처리', 11일 전, 2주 전, 3주 전 2편)
+  why: '"사장님 통장에 실제로 남는 돈"을 표방. 2027년 프리랜서 원천징수 3.3→2.2% 변화, 4대보험료 절감, 세무조사 1순위 통장 거래 5가지, 사업용 차량 구매 방식별 세금 등 자영업자 밀착 주제. 사무소 확인되면 0.8로 상향. 2026-11-03 확인'
+  influencer: true
+law-basics:
+- name: 국가법령정보센터
+  type: official
+  url: https://www.law.go.kr
+  author: 법제처
+  license: 정부기관
+  weight: 1.0
+  cadence: 상시 (법령 공포·시행 즉시 반영)
+  why: 민법·상법·전자상거래법·개인정보보호법·표시광고법·하도급법·상표법·저작권법 원문의 단일 출처. 2026-11-03 접속 확인.
+- name: 공정거래위원회 보도자료
+  type: official
+  url: https://www.ftc.go.kr/www/selectBbsNttList.do?bordCd=3&key=12&searchCtgry=01,02
+  author: 공정거래위원회
+  license: 정부기관
+  weight: 1.0
+  cadence: 거의 매일 (평일)
+  why: 표시광고법·전자상거래법·약관·하도급 제재 사례와 고시 개정이 가장 먼저 올라오는 곳. 2026-11-03 접속 확인(보도자료 목록으로 리다이렉트).
+- name: 개인정보보호위원회
+  type: official
+  url: https://www.pipc.go.kr
+  author: 개인정보보호위원회
+  license: 정부기관
+  weight: 1.0
+  cadence: 주 수회 (보도자료·의결·가이드라인)
+  why: 소규모 사업자 개인정보 처리방침·수탁·과징금 사례의 공식 출처. 2026-11-03 접속 확인.
+- name: 특허청 (상표)
+  type: official
+  url: https://www.kipo.go.kr
+  author: 특허청
+  license: 정부기관
+  weight: 1.0
+  cadence: 주 수회 (보도자료·제도 안내)
+  why: 상표 출원·심사 기준·수수료 변경의 1차 출처. 상표 검색은 KIPRIS(kipris.or.kr) 연동. 2026-11-03 접속 확인.
+- name: 한국저작권위원회
+  type: official
+  url: https://www.copyright.or.kr
+  author: 한국저작권위원회 (문화체육관광부 산하)
+  license: 공공기관
+  weight: 1.0
+  cadence: 주 수회 (공지·상담사례·교육자료)
+  why: 폰트·이미지·음원 등 소상공인 저작권 분쟁 FAQ와 등록 제도의 공식 출처. 2026-11-03 접속 확인.
+- name: 대한법률구조공단
+  type: official
+  url: https://www.klac.or.kr
+  author: 대한법률구조공단
+  license: 공공기관 (법률구조법)
+  weight: 1.0
+  cadence: 상시 (법률정보·서식·상담사례)
+  why: 내용증명·지급명령·소액소송 서식과 무료 상담 경로의 공식 출처. 2026-11-03 접속 확인.
+- name: 법무사TV (대한법무사협회 공식)
+  type: youtube
+  url: https://www.youtube.com/@TV-ek2kx
+  author: 대한법무사협회
+  license: 대한법무사협회 공식 채널 (채널 설명에 명시)
+  weight: 1.0
+  cadence: 주 1회 내외 (최근 업로드 5일·12일·2주 전)
+  why: 등기·법인설립·지급명령 등 법무사 업무를 협회가 직접 설명. 구독자 9.07천. 2026-11-03 확인.
+- name: 권단 변호사 DKL | AI 스타트업 & 크리에이터 IP
+  type: youtube
+  url: https://www.youtube.com/@DKL_TV_Official
+  author: 권단 (변호사, DKL법률사무소 대표)
+  license: 대한변협 변호사검색 결과 "권단 / 개업 / 전문분야 지식재산권법·엔터테인먼트(2015-04-20 등록) / 변호사권단법률사무소, 서울 서초구 반포대로28길 18-9" — https://www.koreanbar.or.kr/pages/search/search1.asp?searchtype=mname&searchstr=권단
+  weight: 0.8
+  cadence: 주 1회 내외 (최근 2일·2주·2주·3주 전)
+  why: 저작권·상표·라이선스 계약·약관 함정을 1인 기업·스타트업 사례로 변호사가 직접 설명. 구독자 169명으로 작지만 활발·주제 적합. 월간 뉴스레터(https://maily.so/dklnews) 병행. 2026-11-03 확인.
+- name: 협상가 류재언변호사
+  type: youtube
+  url: https://www.youtube.com/@negobible
+  author: 류재언 (변호사, 법무법인 어센던트 율본 대표)
+  license: 대한변협 변호사검색 결과 "류재언 / 개업 / 법무법인 어센던트 율본, 서울 강남구 테헤란로 230" — https://www.koreanbar.or.kr/pages/search/search1.asp?searchtype=mname&searchstr=류재언
+  weight: 0.8
+  cadence: 월 3~4회 (최근 4편 모두 1개월 전)
+  why: 스타트업 주주간계약·스톡옵션·경영권분쟁·계약 협상을 변호사 본인이 설명. 구독자 3.05만. 브런치(https://brunch.co.kr/@jaeeonryoo, 335편) 병행. 2026-11-03 확인.
+- name: 헬프미 법률사무소 블로그
+  type: blog
+  url: https://www.help-me.kr/blog
+  author: 박효연 (변호사, 헬프미 법률사무소 대표)
+  license: 대한변협 변호사검색 결과 "박효연 / 개업 / 헬프미 법률사무소, 서울 강남구 테헤란로77길 14, 901호" — https://www.koreanbar.or.kr/pages/search/search1.asp?searchtype=mname&searchstr=박효연
+  weight: 0.8
+  cadence: 거의 매일 (2026-10-26, 10-27, 10-28 게시 확인)
+  why: 법인설립·변경등기·상표등록·등기 수수료 개정 등 사업자 실무 글을 법률사무소가 직접 작성. 2026-11-03 확인.
+- name: 허훈법무사의 법률솔루션
+  type: youtube
+  url: https://www.youtube.com/@huhhunlawtv
+  author: 허훈 (법무사, 서울중앙지방법무사회)
+  license: 대한법무사협회 법무사찾기 결과 "허훈 / 서울중앙 / 서울 서초구 법원로 15, 201호 / 02-534-1355" (채널 기재 주소·전화와 일치) — https://kjaar.kabl.kr/modules/kabl/lawm/lawmsearch_kjaa.kabl?sch_name=허훈&search=yes
+  weight: 0.8
+  cadence: 주 1~2회 (최근 1일·3일·6일·13일 전)
+  why: 지급명령 필요서류·통장압류·물품대금 미수금 회수 등 소액 채권 실무를 법무사가 직접 설명(한정승인·회생 콘텐츠 병행). 구독자 1.02만. 2026-11-03 확인.
+- name: 법무법인 별 (강혜미 변호사) (@star-law)
+  type: youtube
+  url: https://www.youtube.com/@star-law
+  author: 강혜미 (변호사, 법무법인 별, 대한변협 스타트업·M&A 전문분야 등록)
+  license: 대한변호사협회 변호사검색 '강혜미' → 1건 개업, 법무법인 별(서울 강남구 영동대로 511 트레이드타워 405호). 채널 소개 주소와 일치. 2026-11-03 확인
+  followers: 구독자 7.61천명
+  weight: 0.8
+  cadence: 월 1~2편 (최신 5일 전 '투자자 감사 대응', 3주 전 '대표이사 월급', 1개월 전 2편)
+  why: 내용증명 받았을 때 단계별 대응, 대표이사 보수 결정, 유상증자 등기, 2026년 개정 표준 투자계약서, 이사회 운영 등 소규모 법인 대표가 부딪히는 절차를 변호사가 직접 설명. 법인 채널이라 출연 변호사 확인 필요. 2026-11-03 확인
+  influencer: true
+- name: 전세준 변호사 (@전세준변호사)
+  type: youtube
+  url: https://www.youtube.com/@전세준변호사
+  author: 전세준 (변호사, 법무법인 제하 대표변호사)
+  license: 대한변호사협회 변호사검색 '전세준' → 1건 개업, 법무법인 제하(충북 청주시 흥덕구 대농로 43 신영지웰시티 604호). 채널 소개 '법무법인 제하 대표변호사'와 일치. 2026-11-03 확인
+  followers: 구독자 743명
+  weight: 0.8
+  cadence: 월 2~4편 (최신 3주 전, 1개월 전 3편), 이혼·보이스피싱 등 비사업 주제 혼재
+  why: 외주 디자인 원본 파일 수정 가능 여부, 커버곡 업로드 저작권 등 콘텐츠·IP 계약을 사업자·크리에이터 관점에서 설명. 저작권·계약 주제만 필터링해 쓸 것. 2026-11-03 확인
+  influencer: true
+- name: 컴변스 CLS (김정민 변호사·변리사) (@comlawstartup)
+  type: youtube
+  url: https://www.youtube.com/@comlawstartup
+  author: 김정민 (변호사·변리사·세무사, 법무법인 경제 파트너, 『스타트업을 변호하다』 저자)
+  license: 대한변호사협회 변호사검색 '김정민' → 동명 13건(세움·율촌·개인사무소 등). 채널의 '법무법인 경제'(인천 032-528-2917) 소속 등재는 목록에서 확인 못 함. 2026-11-03 확인
+  license_unverified: true
+  followers: 구독자 521명
+  weight: 0.5
+  cadence: 주 2~3편 (최신 9일 전, 10일 전, 2주 전 2편, 3주 전 2편)
+  why: 스타트업 계약·투자·스톡옵션, 인건비 실수 3가지, 저작권·상표·영업비밀 분쟁을 저서 장별로 강의. 영상 350편으로 축적량이 큼. 소속 확인되면 0.8로 상향. 2026-11-03 확인
+  influencer: true
+- name: 이경석 법무사 (@leekslaw)
+  type: threads
+  url: https://www.threads.com/@leekslaw
+  author: 이경석 (법무사, 서울중앙지방법무사회, 법인설립 1,000건+)
+  license: 대한법무사협회 법무사찾기 '이경석' → 1건, 서울중앙 / 서울 강남구 논현로86길 33 동천빌딩 2층 / 02-569-4358 (https://kjaar.kabl.kr/modules/kabl/lawm/lawmsearch_kjaa.kabl?sch_name=이경석&search=yes). 2026-11-03 확인
+  followers: 1,650
+  weight: 0.8
+  cadence: 불규칙 (최신 2026-02-18, 02-15 2건 — 일상 글), 2025년에 법인설립·등기 실무 글 집중
+  why: 법인설립 1,000건·법인등기 5,000건 경력으로 정관 검토, 못 받은 돈 소송·압류·강제집행 등 소규모 법인 등기·채권 실무 글. 최근 갱신이 느려 아카이브 인용용, 교체 후보. 2026-11-03 확인
+  influencer: true
+- name: 법무사 정승제 (@__jjjjjeee)
+  type: threads
+  url: https://www.threads.com/@__jjjjjeee
+  author: 정승제 (법무사, 부산지방법무사회)
+  license: 대한법무사협회 법무사찾기 '정승제' → 1건, 부산 / 부산 연제구 법원남로 18 세헌빌딩 305호 / 051-501-0904, 프로필 전화번호와 일치. 2026-11-03 확인
+  followers: '599'
+  weight: 0.8
+  cadence: 주 2~3건 (2026-10-09 2건, 10-08), 일상·맛집 글 비중 높음
+  why: "이사 중임등기 누락 시 과태료 500만원 이하 등 소규모 법인 등기 실수를 반말 톤으로 설명. 부동산·법인등기, 민사서류·강제집행, 회생·파산 상담 범위. 2026-11-03 확인"
+  influencer: true
+mindset: []

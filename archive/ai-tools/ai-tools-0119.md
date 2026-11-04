@@ -1,0 +1,30 @@
+---
+id: ai-tools-0119
+domain: ai-tools
+claim: 에이전트 예약 작업(크론)은 매번 지난 대화 없는 새 세션으로 작업 폴더 밖에서 시작하므로, 작업 폴더를 지정하고 '시트에 아직 없는
+  메일만'처럼 어디까지 했는지 기준까지 담아 처음 보는 사람도 알 수 있게 지시문을 완결되게 써야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=k_n8fmTt8Ck
+  author: 샘 호트만 (@ai.sam_hottman)
+  seen: '2026-11-03'
+  quote: 기본적으로 작업 폴더 밖에서 시작해 AGENTS.md를 읽지 않으니 작업 폴더를 지정해야 한다
+  source: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 에이전트
+- 크론
+- 예약작업
+- hermes
+- 지시문
+---
+예약 실행은 매번 새 세션이라 앞 대화를 기억하지 못합니다. Hermes 같은 에이전트는 기본적으로 작업 폴더 밖에서 시작하기 때문에 그 폴더의 AGENTS.md 규칙도 읽지 않습니다. 그러니 지시문에 작업 폴더를 꼭 지정하세요. 실행 도중에는 되물을 수 없으므로 처리 범위 기준(예: 시트에 아직 없는 메일만)까지 적어야 합니다. 지시문이 길어지면 매뉴얼(스킬)로 옮기고 지시문에는 그 이름만 적습니다. 너무 자주 돌리면 그때마다 모델 사용량이 나갑니다.

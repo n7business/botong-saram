@@ -1,0 +1,15 @@
+# 영역 설정. verify.py·build_plugin.py가 읽는다.
+# single_observed_weight(기본 0.6): 비법률 영역에서 수치 제시(observed) 주장은 이 가중치 이상 출처 1곳이면 승격 (11/3 결정)
+# 11/3: 비법률 영역은 서로 다른 인플루언서 2명(weight 0.7+0.6)이면 통과하도록 min_weight 1.3 — 단일 실측 승격 규칙과 일관
+# review_days: verified 후 재검토 기한 / min_sources: 교차 확인 최소 독립 출처 / min_weight: 가중치 합 / legal: 조문 근거(law_ref)·자격자 출처 필수
+marketing:     {ko: 마케팅·홍보·디자인, review_days: 60,  min_sources: 2, min_weight: 1.3, legal: false}
+growth:        {ko: 사업화·매출 증대,   review_days: 90,  min_sources: 2, min_weight: 1.3, legal: false}
+metrics:       {ko: 매출·경영 지표,     review_days: 180, min_sources: 2, min_weight: 1.3, legal: false}
+factory-ax:    {ko: 생산·현장 AX,       review_days: 90,  min_sources: 3, min_weight: 2.0, legal: false}
+licensing:     {ko: 행정·인허가,        review_days: 180, min_sources: 2, min_weight: 1.5, legal: true}
+business-plan: {ko: 사업계획서·정부지원, review_days: 120, min_sources: 2, min_weight: 1.3, legal: false}
+ai-tools:      {ko: AI 도구·트렌드,     review_days: 30,  min_sources: 2, min_weight: 1.3, legal: false}
+hr-labor:      {ko: 인사·노무,          review_days: 180, min_sources: 2, min_weight: 1.5, legal: true}
+tax:           {ko: 세무,               review_days: 180, min_sources: 2, min_weight: 1.5, legal: true}
+law-basics:    {ko: 기본법,             review_days: 180, min_sources: 2, min_weight: 1.5, legal: true}
+mindset:       {ko: 창업자 마인드·습관,   review_days: 365, min_sources: 2, min_weight: 1.2, legal: false, single_observed_weight: 0.7}

@@ -1,0 +1,29 @@
+---
+id: business-plan-0022
+domain: business-plan
+claim: B2B 소프트웨어·에이전시가 AI 기능에 과금할 때는 기본 구독을 유지한 채 AI 처리 건당 요금을 붙이되 월 상한을 두고 '1건' 정의를
+  고객이 이해할 문장으로 가격표에 적어야 하며, 건당 남는 돈을 먼저 계산하지 않으면 인건비 사업이 된다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48525
+  author: leanX
+  seen: '2026-11-03'
+  quote: 기본 구독은 유지하고, AI가 처리한 건에는 건당 요금을 붙이되 월 상한을 둡니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 가격정책
+- SaaS
+- B2B
+- AI에이전트
+---
+도구를 공짜로 풀고 에이전트와 사람 서비스로 돈을 받으려면 건당 매출총이익부터 계산한다. 2026년 소프트웨어 회사 230여 곳 조사에서 AI 상품의 목표 매출총이익률 중간값은 약 50%였고, 사람이 검수하고 예외를 처리하는 비용이 계속 늘면 이름만 AI 서비스이고 실제로는 인건비 사업이 된다. 국내 B2B 소프트웨어나 에이전시가 당장 해 볼 만한 것은 혼합형이다. 기본 구독은 유지하고 AI가 처리한 건에는 건당 요금을 붙이되 월 상한을 둔다. 1건의 정의는 고객이 이해할 수 있는 문장으로 가격표에 적어 고객이 다음 달 청구서를 미리 짐작할 수 있게 한다. 구매자 설문에서는 사용량 과금 선호(42.9%)가 결과 기반 과금 선호(26.8%)보다 높았으므로 결과 과금만 고집하지 않는다. 이는 LeanX의 해석이며 '무료 도구+유료 에이전트' 모델은 아직 성공 사례 숫자로 검증되지 않았다.

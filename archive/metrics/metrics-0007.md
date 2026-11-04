@@ -1,0 +1,28 @@
+---
+id: metrics-0007
+domain: metrics
+claim: 세무조사 대비의 기본은 거래가 생길 때마다 회계 프로그램에 실시간 입력하고 각 거래에 증빙을 매핑해 두는 것이며, 계약서·회의록·품의서도
+  증빙으로 함께 보관한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://clobe.ai/blog/nirs-tax-audit-strengthening-2026-corporate-strategy
+  author: 클로브팀
+  seen: '2026-11-03'
+  quote: 모든 재무 거래는 회계 프로그램에 실시간으로 입력하고 관리해요.
+  source: 클로브 블로그
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 세무조사
+- 증빙 관리
+- 장부
+---
+모든 재무 거래를 발생 즉시 회계 프로그램에 입력하고 계정과목 분류 기준을 정해 둔다. 세금계산서·현금영수증·카드 전표 같은 법정 증빙은 전자적으로 보관하고 원본도 따로 둔다. 사업 관련 계약서·회의록·품의서도 조사 때 거래의 정당성을 입증하는 증빙이므로 같이 관리한다. 통장·카드 내역에 증빙을 매핑해 두면 조사관 요구 시 즉시 제출할 수 있다. 세무조사는 평소 장부와 증빙이 맞물려 있는지로 결과가 갈리므로, 연 1회 몰아서 정리하는 방식은 위험하다.

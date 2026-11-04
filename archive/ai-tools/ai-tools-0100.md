@@ -1,0 +1,29 @@
+---
+id: ai-tools-0100
+domain: ai-tools
+claim: AI가 보고서 규칙을 제안하면 그대로 받지 말고 그래프 눈금 자동 변경 같은 제안은 원본대로 고정시키며, 달성률 같은 계산식(전체 실적
+  ÷ 전체 목표)은 보고서를 만들기 전에 먼저 확인시킨다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=mEWTZS4F9Zo
+  author: 직장인 AI 업무 자동화 | 라핀
+  seen: '2026-11-03'
+  quote: 전체 달성률은 전체 실적을 전체 목표로 나눈 값이어야 합니다.
+  source: 직장인 AI 업무 자동화 | 라핀
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 보고서
+- 계산기준
+- 검토
+- 달성률
+---
+Claude가 그래프 눈금 최댓값을 자동으로 바꾸자고 하거나 담당자를 사람 이름으로 쓸지 묻는 경우가 있습니다. 이를 그냥 받아들이면 다음 달 그래프 모양과 담당자 표기가 달라질 수 있습니다. 이런 제안에는 '담당자는 엑셀의 부서명 그대로, 그래프 축은 원본대로'처럼 직접 답해 고정합니다. 이번 달 엑셀을 넣은 뒤에는 보고서 칸을 채울 수 있는지 먼저 분석하게 하고, 비어 있는 상태값은 '미확인'으로 남기게 합니다. 전체 달성률은 채널별 달성률의 평균이 아니라 전체 실적을 전체 목표로 나눈 값인지 확인한 다음 보고서를 만들게 합니다.

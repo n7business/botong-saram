@@ -1,0 +1,29 @@
+---
+id: factory-ax-0029
+domain: factory-ax
+claim: 운전 중인 PLC를 수정할 때 PC에 저장된 파일을 고치지 말고 PLC 메모리에 있는 현재 프로그램을 먼저 읽어 와서 고쳐야 실제 설비에서
+  돌고 있는 회로를 기준으로 수정할 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=aauTtWZRA4E
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-03'
+  quote: 먼저 프로그램을 읽어야 되겠죠.
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- PLC
+- XG5000
+- 프로그램수정
+- 설비보전
+---
+온라인으로 접속한 다음 가장 먼저 PLC 메모리의 프로그램을 PC 화면으로 읽어 옵니다. 현장 PLC 프로그램은 누군가 이미 고쳐서 PC에 남은 파일과 다를 수 있으므로, 읽어 온 프로그램을 기준으로 삼아야 합니다. 읽어 온 다음에는 수정 전에 동작 시험을 한 번 해서 현재 순서(예: A전진→B전진→B후진→A후진)가 정상인지 확인합니다. 그래야 수정 후 문제가 생겼을 때 원인이 수정 내용인지 원래 상태인지 구분할 수 있습니다.

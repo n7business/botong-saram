@@ -1,0 +1,32 @@
+---
+id: factory-ax-0019
+domain: factory-ax
+claim: 반도체 유해가스·온실가스 저감설비를 개발하는 중소·중견기업은 2026-11-02 평택대학교에 문을 연 생기원 '반도체 환경설비 오픈랩'에서
+  실제 공정 조건의 파일럿 실증 데이터를 확보해 성능을 입증할 수 있다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.kitech.re.kr/pages/61?id=14427&menuMode=READ&q=
+  author: 한국생산기술연구원
+  seen: '2026-11-03'
+  quote: 중소 · 중견기업의 반도체 유해가스 저감설비를 실제 공정 조건에서 검증하는 실증 ‘ 오픈랩 ’ 을 평택에 구축했다
+  source: 한국생산기술연구원 보도자료
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-02-01'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 반도체
+- 환경설비
+- 실증
+- 테스트베드
+- 평택
+- KITECH
+verified_by: 공식 출처
+---
+한국생산기술연구원이 평택시·평택산업진흥원과 함께 평택대학교에 '반도체 환경설비 오픈랩'을 개소했다. 반도체 공정환경을 파일럿 규모로 재현해 기업이 개발한 오염물질 저감설비의 처리 성능과 운전 안정성을 시험하고 그 결과를 실증 데이터로 남겨 준다. 그동안 자체 검증 시설이 없어 성능 입증에 막혔던 소규모 환경설비 업체가 대기업 납품 전 제3자 실증 데이터를 만드는 용도로 쓸 수 있다. 지역기업 공동활용 시설로 구축됐으므로 평택·경기 남부 소재 기업이 우선 접근하기 쉽다. 이용 절차·비용은 생기원 또는 평택산업진흥원에 문의해 확인해야 한다.

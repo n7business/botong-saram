@@ -1,0 +1,37 @@
+---
+id: business-plan-0060
+domain: business-plan
+claim: SM엔터테인먼트 오픈이노베이션 밋업 CultureTech Challenge(2026-11-20 18:00 마감)는 2023~2026년
+  초기창업패키지 선정·졸업기업만 신청할 수 있고 K-Startup이 아니라 씨엔티테크 이메일(ac4@cntt.co.kr)로 접수하며 초기창업패키지
+  협약 증명서를 함께 내야 한다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.venturesquare.net/announcement/1124655
+  author: 벤처스퀘어·씨엔티테크(주)
+  seen: '2026-11-03'
+  quote: 2023년~2026년 초기창업패키지 선정·졸업기업
+  source: 벤처스퀘어 지원사업 아카이브
+- url: https://startuprecipe.co.kr/archives/invest-newsletter/5839768
+  author: 주승호 기자(스타트업레시피)
+  seen: '2026-11-03'
+  quote: SM엔터테인먼트 오픈이노베이션 밋업 CultureTech Challenge 씨엔티테크(주)
+  source: 스타트업레시피 뉴스레터
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: business-plan-0009
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 초기창업패키지
+- 오픈이노베이션
+- SM엔터테인먼트
+- 컬처테크
+- 마감 2026-11-20
+mentions: 2
+---
+SM컬처파트너스와 씨엔티테크가 함께하는 컬처테크 챌린지는 일반 창업기업 공모가 아니라 2023년부터 2026년 사이 초기창업패키지에 선정됐거나 졸업한 기업만 대상이다. 접수는 K-Startup 온라인이 아니라 이메일(ac4@cntt.co.kr)로 하며, 참가신청서·개인정보 동의서·참가기업 의무사항 확인서(지정 양식), 자율양식 IR Deck, 초기창업패키지 협약 증명서, 사업자등록증, 법인이면 법인등기부등본을 첨부한다. 선발은 자격검토 → 서류평가 → 사전 밋업(1:N 온라인) → 현장 밋업(SM Ent·SMCP와 1:1 협업·투자 상담) 순서다. 초기창업패키지 이력이 없는 문화기술 스타트업은 자격 요건에서 탈락하므로 신청 전에 협약 증명서 발급 가능 여부부터 확인해야 한다. 신청 기간은 2026-11-02 00:00부터 2026-11-20 18:00까지다.

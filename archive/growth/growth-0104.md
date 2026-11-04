@@ -1,0 +1,28 @@
+---
+id: growth-0104
+domain: growth
+claim: 식당에서 리뷰 정리, 고객 불만 분류, 메뉴 설명 초안 작성에 AI를 써 볼 수 있지만, 가격과 사실은 사장이 직접 확인하고 최종 판단도
+  사장이 한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=O-ih4mXqGoc
+  author: 장사왕 임사부(임정원 셰프)
+  seen: '2026-11-03'
+  quote: 단, 가격과 사실은 직접 확인하고 최종 판단은 사장이 해야 한다.
+  source: 장사왕 임사부 (@장사왕임사부)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 리뷰관리
+- 외식업
+---
+AI는 쌓인 리뷰를 요약하고, 불만을 유형별로 나누고, 메뉴 설명 초안을 쓰는 데 쓸 만합니다. AI가 만든 결과의 가격·영업 정보·재료 같은 사실은 사장이 직접 확인한 뒤에 씁니다. AI 검색 대비도 마찬가지입니다. AI에게 몇 번 물어본 결과로 전체 고객의 선택을 판단하지 말고, AI가 우리 가게를 추천하게 만드는 확실한 비법이 있다고 믿지도 않습니다. 실제 장점을 먼저 만들고, 그 장점과 이용 정보를 정확히 전달하는 것이 기본입니다.

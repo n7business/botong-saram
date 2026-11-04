@@ -1,0 +1,29 @@
+---
+id: ai-tools-0069
+domain: ai-tools
+claim: AI로 쓴 한국어 메일·보고서는 '첫째, 둘째' 나열과 영어 번역투 때문에 AI 티가 나므로, 영어권 휴머나이저가 아니라 한국어 전용
+  휴머나이저 스킬(I'm not AI)로 'AI 티 없애 줘'라고 시켜 다듬은 뒤 보낸다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=3729clHFDjU
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-03'
+  quote: 한국어 AI 글에서 티가 나는 이유가 바로 영어 번역투이기 때문입니다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 휴머나이저
+- 한국어
+- AI 글쓰기
+- 스킬
+---
+Claude나 GPT가 쓴 한국어 글은 '첫째, 둘째, 셋째' 같은 넘버링과 특정 핵심 키워드 때문에 AI가 쓴 티가 나고, 메일이나 보고서에서 그 티가 나면 신뢰를 얻기 어렵다. 한국어 AI 글의 어색함은 영어 번역투에서 오기 때문에 영어권 휴머나이저로는 잡히지 않는다. I'm not AI 스킬은 번역투, 기계적 나열, 문장 리듬 등 10개 대분류 85개 세부 패턴을 기준으로 의미는 바꾸지 않고 해당 부분만 고치며 강도도 설정할 수 있다. Claude, Copilot, Codex, Gemini에서 모두 쓸 수 있고 'AI 티 없애 줘', '윤문해 줘'라고만 해도 작동한다. 보고서·대시보드·PPT·엑셀 등 글을 많이 쓰는 사람은 보내기 전에 한 번 돌린다.

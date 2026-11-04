@@ -1,0 +1,30 @@
+---
+id: business-plan-0012
+domain: business-plan
+claim: 여행·관광 스타트업은 시장 호황에도 민간 벤처투자가 초기 단계·정부지원금에 머물러 있으므로 투자유치보다 실제 매출과 수익성을 먼저 입증하는
+  사업계획을 짜야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://startuprecipe.co.kr/archives/invest-newsletter/5839768
+  author: 주승호 기자(스타트업레시피)
+  seen: '2026-11-03'
+  quote: 각 기업이 실제 매출과 수익성을 확보하는 것이 향후 투자 유치의 관건이 될 전망입니다.
+  source: 스타트업레시피 뉴스레터
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 관광
+- 여행스타트업
+- 투자유치
+- B2B
+- 수익성
+---
+2026년 1~9월 방한 외국인은 1,711만명으로 21.5% 늘고 관광 카드소비액은 46.8% 증가했지만, 올해 10월까지 공개된 여행 스타트업 투자는 더휴식 650억원을 제외하면 초기 투자나 정부 지원금이 대부분이었다. 숙박 운영 인프라·결제·신원인증 등 B2B 솔루션에 자금이 쏠렸고 B2C 여행 플랫폼은 마이리얼트립의 크리에이트립 인수처럼 독립 생존이 어려운 흐름이다. 따라서 관광 분야 창업자는 '시장이 커진다'는 논리로 투자를 기대하기보다 매출·수익성 수치를 먼저 만들고, 자금 조달은 관광기업 육성 프로그램 등 정부사업과 B2B 매출로 설계하는 편이 현실적이다. B2C 플랫폼보다 숙박·결제·인증 같은 B2B 솔루션이 투자 접근성이 높다.

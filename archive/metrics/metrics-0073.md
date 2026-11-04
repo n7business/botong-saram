@@ -1,0 +1,29 @@
+---
+id: metrics-0073
+domain: metrics
+claim: 토마토·양상추 같은 잎채소는 여름에 가격이 200~300%까지 오르므로, 여름에는 재료를 보수적으로 준비하고 주력 메뉴 가격 대신 음료·쿠키
+  같은 다른 품목으로 손실을 메우며, 원가 손익은 월이 아니라 1년 단위로 판단한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=px9svMSYasU
+  author: 호기하우스 사장 (자영업 다이어리 @startupdiary2 인터뷰)
+  seen: '2026-11-03'
+  quote: 그래서 여름에는 보수적으로 준비한다고 합니다.
+  source: 자영업 다이어리 (@startupdiary2)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 원가율
+- 식자재
+- 계절성
+- 외식업
+---
+잎채소는 계절에 따라 가격 변동이 매우 큽니다. 사례 매장에서는 양상추 한 통이 평소 1,500원대였다가 여름에 3,000~4,000원까지 올랐고, 수율도 함께 떨어졌습니다. 이 시기에는 손질·발주 물량을 보수적으로 잡아 버리는 재료를 줄입니다. 주력 메뉴 가격은 쉽게 올릴 수 없으므로 음료·쿠키처럼 원가 부담이 적은 품목 매출로 손실을 메웁니다. 재료가 쌀 때 더 남는 시기와 합쳐 1년 단위로 원가율을 보면 여름 한철 원가 상승만 보고 섣불리 판단하는 일을 막을 수 있습니다.

@@ -1,0 +1,30 @@
+---
+id: marketing-0090
+domain: marketing
+claim: 메타 인스턴트 양식을 구글 시트 CRM과 연동한 뒤 들어온 문의의 상태를 적합하면 Qualified, 계약되면 Converted로 직접
+  바꿔 줘야 픽셀에 '진짜 고객' 데이터가 쌓여 이후 문의 질이 올라가며, 이 작업을 안 하면 수집된 문의는 낭비된다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=1Z3_S4P3ilk
+  author: 애드스트럭트 왕현
+  seen: '2026-11-03'
+  quote: 사실상 DB 수집은 문의가 낭비되고 있는 것입니다
+  source: 애드스트럭트 왕현 (@애드스트럭트)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메타광고
+- 인스턴트양식
+- CRM연동
+- 구글시트
+- 전환API
+---
+광고 관리자 왼쪽 메뉴에서 인스턴트 양식 → CRM 설정 → CRM 연동으로 들어가 구글 시트를 연결한다. 이미 연동돼 있으면 '연결됨'으로 표시되고, 자동 통합 설정과 전환 API 설정에서 내 계정 아래 항목이 하나 뜨면 시트가 API로 연동된 것이다. 문의가 들어오면 내 비즈니스에 맞는 문의는 상태를 Qualified로, 실제 고객으로 전환되면 Converted로 손으로 바꾼다. 이렇게 해야 메타가 어떤 사람이 실제 전환되는지 학습해 이후 광고를 문의 질 기준으로 최적화할 수 있다. 문의 수만 모으고 전환을 기록하지 않으면 단가가 싸도 시간과 비용이 새는 문의가 쌓인다.

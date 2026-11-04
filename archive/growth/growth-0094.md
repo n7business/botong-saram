@@ -1,0 +1,30 @@
+---
+id: growth-0094
+domain: growth
+claim: 솥밥 메뉴를 낼 때는 솥밥 기계에 물과 쌀을 미리 넣어 두고 주문이 들어오면 전원만 누르게 하며, 국은 솥밥이 다 되는 시간(약 8분)에
+  맞춰 늦게 끓이기 시작해야 두 가지가 동시에 나간다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=TUaMk-oqefs
+  author: 슈퍼자영업자 조세이돈
+  seen: '2026-11-03'
+  quote: 솥밥 기계는 물과 쌀을 미리 넣어 두고 주문이 들어오면 전원만 누르는데, 약 8분이 걸린다.
+  source: 슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 외식
+- 주방운영
+- 솥밥
+- 조리동선
+- 회전율
+---
+솥밥은 주문 뒤 약 8분이 걸리므로 국밥과 함께 내려면 조리 순서를 맞춰야 한다. 솥밥 기계에는 물과 쌀을 미리 계량해 넣어 두고, 주문이 들어오면 전원만 누르도록 한다. 국밥은 바로 끓이지 말고 솥밥이 끝나는 시각에 맞춰 가스불을 늦게 켠다. 이렇게 하면 주방 인력이 적어도 솥밥 정식 같은 고마진 메뉴를 회전율을 떨어뜨리지 않고 낼 수 있다. 사례 매장(동네옥 성남점)에서 쓰는 방식이고, 매장별 기계 사양에 따라 시간은 직접 재야 한다.

@@ -1,0 +1,34 @@
+---
+id: metrics-0057
+domain: metrics
+claim: 외식 매장의 전기·수도·가스 공과금은 매출의 1.5~2%를 정상 범위로 보고, 대형 평수 여름철처럼 2.8%를 넘으면 평수·냉방 구조
+  문제로 판단해 입지 선택 단계에서 걸러낸다.
+status: verified
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=aUcDLUKEX74
+  author: 장사는 김형철 (@장사는김형철)
+  seen: '2026-11-03'
+  quote: 공과금은 1.5~2%가 가장 이상적이라고 하며
+  source: 장사는 김형철 (@장사는김형철)
+- url: https://www.youtube.com/watch?v=8gLZfCsY-v0
+  author: 장사는 김형철 (@장사는김형철)
+  seen: '2026-11-03'
+  quote: 매출 5천만 원대 초중반에 가스비는 60~70만 원이다.
+  source: 장사는 김형철 (@장사는김형철)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-05-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 공과금
+- 비용벤치마크
+- 입지
+verified_by: 실무자 실측(단일 출처)
+---
+월 결산에서 공과금 비율을 따로 계산해 1.5~2%면 정상, 그 이상이면 원인을 찾는다. 50평대 이상 매장은 여름 에어컨 전기료로 2.8%까지 올라가고 큰 평수만큼 직원도 더 필요해 수익률이 떨어진다. 화덕 등 불을 많이 쓰는 업종도 월매출 5천만 원대에 도시가스비 60~70만 원 수준이면 정상이며, 손님 없는 시간에 끄면 더 줄일 수 있다. 주상복합처럼 전기·수도가 관리비에 포함된 자리는 임대료 항목에 공과금이 숨어 있으므로 합산해 비교한다.

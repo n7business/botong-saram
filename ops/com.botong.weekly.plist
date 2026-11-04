@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+  <key>Label</key><string>com.botong.weekly</string>
+  <key>ProgramArguments</key><array><string>/bin/bash</string><string>/Users/admin/Library/Scripts/botong-weekly.sh</string></array>
+  <key>StartCalendarInterval</key><array>
+    <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>6</integer><key>Minute</key><integer>0</integer></dict>
+    <dict><key>Weekday</key><integer>1</integer><key>Hour</key><integer>11</integer><key>Minute</key><integer>0</integer></dict>
+  </array>
+  <key>RunAtLoad</key><false/>
+  <key>StandardOutPath</key><string>/Users/admin/Library/Logs/com.botong.weekly.launchd.log</string>
+  <key>StandardErrorPath</key><string>/Users/admin/Library/Logs/com.botong.weekly.launchd.log</string>
+</dict></plist>

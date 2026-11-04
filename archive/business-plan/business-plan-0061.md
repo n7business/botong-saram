@@ -1,0 +1,35 @@
+---
+id: business-plan-0061
+domain: business-plan
+claim: 모두의 창업 일반·기술 트랙 2라운드 서류(활동 보고서·사업계획서)는 2026-12-01(화) 13:00 마감이고 1라운드 창업 활동은
+  11-30까지이므로, 경쟁률 8대 1(약 8,000명 중 1,000명)을 통과하려면 사업계획서 꾸미기보다 고객 증거를 먼저 쌓아야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=a8Socsq2LLU
+  author: 정석Biz
+  seen: '2026-11-03'
+  quote: 2라운드 서류(활동 보고서, 사업계획서)는 12월 1일(화) 오후 1시 마감이다.
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+- url: https://www.youtube.com/watch?v=y97CAS5-1eg
+  author: 정석Biz
+  seen: '2026-11-03'
+  quote: 합격과 탈락의 경계선는 단 0점 몇 점 차에 불과합니다
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 2라운드
+- 마감
+- 고객증거
+- 경쟁률
+---
+모두의 창업 일반·기술 트랙은 1라운드 약 8,000명 중 1,000명이 2라운드로 올라가 통과율이 12.5% 수준이다. 1라운드 창업 활동은 11월 30일까지이고 2라운드 서류는 12월 1일(화) 오후 1시에 마감된다. 심사위원 3~5명이 평가하고 최고점을 뺀 평균으로 점수를 내므로 상위 20% 안에서 0.1점 차이로 합격·탈락이 갈린다. 사업계획서를 보기 좋게 다듬는 일은 하루이틀이면 끝나므로 남은 기간은 고객 인터뷰·MVP 테스트 데이터를 모으는 데 써야 한다. 내가 속한 1라운드 주관기관이 몇 명을 육성 중인지도 확인하라. 주관기관이 20명을 육성하면 2라운드 진출은 2~3명을 넘지 않는다.

@@ -1,0 +1,27 @@
+---
+id: marketing-0135
+domain: marketing
+claim: 플레이스 키워드를 넣고 몇 주가 지나도 유입이 없으면 죽은 키워드로 보고, 실제로 손님이 들어오는 키워드로 바꿔야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=bUkMQHZdyD4
+  author: 머니코치 최준호 (@moneycoach)
+  seen: '2026-11-03'
+  quote: 몇 주가 지나도 효과나 유입이 없는 키워드는 죽은 키워드다.
+  source: 머니코치 최준호 (@moneycoach)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 키워드
+- 유입분석
+---
+키워드를 세팅한 뒤에는 스마트플레이스 통계에서 키워드별 유입을 확인합니다. 몇 주가 지나도 효과나 유입이 없는 키워드는 죽은 키워드입니다. 네이버는 일단 노출해 준 뒤 클릭과 활동을 보고 신뢰도를 평가합니다. 그래서 반응 없는 키워드를 계속 두면 플레이스 지수 전체에 불리합니다. 버리고 실제 유입이 있는 키워드로 교체합니다.

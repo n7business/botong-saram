@@ -1,0 +1,29 @@
+---
+id: business-plan-0017
+domain: business-plan
+claim: AI 기능이 붙은 소프트웨어를 계약하기 전에 청구 단위인 '1건'이 답변 시작·고객 추가문의 없음·사람 승인 중 언제 세는지를 문장으로
+  받아두지 않으면 해결 못 한 상담에도 요금이 나갈 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://eopla.net/magazines/48525
+  author: leanX
+  seen: '2026-11-03'
+  quote: AI 기능을 살 땐 청구서에 찍히는 '1건'이 뭔지부터 보셔야 합니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI도구
+- SaaS요금
+- 계약검토
+- 고객상담
+---
+AI 상담원·AI 에이전트 요금제는 좌석값 외에 '건당' 요금을 받는 경우가 많고, 1건을 무엇으로 세는지는 공급자가 정한다. 계약 전에 영업 담당자에게 1건이 정확히 언제 집계되는지(답변 시작 시점인지, 고객이 더 묻지 않았을 때인지, 사람이 승인했을 때인지)를 문장으로 받아 둔다. 같은 고객이 다음 날 새 대화로 다시 문의하면 앞의 건을 빼 주는지, 이의 제기 절차와 기한은 어떤지도 함께 확인한다. 예를 들어 Fin(옛 Intercom)은 '마지막 답변 뒤 고객이 추가 도움을 요청하지 않은 것'을 해결 1건으로 보며 재개 시 환불하지만, 참여 기준으로 과금하는 서비스는 해결 여부와 무관하게 청구된다. 견적서를 받으면 '1건' 정의부터 확인한다.

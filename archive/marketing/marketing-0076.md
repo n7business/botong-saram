@@ -1,0 +1,30 @@
+---
+id: marketing-0076
+domain: marketing
+claim: 플레이스는 대표 키워드만 채우지 말고 메뉴명·찾아오는 길·상세설명까지 각 칸의 역할에 맞는 키워드로 채우되, '용인, 용인시, 신갈'처럼
+  쉼표로 나열하면 스팸으로 읽혀 지수가 깎이므로 손님이 읽어도 말이 되는 문장 안에 녹여야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=bUkMQHZdyD4
+  author: 머니코치 최준호 (@moneycoach)
+  seen: '2026-11-03'
+  quote: 네이버 봇에게는 스팸으로 읽혀 지수가 깎이고, AI는 사람처럼 문장을 읽기 때문에 나열된 키워드로는 학습하지 못한다.
+  source: 머니코치 최준호 (@moneycoach)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 상세설명
+- 키워드나열
+- AI최적화
+mentions: 1
+---
+네이버 순위 기준에는 '정보의 충실성'이 있어 대표 키워드만 채우고 나머지 칸을 대충 하면 불리하다. 대표 키워드와 메뉴명은 봇이 가장 먼저 긁어가는 영역, 찾아오는 길은 지역·위치 키워드를 학습하는 영역, 상세설명은 무엇을 파는 어떤 곳인지 학습하는 영역이므로 각 칸에 맞는 키워드를 넣는다. 키워드를 쉼표로 늘어놓으면 두 번 손해다. 봇에게는 스팸으로 읽혀 지수가 깎이고, '주차 넉넉한 곳'처럼 말로 묻는 네이버 AI는 사람처럼 문장을 읽기 때문에 나열된 키워드로는 학습하지 못한다. 손님이 읽어도 자연스러운 문장에 키워드를 넣고, 주소·영업시간·메뉴·전화번호 같은 기본 정보도 AI가 꺼내 쓸 수 있게 빠짐없이 채운다.

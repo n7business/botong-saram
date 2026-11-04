@@ -1,0 +1,34 @@
+---
+id: licensing-0011
+domain: licensing
+claim: E-7-4 근로자가 이직을 위해 D-10(구직) 비자로 변경하면 구직 체류기간이 종전 최대 1년(6+6개월)에서 최대 6개월(3+3개월)로
+  줄어, 최초 3개월 부여 후 단 한 번 3개월만 연장된다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=vbA5atMwW50
+  author: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+  seen: '2026-11-03'
+  quote: 이제는 최대 6개월(3개월+3개월)로 대폭 줄어들었습니다.
+  source: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 출입국관리법 시행령
+  article: 별표 1의2(D-10 구직)
+  effective: '2026-11-03'
+contributor: null
+tags:
+- E-7-4
+- D-10
+- 구직비자
+- 체류기간
+- 외국인고용
+- 이직
+---
+E-7-4 숙련기능인력이 회사를 옮기려고 D-10 구직비자로 바꿀 때 받는 체류기간이 지침 변경으로 절반으로 줄었다. 처음 신청 시 3개월을 받고, 이후 한 차례 3개월만 추가 연장되어 최대 6개월이다. 공식 안내 시점과 현장 적용 시점에 혼선이 있으나 출입국 실무에서는 이미 최대 6개월 규정이 엄격히 적용되고 있다. 외국인 직원을 D-10 상태에서 채용하려는 사업주는 상대의 잔여 구직기간이 짧다는 점을 전제로 고용허가·비자변경 서류를 빠르게 준비해야 한다. 퇴사 예정인 E-7-4 직원에게도 퇴사 전 다음 직장을 확보하도록 미리 알려야 체류 단절을 막을 수 있다.

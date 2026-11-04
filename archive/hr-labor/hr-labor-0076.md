@@ -1,0 +1,39 @@
+---
+id: hr-labor-0076
+domain: hr-labor
+claim: 근로자가 1명뿐이거나 하루·사흘만 일한 단기 근무자라도 임금을 줄 때 임금총액·구성항목·계산방법·공제내역이 적힌 임금명세서를 서면이나
+  전자문서로 교부해야 하며, 교부하지 않으면 근로자가 노동청에 신고할 수 있고 과태료가 부과된다.
+status: verified
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=v0Wkpp5BDIM
+  author: 왕노무사TV
+  seen: '2026-11-03'
+  quote: 특히 급여명세서를 안 주면 노동청에 신고할 수 있다.
+  source: 왕노무사TV [노동법알려Dream]
+- url: https://www.threads.com/@full_nomusa/post/DeiXNoqn70f
+  author: 윤보름노무사
+  seen: '2026-11-03'
+  quote: 근무기간이 짧더라도 임금을 지급할 때는 급여명세서를 함께 교부해야 합니다.
+  source: 윤보름노무사 (Threads)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-05-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제48조 제2항
+  effective: '2021-11-19'
+contributor: null
+tags:
+- 임금명세서
+- 과태료
+- 1인사업장
+- 급여
+mentions: 2
+verified_by: 독립 2곳 weight 1.6
+---
+임금명세서 교부 의무는 2021년 11월 19일 시행된 근로기준법 제48조 제2항에 따라 상시근로자 수와 관계없이 모든 사업장에 적용됩니다. 근로자가 한 명뿐인 사업장도 예외가 아니며, 미교부 시 건당 과태료가 나오므로 매달 쌓이면 금액이 커집니다. 명세서에는 임금 총액, 항목별 금액(기본급·수당), 계산 방법, 공제 내역을 적고 서면·이메일·카톡 등 전자문서로 줘도 됩니다. 근로자는 포괄임금 추가수당이나 체불을 다툴 때 명세서 미교부를 함께 신고하는 경우가 많으므로, 급여 지급일마다 자동 발송되도록 급여 프로그램에 설정해 두는 것이 안전합니다.

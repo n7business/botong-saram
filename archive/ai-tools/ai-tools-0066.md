@@ -1,0 +1,29 @@
+---
+id: ai-tools-0066
+domain: ai-tools
+claim: 에이전트의 성공 기준은 AI가 아니라 내가 '매일 6시 30~50분 도착', '화면이 1.5초 이상 멈추면 안 됨'처럼 측정 가능한 수치로
+  정하고, 완성까지 한 달에서 반년을 잡고 매일 하나씩 고쳐 나간다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=yh05xGAUyRc
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-03'
+  quote: 길게는 반년, 짧게는 한 달 이상이 소요됩니다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 성공 기준
+- 에이전트
+- 유지보수
+- 검증
+---
+에이전트가 잘 됐는지 판단하는 기준은 AI가 아니라 사용하는 사람만 정할 수 있다. 특허 에이전트라면 매일 아침 6시 30~50분 사이 도착, 특허 번호는 최근 몇 년 이내로 제한처럼 기준을 숫자로 적는다. 모션이라면 장면마다 줌인·줌아웃 하나 이상, 1.5초 이상 멈춤 금지, 텍스트·장면 번호 삽입 금지처럼 적는다. 기준은 한 번에 만들어지지 않고 마음에 안 들 때마다 고치기를 100번쯤 반복해야 완성되며, 짧게는 한 달 길게는 반년 이상 걸리고 쓸 때마다 유지보수가 필요하다. '30분 만에 딸깍' 같은 포모성 콘텐츠에 휩쓸리지 말고 하루에 하나씩 만들어 조금씩 업데이트한다.

@@ -1,0 +1,33 @@
+---
+id: law-basics-0051
+domain: law-basics
+claim: PPL 계약서에 위약금 조항과 별도의 손해배상 조항이 함께 있으면 위약금이 법원이 감액할 수 없는 '위약벌'로 해석될 수 있으므로, '위약금은
+  손해배상액의 예정으로 한다'는 문장을 넣고 대행사가 계약을 깰 때도 같은 구조의 위약금을 적용하게 맞춰야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=IJmVRSwwMNg
+  author: 권단 변호사 DKL
+  seen: '2026-11-03'
+  quote: 위약금은 손해 배상에게 예정으로 한다.
+  source: 권단 변호사 DKL | AI 스타트업 & 크리에이터 IP
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민법
+  article: 제398조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 위약금
+- 위약벌
+- PPL
+- 계약서
+- 손해배상액예정
+---
+민법은 위약금을 원칙적으로 손해배상액의 예정으로 추정하고, 이 경우 금액이 과하면 법원이 감액할 수 있다. 그러나 한 계약서에 '위반 시 위약금, 그리고 별도로 손해배상'이 같이 있으면 대법원 전원합의체 판례에 따라 그 위약금이 위약벌로 해석되고, 위약벌은 법원이 깎을 수 없다. '나중에 법원이 깎아 주겠지' 하고 센 위약금에 사인하면 감액 길이 막힐 수 있다. 크리에이터만 무거운 위약금을 지는 구조라면 대행사 쪽에도 같은 단계·같은 구조의 위약금을 넣어야 한다.

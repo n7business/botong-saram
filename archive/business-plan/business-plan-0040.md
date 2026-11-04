@@ -1,0 +1,31 @@
+---
+id: business-plan-0040
+domain: business-plan
+claim: 전남광주 소재 수산물 생산·가공업체가 2026-11-13까지 이메일(PDF)로 신청하면 2026 푸드페어(부산 벡스코, 11-26~29)
+  부스 임차료·장치비·홍보비를 기업당 최대 300만원까지 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127620
+  author: 전남광주통합특별시·전라남도중소기업일자리경제진흥원
+  seen: '2026-11-03'
+  quote: 부스 임차료, 시설 장치비 및 홍보비 등 지원(기업당 최대 300만원 이내)
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-03-03'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 박람회참가지원
+- 수산물
+- 전남광주
+- 푸드페어
+- 마감2026-11-13
+verified_by: 공식 출처
+---
+전라남도중소기업일자리경제진흥원의 2026년 수산물 직거래 장터·박람회 참가 지원 사업으로, 이번 대상 행사는 부산 벡스코에서 열리는 2026 푸드페어(부산식품박람회, 11-26~29)다. 전남광주 소재 수산물 생산·가공업체가 대상이며 부스 임차료, 시설 장치비, 홍보비 등을 기업당 최대 300만원 이내로 지원한다. 신청은 jys0903@jepa.kr로 신청서류를 PDF 파일로 보내야 하며 기간은 2026-11-02~11-13이다. 박람회 참가비 전액이 아니라 상한이 있으므로 부스 규모를 지원 한도에 맞춰 잡는 것이 좋다. 문의는 061-288-3842다.

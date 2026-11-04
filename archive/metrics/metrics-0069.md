@@ -1,0 +1,32 @@
+---
+id: metrics-0069
+domain: metrics
+claim: 법인차의 업무 사용은 회사가 입증해야 하며 운행일지와 하이패스 기록만으로는 인정받지 못해 전액 대표자 상여로 처분될 수 있으므로, 거래처
+  방문·회의 등 업무 목적을 뒷받침하는 객관적 자료를 함께 남긴다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=hfm6xG0pC1A
+  author: 이상화세무사의 모래세무 (@nicetax)
+  seen: '2026-11-03'
+  quote: 업무 사용의 입증 책임은 회사에 있다.
+  source: 이상화세무사의 모래세무 (@nicetax)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 법인세법
+  article: 제67조(시행령 제106조)
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 법인차
+- 소득처분
+- 대표자상여
+- 입증책임
+---
+업무 사용을 입증할 책임은 회사에 있습니다. 한 여행업 법인은 운행일지와 하이패스 기록만 냈다가 객관적 확인이 안 된다는 이유로 해당 금액이 전액 대표자 상여로 처리되었고, 2025년 8월 조세심판원도 청구를 기각했습니다. 귀속이 불분명한 금액도 대표자 상여로 처분되며, 다른 소득에 더해져 대표의 세율 구간을 올릴 수 있습니다. 자녀를 임원으로 올려도 보험 요건만 채울 뿐이고 실제 업무 사용 여부는 따로 따집니다. 명목상 임원이면 오히려 문제가 커집니다. 거래처 방문 기록·회의록·일정처럼 운행기록과 맞춰 볼 수 있는 자료를 함께 보관합니다.

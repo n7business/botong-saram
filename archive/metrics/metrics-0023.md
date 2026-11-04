@@ -1,0 +1,30 @@
+---
+id: metrics-0023
+domain: metrics
+claim: 상가를 볼 때 에어컨 실외기 놓을 자리와 실내기까지의 거리를 미리 확인하고, 거치대 제작·배관 연장 추가금으로 에어컨 1대당 20~30만
+  원을 재무 계획에 더 잡는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=Y8r8uRIsfw4
+  author: 사군카페인 (@sa_caffeine)
+  seen: '2026-11-03'
+  quote: 에어컨 1대당 20~30만 원의 추가금을 재무 계획에 반영한다.
+  source: 사군카페인 (@sa_caffeine)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 에어컨
+- 급배수
+- 숨은비용
+- 상가확인
+- 창업비용
+---
+에어컨은 본체 가격만 보면 안 된다. 실외기를 바닥에 둘 수 없으면 거치대를 따로 제작해야 하고, 실외기에서 실내기까지 배관 길이(미터 수)에 따라 추가 비용이 붙는다. 경험 있는 사람은 상가를 볼 때 실외기 위치, 본체 위치, 그 사이 거리까지 계산한다. 같은 이유로 급수·배수 라인을 원하는 위치로 빼려면 바닥을 파야 하는 경우가 있어 인테리어 견적에 갑자기 추가금이 붙으니 급배수 위치도 함께 확인한다.

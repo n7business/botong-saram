@@ -1,0 +1,29 @@
+---
+id: ai-tools-0103
+domain: ai-tools
+claim: Claude Code 설치 명령어를 넣은 뒤 진행이 멈춘 것처럼 보여도 5분 정도는 기다려 보고, 설치 후 'claude' 명령어를 인식하지
+  못하면 설치 경로를 환경 변수(PATH)에 등록한 뒤 터미널을 완전히 껐다 켠다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=QacldO_VQww
+  author: 짐코딩 (@gymcoding)
+  seen: '2026-11-03'
+  quote: 5분 정도 기다려 보고 그때도 변화가 없다면
+  source: 짐코딩 (@gymcoding)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- claude-code
+- 설치
+- 환경변수
+- 문제해결
+---
+설치 스크립트는 진행 표시 없이 내려받아 실행되므로 멈춘 것처럼 보여도 실제로는 설치 중일 가능성이 큽니다. 네트워크 환경에 따라 시간이 더 걸릴 수 있으니 5분 정도 기다린 뒤에도 변화가 없을 때 다른 원인을 확인합니다. 설치는 끝났는데 'claude'를 인식하지 못하면 윈도우는 C드라이브부터 bin 폴더까지의 경로를 복사해 제어판 > 시스템 > 고급 시스템 설정 > 환경 변수 > 시스템 변수 Path > 편집 > 새로 만들기에 붙여 넣습니다. 맥은 설치 마지막에 안내되는 명령어 한 줄을 실행하면 됩니다. 두 경우 모두 터미널을 완전히 닫았다가 다시 열어야 적용됩니다. 안내 문구가 어려우면 오류가 뜬 터미널 화면을 캡처해 ChatGPT·Gemini·Claude 채팅에 붙여 넣고 해결 방법을 물어보세요.

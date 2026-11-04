@@ -1,0 +1,30 @@
+---
+id: business-plan-0026
+domain: business-plan
+claim: 창조경제혁신센터 지원(멘토링·창업교육·투자설명회·판로·글로벌진출)은 예비창업자와 7년 이내 창업기업을 대상으로 연중 수시 모집이므로 1분기
+  대형 공고를 놓친 사업자도 지역 센터에 직접 방문하거나 통합 누리집에서 신청할 수 있다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.kised.or.kr/menu.es?mid=a10211030000
+  author: 창업진흥원
+  seen: '2026-11-03'
+  quote: 예비창업자, 창업기업(7년 이내) 사업공고 연중 수시
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-03-03'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 창조경제혁신센터
+- 연중수시
+- 멘토링
+- 판로
+- 창업진흥원
+---
+전국 17개 창조경제혁신센터는 예비창업자와 업력 7년 이내 창업기업에 멘토링, 창업교육, 투자설명회, 지역 창업자 간 네트워킹, 마케팅·판로개척, 글로벌진출을 지원합니다. 예산은 333.62억원이며 사업공고가 연중 수시라 정해진 접수 기간이 따로 없습니다. 신청은 각 지역 센터 직접 방문 또는 통합홈페이지(ccei.creativekorea.or.kr)와 센터별 홈페이지에서 할 수 있습니다. 예비창업패키지 같은 1분기 공고를 놓쳤거나 선정에서 떨어진 경우 지역 센터 프로그램으로 멘토링과 투자 연계를 먼저 받아 다음 공고를 준비하는 경로로 쓸 수 있습니다. 센터마다 프로그램이 다르므로 자기 지역 센터 공지를 먼저 확인해야 합니다.

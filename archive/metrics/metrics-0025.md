@@ -1,0 +1,30 @@
+---
+id: metrics-0025
+domain: metrics
+claim: 권리금 협상을 마친 뒤에도 임대인이 새 임차인에게 보증금·월세를 올릴 수 있으므로, 권리금 합의 전에 임대인의 신규 계약 조건을 먼저
+  확인한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=Y8r8uRIsfw4
+  author: 사군카페인 (@sa_caffeine)
+  seen: '2026-11-03'
+  quote: 권리금 협상이 끝난 뒤에 임대인이 조건을 바꿀 수 있으니 조심해야 한다.
+  source: 사군카페인 (@sa_caffeine)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 권리금
+- 보증금
+- 임대인
+- 상가계약
+- 협상순서
+---
+상가 계약은 임대인과 보증금·월세를, 현재 사장과 권리금을 각각 협상하며 보통 권리금 협상이 먼저 진행된다. 그런데 권리금 협상을 끝낸 뒤 임대인이 '새 세입자부터는 보증금을 1억에서 1억 5천으로 올리겠다'고 조건을 바꿔 계약이 무산된 사례가 있다. 권리금 금액을 합의하기 전에 중개인을 통해 임대인이 신규 계약에 적용할 보증금·월세·계약기간을 서면으로 확인한다. 이전 세입자의 계약 조건이 그대로 승계된다고 가정하고 자금을 짜면 안 된다.

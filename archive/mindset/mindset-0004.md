@@ -1,0 +1,28 @@
+---
+id: mindset-0004
+domain: mindset
+claim: 투자 자본이 없다면 바로 매출이 나는 용역으로 먼저 현금을 벌고, 그 뒤에 서비스로 넘어가야 창업 초기 리스크를 거의 없앨 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=wiNTYHAzX8o
+  author: AI서대표(똑똑한 개발자 대표) — 양실장의 바이브코딩대학
+  seen: '2026-11-03'
+  quote: 용역은 시작하는 즉시 매출이 발생하는 비즈니스
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 용역
+- 서비스전환
+- 리스크관리
+- 창업자원칙
+---
+돈을 버는 방식은 용역, 서비스, 매각 세 가지입니다. 이 셋은 돈이 들어오는 시점이 다릅니다. 용역은 시작하는 즉시 매출이 나지만, 서비스는 시장 조사·베타·유저 테스트를 거쳐야 해서 매출이 뒤로 밀리고 성공 확률도 낮습니다. 용역 단계를 건너뛰려면 자본이 필요하기 때문에, 투자받은 스타트업만 바로 서비스 개발에 들어가기도 합니다. 이 대표는 용역으로 시작해 창업 직후부터 돈을 벌었고, 서비스를 시작하면서 리스크와 실패가 커졌다고 말합니다.

@@ -1,0 +1,32 @@
+---
+id: law-basics-0047
+domain: law-basics
+claim: 기획안을 보내는 창작자는 원본을 직접 보관하고 언제 누구에게 무엇을 보냈는지 기록하며, 비밀로 지켜야 할 내용이라면 상대의 동의서에 서명하기
+  전에 비밀유지계약을 먼저 요청해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=8x6rGf40B98
+  author: 권단 변호사 DKL
+  seen: '2026-11-03'
+  quote: 비밀로 지켜야 할 내용이라면 동의서가 아니라 비밀유지계약을 먼저 요청해야 합니다.
+  source: 권단 변호사 DKL | AI 스타트업 & 크리에이터 IP
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 부정경쟁방지 및 영업비밀보호에 관한 법률
+  article: 제2조 제1호 차목
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 창작자
+- 비밀유지계약
+- 기획안
+- 아이디어도용
+---
+제작사 쪽 동의서에는 보통 '별도 비밀유지계약이 없으면 비밀유지의무도 없다'는 취지가 들어가므로, 동의서만 쓰고 보내면 비밀유지를 주장하기 어렵다. 비밀로 보호할 내용이라면 동의서가 아니라 비밀유지계약을 먼저 요청해야 한다. 발송 시점·상대·내용 기록은 나중에 접근가능성을 입증하는 근거가 된다. 시대 배경이나 주인공 직업 같은 아이디어 차원의 요소만 겹치는 경우는 저작권 침해로 인정받기 어렵다는 점도 알아야 한다.
