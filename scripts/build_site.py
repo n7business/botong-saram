@@ -151,6 +151,7 @@ claude plugin install botong-saram@botong-saram</pre><button class="copy" id="co
   <h2>각 영역에서 보통 사람에게 주기적으로<br>지식을 업데이트해 주실 분.</h2>
   <p class="lead">당신이 쓰고, 우리가 검증해 배포합니다. 항목마다 이름과 링크가 붙어 플러그인을 쓰는 모든 사람의 AI가 당신을 인용합니다. 기준은 정확한 팩트와 뛰어난 인사이트, 둘 다입니다.</p>
   <p class="more"><a class="pill" href="https://yeoksam836.com/#visit" target="_blank" rel="noopener"><span>기고 문의</span><span>↗</span></a></p>
+  <p class="lead" id="takedown" style="font-size:13px;margin-top:28px;color:var(--muted,#666)"><b>원작자 삭제 요청</b> — 내 글이나 계정이 실려 있는데 빼고 싶으시면 계정 주소만 <a href="mailto:founder@yeoksam836.com?subject=%EB%B3%B4%ED%86%B5%EC%82%AC%EB%9E%8C%20%EC%82%AD%EC%A0%9C%20%EC%9A%94%EC%B2%AD">founder@yeoksam836.com</a> 또는 <a href="https://github.com/n7business/botong-saram/issues/new?template=takedown.md" target="_blank" rel="noopener">GitHub 이슈</a>로 알려 주세요. 확인 후 바로 수집에서 빼고 관련 항목을 모두 지웁니다. 원문은 출처 링크와 함께 짧게만 인용하며, 인용된 원문의 권리는 원작자에게 있습니다.</p>
 </section>
 </main>
 

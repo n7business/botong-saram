@@ -14,6 +14,13 @@ from common import *
 REPO = "n7business/botong-saram"
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/plugin/skills"
 STALE_DAYS = 7
+TAKEDOWN = """## 원작자 삭제 요청
+보통사람에 내 글이나 계정이 실려 있는데 빼고 싶으시면 계정 주소만 알려 주세요. 확인 후 바로 수집 대상에서 빼고 관련 항목을 모두 지웁니다.
+- 이메일: founder@yeoksam836.com
+- GitHub 이슈: https://github.com/n7business/botong-saram/issues/new?template=takedown.md
+
+보통사람은 원문 일부를 출처 링크와 함께 짧게 인용합니다. CC-BY-4.0은 보통사람이 쓴 정리·구성에만 적용되며, 인용된 원문의 권리는 원작자에게 있습니다.
+"""
 DISCLAIMER = "> 이 영역은 일반 정보이며 개별 사안은 노무사·세무사·변호사·행정사 등 전문가 확인이 필요합니다. 법령은 시행일 기준으로 달라질 수 있습니다.\n"
 
 def speakers(c, idx):
@@ -119,7 +126,7 @@ codex plugin marketplace add {REPO}
 
 자동 업데이트를 못 켜는 환경이어도, 스킬이 빌드일보다 {STALE_DAYS}일 넘게 지나면 GitHub 최신본을 먼저 읽도록 되어 있습니다.
 
-영역별 항목: """ + " · ".join(summary) + "\n\n기고자 모집 → https://yeoksam836.com\n", encoding="utf-8")
+영역별 항목: """ + " · ".join(summary) + "\n\n기고자 모집 → https://yeoksam836.com\n" + "\n" + TAKEDOWN, encoding="utf-8")
     heartbeat("build", note=f"skills={built} {TODAY}")
     log(f"빌드 완료 skills={built} {TODAY}")
 

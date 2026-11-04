@@ -11,3 +11,10 @@
 - 배포: yeoksam836.com 상단 메뉴 「보통사람」 (준비 중)
 
 프로젝트 시작: 2026-11-03
+
+## 원작자 삭제 요청
+보통사람에 내 글이나 계정이 실려 있는데 빼고 싶으시면 계정 주소만 알려 주세요. 확인 후 바로 수집 대상에서 빼고 관련 항목을 모두 지웁니다.
+- 이메일: founder@yeoksam836.com
+- GitHub 이슈: https://github.com/n7business/botong-saram/issues/new?template=takedown.md
+
+보통사람은 원문 일부를 출처 링크와 함께 짧게 인용합니다. CC-BY-4.0은 보통사람이 쓴 정리·구성에만 적용되며, 인용된 원문의 권리는 원작자에게 있습니다.
