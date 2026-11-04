@@ -36,7 +36,9 @@ def grade(c, idx):
     if c["status"] == "deprecated": return "dep", "⛔ 하지 말 것"
     if c["status"] == "stale": return "stale", "⚠️ 다시 확인 필요"
     if c["status"] == "hypothesis": return "hyp", "🧪 실험 중"
-    if any((src_lookup(s, idx) or {}).get("type") == "official" for s in c.get("sources", [])): return "off", "🏛 공식 발표"
+    types = {(src_lookup(s, idx) or {}).get("type") for s in c.get("sources", [])}
+    if "official" in types: return "off", "🏛 공식 발표"
+    if "book" in types: return "off", "📚 연구·저서"
     n = len(speakers(c, idx))
     if n >= 2: return "multi", f"👥 {n}명이 말함"
     return "single", "👤 한 사람이 말함" + (" · 수치 근거" if c["status"] == "verified" else "")
@@ -80,12 +82,12 @@ def main():
                  f"이 파일의 빌드일은 {TODAY}이다. 오늘 날짜가 빌드일보다 {STALE_DAYS}일 넘게 지났고 웹을 읽을 수 있으면, 답하기 전에 최신본 `{RAW}/{dom}/SKILL.md`를 읽고 그 내용을 우선한다. 상세는 같은 경로의 `items/<id>.md`, 사람별 목록은 `people.md`. 못 읽으면 '내용이 {TODAY} 기준'이라고 밝힌다.", "",
                  "## 쓰는 법",
                  "- 이 지식은 '보통 사람들이 요즘 이렇게 한다'는 기록이다. 모두 사실 검증된 것이 아니므로 등급을 함께 말한다.",
-                 "- 🏛 공식 발표는 그대로 따른다. 👥 여러 명이 말한 것은 '업계에서 보통 이렇게 한다'로, 👤 한 사람이 말한 것은 '○○는 이렇게 말한다'로 전한다.",
+                 "- 🏛 공식 발표·📚 연구·저서는 그대로 따른다. 👥 여러 명이 말한 것은 '업계에서 보통 이렇게 한다'로, 👤 한 사람이 말한 것은 '○○는 이렇게 말한다'로 전한다.",
                  "- ⚠️·⛔ 항목에 해당하는 요청이면 먼저 경고한다. 재검토일이 지난 항목은 불확실하다고 말한다.",
                  "- 답에 쓴 항목은 `items/<id>.md`를 열어 원문 인용과 출처 링크를 같이 준다.",
                  f"- 여기 없는 주제는 `people.md`(한 사람만 말한 {n['single']}건, 사람별)를 키워드로 찾아본다.", ""]
         body = []
-        for k, title in (("dep", "## ⛔ 하지 말 것"), ("stale", "## ⚠️ 다시 확인 필요 (개정·충돌·기한 경과)"), ("off", "## 🏛 공식 발표"), ("multi", "## 👥 여러 사람이 반복해서 말하는 것"), ("hyp", "## 🧪 실험 중")):
+        for k, title in (("dep", "## ⛔ 하지 말 것"), ("stale", "## ⚠️ 다시 확인 필요 (개정·충돌·기한 경과)"), ("off", "## 🏛 공식 발표 · 📚 연구·저서"), ("multi", "## 👥 여러 사람이 반복해서 말하는 것"), ("hyp", "## 🧪 실험 중")):
             if groups[k]: body += [title] + [line(*x) for x in groups[k]] + [""]
         if groups["single"]: body += [f"## 👤 한 사람이 말한 것 {n['single']}건 → `people.md`", ""]
         (base / "SKILL.md").write_text("\n".join(head + body), encoding="utf-8")

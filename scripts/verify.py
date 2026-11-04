@@ -29,9 +29,11 @@ def main():
         ws = [src_weight(s, idx) for s in c.get("sources", [])]
         wsum = sum(w for w, _, _ in ws); has_official = any(o for _, o, _ in ws); all_licensed = all(l for _, _, l in ws) if ws else False
         n_ind = independent(c.get("sources", []))
+        has_book = any((src_lookup(s, idx) or {}).get("type") == "book" for s in c.get("sources", []))
         if st == "candidate":
             ok = False
             if c["evidence"] == "policy" and has_official: ok = True; note = "공식 출처"
+            elif has_book and c["evidence"] != "anecdote": ok = True; note = "연구·저서"  # 11/4 민서: 조나 버거 책 등은 공식 출처급
             elif c["evidence"] in ("consensus", "observed") and n_ind >= d["min_sources"] and wsum >= d["min_weight"]: ok = True; note = f"독립 {n_ind}곳 weight {wsum:.1f}"
             elif c["evidence"] == "observed" and not d.get("legal") and max((w for w, _, _ in ws), default=0) >= d.get("single_observed_weight", 0.6):
                 ok = True; note = "실무자 실측(단일 출처)"  # 11/3 민서 결정: 비법률 영역은 수치 제시 실무자 글 1곳이면 승격

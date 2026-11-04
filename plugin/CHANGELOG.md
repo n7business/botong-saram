@@ -2,7 +2,8 @@
 
 ## 2026-11-04
 - **merged** 4건: marketing-0076 (+1), growth-0072 (+1), growth-0042 (+1), marketing-0069 (+1)
-- **candidate** 8건: marketing-0171 (빌리쌤 (@billy___ssam)), marketing-0172 (빌리쌤 (@billy___ssam)), marketing-0173 (빌리쌤 (@billy___ssam)), marketing-0174 (빌리쌤 (@billy___ssam)), marketing-0175 (빌리쌤 (@billy___ssam)), marketing-0176 (빌리쌤 (@billy___ssam)), marketing-0177 (빌리쌤 (@billy___ssam)), marketing-0178 (빌리쌤 (@billy___ssam))
+- **candidate** 15건: marketing-0171 (빌리쌤 (@billy___ssam)), marketing-0172 (빌리쌤 (@billy___ssam)), marketing-0173 (빌리쌤 (@billy___ssam)), marketing-0174 (빌리쌤 (@billy___ssam)), marketing-0175 (빌리쌤 (@billy___ssam)), marketing-0176 (빌리쌤 (@billy___ssam)), marketing-0177 (빌리쌤 (@billy___ssam)), marketing-0178 (빌리쌤 (@billy___ssam)), marketing-0179 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0180 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0181 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0182 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0183 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0184 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)), marketing-0185 (조나 버거 『컨테이저스』 (와튼스쿨, STEPPS))
+- **verified** 6건: marketing-0179 (연구·저서), marketing-0180 (연구·저서), marketing-0181 (연구·저서), marketing-0182 (연구·저서), marketing-0183 (연구·저서), marketing-0185 (연구·저서)
 
 ## 2026-11-03
 - **candidate** 968건: hr-labor-0001 (고용노동부 보도·공지), hr-labor-0002 (고용노동부 보도·공지), hr-labor-0003 (고용노동부 보도·공지), ai-tools-0001 (Anthropic Engineering 블로그), ai-tools-0002 (Anthropic Engineering 블로그), ai-tools-0003 (Anthropic Engineering 블로그), ai-tools-0004 (Anthropic Engineering 블로그), ai-tools-0005 (Anthropic Engineering 블로그), ai-tools-0006 (Anthropic Engineering 블로그), ai-tools-0007 (Claude Code 공식 문서), ai-tools-0008 (Claude Code 공식 문서), ai-tools-0009 (Claude Code 공식 문서), ai-tools-0010 (Claude Code 공식 문서), ai-tools-0011 (Claude Code 공식 문서), ai-tools-0012 (Claude Code 공식 문서)

@@ -256,6 +256,15 @@ marketing:
   cadence: 매일 3~10개
   why: "'스레드 알려주는 남자'. 업로드 시간대(아침 6~9시·저녁 20~24시), 첫 30분 댓글 운영, 외부 링크는 본문 말고 댓글에, 5천 미만은 댓글·이상은 브랜딩 등 스레드 운영 수칙을 목록형으로 반복 게시. 2026-11-04 Aside로 프로필·최근 글 20개 확인."
   influencer: true
+- name: 조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)
+  type: book
+  url: https://leadershipcenter.wharton.upenn.edu/?p=848
+  author: Jonah Berger (와튼스쿨 마케팅 교수)
+  topic: word-of-mouth
+  weight: 1.0
+  cadence: 고정 자료(연 1회 확인)
+  follow: 0
+  why: "와튼스쿨 마케팅 교수 조나 버거의 『컨테이저스: 전략적 입소문』(원서 Contagious: Why Things Catch On, 한국어판 문학동네·정윤미 옮김) 핵심인 입소문 6원리(STEPPS: 사회적 화폐·계기·감정·눈에 띔·실용적 가치·이야기)를 저자 본인이 와튼 리더십센터에 정리한 글(2015-01-15). 사례·실행 단계 포함. 고정 자료라 연 1회 개정 확인."
 growth:
 - name: 중소벤처기업부 통계자료 (소상공인실태조사)
   type: official

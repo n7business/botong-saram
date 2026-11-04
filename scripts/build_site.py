@@ -4,7 +4,7 @@
 import json, base64, html, re
 from common import *
 
-TYPE_KO = {"threads": "Threads", "instagram": "인스타그램", "youtube": "유튜브", "blog": "블로그", "newsletter": "뉴스레터", "official": "공식", "x": "X"}
+TYPE_KO = {"threads": "Threads", "instagram": "인스타그램", "youtube": "유튜브", "blog": "블로그", "newsletter": "뉴스레터", "official": "공식", "book": "책·연구", "x": "X"}
 STATUS_KO = {"verified": "검증됨", "candidate": "후보", "hypothesis": "검증 중", "stale": "주의", "deprecated": "하지 말 것"}
 
 def esc(s): return html.escape(str(s if s is not None else ""))
