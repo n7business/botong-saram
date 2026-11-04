@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 실제 계약이나 수출 성과는 상담 이후의 협의에 따라 달라지지만, 잠재 고객과 협력 파트너를 발굴하는 계기가 될 것으로 보인다.
   source: 산업일보
+- url: https://www.hellot.net/news/article.html?no=116030
+  author: 최재규 기자(헬로티)
+  seen: '2026-11-05'
+  quote: 대기업·중견기업 수요처 30곳과 로봇 공급기업 50곳이 참여해
+  source: 헬로티
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

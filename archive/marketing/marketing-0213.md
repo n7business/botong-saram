@@ -1,0 +1,28 @@
+---
+id: marketing-0213
+domain: marketing
+claim: 스레드 글은 첫 두세 줄 안에 무엇에 관한 이야기인지 보여 줘야 하며, 주제를 너무 오래 숨기면 처음 보는 사람이 이탈할 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20948
+  author: 마인드셋 l 브랜딥
+  seen: '2026-11-05'
+  quote: 하지만 무엇에 관한 이야기인지 너무 오래 숨기면 이탈할 수 있습니다.
+  source: 오픈애즈
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 훅
+- 첫문장
+- 이탈
+---
+'이거 생각보다 진짜 중요함'으로 시작하면 궁금증은 생기지만 주제를 오래 숨기면 이탈할 수 있습니다. '카페바이럴 원고에서 제품을 추천하기 전에 선택 기준부터 만들어야 한다고 생각함'처럼 쓰면 주제가 바로 드러납니다. 후킹과 맥락은 반대가 아니어서, 주제를 밝히면서도 궁금하게 만들 수 있습니다. 짧게 쓰더라도 맥락을 잘라내지 말고 필요한 맥락만 압축하세요.

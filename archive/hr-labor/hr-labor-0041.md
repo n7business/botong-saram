@@ -11,8 +11,13 @@ sources:
   seen: '2026-11-03'
   quote: 빌려준 돈은 따로 받아야 합니다. 월급에서 일방적으로 못 뺍니다.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.threads.com/@angela_cpla/post/DfHtiGIkxt8
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 월급에서 일방적으로 못 뺍니다.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

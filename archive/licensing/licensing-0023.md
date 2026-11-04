@@ -12,7 +12,7 @@ sources:
   quote: 일반 제조업 사업주도 신청 가능하오니 허가서 신청 시 참고하시기 바랍니다.
   source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

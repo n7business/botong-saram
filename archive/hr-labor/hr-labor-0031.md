@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 임금채권은 3년이 지나면 시효로 사라져요.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.threads.com/@angela_cpla/post/DfOni5skzXX
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 임금채권은 3년이 지나면 시효로 사라져요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

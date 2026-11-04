@@ -13,7 +13,7 @@ sources:
   quote: 5인 미만 사업장도 근로계약서, 최저임금, 주휴일, 퇴직금 등 지켜야 할 기준이 있습니다.
   source: 윤보름노무사 (Threads)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

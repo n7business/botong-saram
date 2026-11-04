@@ -13,7 +13,7 @@ sources:
   quote: 상시근로자가 5명 이상이 되면 연차, 근로시간, 가산수당, 해고 관련 기준 등 추가로 챙겨야 할 항목이 생깁니다.
   source: 윤보름노무사 (Threads)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -1,0 +1,29 @@
+---
+id: growth-0107
+domain: growth
+claim: AI 에이전트를 처음 둔다면 가끔 쓰는 업무보다 매일 시간을 아껴 주는 메일함 담당부터 만들고, '정리해'가 아니라 '돈을 벌고 아낄
+  것'이라는 목표를 주어 묻혀 있던 수익 기회까지 찾게 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/48666
+  author: 모건 드바운(조쉬의 뉴스레터 인터뷰)
+  seen: '2026-11-05'
+  quote: 그냥 '메일함 정리해'가 아니라, 정리해서 뭘 해결하려는 건지까지요.
+  source: EO 플래닛
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 메일함
+- 시간절약
+- 수익기회
+---
+메일함 에이전트에게 하루 2~3번 메일을 읽고 분류하게 한 뒤, 볼 만한 것은 Slack이나 문자로 알리고 답장은 초안까지만 쓰게 한다. 사례 대표의 설정은 아침 6시 분류, Slack 요약, 금요일 미발송 초안 점검이다. 사례에서는 Gmail 필터로 서비스 메일 폴더에 들어가 대표가 보지 못했을 협찬 제안을 에이전트가 찾아 알려 주었다. 대표가 권하는 첫 세 자리는 수익, 메일함, 마케팅이고 목표는 하루 30분 절약이지만, 실측치가 아니라 대표가 권하는 목표치다.

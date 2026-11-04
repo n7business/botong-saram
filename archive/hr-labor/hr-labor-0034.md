@@ -13,7 +13,7 @@ sources:
   quote: 단순히 오늘 출근한 직원 수만 세는 게 아니라는 점입니다.
   source: 윤보름노무사 (Threads)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

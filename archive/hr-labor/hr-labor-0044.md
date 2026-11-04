@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-03'
   quote: 무제한 야근 이용권이 아니라 선불 카드예요.
   source: 왕노무사TV [노동법알려Dream]
+- url: https://www.threads.com/@angela_cpla/post/DfE5rgwE8Hq
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 실제 야근한 만큼 따져서 받을 수 있어요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

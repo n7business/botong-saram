@@ -13,7 +13,7 @@ sources:
   quote: 사업주 고용허가서비스는 더 나은 서비스 제공을 위해 고용24로 통합했습니다.
   source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

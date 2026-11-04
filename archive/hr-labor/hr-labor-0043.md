@@ -18,7 +18,7 @@ sources:
   quote: '"퇴사하려면 인수인계로 3개월 더 일해라" 이거, 따를 법적 의무 없습니다'
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

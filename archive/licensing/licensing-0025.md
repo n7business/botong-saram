@@ -18,7 +18,7 @@ sources:
   quote: (건설업, 농축산업, 임업, 어업, 서비스업 등 소수 업종) `26.08.12(수) ~ `26.08.19(수)
   source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

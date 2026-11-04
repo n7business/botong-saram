@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 2026년부터 조선업 쿼터는 제조업에 포함됩니다.
   source: 고용허가제 EPS
+- url: https://www.eps.go.kr/eo/NotiR.eo?bbswSn=3835
+  author: 외국인고용관리시스템(EPS) 담당자
+  seen: '2026-11-05'
+  quote: 2026년부터 조선업 쿼터는 제조업에 포함됩니다.
+  source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

@@ -1,0 +1,30 @@
+---
+id: growth-0131
+domain: growth
+claim: 환불·배송 규정처럼 정확해야 하는 내용을 AI로 상담하려면 일반 생성형 AI의 기억에 맡기지 말고, 등록한 문서를 먼저 검색해 답하는
+  RAG 방식을 쓰고 정책이 바뀌면 그 문서를 바로 고쳐야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://channel.io/kr/blog/articles/what-is-rag-4ce98b5a
+  author: PETER (채널톡 SDR)
+  seen: '2026-11-05'
+  quote: 정책이 바뀌거나 새로운 FAQ가 생겼을 때 해당 문서만 업데이트하면 AI 답변에 즉시 반영됩니다.
+  source: 채널톡 블로그
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI상담
+- RAG
+- 할루시네이션
+- FAQ
+- 정책문서
+---
+일반 생성형 AI는 내 회사의 내부 규정이나 학습 시점 이후 바뀐 정책을 알지 못해, 환불 기한 같은 내용을 틀리게 안내할 수 있습니다. RAG 방식은 답하기 전에 등록된 FAQ·약관·운영 문서를 검색해 근거로 삼으므로 이런 오답을 줄여 줍니다. 정책이 바뀌면 재학습 없이 해당 문서만 수정하면 답변에 반영됩니다. 참고한 문서를 추적할 수 있는 도구라면 오답이 나왔을 때 원인 문서를 찾아 고칠 수 있습니다. 오답 가능성이 사라지는 것은 아니므로 원문의 '걱정하지 않아도 된다'는 표현을 그대로 믿지 말고, 중요한 정책 문의는 실제로 질문해 답을 확인해야 합니다. 이 글은 RAG 기반 상담 AI를 판매하는 회사의 블로그 글입니다.

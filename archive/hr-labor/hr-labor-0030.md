@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 계약서가 없어도 됩니다. 입금 내역, 카톡, 출퇴근 기록이 증거예요.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.threads.com/@angela_cpla/post/DfOni5skzXX
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 입금 내역, 카톡, 출퇴근 기록이 증거예요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

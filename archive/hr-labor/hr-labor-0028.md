@@ -18,7 +18,7 @@ sources:
   quote: 이 말 세 번 들었으면 더 기다리지 마세요
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: null
 supersedes: null
 superseded_by: null

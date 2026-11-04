@@ -17,7 +17,7 @@ sources:
   quote: 전산 마감 종료일 20시 기준으로 채점하며, 반드시 **고용허가서발급신청**이 처리 완료되어야 합니다.
   source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

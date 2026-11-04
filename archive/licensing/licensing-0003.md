@@ -12,7 +12,7 @@ sources:
   quote: 용접, 금형 구인 직종 사업주는 4회차 고용허가서 발급 신청 시 해당 국가 기능인력을 우선 알선받으실 수 있으니
   source: 고용허가제 EPS
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

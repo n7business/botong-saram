@@ -13,7 +13,7 @@ sources:
   quote: use scarcity and exclusivity to make people feel like insiders
   source: 조나 버거 『컨테이저스』 (와튼스쿨, STEPPS)
 first_seen: '2026-11-04'
-last_confirmed: '2026-11-04'
+last_confirmed: '2026-11-05'
 review_by: '2027-01-03'
 supersedes: null
 superseded_by: null

@@ -16,7 +16,7 @@ first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
 review_by: null
 supersedes: null
-superseded_by: null
+superseded_by: licensing-0058
 experiment: null
 law_ref:
   law: 외국인근로자의 고용 등에 관한 법률

@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-03'
   quote: 계약서의 명칭보다 실제로 어떻게 일했는지가 더 중요합니다.
   source: 윤보름노무사 (Threads)
+- url: https://www.threads.com/@angela_cpla/post/DfOni5skzXX
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 실제로 지시받고 일했다면 근로자로 인정될 수 있어요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-05'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

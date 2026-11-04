@@ -1,0 +1,30 @@
+---
+id: marketing-0225
+domain: marketing
+claim: 낯선 사람에게 자신을 설명하는 영업이 힘든 내향적 사업자는 명함 돌리기와 불편한 자리 대신 글을 쌓아 두면, 글이 자신을 설명하고 안
+  맞는 사람을 걸러 주어 찾아온 사람을 길게 설득할 필요가 줄어든다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@careernomad_/post/DfPVkRpH_W0
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-05'
+  quote: 근데 글을 쌓아두면 그 일을 글이 대신한다.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 글쓰기
+- 내향인
+- 콘텐츠 자산
+- 스레드
+- 블로그
+---
+억지로 네트워킹 자리에 나가 자신을 증명하는 데 에너지를 쓰기 어렵다면 온라인에 글을 쌓는 쪽으로 영업 방식을 옮긴다. 쌓인 글은 내가 자는 동안에도 나를 설명하고, 나와 맞지 않는 사람을 미리 걸러 준다. 화자는 스레드와 블로그에 하루 30개씩 글을 올려 1만 개를 쌓았으며, 자신을 찾아온 사람은 이미 자신을 알고 온다고 말한다. 다만 이는 화자 한 사람의 경험이고 문의 수나 전환율 같은 수치는 제시되지 않았다. 하루 30개는 화자의 발행량일 뿐 필수 기준으로 제시된 것은 아니다.

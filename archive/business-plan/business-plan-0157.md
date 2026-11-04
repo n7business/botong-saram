@@ -1,0 +1,30 @@
+---
+id: business-plan-0157
+domain: business-plan
+claim: 가격 저항을 받으면 값부터 내리지 말고, 내 제품을 썼을 때 고객의 하루 매출이나 비용이 어떻게 달라지는지 계산해 보여 주어 대화의 주제를
+  제품 가격에서 고객의 돈 계산으로 바꿔야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48721
+  author: Peter Shin (서민수 태웅메디컬 USA 대표 파이어사이드 정리)
+  seen: '2026-11-05'
+  quote: 가격을 내리기 전에 병원의 계산서부터 다시 짜자.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 가격
+- 영업
+- 고객가치
+- ROI
+- 사업전략
+---
+예를 들어 고객인 병원이 지금 1건에 1,000만원을 벌 때 시술 시간이 절반으로 줄면, 같은 시간에 2건을 해서 2,000만원을 벌 수 있다고 보여 주는 식이다. 태웅메디컬은 독점 품목을 처음부터 가장 비싸게 팔면서 이 계산을 가격의 근거로 삼았다. 반대로 기존 시장 품목은 처음에 위축되어 가격을 낮게 잡았다가 매년 올렸고, 지금은 경쟁 제품과 비슷한 수준이 됐다. 계산에 넣는 시간 절감과 매출 증가 수치는 고객의 실제 운영 방식으로 확인해야 하며, 고객사마다 조건이 다를 수 있다. 미국 의료기기 회사 한 곳의 사례이므로 다른 업종에서는 고객의 수익 구조에 맞게 계산식을 바꿔야 한다.
