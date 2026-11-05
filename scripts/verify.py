@@ -4,6 +4,7 @@
 - consensus/observed + 독립 출처 ≥ min_sources 그리고 weight 합 ≥ min_weight → verified
 - 법·세무 영역: law_ref 있고 모든 출처가 공식 또는 자격자여야 verified
 - anecdote는 candidate 유지 · verified 후 review_by 지나면 stale
+- 주장에 신청·모집 마감일(…까지/마감, A~B)이 있고 그날이 지나면 expired(플러그인·사이트 제외)
 사용: verify.py [--dry]"""
 import argparse
 from common import *
@@ -26,6 +27,14 @@ def main():
     for c in claims():
         if c["status"] == "merged": continue
         d = doms[c["domain"]]; st = c["status"]; new = st; note = ""
+        if st == "expired": continue
+        dl = deadline_of(c["claim"])
+        if dl and c.get("first_seen") and dl < date.fromisoformat(str(c["first_seen"])): dl = None  # 수집 시점에 이미 지난 기간은 마감이 아님
+        if dl and dl < today and st != "deprecated":  # 신청·모집 마감 지난 공고는 플러그인에서 뺀다(파일은 보관)
+            log(f"{c['id']}: {st} → expired (마감 {dl} 지남)"); c["status"] = "expired"; c["review_by"] = dl.isoformat()
+            record_change("expired", c["id"], f"마감 {dl} 지남")
+            if not a.dry: write_claim(c)
+            continue
         ws = [src_weight(s, idx) for s in c.get("sources", [])]
         wsum = sum(w for w, _, _ in ws); has_official = any(o for _, o, _ in ws); all_licensed = all(l for _, _, l in ws) if ws else False
         n_ind = independent(c.get("sources", []))
@@ -42,7 +51,7 @@ def main():
                 elif not all_licensed: ok = False; note = "자격 미확인 출처 포함"
             if ok:
                 c["verified_by"] = note
-                new = "verified"; c["review_by"] = (today + timedelta(days=d["review_days"])).isoformat()
+                new = "verified"; c["review_by"] = min(today + timedelta(days=d["review_days"]), dl or date.max).isoformat()
         elif st == "verified" and c.get("review_by") and date.fromisoformat(c["review_by"]) < today:
             if c.get("last_confirmed") and date.fromisoformat(c["last_confirmed"]) + timedelta(days=d["review_days"]) >= today:
                 c["review_by"] = (date.fromisoformat(c["last_confirmed"]) + timedelta(days=d["review_days"])).isoformat(); note = "재확인으로 연장"

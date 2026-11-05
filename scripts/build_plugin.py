@@ -64,7 +64,7 @@ def main():
     if (PLUGIN / "skills").exists(): shutil.rmtree(PLUGIN / "skills")  # 지워진 항목이 남지 않게 매번 새로
     (PLUGIN / ".claude-plugin").mkdir(parents=True, exist_ok=True)
     for dom, d in doms.items():
-        cs = [c for c in claims(dom) if c["status"] != "merged"]
+        cs = [c for c in claims(dom) if c["status"] not in ("merged", "expired")]
         if not cs: continue
         base = PLUGIN / "skills" / dom; (base / "items").mkdir(parents=True, exist_ok=True)
         groups = {k: [] for k in ("off", "multi", "single", "hyp", "stale", "dep")}

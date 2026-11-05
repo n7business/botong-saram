@@ -151,3 +151,18 @@ def run_claude(prompt, allowed_tools=None, model=None, timeout=900):
         return json.loads(m.group(1))
 
 def sha(s): return hashlib.sha1(s.encode("utf-8")).hexdigest()[:12]
+
+
+_DL = re.compile(r"(\d{4})[-.년]\s*(\d{1,2})[-.월]\s*(\d{1,2})일?(?:\s*\d{1,2}:\d{2})?(?:\s*[~∼-]\s*(?:(\d{4})[-.년]\s*)?(\d{1,2})[-.월]\s*(\d{1,2})일?(?:\s*\d{1,2}:\d{2})?)?(\s*(?:\([^)]{0,8}\)\s*)?(?:까지|마감))?")
+def deadline_of(text):
+    """주장 문장 속 신청·모집 마감일. 'YYYY-MM-DD까지/마감' 또는 'A~B' 기간의 끝날만 마감으로 본다(시행일 '부터'는 제외)."""
+    best = None
+    for m in _DL.finditer(text or ""):
+        y, mo, d, y2, mo2, d2, tail = m.groups()
+        try:
+            if mo2: dl = date(int(y2 or y), int(mo2), int(d2))
+            elif tail: dl = date(int(y), int(mo), int(d))
+            else: continue
+        except ValueError: continue
+        best = max(best, dl) if best else dl
+    return best

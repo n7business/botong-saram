@@ -2,7 +2,7 @@
 """① 수집. sources.yaml의 소스를 돌며 inbox/<날짜>/에 원문 저장.
 official·blog·newsletter → HTTP, SNS(threads·instagram·youtube·x) → aside exec.
 사용: collect.py [--domain marketing] [--only 이름부분] [--no-aside] [--dry]"""
-import argparse, json, os, re, subprocess, sys
+import argparse, json, os, re, shutil, subprocess, sys
 from common import *
 
 SNS = {"threads", "instagram", "youtube", "x"}
@@ -56,7 +56,7 @@ URL: {url}
 형식: [{{"url": "문서 URL", "author": "발행 주체", "date": "문서에 표시된 날짜 또는 오늘", "text": "본문 전체(요약하지 말 것)"}}]
 로그인·클릭 외 상호작용 금지. 읽기만."""
 
-YT = os.path.expanduser("~/Library/Python/3.9/bin/yt-dlp")
+YT = shutil.which("yt-dlp") or next((p for p in ("/opt/homebrew/bin/yt-dlp", os.path.expanduser("~/Library/Python/3.9/bin/yt-dlp")) if os.path.exists(p)), "yt-dlp")
 YT_PROMPT = """유튜브 영상 {url} 을 열고 (설명란 더보기 → "스크립트 표시"로 자막을 읽거나, 자막이 없으면 영상 내용을 끝까지 확인) 화자가 말하는 **실행 가능한 노하우·주장을 빠짐없이** 정리하세요. 재생 외 좋아요·구독·댓글 등 상호작용 금지.
 다른 말 없이 JSON만: {{"url": "{url}", "title": "제목", "date": "업로드일 YYYY-MM-DD", "text": "화자의 주장을 순서대로 모두 쓴 본문(요약하지 말고 주장마다 2~3문장, 수치·조건·예외 포함)", "quotes": ["화자가 실제로 말한 문장 그대로 5개(각 50자 이내)"]}}"""
 
@@ -114,8 +114,10 @@ def main():
                     if not via_aside and len(data.get("text", "")) < 600 or (src.get("follow", 5) and not data.get("items") and src.get("type") == "official"):
                         if a.no_aside: log(f"JS 페이지, aside 필요 {dom}/{src['name']}"); n_skip += 1; continue
                         log(f"HTTP 본문 부족 → aside 폴백 {dom}/{src['name']}"); data = fetch_aside(src)
-                h = sha(data.get("text", ""))
                 key = f"{dom}/{src['name']}"
+                if not data.get("text", "").strip():  # 빈 본문은 저장·해시 갱신하지 않음(다음 날 다시 시도)
+                    n_err += 1; log(f"실패 {key}: 빈 본문(0자)"); continue
+                h = sha(data.get("text", ""))
                 if seen.get(key) == h: log(f"변경 없음 {key}"); n_skip += 1; continue
                 rec = {"domain": dom, "source": src, "fetched_at": datetime.now().isoformat(timespec="seconds"), **data}
                 (out_dir / f"{dom}__{slug(src['name'])}.json").write_text(json.dumps(rec, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -124,7 +126,7 @@ def main():
             except Exception as e:
                 n_err += 1; log(f"실패 {dom}/{src['name']}: {e}")
     merge_state("collect_seen", seen); merge_state("collect_links", seen_links)
-    heartbeat("collect", ok=n_err == 0, note=f"ok={n_ok} skip={n_skip} err={n_err}")
+    heartbeat("collect", ok=n_err <= 5, note=f"ok={n_ok} skip={n_skip} err={n_err}")
     log(f"수집 완료 ok={n_ok} skip={n_skip} err={n_err}")
 
 if __name__ == "__main__": main()

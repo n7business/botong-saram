@@ -19,7 +19,7 @@ def main():
             people[(dom, s["name"])] = {"dom": dom, "name": s["name"], "type": s.get("type"), "url": s.get("url"), "author": s.get("author"), "followers": s.get("followers"), "why": s.get("why", ""), "license": bool(s.get("license")), "weight": s.get("weight"), "claims": 0, "verified": 0, "last": None}
     items = []
     for c in cs:
-        if c["status"] == "merged": continue
+        if c["status"] in ("merged", "expired"): continue
         srclist = []
         for s in c.get("sources", []):
             m = src_lookup(s, idx); pname = m["name"] if m else (s.get("author") or norm_url(s["url"]).split("/")[0])
