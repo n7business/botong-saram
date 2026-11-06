@@ -17,7 +17,7 @@ URL: {url}
 ANSI = re.compile(r"\x1b\[[0-9;]*m")
 def last_json_array(out):
     """Aside 출력(ANSI·로그 섞임)에서 마지막으로 파싱되는 JSON 배열을 찾는다."""
-    txt = ANSI.sub("", out); dec = json.JSONDecoder()
+    txt = ANSI.sub("", out); dec = json.JSONDecoder(strict=False)  # 본문 속 탭·줄바꿈 허용
     for i in range(len(txt) - 1, -1, -1):
         if txt[i] != "[": continue
         try:
@@ -85,9 +85,12 @@ def fetch_aside(src, n=15, days=7, page=None):
     page = (src.get("mode") == "page" or src.get("type") not in SNS) if page is None else page
     prompt = (PAGE_PROMPT if page else ASIDE_PROMPT.replace("최근 7일", f"최근 {days}일")).format(url=src["url"], n=int(src.get("follow", 6)) if page else n)
     cmd = ["aside", "exec", "--account", "u0", "--effort", "low", prompt]
-    r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+    for attempt in (1, 2):  # aside가 가끔 결과 JSON 없이 끝나거나 페이지를 빈 배열로 돌려줌 → 1회 재시도
+        r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
+        posts = last_json_array(r.stdout) if r.returncode == 0 else None
+        if posts or (posts == [] and not page) or attempt == 2: break
+        log(f"  aside 재시도 {src.get('name')}")
     if r.returncode != 0: raise RuntimeError(f"aside rc={r.returncode}: {r.stderr[-500:]}")
-    posts = last_json_array(r.stdout)
     if posts is None: raise RuntimeError("aside 결과에 JSON 없음")
     if not posts and not page: return {"posts": [], "text": "", "no_new": True}  # 최근 n일 새 글 없음(정상)
     return {"posts": posts, "text": "\n\n".join(f"[{p.get('date')}] {p.get('author')} {p.get('url')}\n{p.get('text')}" for p in posts)}
