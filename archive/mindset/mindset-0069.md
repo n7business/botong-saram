@@ -1,0 +1,28 @@
+---
+id: mindset-0069
+domain: mindset
+claim: 처음 만난 사람에게 직업·나이·사는 곳부터 묻지 말고, 메뉴나 현장 분위기처럼 지금 함께 겪는 상황을 질문하며 대화를 시작한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=3mfTw-hXBF8
+  author: 안대장
+  seen: '2026-11-06'
+  quote: 자연스러운 상황 질문하세요. 그게 가장 편합니다.
+  source: 안대장TV (@angyuho85)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스몰토크
+- 영업
+- 대화
+- 안대장
+---
+안대장은 영업과 사업으로 사람을 만날 때 대화 소재를 상대 신상에서 찾지 말라고 한다. 대신 '여기 처음 오신 거예요?', '메뉴가 진짜 많은데 뭐가 맛있어요?'처럼 눈앞의 상황을 물어보라고 권한다. 어설픈 외모·몸매 칭찬은 평가로 받아들이는 사람도 있으니 주의해야 한다. 화자 개인의 경험에서 나온 방법이다.

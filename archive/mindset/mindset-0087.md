@@ -1,0 +1,29 @@
+---
+id: mindset-0087
+domain: mindset
+claim: 사군카페인은 추출 세팅을 원두의 최적 맛만으로 정하지 않고, 정석 추출과 사장이 원하는 빠른 추출을 나란히 맛보게 한 뒤 그 카페의 상황에
+  맞춰 사장이 결정하게 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=WotfRs_lDg0
+  author: 사군카페인
+  seen: '2026-11-06'
+  quote: 그 공간 안에서는 사장님이 정하는게 정답인 거예요.
+  source: 사군카페인 (@sa_caffeine)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 카페
+- 추출세팅
+- 의사결정
+- 원칙
+---
+15~20초 추출을 원하는 사장에게 원두량과 추출 비율은 똑같이 두고, 30~35초에 뽑은 커피와 분쇄도를 풀어 18초에 뽑은 커피를 비교해 보여 줬다. 중강배전 원두로 뽑은 정석 커피는 단맛과 애프터테이스트가 잘 나왔고 18초 커피는 밍밍했다. 다만 과하게 볶은 원두는 빨리 내려도 성분이 녹아 나오므로 빠른 추출이 통하기도 한다. 점심에 한 시간에 100잔을 쳐내야 하는 곳이라면 맛과 함께 카페 상황을 봐야 하며, 최종 결정은 사장의 몫이다.

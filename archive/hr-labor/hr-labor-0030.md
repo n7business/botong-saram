@@ -18,7 +18,7 @@ sources:
   quote: 입금 내역, 카톡, 출퇴근 기록이 증거예요.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -1,0 +1,32 @@
+---
+id: hr-labor-0112
+domain: hr-labor
+claim: 공휴일이나 노동절이 직원의 원래 쉬는 날과 겹치면 추가로 쉬는 날이나 수당을 주지 않아도 되므로, 급여를 계산하기 전에 그날이 직원의
+  근무일인지부터 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=ZCPq9JjQX7U
+  author: 왕노무사TV
+  seen: '2026-11-06'
+  quote: 쉬는 날 걸리면 꽝이다.
+  source: 왕노무사TV [노동법알려Dream]
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제55조 제2항
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 공휴일
+- 노동절
+- 유급휴일
+- 근무일
+---
+유급휴일의 혜택은 공휴일이 근무일에 걸릴 때만 생깁니다. 월~금 근무자는 토요일 공휴일에 혜택이 없고, 근무일인 금요일이 노동절이면 하루를 더 쉬면서 월급을 그대로 받습니다. 월·화·수·토·일 근무자는 반대로 금요일 노동절에 혜택이 없고, 토요일 공휴일에는 쉬면서 월급을 그대로 받습니다. 시급제도 원래 쉬는 요일에 걸리면 받을 수당이 없습니다. 같은 공휴일이라도 직원마다 결과가 다르니 직원별 근무 요일을 기준으로 확인하세요.

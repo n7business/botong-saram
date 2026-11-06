@@ -1,0 +1,29 @@
+---
+id: ai-tools-0204
+domain: ai-tools
+claim: AI에게 같은 지적을 두 번 하게 되면 기억이나 문서에 맡기지 말고, 구조·타입·린트·CI·테스트 중 가능한 가장 강제력 높은 곳에서
+  자동으로 막아야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4027/
+  author: 이정민
+  seen: '2026-11-06'
+  quote: 그리고 가능한 가장 높은 층에서 막습니다.
+  source: 요즘IT
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 린트
+- CI
+- 반복실수
+---
+pstack의 correct 스킬은 최근 커밋, 되돌린 커밋, 리뷰 코멘트를 읽어 두 번 이상 나온 실수를 묶습니다. 먼저 구조로 실수를 불가능하게 만들고, 안 되면 타입·린트·CI, 그다음 테스트로 막으며, 문서는 마지막에 씁니다. 새 검사는 과거의 실제 실수에서 실패하는지 확인합니다. 스타일 가이드는 사람이 리뷰에서 지적해야만 지켜지는 가장 약한 층입니다. 코드 주석 금지 같은 개별 규칙은 그 팀의 선택이므로 그대로 따라 할 필요는 없습니다.

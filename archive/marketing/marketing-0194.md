@@ -13,7 +13,7 @@ sources:
   quote: 저작권 보호 오디오를 완전히 교체하면 저작권 침해 신고가 자동으로 취소됩니다.
   source: YouTube 크리에이터 (한국 공식 채널)
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: '2027-01-04'
 supersedes: null
 superseded_by: null

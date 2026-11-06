@@ -1,0 +1,34 @@
+---
+id: metrics-0097
+domain: metrics
+claim: 법인 돈을 개인 자금으로 옮길 계획이라면 급여·배당은 4대보험 포함 약 60%, 자기 회사 주식 매각은 지방세 포함 27.5%가 빠진다는
+  화자의 수치를 기준으로 세후 금액을 비교한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=QiZjtf9adiQ
+  author: 오늘부터 회계사
+  seen: '2026-11-06'
+  quote: 법인에 있는 돈을 급여나 배당으로 꺼내면 절반 이상, 4대보험까지 치면 약 60%가 빠지지만, 내 회사 주식을 매각하면 지방세를 포함해도
+    27.5%다.
+  source: 오늘부터 회계사 (@오늘부터회계사)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 소득세법
+  article: 제104조
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 엑시트
+- 주식매각
+- 배당
+- 급여
+- 세후현금
+---
+개인 자금 목표액은 세후 기준으로 역산합니다. 화자의 계산으로는 개인 손에 50억 원을 쥐려면 세금 약 50%를 감안해 회사에서 100억 원을 꺼내야 합니다. 법인 영업이익이 50억 원이라고 현금이 50억 원 쌓이는 것도 아니므로 이익과 현금을 구분해서 봅니다. 금액이 커지면 급여·배당과 주식 매각의 세금 차이가 수십억 원이 될 수 있지만, 주식을 팔면 다른 투자자를 맞아야 한다는 변수가 생깁니다. 위 세율은 화자가 제시한 값이고 개별 조건에 따라 달라질 수 있으므로 실행 전에 세무 전문가에게 확인합니다.

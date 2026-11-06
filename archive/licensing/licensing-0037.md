@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: E-7-4로 변경하는 것은 올해 12월 31일까지 한국어 없이 신청할 수 있지만
   source: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+- url: https://www.youtube.com/watch?v=-kCQsA13sYE
+  author: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+  seen: '2026-11-06'
+  quote: 이때 필요한 점수는 한국어 없이 150점 이상이다.
+  source: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

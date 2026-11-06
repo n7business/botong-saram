@@ -1,0 +1,29 @@
+---
+id: licensing-0094
+domain: licensing
+claim: 정부24 민원을 선불전자지급수단으로 결제하면 결제한 달 안에서만 시스템 결제취소가 되고 자동환불도 신청일부터 7일 이내이면서 같은 달에
+  처리불가로 바뀐 경우에만 되므로, 월말 결제는 월이 바뀌기 전에 처리 상태를 확인해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.92
+sources:
+- url: https://plus.gov.kr/portal/custcntr/utztngd/elstlmgd
+  author: 행정안전부 정부24
+  seen: '2026-11-06'
+  quote: '선불전자지급수단 : 민원 신청일로부터 7일 이내이면서 동일월에 신청건의 처리상태가 처리불가로 변경된 경우'
+  source: 정부24
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 정부24
+- 선불전자지급수단
+- 결제취소
+- 자동환불
+---
+선불전자지급수단의 시스템 결제취소는 결제월과 취소월이 같을 때만 가능합니다. 자동환불은 민원 신청일부터 7일 이내이면서 같은 달에 처리불가로 바뀐 경우에 적용됩니다. 따라서 월말에 결제하면 7일이 지나지 않았어도 달이 바뀌어 자동환불 조건을 벗어날 수 있습니다. 시스템 취소 기간을 넘겨 환불을 요청하면 민원인이 따로 요청한 계좌로 환불됩니다.

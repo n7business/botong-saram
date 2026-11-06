@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-05'
   quote: 2027년 스마트 제조혁신 지원사업 통합공고를 붙임과 같이 게시합니다.
   source: 중소벤처기업부 사업공고
+- url: https://www.smart-factory.kr/usr/np/nm/ma/noticeMatterDetail
+  author: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+  seen: '2026-11-06'
+  quote: '[2027년도 스마트제조혁신 지원사업]을 다음과 같이 사전 안내합니다.'
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: '2027-02-03'
 supersedes: null
 superseded_by: null

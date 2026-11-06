@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 세 번째는 공구의 안정성입니다.
   source: 기계맨 CNC MCT (@GIGYEMAN)
+- url: https://www.youtube.com/watch?v=udDv1ZLyb1c
+  author: 기계맨 CNC MCT (@GIGYEMAN)
+  seen: '2026-11-06'
+  quote: 돈을 더 주더라도 성능 좋은 공구를 쓰는 게 더 이득일 수 있다.
+  source: 기계맨 CNC MCT (@GIGYEMAN)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

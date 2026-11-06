@@ -1,0 +1,29 @@
+---
+id: business-plan-0196
+domain: business-plan
+claim: 고객 인터뷰 메모는 행동·불편함·필요함(니즈)·원함(원트)·질문 다섯 칸으로 나눠 정리해야 하며, 고객의 질문은 아직 설명하지 못한 부분을
+  드러내므로 질문 칸을 꼭 따로 둬야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=LBQkgzimELM
+  author: 정석Biz
+  seen: '2026-11-06'
+  quote: 질문칸은 꼭 따로 두는 게 좋습니다.
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 고객인터뷰
+- 인사이트
+- MVP
+- 모두의창업
+---
+인터뷰 메모를 그대로 두면 문장 30개에 그치므로 고객의 말을 다섯 칸으로 나눈다. 예를 들어 행동 칸에는 '요즘 뜨는 장소로 찾기 시작해요', 질문 칸에는 '이 데이터를 어떻게 믿을 수 있죠?'가 들어간다. 그다음 반복되는 말을 고객이 끝내고 싶은 일 한 문장으로 묶는다. 이 인사이트 문장이 있어야 무엇을 만들고 무엇을 버릴지 정할 수 있다. 인터뷰 요약을 인사이트로 착각하지 않도록 주의한다.

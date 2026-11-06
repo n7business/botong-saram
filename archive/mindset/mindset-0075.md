@@ -1,0 +1,37 @@
+---
+id: mindset-0075
+domain: mindset
+claim: 책 쓰기처럼 본업 사이에 밀리기 쉬운 일은 남는 시간에 하려 하지 말고 아침 시간을 먼저 떼어 두며, 태오는 새벽 6시에 일어나 2시간씩
+  퇴고한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@teo_daily_business/post/DfQqyPzI0ps
+  author: 태오의 실행비즈니스 (@teo_daily_business)
+  seen: '2026-11-06'
+  quote: 아침 시간을 안빼면 도저히 못쓰겠더라구
+  source: 태오의 실행비즈니스 (@teo_daily_business)
+- url: https://www.threads.com/@teo_daily_business/post/DfWPVUyIwk1
+  author: 태오의 실행비즈니스 (@teo_daily_business)
+  seen: '2026-11-06'
+  quote: '일주일동안 새벽 6시에 일어나서
+
+    2시간동안 퇴고만 하려고 한다'
+  source: 태오의 실행비즈니스 (@teo_daily_business)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 습관
+- 시간관리
+- 아침시간
+- 집필
+mentions: 2
+---
+태오는 내년 초 출간을 목표로 책을 쓰면서, 아침 시간을 빼지 않으면 도저히 쓸 수 없다고 말한다. 450페이지 초안을 퇴고할 때는 일주일 동안 새벽 6시에 일어나 2시간씩 퇴고만 하기로 정했다. 같이 책을 쓰는 사람들과 6시 기상 챌린지도 하고 있으며, 일을 많이 하고 시계를 봐도 아직 오전 10시라고 전한다. 다만 한 사람의 경험담이고 성과 수치는 없으므로, 내 일정에 맞는 시간대와 기간을 정해 시험해 본다.

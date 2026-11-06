@@ -1,0 +1,32 @@
+---
+id: business-plan-0173
+domain: business-plan
+claim: 뷰티·패션·라이프·푸드 소비재를 수출하는 중소기업은 2026-11-17까지 참여기업 매칭 신청서를 첨부해 K-BUSINESS DAY 2026에
+  신청하면 참가비 없이 해외바이어와 1:1 상담을 하고 샘플발송비를 100만원 한도로 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.93
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127713
+  author: 중소기업중앙회·글로벌에프엠(기업마당 공고)
+  seen: '2026-11-06'
+  quote: 바이어 사전 매칭, 통역 및 샘플 발송 지원 등(참가비 무료)
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2026-11-17'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 수출
+- 해외바이어
+- 수출상담회
+- 소비재
+- 샘플발송비
+- 2026-11-17마감
+verified_by: 공식 출처
+---
+국내 수출중소기업 중 유망 소비재(뷰티, 패션, 라이프, 푸드) 품목이 대상이다. 참가비는 무료이며 바이어 사전 매칭, 1:1 대면 상담, 통역, 제품 쇼케이스 전시, 수출 유관기관 현장 컨설팅을 지원한다. 매칭 바이어에게 보내는 샘플 발송비는 100만원 한도로 지원한다. 신청은 2026-11-04부터 11-17까지 중소기업 해외전시포탈에서 온라인으로 하며, 공고는 참여기업 매칭 신청서를 반드시 첨부하라고 안내한다. 행사 일시와 장소는 수집한 공고 요약에 없으므로 신청 전에 주관사 글로벌에프엠(02-2042-3030)에 확인해야 한다.

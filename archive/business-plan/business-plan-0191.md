@@ -1,0 +1,30 @@
+---
+id: business-plan-0191
+domain: business-plan
+claim: 광주 AI 창업동 입주 신청 기업은 최고·최저 점수를 뺀 종합평점이 70점 이상이어야 선정되고 고득점 순으로 희망 호실이 배정되므로,
+  신청서의 1~3순위 호실을 면적과 임대료까지 따져 정해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1125961
+  author: 인공지능산업융합사업단(벤처스퀘어 게재)
+  seen: '2026-11-06'
+  quote: 위원별 평점 중 최고/최저 점수 제외한 종합평점이 70점 이상인 입주신청 기업을 평점순서에 따라 입주예정기업으로 선정
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI창업동
+- 광주
+- 입주
+- 평가기준
+- 마감2026-11-23
+---
+입주평가위원회의 위원별 평점 중 최고·최저 점수를 제외한 종합평점이 70점 이상인 기업을 평점 순서에 따라 입주예정기업으로 선정합니다. 호실은 종합평점이 높은 순으로 희망 1순위부터 배정하고, 배정되지 않으면 후순위 호실 등을 배정합니다. 인공지능 분야 관련 기업의 평가 항목은 적합성, 기술성, 재무구조, 사업성, 집적단지 기여도 등입니다. 세부 평가 결과는 공개되지 않으며 마감은 2026-11-23 17:00입니다.

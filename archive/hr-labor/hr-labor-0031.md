@@ -18,7 +18,7 @@ sources:
   quote: 임금채권은 3년이 지나면 시효로 사라져요.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

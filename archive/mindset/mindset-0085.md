@@ -1,0 +1,29 @@
+---
+id: mindset-0085
+domain: mindset
+claim: 커리어노마드는 사람에 치여 지치면 혼자 틀어박혀 일하고 사람이 그리우면 강연·커피챗·네트워킹에 나가는 식으로, 혼자 일하는 시기와 사람을
+  만나는 시기를 번갈아 가져가는 것을 사업가의 방식으로 본다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.threads.com/@careernomad_/post/DfXXO3ZiLWF
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-06'
+  quote: 그렇게 혼자 통과한 구간에서만 근육이 붙는다는 걸 알기 때문이다.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사업가멘탈
+- 혼자일하기
+- 네트워킹
+- 습관
+---
+화자는 이 주기를 폐관수련과 개방수련이라고 부릅니다. 사람에게 기가 빨리면 혼자 틀어박혀 일하고, 사람 냄새가 그리우면 강연장·커피챗·네트워킹 자리로 나갑니다. 혼자 통과한 구간에서만 근육이 붙는다는 것이 이 방식의 이유입니다. 팀원과 멘토가 있어도 책임과 성장의 고통은 대표가 대신 맡길 수 없다는 관점이 바탕에 있습니다. 구체적인 주기나 성과 수치는 제시되지 않았습니다.

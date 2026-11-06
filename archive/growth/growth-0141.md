@@ -1,0 +1,29 @@
+---
+id: growth-0141
+domain: growth
+claim: 팀에 AI 교육이나 도구 제작을 맡길 때는 실습 과제를 실제 반복 업무로 정하고, 교육 뒤 고도화 기간과 내부 담당자, 넘겨받을 산출물까지
+  미리 정해야 만든 도구가 첫 버전에서 멈추지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://eopla.net/magazines/48728
+  author: 조코딩AX파트너스
+  seen: '2026-11-06'
+  quote: 도구를 넘겨받을 사람이 처음부터 함께 작업해야 FDE가 떠난 뒤에도 공백이 없습니다.
+  source: EO 플래닛
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI도입
+- AI교육
+- 외주
+- 인수인계
+---
+교육에서 만든 도구는 대부분 첫 버전이라, 데이터 형식이 다르거나 규칙이 다른 예외를 처리하지 못하면 사람들은 예전 방식으로 돌아갑니다. 실습 과제는 부서별 반복 업무와 병목에서 고르세요. 도구를 넘겨받을 담당자는 처음부터 작업에 함께 참여시키세요. 외부에 맡긴다면 동작하는 도구뿐 아니라 구조 설명 문서, 문제 대응 순서, 개선 주기까지 계약에 적으세요. 다만 이 글은 AI 교육·컨설팅 업체가 30곳 넘는 기업을 교육한 경험을 바탕으로 쓴 것이라, 자사 서비스 홍보 성격이 섞여 있음을 감안해야 합니다.

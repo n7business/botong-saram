@@ -13,7 +13,7 @@ sources:
   quote: 대상기업은 원금상환 거치기간을 1년 연장할 수 있다.
   source: 중소벤처기업부 보도자료
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: '2027-05-04'
 supersedes: null
 superseded_by: null

@@ -1,4 +1,4 @@
-# 사이트가 네이버 검색에 나오지 않으면 robots.txt와 방화벽의 검색로봇(Yeti) 차단 여부와 페이지의 noindex 설정을 먼저 확인해 풀어야 한다.
+# 홈페이지가 네이버 검색에 안 뜨거나 정보가 갱신되지 않으면 robots.txt, 방화벽·보안 플러그인의 검색로봇(User-Agent 'Yeti') 차단 여부, 페이지 meta robots의 noindex를 먼저 확인해 풀어야 하며, 로봇 차단이 필요할 때는 IP가 아니라 robots.txt로 해야 한다.
 
 🏛 공식 발표 · 네이버 서치어드바이저 가이드 (SEO 공식)
 
@@ -9,3 +9,5 @@ robots.txt와 웹 서버, 방화벽에서 네이버 검색로봇 Yeti의 접근�
 ## 출처
 - NAVER Corp. · 2026-11-05 · https://searchadvisor.naver.com/guide/seo-basic-intro
   > noindex가 표기된 페이지는 검색 반영에서 제외됩니다.
+- 네이버 서치어드바이저 · 2026-11-03 · https://searchadvisor.naver.com/guide/seo-basic-firewall
+  > 네이버 검색 서비스를 위해 웹 문서를 수집하는 검색로봇은 Yeti라고 불리우며

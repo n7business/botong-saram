@@ -1,0 +1,29 @@
+---
+id: mindset-0092
+domain: mindset
+claim: 사업은 불안하므로, 가능할 때 지분 일부를 팔아서라도 개인 현금을 확보해 회사가 망해도 삶의 하방이 보존되게 하는 것을 엑시트 판단 기준의
+  하나로 삼는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=QiZjtf9adiQ
+  author: 오늘부터 회계사
+  seen: '2026-11-06'
+  quote: 현금을 확보해 두면 인생의 하방이 이제 단단해지는 거죠.
+  source: 오늘부터 회계사 (@오늘부터회계사)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 엑시트
+- 현금확보
+- 지분매각
+- 리스크관리
+---
+화자는 가능할 때 현금을 확보해 두면 나중에 회사가 망해도 내 삶의 하방은 보존된다고 설명합니다. 15년 사업한 40대 중후반 대표는 사업을 계속하면서도 '비즈니스 인생의 중간 정산을 받고 싶다'고 표현했습니다. 지분을 조금 희생해 안전장치를 마련하면 마음 편하게 즐거운 일을 할 수 있다는 것입니다. 100% 주주라도 법인 돈은 내 돈으로 여기기 어려우므로, 세금을 내더라도 개인 계좌로 꺼내는 것이 중요하다고 봅니다.

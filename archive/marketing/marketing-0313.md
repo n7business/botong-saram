@@ -1,0 +1,30 @@
+---
+id: marketing-0313
+domain: marketing
+claim: 클로드와 힉스필드로 릴스를 AI 편집할 때는 고칠 것을 한꺼번에 쓰지 말고 한 번에 하나씩 요청해 결과를 확인하며 고쳐야 한다는 것이
+  화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=xZ-0U9keIPg
+  author: 인스타언니 초이픽스
+  seen: '2026-11-06'
+  quote: 한 번에 하나씩 적는다 생각하시고 자막 변경해 줘라고 적었습니다.
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 릴스
+- AI편집
+- 힉스필드
+- 클로드
+- 프롬프트
+---
+원본 영상을 클로드에 올리고 힉스필드 MCP의 카타나 기능을 쓰라고 지정한 뒤, 길이와 자막 사용법을 함께 알려 줍니다. 수정할 때는 '자막 변경해 줘'처럼 한 번에 하나씩 요청하고, 결과를 다시 들어 보며 다음 수정으로 넘어갑니다. 자막을 바꿔도 끝부분이 이상하면 음성이 잘린 것은 아닌지도 확인합니다. 화자의 귤 영상 사례에서는 받아쓰기·자르기·자막·렌더링만 하고 AI 생성을 쓰지 않아 크레딧이 들지 않았습니다. 단일 사례이고 원문에 도구 사용 링크가 함께 안내되어 있으므로, 비용은 쓰기 전에 직접 확인합니다.

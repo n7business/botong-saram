@@ -1,0 +1,30 @@
+---
+id: metrics-0089
+domain: metrics
+claim: 새 그라인더나 칼날을 교체한 그라인더는 처음 한두 달 동안 분쇄도 수치가 계속 내려가므로, 처음 맞춘 값을 고정값으로 여기지 말고 그
+  기간에는 수치 변화를 예상하고 다시 맞춘다.
+status: verified
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=WotfRs_lDg0
+  author: 사군카페인
+  seen: '2026-11-06'
+  quote: 칼날 때문에 그런 거다. 이거는 꼭 알아두시고요.
+  source: 사군카페인 (@sa_caffeine)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2027-05-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 카페
+- 그라인더
+- 분쇄도
+- 칼날마모
+verified_by: 실무자 실측(단일 출처)
+---
+날카로운 새 칼날이 원두 10kg, 20kg, 30kg을 갈면서 서서히 마모되고 자리를 잡기 때문에 수치가 내려간다. 말코닉은 처음 150~175였던 값이 나중에 90~100까지 내려갔고, 화자도 같은 원두와 같은 시간 레시피에서 150마이크론으로 시작해 지금은 약 90을 쓴다. 다른 그라인더도 7에서 맞췄다면 한두 달 사이 6, 5로 내려간다. 칼날을 바꾸지 않은 중고 그라인더는 수치가 그렇게 요동치지 않지만, 칼날을 새로 바꿨다면 같은 과정을 겪는다.

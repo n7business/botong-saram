@@ -1,0 +1,35 @@
+---
+id: law-basics-0094
+domain: law-basics
+claim: 중요정보고시 위반으로 과태료 사전통지를 받으면 의견제출기간 안에 과태료를 자진납부하거나 위반을 자진시정해야 감경된 금액을 적용받을 수
+  있다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.ftc.go.kr/www/selectBbsNttView.do?pageUnit=10&pageIndex=1&searchCnd=all&key=12&bordCd=3&searchCtgry=01,02&nttSn=48190
+  author: 공정거래위원회 소비자정책총괄과
+  seen: '2026-11-06'
+  quote: 의견제출기간 내에 과태료를 자진납부(「질서위반행위규제법」 제18조)하거나 자진시정
+  source: 공정거래위원회 보도자료
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2027-05-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 질서위반행위규제법
+  article: 제18조
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 과태료
+- 자진납부
+- 자진시정
+- 감경
+- 사전통지
+- 의견제출
+verified_by: 공식 출처
+---
+이번 결혼분야 점검에서는 과태료 부과 사실을 사전통지한 뒤 10일의 의견제출기간을 거쳐 최종 부과했다. 이 기간 안에 자진납부(질서위반행위규제법 제18조)하거나 자진시정(표시·광고의 공정화에 관한 법률 시행령 별표3 1. 일반기준 나. 4))한 경우 감경한 금액이 적용됐다. 사전통지를 받으면 먼저 통지서의 의견제출 기한을 확인하고, 그 안에 납부 또는 시정 여부를 결정해야 한다. 보도자료에는 구체적인 감경 비율이 나와 있지 않으므로 감경액은 통지 기관에 확인해야 한다.

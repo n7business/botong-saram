@@ -22,8 +22,13 @@ sources:
   seen: '2026-11-05'
   quote: 실제로 지시받고 일했다면 근로자로 인정될 수 있어요.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.youtube.com/watch?v=taJ9rF9UkPM
+  author: 달리는 노무사 (@runnomu)
+  seen: '2026-11-06'
+  quote: 이게 없다고 근로자성을 쉽게 부정할 수 없어
+  source: 달리는 노무사 (@runnomu)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

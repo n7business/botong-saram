@@ -13,8 +13,14 @@ sources:
   quote: Added a check that asks before a web or shell tool call sends your account
     email address to the network
   source: Claude Code 릴리스 노트 (CHANGELOG)
+- url: https://github.com/anthropics/claude-code/releases/tag/v2.1.317
+  author: ashwin-ant
+  seen: '2026-11-06'
+  quote: Added a check that asks before a web or shell tool call sends your account
+    email address to the network
+  source: Claude Code 릴리스 노트 (CHANGELOG)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: '2026-12-03'
 supersedes: null
 superseded_by: null
@@ -27,5 +33,6 @@ tags:
 - security
 - personal-data
 verified_by: 공식 출처
+mentions: 2
 ---
 2.1.317에서 웹 도구나 셸 명령이 사용자의 Claude 계정 이메일 주소를 네트워크로 전송하기 전에 묻는 확인 단계가 추가됐다. 일부 사이트는 자동화 클라이언트에 연락처를 요구하는데, 모델이 이에 응해 계정 이메일을 헤더나 URL에 넣으려 할 때 이 프롬프트가 뜬다. 본인이 명시적으로 이메일을 쓰라고 한 작업이 아니라면 거절하고 범용 클라이언트 이름을 쓰게 하는 것이 안전하다. 외부 서비스로 나간 이메일은 캐시·색인될 수 있어 되돌리기 어렵다. 이 보호를 받으려면 2.1.317 이상으로 업데이트해야 한다.

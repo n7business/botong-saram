@@ -2,7 +2,7 @@
 id: law-basics-0037
 domain: law-basics
 claim: 신주발행은 납입기일 다음 날 효력이 생기며, 그날부터 2주 안에 본점 소재지 등기소에 자본금·발행주식총수 변경등기를 마쳐야 한다.
-status: candidate
+status: verified
 evidence: consensus
 confidence: 0.8
 sources:
@@ -11,9 +11,14 @@ sources:
   seen: '2026-11-03'
   quote: 효력발생일로부터 2주 이내에 본점 소재지 등기소에 자본금 및 발행주식총수 변경등기를 완료합니다.
   source: 헬프미 법률사무소 블로그
+- url: https://www.youtube.com/watch?v=_iqeYXKUrd4
+  author: 법무법인 별 (강혜미 변호사)
+  seen: '2026-11-06'
+  quote: 그 날로부터 2주 내에 증자 등기를 하셔야만 합니다.
+  source: 법무법인 별 (강혜미 변호사) (@star-law)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
-review_by: null
+last_confirmed: '2026-11-06'
+review_by: '2027-05-05'
 supersedes: null
 superseded_by: null
 experiment: null
@@ -28,5 +33,6 @@ tags:
 - 2주기한
 - 법인등기
 - 과태료
+verified_by: 독립 2곳 weight 1.6
 ---
 유상증자(가수금 증자 포함)는 납입기일 다음 날 신주발행 효력이 발생하고, 효력발생일로부터 2주 이내에 본점 소재지 관할 등기소에 자본금과 발행주식총수 변경등기를 신청해야 한다. 기간은 납입기일 다음 날부터 기산한다. 등기를 게을리하면 과태료 대상이 되므로, 납입기일(상계계약 체결일)을 정할 때부터 2주 뒤 등기 신청 일정을 함께 잡아 두어야 한다. 등기 신청 시에는 상계를 증명하는 서면(상계계약서, 회사의 상계 동의가 기재된 의사록)을 함께 제출한다.

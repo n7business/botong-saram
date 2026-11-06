@@ -1,0 +1,30 @@
+---
+id: marketing-0337
+domain: marketing
+claim: 수익화할 분야를 고를 때는 경쟁자가 없는 시장을 피하고, 이미 터진 콘텐츠와 돈의 움직임이 확인되는 시장에 기존 불만을 해결하는 차별점을
+  더해 들어가야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=UerlbLyBR20
+  author: 혜님 인스타그램마케팅 (@hyenimtv)
+  seen: '2026-11-06'
+  quote: 경쟁자가 없는 시장이 더 무서운 시장이고
+  source: 혜님 인스타그램마케팅 (@hyenimtv)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 시장선택
+- 레드오션
+- 차별화
+- 수익화
+---
+컨셉을 정한 뒤 문제의 절실함, 이미 터진 콘텐츠의 존재, 실제 돈의 움직임, 돈이 되든 안 되든 지속할 수 있는지의 네 가지를 확인합니다. 모르는 상품은 설명하고 유행시키는 것부터 해야 하지만, 모두 아는 상품은 기존 불만을 해결한다고만 말하면 되어 설득이 짧다는 것이 화자의 설명입니다. 레드오션에서는 특별한 한 스푼이나 문제를 해결하는 한 스푼을 더해 차별화합니다. 화자는 인스타그램에서 살림과 뷰티 시장이 압도적이라고 말하지만 수치를 제시하지는 않았고, 스스로도 지속할 수 없어 뷰티를 접었다고 밝혔습니다.

@@ -1,0 +1,33 @@
+---
+id: law-basics-0130
+domain: law-basics
+claim: 남의 노래를 원곡 그대로 부르더라도 영상 파일로 만들면 복제권, 유튜브에 올리면 공중송신권 침해가 될 수 있으므로, 원저작자의 동의 없이
+  커버 영상을 올려서는 안 된다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=qQ1DqDcB1I8
+  author: 전세준 변호사
+  seen: '2026-11-06'
+  quote: 형사적으로 문제가 될 수 있다.
+  source: 전세준 변호사 (@전세준변호사)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 저작권법
+  article: 제16조, 제18조
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 저작권
+- 커버곡
+- 유튜브
+- 복제권
+- 공중송신권
+---
+돈을 받지 않는 버스킹 같은 공연은 별 문제가 없지만, 촬영해 파일로 만들면 그때부터 복제권 침해가 될 수 있습니다. 이 영상을 유튜브에 올리면 공중송신권 침해도 될 수 있습니다. 많은 커버곡이 문제 없이 올라와 있는 것은 홍보 효과 같은 실무적 이유로 권리자가 고소하지 않기 때문이며, 침해가 아니어서가 아닙니다. 유튜브에서는 권리자가 차단, 광고 수익 수령, 조회 수 정보 수령 중에서 고를 수 있습니다. 권리자가 마음을 바꿔 고소하면 형사 문제가 될 수 있습니다.

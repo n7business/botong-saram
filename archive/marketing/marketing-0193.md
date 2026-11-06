@@ -19,7 +19,7 @@ sources:
   quote: 의심스럽거나 허가되지 않은 활동을 발견한 경우 Meta 비즈니스 지원 홈의 지원팀에 문의하세요.
   source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-06'
 review_by: '2027-01-04'
 supersedes: null
 superseded_by: null

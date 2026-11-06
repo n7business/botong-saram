@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-03'
   quote: 해고된 날부터 3개월 안에 노동위원회 구제신청
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.threads.com/@angela_cpla/post/DfQNgzak3oA
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-06'
+  quote: 해고된 날부터 3개월 안에 노동위원회 구제신청
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

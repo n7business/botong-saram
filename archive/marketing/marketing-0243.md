@@ -1,0 +1,30 @@
+---
+id: marketing-0243
+domain: marketing
+claim: 자바스크립트로 redirect하면 검색로봇이 이동 주소를 파악하기 어렵고 스팸 처리 과정에서 저평가될 수 있으므로, 주소 이동은 서버의
+  HTTP redirect로 처리해야 한다.
+status: verified
+evidence: policy
+confidence: 0.95
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-redirect
+  author: NAVER Corp.
+  seen: '2026-11-06'
+  quote: 양질의 좋은 페이지임에도 스팸 문서 처리 과정에서 불필요하게 중요도가 낮은 것으로 저평가를 받을 수도 있습니다.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2027-01-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- redirect
+- 자바스크립트
+verified_by: 공식 출처
+---
+자바스크립트 redirect는 검색로봇이 어떤 URL로 이동하는지 파악하기 어려운 형식입니다. redirect 정보를 숨기는 형태는 스팸성 문서에서 많이 발견되어, 양질의 페이지도 중요도가 낮게 평가될 수 있습니다. 이동 처리는 되도록 서버의 HTTP redirect로 하세요. 방문자에게 이동을 알리고 싶다면 네이버 검색로봇이 인식하는 meta refresh를 쓸 수 있지만, 가이드는 되도록 HTTP redirect를 쓰라고 안내합니다. 메인 페이지가 자바스크립트나 meta refresh로 이동하면 웹마스터도구의 소유 확인도 지원되지 않습니다.

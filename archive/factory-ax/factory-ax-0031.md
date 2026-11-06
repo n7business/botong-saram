@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 스텝 번호는 반드시 1번으로 시작을 해야 된다고 그랬습니다
   source: 공학자의 자동화 실무 (@kwh-Astartech)
+- url: https://www.youtube.com/watch?v=IOxNGcPgOQw
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-06'
+  quote: 따라서 마지막에 4번 스텝 리셋 회로가 포함돼야 돼요.
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

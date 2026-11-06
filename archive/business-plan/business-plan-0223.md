@@ -1,0 +1,28 @@
+---
+id: business-plan-0223
+domain: business-plan
+claim: 창업 오디션 IR덱은 회사 연혁이나 제품 기능 자랑이 아니라 심사위원의 공감을 끌어내는 문제 장표로 시작해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=gstUncnp55I
+  author: 창업주일
+  seen: '2026-11-06'
+  quote: IR은 철저한 프럼 제한서입니다.
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: business-plan-0180
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- IR덱
+- 모두의창업
+- 문제정의
+- 오디션
+---
+화자는 많은 창업자가 IR덱을 회사 연혁 나열, 제품 스펙 자랑, 사업 소개서나 브로셔로 착각한다고 지적합니다. 첫 30초 안에 심사위원의 판단이 갈린다고 보기 때문에, 첫 슬라이드에서 '나도 저런 불편함이 있었는데 아무도 해결 안 했네'라는 공감을 끌어내야 한다고 말합니다. 이 공감을 얻지 못하면 뒤의 솔루션·시장 규모·팀 소개는 전부 소음이 된다는 것이 화자의 주장입니다. 다만 정답 목차는 없으므로 아이템과 창업자의 이야기에 따라 장표의 순서와 비중을 바꿔야 합니다. 예비창업패키지 발표자료를 첫 페이지부터 서비스 목업이나 슬로건으로 시작하라는 기존 조언과 시작 방식이 다르므로, 사업 형식과 평가 방식을 보고 골라야 합니다.

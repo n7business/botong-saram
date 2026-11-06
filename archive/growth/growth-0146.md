@@ -1,0 +1,29 @@
+---
+id: growth-0146
+domain: growth
+claim: 외부 AI 에이전트가 결제까지 끝내는 쇼핑은 2026년 하반기 기준 아직 아주 작으므로, 소규모 쇼핑몰은 이에 먼저 투자하기보다 결제를
+  자기 몰에 두고 에이전트가 손님을 넘기기 쉬운 길만 열어 둔다.
+status: candidate
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://eopla.net/magazines/48733
+  author: leanX
+  seen: '2026-11-06'
+  quote: 결제는 우리 몰에 두되, 에이전트가 들어오기 쉽게 만드세요.
+  source: EO 플래닛
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 쇼핑몰
+- AI에이전트
+- 결제
+- 시점민감
+---
+DoorDash는 외부 AI 에이전트로 들어온 주문이 통틀어 수백 건 정도라고 밝혔는데, 같은 분기 전체 주문은 9억 9,300만 건이었습니다. Walmart는 ChatGPT 안에서 바로 결제한 경우의 전환율이 자사 사이트로 넘어가 산 경우의 3분의 1이었다고 말한 것으로 보도됐습니다. 로그인 연동, 간편결제, 장바구니 링크처럼 손님을 우리 몰로 넘기기 쉬운 길을 먼저 갖추세요. 카페24는 자사 솔루션 쇼핑몰에 WebMCP를 적용했다고 밝혔으므로, 이용 중이라면 지원 범위를 확인해 보세요. 빠르게 변하는 분야이니 시점이 지나면 다시 확인해야 하며, Walmart 수치는 WIRED 보도를 재인용한 것으로 글쓴이도 원문을 보지 못했습니다.

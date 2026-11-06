@@ -1,0 +1,31 @@
+---
+id: ai-tools-0210
+domain: ai-tools
+claim: 초소형 폼 판단 모델 CUA-S1-FORMS는 공개 정확도나 높은 확률값만 믿고 한국어 폼에 쓰지 말고, 내 실제 폼으로 먼저 시험해야
+  한다.
+status: verified
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4026/
+  author: Justn
+  seen: '2026-11-06'
+  quote: 평균 99.99%의 확률로 자신만만하게 틀렸습니다.
+  source: 요즘IT
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2026-12-06'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- CUA-S1-FORMS
+- 소형모델
+- 한국어
+- 확신도
+- 실측
+verified_by: 실무자 실측(단일 출처)
+---
+합성 테스트 top-1 정확도 99.95%로 공개된 이 모델은 영어 합성 폼 10개에서는 모두 맞혔습니다. 그러나 공개 사이트에서 추출한 한국어 폼 10개는 평균 99.99%의 확률로 모두 틀렸고, 전부 'skip'을 골랐습니다. 같은 사례를 영어로 번역해도 1개만 맞혔으므로 언어 탓만으로 단정할 수는 없습니다. 35개 사례 일괄 처리 평균은 45.47ms로 빨랐으니, 영어 폼 분류처럼 분포가 좁은 용도에 맞는지 검토합니다. 표본이 작은 단일 실험이라 일반화할 수는 없습니다.

@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-03'
   quote: 네이버도 이미 AI로 장소의 특징을 요약하고 조건에 맞는 곳을 찾도록 돕고 있다
   source: 장사왕 임사부 (@장사왕임사부)
+- url: https://eopla.net/magazines/48733
+  author: leanX
+  seen: '2026-11-06'
+  quote: 틀린 답이 나오면 그 상품 페이지부터 고칩니다.
+  source: EO 플래닛
 first_seen: '2026-11-03'
-last_confirmed: '2026-11-03'
+last_confirmed: '2026-11-06'
 review_by: null
 supersedes: null
 superseded_by: null

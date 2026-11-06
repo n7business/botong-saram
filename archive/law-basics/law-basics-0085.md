@@ -1,0 +1,33 @@
+---
+id: law-basics-0085
+domain: law-basics
+claim: 개인정보를 국외로 이전하려면 정보주체의 별도 동의, 법률·조약 등의 특별한 규정, 계약 체결·이행에 필요한 처리위탁·보관, 개인정보위가
+  고시한 인증, 동등성 인정 중 하나의 근거를 갖춰야 한다.
+status: verified
+evidence: policy
+confidence: 0.93
+sources:
+- url: https://www.pipc.go.kr/np/default/page.do?mCode=D060040000
+  author: 개인정보보호위원회
+  seen: '2026-11-06'
+  quote: 국외이전 요건 (개인정보 보호법 제28조의8)
+  source: 개인정보보호위원회
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2027-05-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 개인정보 보호법
+  article: 제28조의8
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 개인정보
+- 국외이전
+- 별도동의
+- 이전요건
+verified_by: 공식 출처
+---
+개인정보 보호법 제28조의8은 국외이전 요건을 다섯 가지로 정합니다. 정보주체의 별도 동의, 법률·조약·국제협정상 특별한 규정, 정보주체와의 계약 체결·이행에 필요한 처리위탁·보관, 개인정보위가 고시한 인증, 국가·국제기구 보호수준에 대한 동등성 인정입니다. 이전을 시작하기 전에 어느 요건을 근거로 삼을지 정해 두어야 합니다. 계약 체결·이행 요건은 처리위탁과 보관에 관한 것이므로, 그 밖의 제공은 다른 요건을 갖췄는지 따로 확인해야 합니다.

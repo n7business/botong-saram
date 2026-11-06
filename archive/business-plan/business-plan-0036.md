@@ -3,7 +3,7 @@ id: business-plan-0036
 domain: business-plan
 claim: 충북 보은군에 본사나 공장을 둔 상시근로자 10인 미만 식료품 제조업(C10) 소공인과 예비창업자는 2026-11-05까지 소상공인24에서
   신청하면 D2C 마케팅·패키징 시제품·B2B 제안서 컨설팅을 무료로 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-05'
 supersedes: null
 superseded_by: null
 experiment: null
