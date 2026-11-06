@@ -24,7 +24,7 @@ def last_json_array(out):
             v, _ = dec.raw_decode(txt[i:])
             if isinstance(v, list) and (not v or isinstance(v[0], dict)): return v
         except json.JSONDecodeError: continue
-    return []
+    return None  # JSON 자체가 없음 = 읽기 실패([]와 구분)
 
 def merge_state(name, upd):
     cur = state_get(name); cur.update(upd); state_set(name, cur)
@@ -80,12 +80,16 @@ def fetch_youtube(src, seen_links, n=2):
     text = "\n\n".join(f"### {p['title']}\nURL: {p['url']} ({p.get('date')})\n{p['text']}\n인용: " + " / ".join(f'"{q}"' for q in p.get("quotes", [])) for p in posts)
     return {"posts": posts, "text": text}
 
-def fetch_aside(src, n=15, days=7):
-    prompt = (PAGE_PROMPT if src.get("mode") == "page" else ASIDE_PROMPT.replace("최근 7일", f"최근 {days}일")).format(url=src["url"], n=n if src.get("mode") != "page" else int(src.get("follow", 6)))
+def fetch_aside(src, n=15, days=7, page=None):
+    """page=True: 웹페이지 본문 읽기(HTTP 폴백). 기본은 SNS 계정이면 최근 글, mode: page면 페이지."""
+    page = (src.get("mode") == "page" or src.get("type") not in SNS) if page is None else page
+    prompt = (PAGE_PROMPT if page else ASIDE_PROMPT.replace("최근 7일", f"최근 {days}일")).format(url=src["url"], n=int(src.get("follow", 6)) if page else n)
     cmd = ["aside", "exec", "--account", "u0", "--effort", "low", prompt]
     r = subprocess.run(cmd, capture_output=True, text=True, timeout=600)
     if r.returncode != 0: raise RuntimeError(f"aside rc={r.returncode}: {r.stderr[-500:]}")
     posts = last_json_array(r.stdout)
+    if posts is None: raise RuntimeError("aside 결과에 JSON 없음")
+    if not posts and not page: return {"posts": [], "text": "", "no_new": True}  # 최근 n일 새 글 없음(정상)
     return {"posts": posts, "text": "\n\n".join(f"[{p.get('date')}] {p.get('author')} {p.get('url')}\n{p.get('text')}" for p in posts)}
 
 def main():
@@ -115,6 +119,7 @@ def main():
                         if a.no_aside: log(f"JS 페이지, aside 필요 {dom}/{src['name']}"); n_skip += 1; continue
                         log(f"HTTP 본문 부족 → aside 폴백 {dom}/{src['name']}"); data = fetch_aside(src)
                 key = f"{dom}/{src['name']}"
+                if data.get("no_new"): log(f"새 글 없음 {key}"); n_skip += 1; continue
                 if not data.get("text", "").strip():  # 빈 본문은 저장·해시 갱신하지 않음(다음 날 다시 시도)
                     n_err += 1; log(f"실패 {key}: 빈 본문(0자)"); continue
                 h = sha(data.get("text", ""))
