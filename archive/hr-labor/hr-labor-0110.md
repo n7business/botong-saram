@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 월급 270만 원 미만 신규 직원의 국민연금·고용보험료 80%를 최대 3년간 지원받을 수 있다
   source: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+- url: https://www.4insure.or.kr/pbiz/ntcn/selectInstNtcMttrDetail.do?pstSn=2055481
+  author: 국민연금공단
+  seen: '2026-11-07'
+  quote: 10인 미만의 근로자를 채용하는 소규모 사업장의 사업주라면, 두루누리 연금보험료 지원제도를 신청해보세요!
+  source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

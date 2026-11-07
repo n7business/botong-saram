@@ -18,7 +18,7 @@ sources:
   quote: '[2027년도 스마트제조혁신 지원사업]을 다음과 같이 사전 안내합니다.'
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: '2027-02-03'
 supersedes: null
 superseded_by: null

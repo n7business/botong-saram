@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 심사위원은 소설 읽듯이 사업 계획서를 읽지 않는다는 거예요.
   source: 창업주일. 창업주가 하는 일 (@창업주일)
+- url: https://www.youtube.com/watch?v=UpCqyUmW76k
+  author: 창업주일. 창업주가 하는 일
+  seen: '2026-11-07'
+  quote: 줄글은 100% 광탈입니다.
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

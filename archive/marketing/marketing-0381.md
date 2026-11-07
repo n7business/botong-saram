@@ -1,0 +1,30 @@
+---
+id: marketing-0381
+domain: marketing
+claim: 블로그가 몇 개뿐인 사장은 막발행을 따라 하지 말고 블로그 지수와 원고를 함께 키워야 테스트 키워드와 지수순 키워드 모두에 대응할 수
+  있다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=M0RU8TqXfS0
+  author: 머니코치 최준호
+  seen: '2026-11-07'
+  quote: 자, 마케팅은 확률 싸움입니다.
+  source: 머니코치 최준호 (@moneycoach)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버블로그
+- 블로그지수
+- 원고
+- 막발행
+- 저품질
+---
+화자는 네이버 블로그 로직을 출처인 블로그 지수와 글인 원고로 나눕니다. 막발행은 2주짜리 테스트 키워드에서만 잡히고 지수순 키워드에는 들어가지 못한다고 봅니다. 아이디 200개를 돌리는 쪽은 몇 개가 저품질이 되어도 버티지만, 블로그가 1개, 많아야 10개인 사장은 저품질이 되면 아무것도 못 한다는 것이 화자의 경고입니다. 제목 맨 앞과 본문에 키워드를 몇 개 넣는 예전 방식으로는 지수도 노출도 오르지 않는다고 합니다. 이 내용은 화자가 컨설팅을 판매하며 설명한 실전 분석이므로 공식 로직으로 단정하면 안 됩니다.

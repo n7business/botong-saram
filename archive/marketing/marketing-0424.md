@@ -1,0 +1,30 @@
+---
+id: marketing-0424
+domain: marketing
+claim: 촬영이나 외주 비용이 부담되는 사업자는 제품 사진 한 장을 힉스필드 애드 멀티플레이어의 레퍼런스 영상에 넣어 광고 같지 않은 릴스 광고를
+  바로 테스트할 수 있다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=4JYnvxHxns8
+  author: 인스타언니 초이픽스 (@insta_unnei_choi)
+  seen: '2026-11-07'
+  quote: 광고 같지 않은 자연스러운 영상입니다.
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI광고
+- 힉스필드
+- 릴스광고
+- 광고소재
+- 인스타그램
+---
+화자는 인스타그램 알고리즘이 밀어주는 콘텐츠의 핵심을 광고 같지 않은 자연스러운 영상으로 봅니다. 애드 스튜디오의 '애드 멀티플레이어' 탭에서 프리셋이나 커뮤니티의 요즘 뜨는 영상을 고르고 내 제품을 넣으면 새로 창작하지 않아도 영상을 만들 수 있다고 합니다. 바꾸고 싶은 부분은 프롬프트를 더 자세히 적어 조정합니다. 노출 효과를 수치로 제시하지는 않았고 화자가 링크를 함께 안내한 소개 영상이므로, 소량으로 만들어 내 계정의 반응을 확인한 뒤 계속 쓸지 판단해야 합니다.

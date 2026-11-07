@@ -1,0 +1,28 @@
+---
+id: growth-0181
+domain: growth
+claim: AI 비용을 관리하려면 쓰던 회사의 모델 안에서도 싼 모델을 기본으로 두고 비싼 모델은 예외로 부르도록 나누면, 다른 회사 모델로 옮기지
+  않아도 레볼루트의 비용 구조를 응용할 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48749
+  author: 조쉬의 뉴스레터
+  seen: '2026-11-07'
+  quote: Claude라면 더 싼 Sonnet을 기본으로, 더 비싼 Opus를 예외로 두는 식이죠.
+  source: EO 플래닛
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI비용
+- 모델선택
+- 기본값
+---
+레볼루트는 오픈 모델을 기본으로 두고 앤트로픽·오픈AI의 최신 모델은 그 모델들이 가장 잘하는 일에만 부릅니다. 레볼루트의 숫자는 그대로 옮겨지지 않지만, 기본과 예외를 나누는 방식은 옮겨 쓸 수 있습니다. 예를 들어 Claude를 쓴다면 더 싼 Sonnet을 기본으로, 더 비싼 Opus를 예외로 둡니다. 다른 모델로 넘기는 기준을 값으로만 잡지 말고, 이미지 인식처럼 기본 모델이 못 하는 일도 함께 정해 두세요.

@@ -1,0 +1,28 @@
+---
+id: growth-0184
+domain: growth
+claim: AI 사용 한도나 비용이 걱정돼 미룬 일이 있다면 모델 가격표보다 그 일의 목록부터 적어 하나씩 맡겨 볼 만하며, 레볼루트는 토큰 제한을
+  푼 뒤 코딩 밖의 일까지 AI에 맡기면서 기능 하나를 끝내는 시간이 줄었다고 해석했다.
+status: candidate
+evidence: observed
+confidence: 0.45
+sources:
+- url: https://eopla.net/magazines/48749
+  author: 조쉬의 뉴스레터
+  seen: '2026-11-07'
+  quote: 이번 주에 한도가 걱정돼 미룬 일 하나를 적어 두고, 그 일부터 맡겨 보면 어떨까요?
+  source: EO 플래닛
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 토큰한도
+- 업무위임
+---
+레볼루트는 2026년 1월 엄격한 예산 한도를 걸고 코딩 에이전트를 전사에 열었지만, AI 운영 책임자는 그때 큰 효과가 없었다고 평가했습니다. 이후 오픈 모델로 토큰 제한을 풀자, 편집부가 차트로 읽은 착수~머지 시간은 9월까지 약 3.9일에서 약 1.8일로 줄었습니다. 책임자는 메일함을 뒤지고 Jira·Confluence를 만지는 시간까지 아끼게 된 것을 이유로 봅니다. 다만 엔지니어 약 2,000명 규모의 사례이고, 같은 기간 모델도 GLM-5.1에서 5.3으로 바뀌어 토큰 제한 해제만의 효과로 단정할 수 없습니다. Hacker News에는 '제한 없이 줬더니 쓰레기만 늘었다'는 반응도 있었으니, 맡긴 일의 결과물은 직접 확인하세요.

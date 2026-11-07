@@ -1,0 +1,28 @@
+---
+id: ai-tools-0377
+domain: ai-tools
+claim: A2A로 에이전트를 연결할 때 내부 데이터를 숨기고 응답만 주려면 그 내용을 아티팩트에 담지 말아야, 노출할 데이터만 골라서 내보낼 수
+  있다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=1guF3c-jWBk
+  author: 테디노트 TeddyNote
+  seen: '2026-11-07'
+  quote: 노출해야 되는 데이터만 노출할 수 있습니다.
+  source: 테디노트 TeddyNote
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- A2A
+- 에이전트개발
+- 데이터노출
+---
+A2A 스펙은 중간에 스트리밍되는 내용과 중간 과정을 아티팩트나 메시지 형태로 볼 수 있게 해 줍니다. 화자는 에이전트 내부 데이터를 숨기고 응답만 주고 싶다면 그 내용을 아티팩트에 담지 않으면 된다고 설명합니다. 다만 A2A로 감싸면 디버깅하거나 내부 동작을 추적하기 어려울 수 있고, 영상 시점에는 LangSmith 트레이싱 같은 조회 도구도 없었습니다. 2025년 8월 기준 설명이므로 적용 전에 최신 스펙을 확인해야 합니다.

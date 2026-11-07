@@ -13,7 +13,7 @@ sources:
   quote: 성년후견 같은 절차를 검토해야 해.
   source: 법무사 정승제 (@__jjjjjeee)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

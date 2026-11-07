@@ -1,0 +1,28 @@
+---
+id: ai-tools-0321
+domain: ai-tools
+claim: AI에게 회원가입·예약·관리자 페이지를 한꺼번에 만들게 하고 마지막에 확인하기보다, 작은 요구사항 단위로 만들고 그때마다 확인해야 더
+  안전하다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=D-3Iojr7dIc
+  author: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+  seen: '2026-11-07'
+  quote: 작게 조금씩 만들고 자주 확인하는 것이 훨씬 안전합니다.
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 바이브코딩
+- 개발 사이클
+- 점진적 개발
+---
+작은 요구사항을 전달하고 AI가 코드를 바꾸면 바뀐 내용을 확인한다. 이어서 직접 실행해 요청한 결과가 나오는지 보고, 문제가 없을 때만 다음 요청으로 넘어간다. 이 사이클에 문서, Git, 테스트 같은 도구를 더해 발전시킬 수 있다.

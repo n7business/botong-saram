@@ -3,7 +3,7 @@ id: business-plan-0033
 domain: business-plan
 claim: 서울 소재 기후테크 기업은 2026-11-06 18:00까지 신청서와 사업자등록증을 이메일로 내면 11-27 서울 기후테크 글로벌 B2G
   매칭데이에서 개발도상국 20여 개국 공무원 최대 80명과 1:1 상담 매칭을 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.7
 sources:
@@ -14,7 +14,7 @@ sources:
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-06'
 supersedes: null
 superseded_by: null
 experiment: null

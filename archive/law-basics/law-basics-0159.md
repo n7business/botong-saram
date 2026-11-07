@@ -1,0 +1,33 @@
+---
+id: law-basics-0159
+domain: law-basics
+claim: 대표가 회사와 돈을 빌리고 빌려주거나 자기 다른 회사와 거래하게 하는 자기거래는 원칙적으로 이사회 사전 승인을 받아야 하며, 그 안건에서
+  대표이사는 의결권을 행사할 수 없다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=4PJTk_i4f6U
+  author: 법무법인 별 (강혜미 변호사)
+  seen: '2026-11-07'
+  quote: 그 안건에 한해서 대표이사는 의결권이 없습니다
+  source: 법무법인 별 (강혜미 변호사) (@star-law)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상법
+  article: 제398조
+  effective: '2026-11-07'
+contributor: null
+tags:
+- 자기거래
+- 이사회승인
+- 가수금
+- 특별이해관계인
+- 의사록
+---
+화자는 대표가 회사에 돈을 빌려주는 것, 가수금을 넣는 것, 회사에서 돈을 빌리는 것, 대표가 운영하는 별도 회사와 거래하는 것을 모두 자기거래의 예로 듭니다. 대표들이 거래라고 생각조차 못 하는 경우가 많으므로, 거래 전에 승인 대상인지 확인해야 합니다. 상법은 이사 3분의 2 이상의 수로 승인하도록 정하고 있어, 이사가 3명이면 대표를 뺀 2명이 모두 찬성해야 합니다. 의사록에는 대표이사가 특별 이해관계인으로서 의결권이 제한되어 나머지 두 명의 찬성으로 결의했다고 적습니다. 별도 회사와의 거래는 지분 요건에 따라 적용 여부가 달라질 수 있으므로 상법 제398조의 대상 범위를 확인하세요.

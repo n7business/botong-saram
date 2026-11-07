@@ -15,7 +15,7 @@ first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
 review_by: null
 supersedes: marketing-0259
-superseded_by: null
+superseded_by: marketing-0368
 experiment: null
 law_ref: null
 contributor: null

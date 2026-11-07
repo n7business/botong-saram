@@ -1,0 +1,29 @@
+---
+id: marketing-0408
+domain: marketing
+claim: 영상 제작을 맡길 때는 수정 횟수만 제한하지 말고 어디까지가 수정이고 어디부터가 새 작업인지 처음에 정해 둬야 갈등을 줄일 수 있다는
+  것이 화자의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=21102
+  author: 앤드 (AND STUDIO)
+  seen: '2026-11-07'
+  quote: 중요한 것은 수정 횟수를 무조건 제한하는 것이 아니라 , 수정의 범위와 기준을 처음부터 명확하게 정하는 것입니다 .
+  source: 오픈애즈
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 영상제작
+- 외주
+- 수정범위
+- 계약
+---
+합의한 문구의 오탈자 수정이나 자막 위치·크기 조정은 일반적인 수정 범위에 해당할 수 있습니다. 거의 완성된 영상에 새 메시지를 넣고 장면 순서를 바꾸거나 콘셉트를 바꾸는 일은 작업 일부를 다시 설계하는 일입니다. 자막 글자 수만 늘어나도 노출 시간, 화면 전환, 음악 타이밍, 러닝타임까지 영향을 받을 수 있으니 간단한 수정이라고 단정하지 않습니다. 기획 단계에서 영상의 목적과 방향, 최종 의사결정권자와 검토 절차, 추가 작업의 기준을 함께 정리합니다. 계약 범위를 벗어난 작업은 추가 비용을 협의합니다.

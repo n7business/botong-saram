@@ -3,7 +3,7 @@ id: business-plan-0038
 domain: business-plan
 claim: 포항시 소재 중소기업이 공공조달 적합 제품과 특허·실용신안을 보유하고 있다면 2026-11-06까지 이메일로 신청해 성능인증·공공조달
   Fast-Track 컨설팅(기업별 350만원 상당)을 무료로 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-06'
 supersedes: null
 superseded_by: null
 experiment: null

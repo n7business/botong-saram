@@ -1,0 +1,32 @@
+---
+id: hr-labor-0140
+domain: hr-labor
+claim: 직원에게 이미 말로 해고를 통보했다면 카톡을 계속 보내거나 서류를 뒤늦게 만들어 덮으려 하지 말고, 사실관계와 자료를 먼저 정리한 뒤
+  해고 철회, 정식 절차 검토, 합의 가능성을 사안별로 판단해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=M_SxbzWVgEw
+  author: 달리는 노무사 (@runnomu)
+  seen: '2026-11-07'
+  quote: 나중에 서류 한 장 만든다고 처음부터의 문제가 모두 없어지지는 않습니다.
+  source: 달리는 노무사 (@runnomu)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제27조
+  effective: '2026-11-07'
+contributor: null
+tags:
+- 해고
+- 구두통보
+- 해고철회
+- 분쟁대응
+---
+구두 통보 뒤에 당황해서 카톡을 계속 보내면 분쟁을 더 키울 수 있으니 먼저 멈춥니다. 언제 어떤 말을 했는지와 관련 자료를 정리합니다. 그다음 해고를 철회할지, 정식 절차를 검토할지, 합의할 수 있는지를 사안별로 판단합니다. 나중에 서류 한 장을 만든다고 처음 통보의 문제가 모두 없어지지는 않습니다.

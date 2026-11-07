@@ -1,0 +1,29 @@
+---
+id: marketing-0416
+domain: marketing
+claim: 플레이스 에이전트로 추천받은 손님을 놓치지 않으려면 네이버 예약 상품을 세팅해 두어야 하며, 쓰지 않으면 예약되는 다른 매장에 손님을
+  뺏길 수 있다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=NC1Ssi6aLkc
+  author: 이상한마케팅
+  seen: '2026-11-07'
+  quote: 네이버 예약을 안 쓰면 예약이 되는 다른 매장에 뺏길 확률이 높다.
+  source: 이상한마케팅 (@isanghan_marketing)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버예약
+- 네이버플레이스
+- 플레이스에이전트
+- 톡톡
+---
+화자는 에이전트로 추천받은 손님이 그 자리에서 바로 예약·결제하고 싶어 한다고 설명합니다. 스마트플레이스 왼쪽 '솔루션'에서 '온라인으로 예약 받기'와 '예약 시작하기'를 차례로 누릅니다. 업체명, 상세 설명, 사진, 예약 혜택(있다면), 진행·노출 기간을 넣고 사업자등록증을 첨부합니다. 이후 날짜만 받을지 시간까지 받을지를 업종과 운영 방식에 맞게 고릅니다. 찾아오는 길은 문장형으로 쓰고 주차 가능 여부, 유료·무료, 발렛, 주차 위치도 자세히 적습니다. 문의와 예약을 받는 창구로 네이버 톡톡도 함께 활용합니다.

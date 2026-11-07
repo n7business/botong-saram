@@ -1,0 +1,28 @@
+---
+id: mindset-0126
+domain: mindset
+claim: 한 달 동안 소비자로서 가장 큰 영감을 받은 경험을 정기적으로 나누고 이를 글로 정리한다는 것이 화자의 습관이다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.threads.com/@kap_writing/post/DfY4LSqH_sp
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-07'
+  quote: 내가 진행하는 독서모임은 늘 '지난 한 달 동안 소비자로서 가장 큰 영감을 받은 경험'을 나누는 것으로 시작한다.
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 소비자관점
+- 독서모임
+- 콘텐츠소재
+- 김용석
+---
+김용석이 진행하는 독서모임은 늘 '지난 한 달 동안 소비자로서 가장 큰 영감을 받은 경험'을 나누는 것으로 시작한다. 이번 달에는 할 이야기가 많아 시간이 부족했고, 경험하고 생각한 것을 브런치와 뉴스레터에 하나씩 정리하겠다고 밝혔다. 정리할 주제로는 블룸버그가 자신을 발견한 경로와 파급력, 중국에서 미리 본 AI의 미래, 외식업 고수와의 대화에서 발견한 한국 F&B의 미래를 꼽았다. 화자의 모임 운영 방식과 정리 습관을 소개한 것이며, 성과 수치는 제시되지 않았다.

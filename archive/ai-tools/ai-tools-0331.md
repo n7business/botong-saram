@@ -1,0 +1,30 @@
+---
+id: ai-tools-0331
+domain: ai-tools
+claim: 대량 서류를 자동 검사할 때는 애매한 건을 자동으로 판정하지 말고 보고서 맨 위에 표시해 사람이 보게 해야, 누락 위험과 확인 시간을
+  함께 줄일 수 있다.
+status: verified
+evidence: observed
+confidence: 0.75
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4032/
+  author: 요즘IT (아이엠 조차장 사례)
+  seen: '2026-11-07'
+  quote: 빠뜨리느니, 차라리 좀 더 보여주자.
+  source: 요즘IT
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: '2026-12-07'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 서류검사
+- 사람확인
+- 예외처리
+- 자동화
+verified_by: 실무자 실측(단일 출처)
+---
+명확한 건은 도구가 처리하고, 애매하거나 서로 어긋난 건만 눈에 띄게 표시해 맨 위로 올립니다. 사례의 서명 검사 도구는 407페이지에서 표지 68건을 찾아 66건을 자동으로 확인하고, 애매한 2건만 사람이 보게 했습니다. 출근부와 휴가 신청서를 대조하는 도구도 어긋나거나 확인이 필요한 항목만 색으로 표시합니다. 기준이 애매하면 빠뜨리기보다 사람에게 더 보여 주는 쪽으로 정합니다. 작성자는 이 방식이 AI에게 다 맡기려던 때보다 더 정직하고 실제로 더 빨랐다고 말합니다.

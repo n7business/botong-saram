@@ -1,0 +1,30 @@
+---
+id: ai-tools-0351
+domain: ai-tools
+claim: 마케팅 스킬을 에이전트에 붙이고 구글 애즈나 메타 광고 API를 연결하면 소재·캠페인 제작부터 집행까지 맡길 수 있지만, 무엇을 통과시킬지는
+  사람이 판단해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=Y3Xz4C3kgBA
+  author: 조코딩 JoCoding
+  seen: '2026-11-07'
+  quote: 구글 애즈나 메타 같은 광고 API까지 연결하면 에이전트가 광고를 직접 집행한다.
+  source: 조코딩 JoCoding
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 광고
+- 마케팅
+- 스킬
+- API
+- 에이전트
+---
+마케팅 스킬 저장소에는 SEO, CRO, 콘텐츠 마케팅, 페이드 마케팅 같은 전문 지식이 들어 있어 에이전트에 장착할 수 있습니다. 구글 애즈나 메타 같은 광고 API까지 연결하면 에이전트가 광고를 직접 집행합니다. 화자는 메타 광고를 연결해 소재와 캠페인을 만들고 여러 금액으로 실제 집행까지 맡겨 봤습니다. 다만 광고 성과 수치는 제시하지 않았으므로 효과까지 입증된 것은 아닙니다. 화자도 무엇을 시키고 무엇을 통과시킬지는 사람의 일로 남았다고 말합니다.

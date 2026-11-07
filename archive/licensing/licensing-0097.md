@@ -1,9 +1,9 @@
 ---
 id: licensing-0097
 domain: licensing
-claim: 정부24 휴대폰 결제는 법인 명의 외에도 미성년자 명의·선불요금제·이용 차단 휴대폰으로는 할 수 없고 한도도 통신사 고객등급에 따라 다르므로,
-  이런 휴대폰을 쓰는 사업자는 다른 결제수단을 준비해야 한다.
-status: candidate
+claim: 정부24 휴대폰 결제는 법인 명의 휴대폰·법인회원 계정, 미성년자 명의, 선불요금제, 이용 차단 휴대폰으로는 할 수 없고 한도도 통신사
+  고객등급에 따라 다르므로, 이에 해당하는 사업자는 카드나 간편결제 등 다른 결제수단을 준비해야 한다.
+status: verified
 evidence: policy
 confidence: 0.93
 sources:
@@ -14,15 +14,20 @@ sources:
   source: 정부24
 first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
-review_by: null
+review_by: '2027-05-06'
 supersedes: null
 superseded_by: null
 experiment: null
-law_ref: null
+law_ref:
+  law: 민원 처리에 관한 법률
+  article: 제29조
+  effective: '2022-07-12'
 contributor: null
 tags:
 - 정부24
 - 휴대폰결제
 - 결제수단
+mentions: 1
+verified_by: 공식 출처
 ---
 미성년자 명의, 법인 명의, 선불요금제 가입 고객의 휴대폰과 고객 요청으로 이용이 차단된 휴대폰은 정부24 휴대폰 결제에 쓸 수 없습니다. 사용한도는 이동통신사의 자체 고객등급에 따라 차등 적용됩니다. 결제가 막히면 카드, 계좌이체, 간편결제 같은 다른 수단을 이용해야 합니다. 마감이 임박한 민원이라면 대체 결제수단을 미리 준비해 두세요.

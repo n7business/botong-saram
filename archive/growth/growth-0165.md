@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 사실 이것만 잘해도 전환율이 좀 많이 늘어나요.
   source: 장사 권프로 (@권프로)
+- url: https://www.youtube.com/watch?v=PrHq2-guKi8
+  author: 장사 권프로
+  seen: '2026-11-07'
+  quote: 이 사람 보라고 답을다는게 아닌 거예요.
+  source: 장사 권프로 (@권프로)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

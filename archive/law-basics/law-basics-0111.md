@@ -13,7 +13,7 @@ sources:
   quote: 압류·추심 같은 강제집행을 진행할 수 있어.
   source: 법무사 정승제 (@__jjjjjeee)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

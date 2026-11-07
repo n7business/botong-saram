@@ -11,8 +11,13 @@ sources:
   seen: '2026-11-06'
   quote: 첫 이미지나 영상은 잡으려는 키워드와 연관되어야 한다.
   source: 장사 권프로 (@권프로)
+- url: https://www.youtube.com/watch?v=PrHq2-guKi8
+  author: 장사 권프로
+  seen: '2026-11-07'
+  quote: 사람들이 간판 먹으러 오는 거 아니잖아요.
+  source: 장사 권프로 (@권프로)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

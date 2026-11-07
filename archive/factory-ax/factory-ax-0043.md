@@ -13,7 +13,7 @@ sources:
   quote: 2030년부터 EU에 수출하는 국내 기업에도 포장재와 차량의 재생원료 사용이 단계적으로 의무화 된다.
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-05'
-last_confirmed: '2026-11-05'
+last_confirmed: '2026-11-07'
 review_by: '2027-02-03'
 supersedes: null
 superseded_by: null

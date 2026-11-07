@@ -1,0 +1,28 @@
+---
+id: growth-0212
+domain: growth
+claim: 벤치마킹에서 배운 것은 한꺼번에 적용하지 말고 작은 변경 하나씩 시험해 전후 숫자를 비교한 뒤, 효과가 있으면 확대하고 없으면 수정해야
+  한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=Am5XVR8pxDc
+  author: 장사왕 임사부
+  seen: '2026-11-07'
+  quote: 벤치마킹의 마지막은 방문이 아니라 실행입니다.
+  source: 장사왕 임사부 (@장사왕임사부)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 벤치마킹
+- 실행
+- 매장개선
+---
+대표 메뉴 표시 변경, 플레이팅 하나 개선, 입장 인사 변경처럼 작은 것부터 시작한다. 적용 전후로 주문 시간, 대표 메뉴 주문량, 객단가, 음식 제공 시간, 리뷰 변화를 비교한다. 키오스크처럼 남이 쓰는 방식을 들여올 때는 그 매장의 목적이 주문 속도인지, 인건비인지, 추가 주문인지 먼저 파악한다. 그다음 내 매장에 같은 문제가 있는지 확인하고 맞는 방식으로 적용한다.

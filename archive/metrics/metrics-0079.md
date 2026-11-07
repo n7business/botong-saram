@@ -3,7 +3,7 @@ id: metrics-0079
 domain: metrics
 claim: 사장이 현장에 거의 없는 오토 외식 매장은 4대보험 포함 인건비율을 매출의 15% 안팎으로 보고, 매출이 높은 달 기준으로도 20%를
   넘지 않게 관리한다.
-status: verified
+status: stale
 evidence: observed
 confidence: 0.55
 sources:
@@ -16,7 +16,7 @@ first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
 review_by: '2027-05-02'
 supersedes: null
-superseded_by: null
+superseded_by: metrics-0155
 experiment: null
 law_ref: null
 contributor: null

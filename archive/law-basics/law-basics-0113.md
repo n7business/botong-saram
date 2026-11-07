@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 같은 사람이 계속 일해도 중임등기를 챙겨야 해.
   source: 법무사 정승제 (@__jjjjjeee)
+- url: https://www.youtube.com/watch?v=4PJTk_i4f6U
+  author: 법무법인 별 (강혜미 변호사)
+  seen: '2026-11-07'
+  quote: 등기 과태료 이슈도 있기 때문에 임기를 항상 체크하시고
+  source: 법무법인 별 (강혜미 변호사) (@star-law)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

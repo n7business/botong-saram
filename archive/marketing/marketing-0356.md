@@ -1,0 +1,29 @@
+---
+id: marketing-0356
+domain: marketing
+claim: 유튜브 플레이리스트 채널은 좋아하는 장르보다 사람들이 검색해 듣는 니치를 골라 1시간 이상 영상으로 만들고, 탐색 노출보다 검색 키워드를
+  노려야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=MdeWh8dg7Uw
+  author: 돈버는 기술, 마브사끼
+  seen: '2026-11-07'
+  quote: 그 플린은 일주일에 하나만 올려도 됩니다.
+  source: 돈버는 기술, 마브사끼
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 유튜브
+- 플레이리스트
+- 키워드
+- 검색유입
+---
+화자는 로파이·스터디·명상·수면·힐링 같은 니치를 예로 들며, 니치가 없으면 RPM이 나오지 않는다고 말합니다. 플레이리스트 영상은 기본 1시간 이상이어야 한다고 합니다. 유입은 검색 비중이 높다고 보아(화자 화면상 30%, 1위 영상은 검색 40%, 탐색 8%) 업로드 키워드를 엄청 중요하게 다룹니다. 처음에는 일주일에 하나만 올려도 되고, 알고리즘이 채널 성격을 학습한 뒤에는 일주일에 2~3개 정도 올리면 된다고 합니다. 수익과 유입 수치는 무료 특강과 강의를 안내하는 영상에 나온 화자 측 사례이므로 일반적인 결과로 보면 안 됩니다.

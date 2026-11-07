@@ -4,7 +4,7 @@ domain: business-plan
 claim: 트레일 신산업 로컬창업지원(크립톤, 2026-11-06 18:00 마감)은 장수군에 있거나 이전 예정인 업력 7년 이내 로컬(예비)창업
   기업 10곳에 기업당 사업화 자금 1,000만원과 멘토링·고객검증·데모데이를 제공하며, 서류심사 100%이고 IR 피칭 자료 업로드가 필수이므로
   지원서 대신 IR 자료부터 준비해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: null
+review_by: '2026-11-06'
 supersedes: null
 superseded_by: null
 experiment: null

@@ -1,0 +1,29 @@
+---
+id: metrics-0135
+domain: metrics
+claim: 전체 매출이 늘어도 어느 매출에서 늘었는지 나눠 봐야 하며, 크몽처럼 증가분 대부분이 부가 사업에서 나왔다면 본업은 정체일 수 있다.
+status: verified
+evidence: observed
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=S891AYQbsSs
+  author: 오늘부터 회계사
+  seen: '2026-11-07'
+  quote: 본업인 플랫폼 수수료가 성장하지 않는다는 점은 생각해볼 대목입니다.
+  source: 오늘부터 회계사 (@오늘부터회계사)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: '2027-05-06'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 매출분해
+- 수익원
+- 본업
+- 플랫폼
+verified_by: 실무자 실측(단일 출처)
+---
+매출 총액만 보지 말고 사업별·수익원별로 나눠 전년과 비교합니다. 크몽은 2025년 매출이 약 44억 원 늘어 541억 원이 됐지만, 증가분은 거의 전부 B2B 용역 매출(약 45억 원 증가)에서 나왔습니다. 같은 해 거래 수수료는 262억 원에서 265억 원으로 정체됐습니다. 늘어난 매출과 함께 늘어난 비용(단기 파견비·청소 용역비)도 짝지어 봐야 합니다. 다만 화자도 1년치 데이터라 단정할 수 없다고 밝혔으므로, 여러 해의 흐름을 함께 확인합니다.

@@ -1,0 +1,29 @@
+---
+id: mindset-0103
+domain: mindset
+claim: 직원 문제가 생기면 사람을 탓하기보다 일하는 구조와 매뉴얼·체크리스트에서 재발 방지책을 찾는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=6-5SCavcmus
+  author: 다점포왕TV (@dajumpo) 출연 사장(실명 미표기)
+  seen: '2026-11-07'
+  quote: 이 사람한테 문제를 찾으면 답이 안 풀리는 거지.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 매뉴얼
+- 체크리스트
+- 시스템
+- 직원관리
+- 원칙
+---
+화자는 처음에는 화가 나 감정적으로 대했지만 문제가 해결되지 않았고, 사람에게서 원인을 찾으면 답이 안 나온다고 말한다. 한 사례에서 3~4개월 일한 홀매니저가 일이 계속 주어진다며 퇴사 의사를 밝혔는데, 오픈하자마자 손님이 들어오는 구조가 문제라고 보고 오픈 전 준비를 끝내는 아르바이트생을 따로 뽑았다. 그 뒤 이 매니저는 그만두지 않고 일을 잘한다고 한다. 월매출 1억을 넘어 장사에서 사업으로 넘어가면 사장이 몸으로 때워서는 해결되지 않으므로, 인건비가 한 명 더 들더라도 직원들이 알아서 돌아가도록 체크리스트를 만들어야 한다는 것이 화자의 기준이다. 소규모 매장은 추가 인건비가 감당되는지 먼저 계산한다.

@@ -1,0 +1,28 @@
+---
+id: ai-tools-0301
+domain: ai-tools
+claim: 여러 명이 동시에 입력하고 함께 보는 업무 도구를 AI로 만들려면 HTML 단일 파일에서 멈추지 말고 DB와 배포 서비스를 연결해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=wa5BtVLAcNs
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-07'
+  quote: 다른 사람이 들어오게 하려면 DB와 배포 사이트가 반드시 연결돼 있어야 하며
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- supabase
+- vercel
+- 배포
+- 팀업무
+---
+클로드로 작업하면 보통 HTML 단일 파일이나 내 데스크탑에서만 쓰는 결과물이 나옵니다. 처음 지시할 때 '슈퍼베이스 MCP를 연결할 거야', '버셀을 통해서 배포할 거야'를 덧붙이면 다른 사람도 URL로 들어와 함께 작업하는 구성을 목표로 잡을 수 있습니다. 서비스는 자유롭게 고를 수 있으며 DB는 슈퍼베이스 대신 네온을 써도 됩니다. 배포 전에는 로컬호스트로 먼저 띄워 레이아웃과 동작을 1차로 확인합니다. 시연 사례는 5명 팀의 주간·월간 보고 취합 시스템이었습니다.

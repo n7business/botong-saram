@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 클로드 MD가 부탁이라면 훅은 강제예요.
   source: 짐코딩 (@gymcoding)
+- url: https://www.youtube.com/watch?v=8RxtwS94ahw
+  author: 한범 (서울대 교수)
+  seen: '2026-11-07'
+  quote: 이 설정은 클로드가 기계적으로 따르는 규칙입니다.
+  source: 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

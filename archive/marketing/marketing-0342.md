@@ -1,0 +1,31 @@
+---
+id: marketing-0342
+domain: marketing
+claim: '자체 사이트를 네이버 검색에 내보내려면 웹마스터도구에 호스트 단위로 등록해 소유 확인을 하고 사이트맵과 RSS를 제출한 뒤, site:
+  검색과 노출·클릭 리포트로 반영 여부를 확인해야 한다.'
+status: verified
+evidence: policy
+confidence: 0.95
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-intro
+  author: NAVER Corp.
+  seen: '2026-11-07'
+  quote: 네이버의 검색로봇이 방문한 뒤 최대 1주일 이내에 사이트의 콘텐츠가 검색에 반영됩니다.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: '2027-01-06'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- 서치어드바이저
+- 사이트맵
+- RSS
+verified_by: 공식 출처
+---
+웹마스터도구에 사이트를 등록하고 HTML meta 태그나 HTML 파일 업로드로 소유를 확인합니다. 등록은 호스트 단위만 지원하므로 www.mysite.com은 되고 www.mysite.com/myid는 되지 않습니다. 그다음 XML 사이트맵은 '요청-사이트맵 제출'에서, 최신글의 본문 전체를 담은 RSS는 '요청-RSS 제출'에서 제출합니다. 네이버는 검색로봇이 방문한 뒤 최대 1주일 이내에 콘텐츠가 검색에 반영된다고 안내합니다. 반영 여부는 웹문서 검색의 site:www.mysite.com으로 확인하고, 성과는 콘텐츠 노출 및 클릭 리포트로 봅니다.

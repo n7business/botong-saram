@@ -2,7 +2,7 @@
 id: licensing-0003
 domain: licensing
 claim: 용접·금형 직종 구인 사업주는 고용허가서 발급 신청 시 현지에서 양성된 뿌리산업 기능인력을 우선 알선받을 수 있다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.75
 sources:
@@ -29,5 +29,6 @@ tags:
 - 금형
 - 기능인력
 verified_by: 공식 출처
+merged_into: licensing-0116
 ---
 한국산업인력공단이 뿌리산업(용접, 금형) 특화 기능인력을 송출국 현지에서 양성·선발했다. 용접·금형 직종으로 구인하는 사업주가 2026년 4회차 고용허가서 발급 신청을 하면 해당 기능인력을 우선 알선받는다. 일반 제조업 사업주도 신청할 수 있다. 세부 요건과 신청 방법은 EPS 공지 첨부 안내문(hwpx)을 확인하고, 구인 직종 코드를 용접·금형으로 정확히 기재해야 한다.

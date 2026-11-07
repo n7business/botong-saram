@@ -1,0 +1,33 @@
+---
+id: law-basics-0163
+domain: law-basics
+claim: 전문투자자 대우를 받겠다는 서면 통지 없이 녹취만 하고 CFD를 거래했다면, 일반투자자를 상대로 한 거래이므로 무효라고 증권사에 주장해
+  볼 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=HngSeOopfkE
+  author: 전세준 변호사
+  seen: '2026-11-07'
+  quote: 녹취만 있고 서면 통지를 하지 않은 투자자는 이 부분을 다툴 수 있다.
+  source: 전세준 변호사 (@전세준변호사)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 자본시장과 금융투자업에 관한 법률
+  article: 제166조의2
+  effective: '2026-11-07'
+contributor: null
+tags:
+- CFD
+- 서면통지
+- 전문투자자
+- 일반투자자
+- 증권사책임
+---
+영상은 CFD 같은 장외파생상품을 증권사와 거래할 때 전문투자자 대우를 받겠다는 뜻을 서면으로 통지해야 하며, 증권사가 통지를 받지 않았다면 전문투자자 지위가 부여되지 않은 것으로 해석된다고 설명한다. 자본시장법상 일반투자자는 위험회피 목적으로만 장외파생상품을 거래할 수 있다. 따라서 CFD 손실을 봤다면 내가 서면 통지를 했는지부터 확인하고, 녹취만 있었다면 이 점을 다툴 수 있다. 증권사가 서면 통지를 받았다는 점을 증명하지 못하면 위험회피 목적이었음을 증명해야 하는 상황이 생길 수 있다. 이는 변호사 한 사람의 법률 해석이고 거래가 실제로 무효가 된다는 보장은 아니므로, 구체적인 사건은 전문가에게 검토받아야 한다.

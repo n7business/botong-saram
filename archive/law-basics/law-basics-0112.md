@@ -13,7 +13,7 @@ sources:
   quote: 지금 남아 있는 대출잔액과는 달라.
   source: 법무사 정승제 (@__jjjjjeee)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: null
 supersedes: null
 superseded_by: null

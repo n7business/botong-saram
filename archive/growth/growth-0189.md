@@ -1,0 +1,29 @@
+---
+id: growth-0189
+domain: growth
+claim: 단가가 낮은 메뉴를 파는 식당도 룸과 대표 메뉴 세트를 갖추면 고깃집으로 가던 회식·가족 단체 수요를 가져와 객단가를 높여 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=GQR-JVkXxcI
+  author: 다점포왕TV (@dajumpo)
+  seen: '2026-11-07'
+  quote: 여기서는 세트 6만 원, 술까지 10만~12만 원이면 해결된다.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 객단가
+- 세트메뉴
+- 단체손님
+- 룸
+- 식당
+---
+한 순대국 매장은 양쪽에 룸을 3개씩 두고 칸막이를 열면 20명 넘게 앉을 수 있게 했으며, 버스 한 대 규모의 단체가 룸을 모두 예약한 일도 있었다고 전한다. 세트는 대표 메뉴를 묶어 구성했는데, 미리 준비해 둔 뒤 추가해서 내면 되므로 운영이 쉽고 한 번에 고단가 주문이 들어온다고 한다. 화자들은 고깃집 룸 회식이 10만~30만 원인 반면 이곳은 세트 6만 원, 술까지 10만~12만 원이면 해결된다고 비교했다. 룸은 자리 효율을 떨어뜨릴 수 있고 이 사례는 브랜드 측 설명이므로, 내 매장의 단체 수요부터 확인한 뒤 간이 룸처럼 작게 시험한다.

@@ -1,0 +1,29 @@
+---
+id: ai-tools-0317
+domain: ai-tools
+claim: CLAUDE.md에는 AI가 얼마나 물을지 정해 두어야 하며, 시킨 일의 뒷정리는 묻지 말고 정해 둔 원칙을 바꿀 때는 의논하게 해야
+  한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=8RxtwS94ahw
+  author: 한범 (서울대 교수)
+  seen: '2026-11-07'
+  quote: 시킨 일에 딸린 뒷정리까지 할까요 말까요 계속 묻지 말라고 적었습니다.
+  source: 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 클로드코드
+- CLAUDE.md
+- 지시문
+- 소통
+---
+화자는 얼마나 물을지를 딱 정해 줘야 한다고 말한다. 시킨 일에 딸린 뒷정리까지 할지 말지 계속 묻지 말라고 적어 두면 사소한 확인 질문을 줄일 수 있다. 반대로 사람은 충동적이어서 정해 둔 원칙을 다음 날 바꿀 수도 있으므로, 원칙을 바꾸려 할 때는 의논하라고 적는다. 사소한 일은 넘기고 중요한 방향 변경에서는 한 번 멈추게 하는 규칙이다.

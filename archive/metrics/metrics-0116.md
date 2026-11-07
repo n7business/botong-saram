@@ -11,8 +11,13 @@ sources:
   seen: '2026-11-06'
   quote: 10일·20일·30일마다 관리 비용 보고를 받고
   source: 장사는 김형철 (@장사는김형철)
+- url: https://www.youtube.com/watch?v=N5eXCfC-cdE
+  author: 장사는 김형철
+  seen: '2026-11-07'
+  quote: 최소한 총괄 코스트는 10일·20일·말일, 즉 10일에 한 번씩 30분 정도 투자하면 된다.
+  source: 장사는 김형철 (@장사는김형철)
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-07'
 review_by: '2027-05-05'
 supersedes: null
 superseded_by: null

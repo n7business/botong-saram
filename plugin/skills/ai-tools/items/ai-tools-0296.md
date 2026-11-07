@@ -1,0 +1,11 @@
+# Higgsfield API로 사용자가 있는 웹앱을 만들 때는 subscribe로 기다리지 말고 submit과 webhook을 써야, 이미지마다 서버가 묶이는 일을 피할 수 있다.
+
+👤 한 사람이 말함 · 노마드 코더 Nomad Coders
+
+subscribe는 요청을 보내고 생성이 끝날 때까지 기다리므로 실제 서비스에서는 이미지마다 서버가 1분씩 묶일 수 있습니다. submit에 내 서버의 webhook URL을 함께 넘기면 request ID가 바로 돌아오므로, 사용자에게는 스피너를 보여 주면 됩니다. 이미지가 준비되면 Higgsfield가 내 URL로 request ID, 상태, 이미지 URL을 보내고, 이를 저장해 DB와 화면을 업데이트합니다. 영상에 따르면 호출 시점에 서버가 다운돼 있어도 2시간 동안 재시도합니다. 이 영상은 Higgsfield 협찬이므로 재시도 동작은 공식 문서에서 확인한 뒤 설계에 반영해야 합니다.
+
+- 근거 anecdote · 처음 2026-11-07 · 최근 확인 2026-11-07 · 재검토 —
+
+## 출처
+- 노마드 코더 Nomad Coders · 2026-11-07 · https://www.youtube.com/watch?v=ClRLnDr48gQ
+  > They keep retrying for 2 hours.
