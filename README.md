@@ -6,6 +6,7 @@
 
 **각 영역에서 보통 사람에게 주기적으로 지식을 업데이트해 주실 능력자분을 찾습니다.** → [docs/contributors.md](docs/contributors.md)
 
+- **플러그인 현황판**(영역별로 무엇이 실렸나·새로 들어온 것, 매일 갱신): https://n7business.github.io/botong-saram/
 - 설계: [docs/vision.md](docs/vision.md)
 - 영역 10개와 액션: [docs/domains.md](docs/domains.md)
 - 배포: yeoksam836.com 상단 메뉴 「보통사람」 (준비 중)
