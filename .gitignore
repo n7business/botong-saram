@@ -2,3 +2,4 @@
 .omc/
 inbox/
 state/
+__pycache__/
