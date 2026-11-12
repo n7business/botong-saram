@@ -27,6 +27,9 @@ def main():
     for k, ko in (("verified", "✅ 승격"), ("candidate", "🆕 후보"), ("stale", "⚠️ 주의 강등"), ("expired", "⌛ 마감 지남"), ("deprecated", "⛔ 폐기"), ("reconfirmed", "🔁 재확인")):
         if kinds.get(k): lines.append(f"{ko} {len(kinds[k])}: " + ", ".join(kinds[k][:12]) + (" …" if len(kinds[k]) > 12 else ""))
     if len(lines) == 1: lines.append("변경 없음")
+    try:
+        from traffic import week_line; lines.append(week_line())
+    except Exception as e: lines.append(f"👀 GitHub 방문 기록 없음({e})")
     lines.append("\n거부: 「폐기 <id> 사유」로 답장 → scripts/deprecate.py")
     lines.append(("🚨 감시 이상: " + ", ".join(late)) if late else "🫀 감시 정상")
     telegram("\n".join(lines)); heartbeat("digest"); log("\n".join(lines))

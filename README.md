@@ -6,6 +6,12 @@
 
 👉 **[플러그인 현황판](https://n7business.github.io/botong-saram/)** — 영역별로 무엇이 실렸는지, 오늘 무엇이 새로 들어왔는지
 
+만든 곳: 강남 역삼동 공유오피스·커뮤니티 **[역삼836](https://yeoksam836.com/?utm_source=github&utm_medium=readme&utm_campaign=botong)** — Claude Code 강의와 만드는 사람들의 모임을 엽니다.
+
+![실제 답변 예시 — 직원 6명 가게의 구두 해고 질문에 Claude가 보통사람 노무 스킬을 열어 노무사 4명의 공통 의견과 출처를 붙여 답한 화면](docs/assets/example-answer.png)
+
+위 화면은 2026-11-12 실제 실행 결과입니다. 답 전문은 [docs/examples/hr-labor-dismissal.md](docs/examples/hr-labor-dismissal.md).
+
 ## 설치
 
 **Claude Code**
@@ -21,6 +27,14 @@ codex plugin marketplace add n7business/botong-saram
 ```
 
 설치한 뒤에는 평소처럼 물어보면 됩니다. 예: "직원 6명인데 연장근로수당 꼭 줘야 해?", "스마트스토어 상세페이지 요즘 어떻게 만들어?", "이번 달 마감인 정부지원사업 있어?"
+
+다른 플러그인을 아주 많이 깔아 두었다면 Claude가 보통사람 스킬을 못 고를 때가 있습니다. 그럴 땐 질문 앞에 **"보통사람 기준으로"**를 붙이면 확실히 엽니다.
+
+**그 밖의 에이전트(Cursor·Gemini CLI 등)** — 스킬만 따로 설치: `npx skills add n7business/botong-saram`
+
+### 이 플러그인이 하는 일
+- 설치된 마크다운 파일(SKILL.md·all.md·people.md·items/)을 읽기만 합니다. 훅·MCP 서버·실행 스크립트가 없고, 어떤 정보도 밖으로 보내지 않습니다.
+- 빌드일이 7일 넘게 지났고 웹을 읽을 수 있으면, 최신본 `raw.githubusercontent.com/n7business/botong-saram/main/plugin/skills/<영역>/SKILL.md`를 읽도록 안내되어 있습니다.
 
 ## 들어 있는 것
 
@@ -68,6 +82,13 @@ flowchart LR
     P --> U[내 Claude Code·Codex]
 ```
 
+## 역삼836에서 같이 배워요
+
+보통사람은 역삼836이 만들고 매일 운영합니다. 플러그인을 써 보고 더 깊이 배우고 싶다면:
+- **[클로드코드 종합 강의](https://yeoksam836.com/courses/claude-code?utm_source=github&utm_medium=readme&utm_campaign=botong)** — 클로드코드를 업무 도구로 제대로 쓰는 방법을 처음부터 끝까지
+- **[836 커뮤니티](https://yeoksam836.com/courses/community?utm_source=github&utm_medium=readme&utm_campaign=botong)** — 만드는 사람들이 모여 사례를 나누고 일감과 동료를 찾습니다
+- **[공간 둘러보기](https://yeoksam836.com/?utm_source=github&utm_medium=readme&utm_campaign=botong)** — 강남 역삼동 2층 오피스·3층 다목적홀
+
 ## 기고자 모집
 
 **각 영역에서 보통 사람에게 주기적으로 지식을 업데이트해 주실 능력자분을 찾습니다.** → [docs/contributors.md](docs/contributors.md)
@@ -80,4 +101,4 @@ flowchart LR
 보통사람은 원문 일부를 출처 링크와 함께 짧게 인용합니다. CC-BY-4.0은 보통사람이 쓴 정리·구성에만 적용되며, 인용된 원문의 권리는 원작자에게 있습니다.
 
 ---
-설계 [docs/vision.md](docs/vision.md) · 영역 [docs/domains.md](docs/domains.md) · 만든 곳 [역삼836](https://yeoksam836.com) · 시작 2026-11-03
+설계 [docs/vision.md](docs/vision.md) · 영역 [docs/domains.md](docs/domains.md) · 만든 곳 [역삼836](https://yeoksam836.com/?utm_source=github&utm_medium=readme&utm_campaign=botong) · 시작 2026-11-03

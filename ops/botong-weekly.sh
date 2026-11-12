@@ -10,6 +10,6 @@ WEEK=$(date +%G-W%V)
 exec >> "$LOG" 2>&1
 echo "===== $(date '+%F %T') $WEEK ====="
 cd "$REPO" && git pull -q --ff-only
-python3 scripts/lawcheck.py && python3 scripts/verify.py && python3 scripts/build_plugin.py && python3 scripts/build_site.py \
-  && git add archive changelog plugin site && git commit -qm "weekly $WEEK" ; git push -q
+python3 scripts/lawcheck.py && python3 scripts/verify.py && python3 scripts/build_plugin.py && python3 scripts/build_site.py && python3 scripts/build_dashboard.py \
+  && git add archive changelog plugin site README.md && git commit -qm "weekly $WEEK" ; git push -q
 python3 scripts/digest.py && echo "$WEEK" > "$STAMP"

@@ -13,4 +13,5 @@ cd "$REPO" && git pull -q --ff-only
 python3 scripts/collect.py && python3 scripts/extract.py && python3 scripts/cluster.py && python3 scripts/verify.py && python3 scripts/build_plugin.py && python3 scripts/build_site.py && python3 scripts/build_dashboard.py \
   && git add archive changelog plugin site README.md && git commit -qm "daily $DAY" && git push -q \
   && echo "$DAY" > "$STAMP"
+python3 scripts/traffic.py
 python3 scripts/digest.py --check-only

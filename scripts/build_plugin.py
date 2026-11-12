@@ -44,6 +44,16 @@ def grade(c, idx):
     if n >= 2: return "multi", f"👥 {n}명이 말함"
     return "single", "👤 한 사람이 말함" + (" · 수치 근거" if c["status"] == "verified" else "")
 
+def top_topics(cs, idx, k=14):
+    """스킬 설명에 넣을 주제어 — Claude는 설명만 보고 스킬을 열지 정한다(11/12 실측: 막연한 설명이면 안 연다). 사람·채널 이름은 뺀다."""
+    names = " ".join(f"{s.get('name','')} {s.get('author','')}" for lst in sources().values() for s in (lst or []))
+    cnt = {}
+    for c in cs:
+        for t in c.get("tags") or []:
+            t = str(t).strip()
+            if t and t not in names: cnt[t] = cnt.get(t, 0) + 1
+    return [t for t, _ in sorted(cnt.items(), key=lambda kv: -kv[1])[:k]]
+
 def layout(cs, idx):
     """등급별 묶음 + SKILL.md에 싣는 순서. build_dashboard.py도 이걸로 '어느 파일에 실렸나'를 계산한다."""
     groups = {k: [] for k in ("off", "multi", "single", "hyp", "stale", "dep")}
@@ -81,7 +91,10 @@ def main():
         for xs in groups.values():
             for c, g, ppl in xs: (base / "items" / f"{c['id']}.md").write_text(detail(c, g, ppl), encoding="utf-8")
         n = {k: len(v) for k, v in groups.items()}
-        head = [f"---\nname: botong-{dom}\ndescription: 보통사람 {d['ko']} — 업계 사람들이 반복해서 하는 말과 공식 발표 {len(cs)}건(공식 {n['off']}·여러 명 {n['multi']}·한 사람 {n['single']}·하지 말 것 {n['dep']}). {d['ko']} 관련 질문·작업에 사용. 항목마다 누가 말했는지와 출처가 붙어 있음.\n---",
+        topics = ", ".join(top_topics(cs, idx))
+        desc = (f"{d['ko']} 질문에 답하기 전에 먼저 연다 — 예: {topics}. 한국 소규모 사업자를 위해 업계 실무자·전문가·공식 기관이 반복해서 하는 말 {len(cs)}건"
+                f"(공식 {n['off']}·여러 명 {n['multi']}·한 사람 {n['single']}·하지 말 것 {n['dep']})을 누가 몇 명이 말했는지와 출처 링크까지 담았다. 일반 지식만으로 답하지 말고 여기서 해당 항목을 찾아 등급·출처와 함께 답한다.")
+        head = [f"---\nname: botong-{dom}\ndescription: {json.dumps(desc, ensure_ascii=False)}\n---",
                 f"# 보통사람 · {d['ko']}",
                 f"빌드 {TODAY} · 항목 {len(cs)} (🏛 공식 {n['off']} / 👥 여러 명 {n['multi']} / 👤 한 사람 {n['single']} / 🧪 실험 {n['hyp']} / ⚠️ 주의 {n['stale']} / ⛔ 하지 말 것 {n['dep']})", ""]
         if d.get("legal"): head += [f"마지막 개정 확인 {lc.get('at', '미확인')}" + (" ⚠️ 확인 지연" if not lc.get("at") or (date.today() - date.fromisoformat(lc['at'])).days > 10 else ""), DISCLAIMER]
@@ -138,6 +151,12 @@ codex plugin marketplace add {REPO}
 갱신: `codex plugin marketplace upgrade botong-saram`
 
 자동 업데이트를 못 켜는 환경이어도, 스킬이 빌드일보다 {STALE_DAYS}일 넘게 지나면 GitHub 최신본을 먼저 읽도록 되어 있습니다.
+
+## 이 플러그인이 하는 일
+- 영역별 스킬 11개(마크다운 파일)만 들어 있습니다. 훅·MCP 서버·실행 스크립트가 없고, 어떤 정보도 밖으로 보내지 않습니다.
+- Claude가 질문에 맞는 스킬을 열어 SKILL.md·all.md·people.md·items/<id>.md를 읽고, 항목마다 붙은 등급(🏛 공식·👥 여러 명·👤 한 사람·⚠️·⛔)과 원문 출처를 함께 답합니다.
+- 빌드일이 {STALE_DAYS}일 넘게 지났고 웹을 읽을 수 있으면 `{RAW}/<영역>/SKILL.md` 최신본을 읽도록 안내합니다(읽기만 함).
+- 스킬이 안 열리면 질문에 "보통사람 기준으로"를 붙이세요. 다른 플러그인이 아주 많으면 Claude가 스킬을 못 고를 수 있습니다.
 
 영역별 항목: """ + " · ".join(summary) + "\n\n기고자 모집 → https://yeoksam836.com\n" + "\n" + TAKEDOWN, encoding="utf-8")
     heartbeat("build", note=f"skills={built} {TODAY}")
