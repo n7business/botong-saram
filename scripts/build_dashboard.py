@@ -34,8 +34,25 @@ def main():
     people = sum(1 for lst in sources().values() for s in (lst or []) if not s.get("unverified"))
     data = {"built": TODAY, "repo": REPO, "grades": GRADE_KO, "kinds": KIND_KO, "domains": dstat, "items": items, "events": events, "gone": gone, "people": people}
     page = TEMPLATE.replace("{{DATA}}", json.dumps(data, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")).replace("{{BUILT}}", TODAY).replace("{{REPO}}", REPO)
-    out = ROOT / "site/dashboard.html"; out.write_text(page, encoding="utf-8")
+    out = ROOT / "site/dashboard.html"; out.write_text(page, encoding="utf-8"); update_readme(dstat, items, people)
     log(f"dashboard 빌드 {out} items={len(items)} events={len(events)} {out.stat().st_size // 1024}KB")
+
+def update_readme(dstat, items, people):
+    """README.md의 stats 표시 사이를 오늘 숫자로 바꾼다(저장소 첫 화면이 소개 페이지)."""
+    p = ROOT / "README.md"; a, b = "<!-- stats:start -->", "<!-- stats:end -->"
+    s = p.read_text(encoding="utf-8")
+    if a not in s or b not in s: return
+    wk = (date.today() - timedelta(days=6)).isoformat()
+    n7 = {}
+    for r in items:
+        if r[6] >= wk: n7[r[1]] = n7.get(r[1], 0) + 1
+    rows = ["| 영역 | 항목 | 🏛 공식 | 👥 여러 명 | 👤 한 사람 | 최근 7일 신규 |", "|---|--:|--:|--:|--:|--:|"]
+    for d in dstat:
+        rows.append(f"| {d['ko']}{' ⚖️' if d['legal'] else ''} | {d['total']:,} | {d['n']['off']:,} | {d['n']['multi']:,} | {d['n']['single']:,} | {n7.get(d['key'], 0):,} |")
+    tot = sum(d["total"] for d in dstat)
+    block = "\n".join([a, f"{TODAY} 기준 **{tot:,}건** · 추적 출처 {people}곳 · 최근 7일 새로 들어온 항목 {sum(n7.values()):,}건 (매일 자동 갱신, ⚖️ 법령 영역)", ""] + rows + [b])
+    s = s[:s.index(a)] + block + s[s.index(b) + len(b):]
+    p.write_text(s, encoding="utf-8")
 
 TEMPLATE = r'''<!doctype html>
 <html lang="ko">
