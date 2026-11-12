@@ -44,6 +44,15 @@ def grade(c, idx):
     if n >= 2: return "multi", f"👥 {n}명이 말함"
     return "single", "👤 한 사람이 말함" + (" · 수치 근거" if c["status"] == "verified" else "")
 
+def layout(cs, idx):
+    """등급별 묶음 + SKILL.md에 싣는 순서. build_dashboard.py도 이걸로 '어느 파일에 실렸나'를 계산한다."""
+    groups = {k: [] for k in ("off", "multi", "single", "hyp", "stale", "dep")}
+    for c in cs:
+        k, g = grade(c, idx); groups[k].append((c, g, speakers(c, idx)))
+    groups["multi"].sort(key=lambda x: -len(x[2]))
+    for k in ("off", "stale", "dep", "hyp"): groups[k].sort(key=lambda x: str(x[0].get("last_confirmed") or x[0].get("first_seen") or ""), reverse=True)  # 최근 확인 순
+    return groups
+
 def detail(c, g, ppl):
     L = [f"# {c['claim']}", "", f"{g} · {', '.join(ppl)}", "", c.get("_body", "").strip(), ""]
     meta = [f"근거 {c.get('evidence')}", f"처음 {c.get('first_seen')}", f"최근 확인 {c.get('last_confirmed')}", f"재검토 {c.get('review_by') or '—'}"]
@@ -68,13 +77,9 @@ def main():
         cs = [c for c in claims(dom) if c["status"] not in ("merged", "expired")]
         if not cs: continue
         base = PLUGIN / "skills" / dom; (base / "items").mkdir(parents=True, exist_ok=True)
-        groups = {k: [] for k in ("off", "multi", "single", "hyp", "stale", "dep")}
-        for c in cs:
-            k, g = grade(c, idx); ppl = speakers(c, idx)
-            groups[k].append((c, g, ppl))
-            (base / "items" / f"{c['id']}.md").write_text(detail(c, g, ppl), encoding="utf-8")
-        groups["multi"].sort(key=lambda x: -len(x[2]))
-        for k in ("off", "stale", "dep", "hyp"): groups[k].sort(key=lambda x: str(x[0].get("last_confirmed") or x[0].get("first_seen") or ""), reverse=True)  # 최근 확인 순
+        groups = layout(cs, idx)
+        for xs in groups.values():
+            for c, g, ppl in xs: (base / "items" / f"{c['id']}.md").write_text(detail(c, g, ppl), encoding="utf-8")
         n = {k: len(v) for k, v in groups.items()}
         head = [f"---\nname: botong-{dom}\ndescription: 보통사람 {d['ko']} — 업계 사람들이 반복해서 하는 말과 공식 발표 {len(cs)}건(공식 {n['off']}·여러 명 {n['multi']}·한 사람 {n['single']}·하지 말 것 {n['dep']}). {d['ko']} 관련 질문·작업에 사용. 항목마다 누가 말했는지와 출처가 붙어 있음.\n---",
                 f"# 보통사람 · {d['ko']}",
