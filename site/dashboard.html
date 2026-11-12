@@ -48,10 +48,13 @@ td.num{font-family:var(--mono);text-align:right;font-variant-numeric:tabular-num
 tr.dom{cursor:pointer}
 tr.dom:hover td,tr.dom.on td{background:var(--soft)}
 tr.dom.on td:first-child{box-shadow:inset 3px 0 0 var(--fg)}
+.files{white-space:nowrap}
+.files div{display:grid;grid-template-columns:auto auto;gap:2px 10px;align-items:baseline}
 .files a{text-decoration:none;border-bottom:1px solid var(--line);white-space:nowrap}
 .files a:hover{border-color:var(--fg)}
-.files small{color:var(--faint);font-family:var(--mono);margin-left:4px}
-.dist{display:flex;gap:2px;height:12px;min-width:180px}
+.files small{color:var(--faint);font-family:var(--mono);font-size:11px}
+.dist{display:flex;gap:2px;height:12px;min-width:160px}
+td.distc{width:38%}
 .dist span{display:block;height:100%;min-width:2px}
 .dist span:first-child{border-radius:3px 0 0 3px}.dist span:last-child{border-radius:0 3px 3px 0}
 .new{font-family:var(--mono);font-weight:500}
@@ -172,20 +175,21 @@ function stats(){
 }
 
 function chart(){
-  const days = []; for (let k = 20; k >= 0; k--){ const d = new Date(built - k*dayMs); days.push(d.toISOString().slice(0,10)); }
+  const firstDay = items.reduce((m, i) => i.first && i.first < m ? i.first : m, D.built); const span = Math.min(29, Math.max(6, ago(firstDay)));
+  const days = []; for (let k = span; k >= 0; k--){ const d = new Date(built - k*dayMs); days.push(`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,"0")}-${String(d.getDate()).padStart(2,"0")}`); }
   const pool = items.filter(i => S.dom === "all" || i.dom === S.dom);
   const c = Object.fromEntries(days.map(d => [d, 0])); pool.forEach(i => { if (i.first in c) c[i.first]++; });
   const W = 760, H = 190, L = 34, B = 22, T = 14, R = 6, max = Math.max(10, ...Object.values(c));
   const step = Math.pow(10, Math.floor(Math.log10(max))); const top = Math.ceil(max/step)*step; const ticks = [0, top/2, top];
   const bw = (W - L - R) / days.length, y = v => T + (H - T - B) * (1 - v/top);
-  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="최근 21일 일별 신규 항목 수">`;
+  let s = `<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="일별 신규 항목 수">`;
   ticks.forEach(t => { s += `<line x1="${L}" x2="${W-R}" y1="${y(t)}" y2="${y(t)}" stroke="var(--line)" stroke-width="1"/><text x="${L-6}" y="${y(t)+3}" text-anchor="end">${fmt(t)}</text>`; });
   days.forEach((d, k) => {
     const v = c[d], x = L + k*bw + 3, w = bw - 6, h = (H - T - B) - (y(v) - T), on = S.day === d, dim = S.day && !on;
     const fill = dim ? "var(--bar-dim)" : "var(--bar)";
     if (v > 0) s += `<path d="M${x},${y(0)} V${y(v)+Math.min(4,h)} q0,-4 4,-4 h${w-8} q4,0 4,4 V${y(0)} Z" fill="${fill}"/>`;
     if (v > 0 && (on || k === days.length-1 || v === max)) s += `<text x="${x+w/2}" y="${y(v)-5}" text-anchor="middle" style="fill:var(--fg)">${v}</text>`;
-    if (k % 3 === 0 || k === days.length-1) s += `<text x="${x+w/2}" y="${H-6}" text-anchor="middle">${md(d)}</text>`;
+    if (days.length <= 14 || k % 3 === 0 || k === days.length-1) s += `<text x="${x+w/2}" y="${H-6}" text-anchor="middle">${md(d)}</text>`;
     s += `<rect class="hit" data-d="${d}" data-v="${v}" x="${L+k*bw}" y="${T}" width="${bw}" height="${H-T-B}" fill="transparent" style="cursor:${v?"pointer":"default"}"/>`;
   });
   $("chart").innerHTML = s + "</svg>";
@@ -206,8 +210,8 @@ function map(){
     const f = (file, n, size) => `<a href="${GH}${d.key}/${file}" target="_blank" rel="noopener">${file}</a><small>${n}건 · ${kb(size)}</small>`;
     const n7 = items.filter(i => i.dom === d.key && ago(i.first) < 7).length;
     return `<tr class="dom${S.dom===d.key?" on":""}" data-k="${d.key}" tabindex="0"><td><b style="font-weight:500">${esc(d.ko)}</b>${d.legal?' <small style="color:var(--faint)">법령</small>':''}<br><small class="mono" style="color:var(--faint)">${d.key}</small></td>
-      <td class="num">${fmt(d.total)}</td><td><div class="dist">${segs}</div></td>
-      <td class="files"><div style="display:flex;flex-direction:column;gap:2px">${f("SKILL.md", skillN, d.size.SKILL)}${f("all.md", allN, d.size.all)}${f("people.md", pplN, d.size.people)}</div></td>
+      <td class="num">${fmt(d.total)}</td><td class="distc"><div class="dist">${segs}</div></td>
+      <td class="files"><div>${f("SKILL.md", skillN, d.size.SKILL)}${f("all.md", allN, d.size.all)}${f("people.md", pplN, d.size.people)}</div></td>
       <td class="num"><span class="new${n7?"":" z"}">${n7?"+"+n7:"0"}</span></td></tr>`;
   }).join("");
   $("map").querySelectorAll("tr.dom").forEach(tr => {
