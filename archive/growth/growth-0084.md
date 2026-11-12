@@ -1,0 +1,30 @@
+---
+id: growth-0084
+domain: growth
+claim: 직원 1명을 뽑는 소규모 사업장이라도 아이 등원 후 출근하고 하원 시간 전에 퇴근할 수 있는 근무시간을 공고에 명시하면, 경력과 의지가
+  있지만 시간 조건 때문에 구직을 못 하던 육아 중인 지원자가 대거 몰려 지원자 풀이 크게 넓어진다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.instagram.com/reel/DePOvxszIdH/
+  author: 황민지 (@nana___2.2)
+  seen: '2026-11-03'
+  quote: 직원 한 분을 구하는데, 1,000명이 넘게 지원했습니다.
+  source: 황민지 | 100만원으로 시작한 8년차 사장 (@nana___2.2)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 채용
+- 근무시간
+- 육아
+- 소규모사업장
+- 인력
+---
+직원 0~10명 사업장은 급여 경쟁력으로 대기업과 싸울 수 없으므로 '근무시간'을 채용 무기로 쓴다. 채용 공고에 출근·퇴근 시각을 등원 후·하원 전으로 구체적으로 적고, 방학·아이가 아픈 날 같은 돌발 상황에 대한 조정 가능 여부도 함께 밝힌다. 답례품 쇼핑몰 사례에서는 직원 1명 모집에 1,000명 이상이 지원했고, 지원 사유의 상당수가 '등원시키고 출근할 수 있어서', '하원 시간에 맞출 수 있어서'였다. 다만 이 수치는 팔로워가 많은 인플루언서 계정의 공고였으므로 일반 사업장에서 같은 규모의 지원을 기대하면 안 되고, 지원자가 몰리면 이력서 검토 시간이 따로 필요하다는 점도 감안한다.

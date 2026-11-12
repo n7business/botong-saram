@@ -1,0 +1,28 @@
+---
+id: law-basics-0195
+domain: law-basics
+claim: 대한법률구조공단 소송지원은 2016년 기준으로 본인이 변호사비용과 인지대를 모두 낸 경우가 9.8%뿐이고 평균 총액도 17만 원이었으므로,
+  비용 때문에 소송을 미리 포기하지 말고 지원 대상인지부터 확인해야 한다.
+status: candidate
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://www.klac.or.kr/legalstruct/legalRescueGuide.do
+  author: 대한법률구조공단
+  seen: '2026-11-09'
+  quote: 본인이 변호사비용과 인지대 전부를 부담한 비용은 9.8%에 불과하며
+  source: 대한법률구조공단
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 법률구조
+- 소송비용
+- 대상자확인
+---
+공단은 지원한 소송 15만여 건 가운데 본인이 변호사비용과 인지대를 모두 부담한 경우가 9.8%에 불과했고, 그 경우에도 총액이 평균 17만 원(2016년 기준)이었다고 밝힙니다. 변호사비용과 소송실비는 기본적으로 본인이 부담하지만, 따로 지원하는 기관이 있으면 전부 또는 일부를 면제받습니다. 지원 대상은 기준중위소득 같은 소득 기준으로 판단하므로, 공단 홈페이지의 소득별·대상 유형별 안내에서 본인이 해당하는지 먼저 확인해야 합니다. 이 수치는 2016년 자료라 현재 비용과 다를 수 있습니다.

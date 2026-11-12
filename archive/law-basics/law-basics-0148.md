@@ -1,0 +1,39 @@
+---
+id: law-basics-0148
+domain: law-basics
+claim: 중위소득 125% 이하라면 대한법률구조공단의 유료 법률구조를 통해 대법원규칙이 정한 변호사 비용의 30% 정도만 부담하고 소송대리를 받을
+  수 있지만, 인지대와 송달료는 미리 내야 한다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.klac.or.kr/legalstruct/outlineOfLitigationStruct.do
+  author: 대한법률구조공단
+  seen: '2026-11-07'
+  quote: 대법원규칙에서 정한 변호사 비용의 30%정도로 저렴한 금액입니다.
+  source: 대한법률구조공단
+- url: https://www.klac.or.kr/legalstruct/decisionProceedingLitigationStruct.do
+  author: 대한법률구조공단
+  seen: '2026-11-07'
+  quote: 인지대와 송달료는 미리 납부를 하셔야 합니다.
+  source: 대한법률구조공단
+- url: https://www.klac.or.kr/legalstruct/costRepayment.do
+  author: 대한법률구조공단
+  seen: '2026-11-07'
+  quote: 나머지 소송비용과 변호사 보수 등은 의뢰자로부터 상환받게 됩니다.
+  source: 대한법률구조공단
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 법률구조
+- 변호사비용
+- 소송비용
+- 중위소득
+---
+원칙적으로 중위소득 125% 이하의 국민과 국내거주 외국인은 유료 법률구조대상자입니다. 공단에 내는 변호사 비용은 대법원규칙에서 정한 변호사 비용의 30% 정도입니다. 소송구조가 결정되면 소속변호사나 공익법무관이 소송을 수행하며, 인지대와 송달료는 미리 납부해야 합니다. 재판이 승소나 화해 등으로 끝나면 공단은 지출한 소송비용과 변호사보수 등을 소송 상대방으로부터 상환받을 수 있습니다. 다만 유료 대상자는 예납한 소송비용을 뺀 나머지 소송비용과 변호사 보수 등을 공단에 상환해야 합니다.

@@ -1,0 +1,29 @@
+---
+id: ai-tools-0099
+domain: ai-tools
+claim: 지난달 PPT 보고서로 이번 달 보고서를 AI에 만들게 할 때는 파일을 만들기 전에 그대로 둘 양식(제목·글꼴·색·표 위치·그래프 축)과
+  바꿀 내용(기간·숫자·이슈·계획)을 칸별로 나누게 해야 지난달 설명이 이번 달 보고서에 남는 사고를 막는다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=mEWTZS4F9Zo
+  author: 직장인 AI 업무 자동화 | 라핀
+  seen: '2026-11-03'
+  quote: 양식이 맞는다고 해서 끝이 아닙니다.
+  source: 직장인 AI 업무 자동화 | 라핀
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- PPT
+- 월간보고
+- 템플릿
+- Claude
+---
+숫자만 바꾸고 설명 문구를 남겨 두면 '9월 행사 전환율 점검' 같은 지난달 이야기가 10월 보고서에 그대로 실립니다. 첫 프롬프트에서는 지난달 완성 보고서를 주고 유지할 양식과 매달 바꿀 내용을 칸별로 나눠 보여 달라고만 합니다. 아직 파일은 만들지 말라고 지시합니다. 그래프는 색과 축 항목 이름은 두고 숫자만 바꾸게 합니다. 계획이 두 개뿐이면 세 번째 칸은 빈 번호 틀로 남기게 합니다. 완성되면 지난달 원본과 나란히 놓고 숫자와 막대 길이만 바뀌었는지, 이슈와 계획이 이번 달 내용인지, 표와 그래프를 실제로 편집할 수 있는지 확인합니다.

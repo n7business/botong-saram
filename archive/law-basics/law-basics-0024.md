@@ -1,0 +1,33 @@
+---
+id: law-basics-0024
+domain: law-basics
+claim: 부모와 미성년 자녀가 함께 상속인이 되어 상속재산 분할협의를 할 때는 부모가 자녀를 대리할 수 없으므로 가정법원에서 자녀의 특별대리인을
+  선임해야 한다.
+status: merged
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.threads.com/@__jjjjjeee/post/DfGxLG1iR1W
+  author: 법무사 정승제 (@__jjjjjeee)
+  seen: '2026-11-03'
+  quote: 이때는 원칙적으로 가정법원에서 아이를 위한 특별대리인을 선임해야 해.
+  source: 법무사 정승제 (@__jjjjjeee)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민법
+  article: 제921조(친권자와 그 자간 또는 수인의 자간의 이해상반행위)
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 상속
+- 특별대리인
+- 미성년자
+- 상속재산분할
+merged_into: law-basics-0115
+---
+배우자가 사망해 남은 부모와 미성년 자녀가 공동상속인이 되면, 재산을 나누는 협의는 부모 몫과 자녀 몫이 충돌하는 '이해상반행위'에 해당한다. 이 경우 친권자인 부모가 자녀 대신 협의서에 도장을 찍을 수 없고, 원칙적으로 가정법원에 특별대리인 선임을 청구해 그 특별대리인이 자녀를 대리해야 한다. 자녀가 여럿이면 자녀마다 별도의 특별대리인이 필요하다. 이 절차를 빠뜨리고 작성한 분할협의서는 효력을 다투게 될 수 있고, 부동산 상속등기도 등기소에서 반려될 수 있다. 사업체 지분·사업용 부동산이 상속재산에 포함된 경우 특히 사전에 절차를 확인해야 한다.

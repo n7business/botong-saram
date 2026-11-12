@@ -1,0 +1,30 @@
+---
+id: factory-ax-0022
+domain: factory-ax
+claim: MCT에서 여러 면을 가공할 때 틸팅·인덱스를 모두 지원하는 3+2축(5축) 포스트 프로세서를 장비에 맞춰 두면 G54~G58 좌표계를
+  나눠 다시 클램핑하는 반복 세팅 없이 한 번에 가공할 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=rxtUav2sh-A
+  author: Malco JACK (베스트정공 대표)
+  seen: '2026-11-03'
+  quote: 번거로운 반복 세팅 없이 한 번에 가공할 수 있다
+  source: Malco JACK — 베스트정공 대표 (@MalcoJack)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- MCT
+- CAM
+- 포스트프로세서
+- 3+2축
+- 셋업단축
+---
+윗면을 잡고 가공한 뒤 돌려서 다시 잡는 작업을 반복하면 면마다 좌표계(G54, G55, G56…)를 따로 세팅해야 합니다. 3+2축 포스트를 쓰면 모델링하고 툴패스를 짠 다음 피벗 값만 넣으면 여러 가공 경로를 한 번에 NC 데이터로 뽑을 수 있습니다. 포스트는 내 장비와 컨트롤러에 맞게 수정해 달라고 CAM 기술지원에 요청해야 합니다. 그래야 필요 없는 NC 코드는 빠지고 필요한 데이터는 제대로 나옵니다. 목표는 한 번 세팅해 두고 클릭 한 번으로 프로그램이 나오게 하는 것입니다.

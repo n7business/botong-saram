@@ -1,0 +1,29 @@
+---
+id: marketing-0472
+domain: marketing
+claim: 처음 거래하는 마케팅 대행사는 회사 소개만 믿지 말고, 홈택스에서 사업자 상태를 조회한 뒤 주소·대표자·사업자번호가 제안서·계약서·세금계산서와
+  같은지 대조해야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20969
+  author: GEO리드젠랩
+  seen: '2026-11-09'
+  quote: 사업자 상태는 국세청 홈택스에서 누구나 조회할 수 있습니다.
+  source: 오픈애즈
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 대행사선정
+- 계약
+- 사업자조회
+- GEO
+---
+GEO처럼 생긴 지 얼마 안 된 분야는 후기가 적어서 회사 소개만으로는 업체의 실체를 판단하기 어렵습니다. 사업자 상태는 국세청 홈택스에서 누구나 조회할 수 있습니다. 조회한 주소·대표자·사업자번호를 제안서·계약서·세금계산서에 적힌 정보와 맞춰 보면 실제 거래 상대가 누구인지 확인할 수 있습니다. 계약 주체와 실제로 일하는 조직이 다른지도 같은 문서에서 함께 확인하세요. 이 글은 대행사가 자기 회사를 예로 들어 쓴 것이므로, 그 회사의 공개 정보가 아니라 검증 절차만 참고하세요.

@@ -1,0 +1,31 @@
+---
+id: marketing-0347
+domain: marketing
+claim: 사이트 도메인을 옮길 때는 구 URL을 새 URL로 1:1 대응해 301 redirect하고, 이전이 끝나기 전에는 구 사이트를 robots.txt로
+  막거나 서버를 먼저 끄지 말아야 한다.
+status: verified
+evidence: policy
+confidence: 0.95
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-migration
+  author: NAVER Corp.
+  seen: '2026-11-07'
+  quote: 콘텐츠의 redirect는 URL 기준으로 1:1로 대응되어야 합니다.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: '2027-01-06'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- 사이트이전
+- '301'
+- 도메인변경
+verified_by: 공식 출처
+---
+새 사이트로 이미지와 파일까지 옮기고, 새 사이트의 robots.txt를 모두 허용한 뒤 구 URL에 301 HTTP redirect를 설정합니다. 새 사이트의 모든 페이지에 canonical URL을 지정하고, 웹마스터도구에 등록해 사이트맵을 제출합니다. 구 사이트를 먼저 차단하면 로봇이 문서가 옮겨졌는지 확인하러 들어가는 접근까지 막혀 이전이 제대로 반영되지 않을 수 있습니다. 주요 페이지가 모두 변경되거나 미노출된 것을 확인하고, 구 사이트로 유입이 없을 때 서버를 종료합니다. 품질 지수가 새 주소로 전파되는 데 시간이 걸리고 잦은 주소 변경은 품질 평가에 영향을 주므로, 이전은 브랜드 변경처럼 꼭 필요할 때만 합니다.

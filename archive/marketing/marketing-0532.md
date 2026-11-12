@@ -1,0 +1,27 @@
+---
+id: marketing-0532
+domain: marketing
+claim: 공들인 노하우 글은 알고리즘 반응이 약한 날 올리지 말고 아껴 두었다가 계정 도달이 최고점일 때 올려야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.35
+sources:
+- url: https://www.threads.com/@careernomad_/post/DfhIAU1H2oz
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-10'
+  quote: 이 아까운 글을 오늘 발행하고 싶지 않다. 알고리즘 최고점일 때 노하우 풀어줌.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 발행타이밍
+- 알고리즘
+---
+화자는 스레드에서 알고리즘에 '버림받은 날'에는 아까운 글을 올리지 않는다고 밝혔다. 노하우 글은 도달이 가장 높을 때 풀겠다는 것이 화자의 기준이다. 조회수가 평소보다 크게 낮은 날에는 가벼운 글로 활동을 이어 가고, 핵심 콘텐츠는 반응이 회복된 뒤로 미루는 방식이다. 도달이 높고 낮은 날을 어떻게 판단하는지는 밝히지 않았고, 효과를 보여 주는 수치도 없다.

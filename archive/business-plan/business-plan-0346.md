@@ -1,0 +1,32 @@
+---
+id: business-plan-0346
+domain: business-plan
+claim: 창업진흥원이 가진 지원사업 관련 정보를 받아 보려는 사업자는 정보공개시스템(open.go.kr)이나 우편·팩스·방문으로 정보공개를 청구할
+  수 있고, 창업진흥원은 청구일부터 10일 안에 공개 여부를 결정해야 하므로 기한이 지나면 처리 상황을 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.kised.or.kr/menu.es?mid=a10101020000
+  author: 창업진흥원
+  seen: '2026-11-10'
+  quote: 청구를 받은 날부터 “10일”이내에 공개여부를 결정하여야 하며
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: '2027-03-10'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 공공기관의 정보공개에 관한 법률
+  article: 제11조
+  effective: '2026-11-10'
+contributor: null
+tags:
+- 창업진흥원
+- 정보공개청구
+- 처리기한
+verified_by: 공식 출처
+---
+창업진흥원이 가진 정보를 받아 보려면 정보공개 청구서를 내면 됩니다. 정보공개시스템(www.open.go.kr)으로 내거나 우편·팩스·방문으로 제출할 수 있습니다. 청구서에는 청구인 인적사항과 함께 원하는 정보의 내용·형태·공개방법을 적습니다. 창업진흥원은 청구일부터 10일 안에 공개 여부를 정해야 하고, 부득이하면 10일 더 연장할 수 있습니다. 공개하기로 정하면 결정일부터 10일 안에 공개합니다. 다만 심사·입찰계약처럼 공개되면 업무의 공정한 수행에 지장을 줄 수 있는 정보와 의사결정·내부검토 중인 정보는 비공개될 수 있으니, 청구 범위를 구체적으로 좁혀 내는 것이 좋습니다.

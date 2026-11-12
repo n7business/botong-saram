@@ -1,0 +1,32 @@
+---
+id: marketing-0461
+domain: marketing
+claim: 홈페이지 주소를 영구히 바꿀 때는 자바스크립트 이동 대신 서버에서 301 redirect를 걸어야 기존 검색 평가가 이어지고, 잠시 공사·장애
+  중일 때는 302를 써야 기존 정보가 지워지지 않는다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-redirect
+  author: 네이버 서치어드바이저 (NAVER Corp.)
+  seen: '2026-11-09'
+  quote: 자바스크립트를 이용한 redirect 처리는 자제해 주세요.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: '2027-01-08'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- '301'
+- redirect
+- 사이트개편
+verified_by: 공식 출처
+mentions: 1
+---
+URL만 바꾸고 알리지 않으면 검색로봇은 새 페이지를 완전히 새로운 정보로 판단해 기존 검색 평가와 이용자 선호도 정보를 쓰지 못할 수 있습니다. 자바스크립트로 이동시키면 로봇이 이동할 주소를 파악하기 어렵습니다. 이런 방식은 스팸 문서에서 흔히 보여 좋은 페이지도 저평가될 수 있습니다. 연속 redirect는 5회를 넘기지 말고, 중간 주소와 최종 주소가 모두 수집 가능한 정상 페이지인지 확인하세요. 개편 후에도 한동안은 예전에 검색에 노출되던 URL에 redirect를 남겨 두는 편이 좋습니다.

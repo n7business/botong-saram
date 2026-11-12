@@ -1,0 +1,30 @@
+---
+id: business-plan-0030
+domain: business-plan
+claim: 경북권역에서 농산업 창업을 준비하는 18~39세 청년은 경북대 상주캠퍼스 청년농산업 창업지원센터(2027-03-31 마감, 30명 내외)를
+  수료하면 경북 시도사업 가점과 출석 85% 이상 시 시제품 제작 지원을 받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179685
+  author: 경북대학교 상주캠퍼스
+  seen: '2026-11-03'
+  quote: 출석 85% 이상 충족 시 선정심사를 통한 시제품 제작 지원
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-03-03'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 농산업창업
+- 청년창업
+- 경북
+- 가점
+verified_by: 공식 출처
+---
+경북대 상주캠퍼스 청년농산업 창업지원센터 2027년 보육생 모집은 거주지 제한 없이 경북권역 내 농산업 창업 희망자가 대상이다. 2027-04-02 개강해 매주 금요일 저녁 3시간씩 14회(42시간) 경영·회계·마케팅·AI 활용 사업계획서 작성법을 가르치고 교육비는 무료다. 수료하면 각종 지원사업 교육시간으로 인정되고 경상북도 해당 시도사업 수료생 가점이 붙는다. 출석 85% 이상이면 선정심사를 거쳐 시제품 제작까지 지원한다. 지원신청서·개인정보동의서·주민등록등본을 이메일(dhy0920@knu.ac.kr)로 내며 서류심사 후 필요시 면접이 있다. 농산업 지자체 지원사업에 가점이 필요한 청년은 2027년 3월 말 전에 신청해 두는 편이 유리하다.

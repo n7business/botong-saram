@@ -1,0 +1,29 @@
+---
+id: ai-tools-0111
+domain: ai-tools
+claim: 에이전트 기획서에는 지금 손으로 하는 작업 순서를 단계별로 적고, 결과물에는 조건을 바꿀 수 있으면서 왜 뽑혔고 왜 제외됐는지가 보이도록
+  요구해야 쓸 만한 에이전트가 나온다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=yh05xGAUyRc
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-03'
+  quote: 조건은 바꿀 수 있어야 하고, 왜 제외되고 왜 뽑혔는지 알 수 있어야 한다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 에이전트기획
+- 기획서
+- 워크플로우
+- 상품소싱
+---
+기획서에는 가장 반복되고 시간이 많이 드는 작업, 작업 이름, 원하는 결과물, 현재 수작업 순서를 적습니다. 상품 소싱이라면 '프로그램 실행 → 카테고리 검색 → 엑셀 다운로드 → 검색량 정렬 → 경쟁 강한 키워드 제거 → 가격대 결정 → 브랜드 키워드 삭제'처럼 씁니다. 결과물 조건(검색량 몇 이상, 상품 수 몇 이하 등)은 내 암묵지대로 정하되 나중에 바꿀 수 있게 하고, 항목마다 선택·제외 이유가 남게 합니다. 이렇게 기획서를 주면 계획이 빨리 나오고 토큰도 덜 씁니다.

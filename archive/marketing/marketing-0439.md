@@ -1,0 +1,29 @@
+---
+id: marketing-0439
+domain: marketing
+claim: 인스타그램에서는 사람을 모으는 저장·공유형 콘텐츠와 판매로 이어지는 댓글형 콘텐츠를 번갈아 올려야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=4KLkNGvCjhg
+  author: 혜님 (@hyenimtv)
+  seen: '2026-11-07'
+  quote: 사람을 모으는 콘텐츠와 파는 콘텐츠가 둘 다 필요하기 때문에 하나만 고를 수 없다.
+  source: 혜님 인스타그램마케팅 (@hyenimtv)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 콘텐츠전략
+- 전환
+- 저장
+- 공유
+---
+댓글이 적어도 저장·공유·리포스트가 많은 콘텐츠는 인스타가 유익하다고 판단해 더 많이 노출하므로 조회수가 높다고 화자는 설명한다. 댓글이 많은 콘텐츠는 로봇이나 품앗이가 아닌 이상 찐팬의 감정을 움직였다는 뜻이라 전환과 판매에 더 도움이 된다. 홍보하는 직원과 응대하는 직원처럼 역할이 다르므로 하나만 고르지 말고 두 종류를 번갈아 올린다. 다만 댓글이 품앗이로 달린 것이라면 판매 신호로 보면 안 된다.

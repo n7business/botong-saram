@@ -1,0 +1,30 @@
+---
+id: business-plan-0192
+domain: business-plan
+claim: 광주 AI 창업동은 전용면적 38.88~108.15㎡ 호실의 연 임대료가 217만 6,000원~620만 2,000원(VAT 포함)이고
+  최초 계약 2년 후 2년 단위 운영실적 평가로 최대 10년까지 연장 여부가 정해지므로, 보증금·관리비를 포함한 비용과 연장 평가를 고려해 입주를
+  결정해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1125961
+  author: 인공지능산업융합사업단(벤처스퀘어 게재)
+  seen: '2026-11-06'
+  quote: '입주비용: 연 임대료 2,176,000원~6,202,000원(VAT 포함)'
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI창업동
+- 광주
+- 임대료
+- 입주기간
+---
+임대료는 호실별 면적에 따라 다릅니다. 보증금과 관리비, 실별 임대료 등 상세 내용은 공고문에서 확인해야 합니다. 최초 계약 뒤 연장은 자동이 아니라 2년 단위 운영실적 평가로 결정됩니다. 입주 위치는 공고에 전남광주통합특별시 북구 삼소로 77(오룡동)로 적혀 있습니다.

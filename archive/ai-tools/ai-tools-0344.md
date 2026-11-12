@@ -1,0 +1,29 @@
+---
+id: ai-tools-0344
+domain: ai-tools
+claim: 고객 응대 챗봇을 운영할 때는 챗봇이 없는 할인이나 정책을 안내해도 회사 책임이 될 수 있으므로, 잘못된 안내를 막을 대책을 세운 뒤
+  공개해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=R1klN8XsPG4
+  author: 조코딩 JoCoding
+  seen: '2026-11-07'
+  quote: 실제 정책에 없는 할인을 챗봇이 환각으로 안내해도 그 책임은 회사에 있다.
+  source: 조코딩 JoCoding
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 챗봇
+- 환각
+- 고객응대
+- 회사책임
+---
+고객 대상 AI 챗봇은 실제 정책에 없는 할인을 환각으로 안내할 수 있습니다. 화자는 정적 페이지에서 나왔든 챗봇에서 나왔든 웹사이트에 나온 정보는 회사 책임이라고 설명합니다. 사례로는 이 문제로 소송에서 진 에어캐나다를 듭니다. 할인·환불·가격처럼 책임이 따르는 안내는 공개 전에 실제 정책과 맞는지 확인해야 합니다. 이 사례는 에어캐나다 건이며, 한국 법에서의 책임은 원문에서 다루지 않았으므로 별도로 확인해야 합니다.

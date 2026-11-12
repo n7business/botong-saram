@@ -1,0 +1,31 @@
+---
+id: factory-ax-0033
+domain: factory-ax
+claim: 절삭공구는 개당 가격이 아니라 공구 하나로 가공하는 개수, 즉 제품 1개당 공구비로 비교해야 하며, 두 배 비싼 공구가 세 배 많이 가공하면
+  그쪽이 더 이득이다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=CiKTsu39e4I
+  author: 기계맨 CNC MCT (@GIGYEMAN)
+  seen: '2026-11-03'
+  quote: 싸다고 무조건 좋은 건 아닙니다.
+  source: 기계맨 CNC MCT (@GIGYEMAN)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 절삭공구
+- 공구선정
+- 가성비
+- 원가관리
+- MCT
+- CNC
+---
+공구 단가만 보고 가장 싼 제품을 고르면 오히려 손해일 수 있습니다. 예를 들어 100원짜리 공구로 1개를 가공하고 200원짜리 공구로 3개를 가공한다면, 납품가 기준 제품 1개당 공구비는 200원짜리 공구가 더 쌉니다. 이런 차이는 카탈로그로는 알 수 없고, 자기 공장에서 후보 공구를 직접 여러 번 테스트해 봐야 드러납니다. 원하는 품질을 내는 공구 가운데 제품 1개당 공구비가 가장 낮은 것을 찾는 것이 가공업체의 경쟁력입니다.

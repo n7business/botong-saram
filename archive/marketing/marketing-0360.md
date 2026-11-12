@@ -1,0 +1,29 @@
+---
+id: marketing-0360
+domain: marketing
+claim: 인스타그램 조회수가 팔로우로 이어지지 않으면 콘텐츠 주제를 일관되게 맞춰 프로필에 들어온 사람이 다음 콘텐츠를 예상할 수 있게 해야 한다는
+  것이 화자의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=mLQ7mbL70vQ
+  author: 마케터은진 (@success_eunjin)
+  seen: '2026-11-07'
+  quote: 일단 첫 번째로는 콘텐츠 주제가 좀 일관돼야 됩니다.
+  source: 마케터은진 (@success_eunjin)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 팔로우 전환
+- 주제 일관성
+- 신뢰
+---
+여행·요리·패션처럼 매일 주제가 바뀌면, 요리 콘텐츠를 보고 프로필에 들어온 사람이 기대한 콘텐츠를 찾지 못해 팔로우할 확률이 낮아진다고 화자는 설명한다. 팔로우는 앞으로도 계속 보고 싶다는 욕망이고, 그러려면 다음 콘텐츠가 예상돼야 한다. 다만 팔로우는 가벼운 관심일 뿐 신뢰 자체는 아니다. 팔로우한 사람이 꾸준히 콘텐츠를 보면서 어떤 메시지를 말하는 사람인지 알게 될 때 신뢰가 쌓인다. 따라서 팔로우를 받은 뒤에도 같은 메시지를 계속 보여 줘야 한다.

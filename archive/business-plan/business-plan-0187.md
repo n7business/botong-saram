@@ -1,0 +1,30 @@
+---
+id: business-plan-0187
+domain: business-plan
+claim: 지원사업 사업계획서의 비즈니스 모델은 노동 기반 컨설팅 수익에서 매칭 수수료, SaaS 구독료로 넘어가는 식으로 단계별로 커지는 구조로
+  제시하면 좋고, 단계별 방향성과 목표 KPI도 함께 적어야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=ORSg4fVLX0U
+  author: 민썸 MinSsum
+  seen: '2026-11-06'
+  quote: 이상적이고 점진적으로 성장 가능한 모델로 제시
+  source: 민썸 MinSsum, 스타트업 크리에이터 (@MinSsum)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사업계획서
+- 비즈니스 모델
+- KPI
+- 자금 계획
+- 성장 전략
+---
+화자의 예시는 1단계 직접 컨설팅 수익, 2단계 기업 매칭이 일어날 때마다 받는 수수료, 최종 단계 SaaS 프로그램 구독료로 이어진다. 화자는 이렇게 점진적으로 성장 가능한 모델로 제시한 것을 지금 봐도 잘했다고 평가한다. 자금 계획도 1차 2천만 원, 2차 4천만 원을 받고 이후 매출을 내며 그다음 라운드에 투자를 받는 식으로 KPI를 스스로 정해 표로 정리한다. 금액과 라운드는 예시이므로 그대로 옮기지 말고 자기 사업 기준으로 다시 세워야 한다.

@@ -1,0 +1,35 @@
+---
+id: licensing-0081
+domain: licensing
+claim: 하이코리아에서 외국인 고용변동을 신고할 때 H-2·E-9 직원은 법무부와 고용노동부가 함께 처리기관인 통합신고 메뉴를, 그 외 자격 직원은
+  법무부가 처리기관인 별도 신고 메뉴를 선택해야 한다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.hikorea.go.kr/cvlappl/CvlapplInfoPageR.pt
+  author: 법무부 출입국·외국인정책본부 (하이코리아)
+  seen: '2026-11-05'
+  quote: (H2, E9) 고용연수외국인 변동사유발생 통합신고
+  source: 하이코리아 (출입국·비자)
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: '2027-05-04'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 출입국관리법
+  article: 제19조
+  effective: '2026-11-05'
+contributor: null
+tags:
+- 고용변동신고
+- E-9
+- H-2
+- 전자민원
+- 통합신고
+verified_by: 공식 출처
+mentions: 1
+---
+하이코리아 전자민원 목록은 고용변동 신고를 체류자격에 따라 두 가지로 나눕니다. H-2와 E-9은 '고용연수외국인 변동사유발생 통합신고'이고 처리기관은 법무부/고용노동부입니다. 그 밖의 자격은 '고용연수외국인 변동사유발생신고'이고 처리기관은 법무부입니다. 따라서 신고 전에 직원의 체류자격부터 확인해 맞는 메뉴를 골라야 합니다. 일부 민원은 공동인증서가 있어야 신청할 수 있습니다. 신고 기한과 신고 사유는 이 목록에 나와 있지 않으므로 고용주 신고의무 안내에서 따로 확인해야 합니다.

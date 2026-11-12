@@ -1,0 +1,30 @@
+---
+id: marketing-0298
+domain: marketing
+claim: 릴스 '제품 추가' 기능은 공개 계정이면서 팔로워 1,000명을 초과해야 쓸 수 있으므로, 체험단 가이드에 조건 미달 계정용 대체 방법을
+  함께 적어 둬야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=21093
+  author: 태그바이 TAGby
+  seen: '2026-11-06'
+  quote: 공개 계정이면서 팔로워 1,000명을 초과하는 계정에서만 사용할 수 있는 기능입니다.
+  source: 오픈애즈
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 릴스
+- 제품추가
+- 체험단
+- 이용조건
+---
+이 기능은 모든 계정에서 쓸 수 있는 것이 아니며, 글에 따르면 공개 계정이면서 팔로워가 1,000명을 넘어야 합니다. 체험단을 모집할 때 인플루언서가 조건을 충족하는지 확인하세요. 조건에 맞지 않는 인플루언서에게는 프로필 링크 사용 같은 대체 방법을 가이드에서 미리 안내해야 합니다. 이 조건은 체험단 플랫폼 업체의 설명이고 플랫폼 정책은 바뀔 수 있으므로, 캠페인 전에 인스타그램 공식 안내를 확인하는 것이 안전합니다.

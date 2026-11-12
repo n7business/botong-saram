@@ -1,0 +1,29 @@
+---
+id: mindset-0032
+domain: mindset
+claim: 캡선생 김용석이 사업을 하며 가장 크게 배운 태도는 '어떻게든 해내야지'이며, 기획을 실제로 만드는 사람은 안 되는 일도 담당자를 설득해
+  되게 만들고 남들이 지나치는 작은 디테일까지 챙긴다고 본다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.threads.com/@kap_writing/post/De8SEOqH2_Y
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-03'
+  quote: 사업을 시작하고 가장 크게 배운 태도는 '어떻게든 해내야지'다.
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 실행력
+- 태도
+- 디테일
+- 설득
+---
+김용석은 그럴듯한 기획은 누구나 할 수 있지만 그것을 현실로 만드는 사람은 아주 적다고 말합니다. 그가 실행력의 예로 든 행동은 두 가지입니다. 평소라면 안 되는 일도 담당자를 설득해 되게 만드는 것, 그리고 다른 사람이 그냥 넘길 작은 디테일까지 신경 쓰는 것입니다. 본인도 이 태도를 아직 배우는 중이라고 밝혔습니다. 기획서를 더 다듬는 데 시간을 쓰기보다 막힌 지점을 직접 뚫어 실행까지 끝내는 것을 판단 기준으로 삼으라는 뜻입니다.

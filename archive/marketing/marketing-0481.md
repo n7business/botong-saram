@@ -1,0 +1,30 @@
+---
+id: marketing-0481
+domain: marketing
+claim: 메타 광고의 일일 예산은 최대 금액이 아니라 주간 평균이므로, 기회가 많은 날에는 일일 예산보다 최대 75% 더 지출될 수 있고 일요일~토요일
+  한 주 동안 일일 예산의 7배를 넘지 않는 선에서 조정된다는 점을 알고 예산을 잡아야 한다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.facebook.com/business/help/214319341922580
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-10'
+  quote: 일일 예산은 최대 금액이 아닙니다.
+  source: Meta 비즈니스 지원 센터
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: '2027-01-09'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메타광고
+- 예산
+- 일일예산
+- 청구
+verified_by: 공식 출처
+---
+메타 광고 관리자의 일일 예산은 하루 상한이 아니라 1주일 동안 매일 평균적으로 쓰려는 금액입니다. 기회가 많은 날에는 일일 예산보다 최대 75% 더 지출되고, 다른 날에는 덜 지출될 수 있습니다. 청구는 일요일~토요일 1주일 평균으로 계산되며, 한 주 지출은 일일 예산의 7배를 넘지 않습니다. 캠페인 기간이 7일 미만이면 총 지출은 일일 예산에 진행 일수를 곱한 금액을 넘지 않습니다. 하루 지출이 예산보다 많아 보여도 이상 청구로 단정하지 말고 주 단위 합계로 확인하세요. 이 유연 지출 방식은 일부 계정부터 점진적으로 적용되고 있습니다.

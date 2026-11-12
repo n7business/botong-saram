@@ -1,0 +1,30 @@
+---
+id: ai-tools-0059
+domain: ai-tools
+claim: 클로드를 하루 종일 돌려 5시간 사용 제한에 자주 걸리는 사람은 월 200달러 울트라(Ultra) 요금제로 올리고 계정 인증을 마치면
+  5시간 제한 없이 프로의 10배 주간 한도 안에서 쓸 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.gpters.org/newsletter/post/yeongeo-ulreongjeung-isseodo-gwaencanhayo-gugeul-miteu-silsigan-ai-tongyeog-4CiqevBY69LrFLe
+  author: 지피터스_강지인
+  seen: '2026-11-03'
+  quote: 계정 인증을 마치면 5시간마다 걸리던 사용 제한이 없어지고, 프로의 10배인 주간 한도 안에서 쓸 수 있어요.
+  source: 지피터스 GPTers
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: ai-tools-0106
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- Claude
+- 요금제
+- Ultra
+- Max
+- 사용한도
+---
+앤트로픽이 클로드 유료 요금제 이름과 혜택을 바꿨고 가격은 그대로다. 월 100달러는 맥스(Max), 월 200달러는 울트라(Ultra)다. 울트라는 계정 인증을 마치면 5시간마다 걸리던 사용 제한이 사라지고 프로의 10배인 주간 한도 안에서 쓸 수 있다. 맥스는 기존처럼 5시간 제한이 있고 주간 한도는 프로의 5배다. 매달 주는 API 크레딧은 울트라 200달러, 맥스 100달러다. 5시간 제한보다 주간 총량이 병목이면 울트라로 올려도 해결되지 않으니 어느 한도에 걸리는지 먼저 확인한다.

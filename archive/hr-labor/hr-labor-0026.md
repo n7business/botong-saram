@@ -1,0 +1,32 @@
+---
+id: hr-labor-0026
+domain: hr-labor
+claim: 직원이 업무 중 다쳐 3일 이상 휴업했다면 합의 여부와 관계없이 1개월 안에 산업재해조사표를 고용노동부에 제출해야 하며, 미제출 시 과태료
+  700만원이 부과된다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=D4bLayQ1dgo
+  author: 노무닥터 김기민 노무사 (@nomudoctor)
+  seen: '2026-11-03'
+  quote: 3일 이상 휴업 부상 → 1개월 안 산업재해조사표 제출(미제출시 과태료 무려 700만원!)
+  source: 노무닥터 김기민 노무사 (@nomudoctor)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 산업안전보건법
+  article: 제57조 제3항
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 산재
+- 산업재해조사표
+- 과태료
+- 휴업
+---
+산업재해조사표 제출은 산재 보험 신청과 별개의 사업주 의무다. 사망자가 발생하거나 3일 이상 휴업이 필요한 부상·질병이 생기면 발생일로부터 1개월 이내에 관할 지방고용노동관서에 조사표를 낸다. 공상 처리로 조용히 마무리했더라도 이 의무는 사라지지 않고, 제출하지 않으면 과태료가 부과되며 은폐 정황으로 연결될 수 있다. 다친 날 바로 사고 경위를 기록해 두면 조사표 작성과 이후 산재 신청 대응이 쉬워진다.

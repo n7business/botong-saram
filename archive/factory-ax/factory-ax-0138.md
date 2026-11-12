@@ -1,0 +1,28 @@
+---
+id: factory-ax-0138
+domain: factory-ax
+claim: 아두파일럿 기반 드론의 매개변수를 바꾼 뒤 저장을 빠뜨리면 이후 설정 단계가 줄줄이 꼬이므로, 값을 바꿀 때마다 저장했는지 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.hellot.net/news/article.html?no=116155
+  author: 헬로티 최재규 기자(이승욱 디메이커스 엔지니어 인터뷰)
+  seen: '2026-11-11'
+  quote: 매개변수(Parameter)를 변경한 뒤 저장해야 하는데, 교육생이 그걸 놓치는 경우가 있습니다.
+  source: 헬로티
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 드론
+- 아두파일럿
+- 매개변수
+- 펌웨어
+---
+비행 제어 소프트웨어에는 최대 기울기, 로이터 모드 속도, 제동 지연처럼 기체의 움직임을 정하는 매개변수가 많습니다. 현장 강사에 따르면 초보자가 가장 자주 막히는 원인이 매개변수를 바꾸고 저장하지 않는 것과 설정 순서를 헷갈리는 것입니다. 중간에 한 단계를 놓치면 다음 과정을 따라가기 어렵습니다. 값을 바꿀 때마다 저장하고, 단계별 체크리스트를 두고 진행하는 것이 안전합니다.

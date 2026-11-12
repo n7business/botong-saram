@@ -1,0 +1,29 @@
+---
+id: metrics-0054
+domain: metrics
+claim: 월말이 주말에 걸리면 다음 달 주말 장사용 사입이 그 달 원가에 잡혀 원가율이 일시적으로 오르므로, 월별 원가율을 볼 때 월말 사입분을
+  보정해 관리 실패인지 구분한다.
+status: verified
+evidence: observed
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=aUcDLUKEX74
+  author: 장사는 김형철 (@장사는김형철)
+  seen: '2026-11-03'
+  quote: 즉 월말이 주말에 걸리면 원가율이 일시적으로 올라갑니다.
+  source: 장사는 김형철 (@장사는김형철)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-05-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 원가율
+- 재고
+- 월결산
+verified_by: 실무자 실측(단일 출처)
+---
+식자재 원가율은 매입 시점 기준으로 집계되므로 7월 31일이 금요일처럼 월말이 주말 직전이면 8월 초 주말 물량이 7월 원가에 들어간다. 실제 사례에서 평소 32%이던 원가율이 월말 사입만으로 38%까지 올랐다. 월별 원가율이 튀면 먼저 월말 재고·사입 금액을 확인하고, 기말 재고를 빼서 실제 사용 원가로 다시 계산한다. 보정 후에도 높으면 기성품 과다 사용 등 운영 문제로 본다.

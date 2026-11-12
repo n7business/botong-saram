@@ -1,0 +1,38 @@
+---
+id: business-plan-0348
+domain: business-plan
+claim: 창업진흥원에서 정보 비공개 결정을 받은 사업자는 통지문에 적힌 비공개 사유와 불복방법을 확인하고, 공개 가능한 부분과 분리할 수 있는
+  정보라면 부분공개를 요구하거나 불복절차를 밟아야 한다.
+status: verified
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.kised.or.kr/menu.es?mid=a10101020000
+  author: 창업진흥원
+  seen: '2026-11-10'
+  quote: 정보를 비공개로 결정한 때에는 비공개사유·불복방법 등을 명시하여 청구인에게 지체없이 문서로 통지하여야 합니다.
+  source: 창업진흥원 사업공고
+- url: https://www.kised.or.kr/menu.es?mid=a10101050000
+  author: 창업진흥원
+  seen: '2026-11-10'
+  quote: 의사결정 과정 및 내부검토 과정이 종료되면 제10조에 따른 청구인에게 이를 통지하여야 한다.
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: '2027-03-10'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 공공기관의 정보공개에 관한 법률
+  article: 제14조
+  effective: '2026-11-10'
+contributor: null
+tags:
+- 창업진흥원
+- 정보공개
+- 부분공개
+- 불복
+verified_by: 공식 출처
+---
+창업진흥원은 정보를 비공개로 정하면 비공개 사유와 불복방법을 적어 청구인에게 곧바로 문서로 알려야 합니다. 비공개 정보와 공개 정보가 섞여 있어도 둘을 나눌 수 있으면, 청구 취지에 맞는 범위에서 부분공개를 할 수 있습니다. 그러니 전부 비공개 통지를 받았다면 개인정보나 다른 회사의 영업비밀만 가리고 나머지를 공개해 달라고 다시 요청해 볼 만합니다. 의사결정·내부검토 중이라는 이유로 비공개된 정보는 그 과정이 끝나면 청구인에게 알려 주게 되어 있습니다. 그 통지를 받은 뒤 다시 청구할 수 있습니다.

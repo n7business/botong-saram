@@ -1,0 +1,29 @@
+---
+id: ai-tools-0464
+domain: ai-tools
+claim: AI가 시스템 구조를 제안하면 그대로 받아들이지 말고 '지금 규모라면 더 단순한 방법은 없는지', '이 구조에서 가장 큰 운영 비용은
+  무엇인지' 되물어 여러 대안을 비교해야 하는데, 큰 조직에 맞는 구조가 몇 명뿐인 팀에는 감당하기 어려운 부담이 될 수 있기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4035/
+  author: 나루브라운
+  seen: '2026-11-11'
+  quote: “트래픽이 이 정도라면 더 단순한 방법은 없을까?”
+  source: 요즘IT
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 아키텍처
+- AI검증
+- 운영비용
+- 소규모팀
+---
+AI에게 시스템 설계를 맡기면 API 게이트웨이, Kafka, 쿠버네티스처럼 큰 조직에서 쓰는 구조를 그럴듯하게 제안하는 경우가 많습니다. 수백 명이 운영하는 시스템에 좋은 구조라고 해서 다섯 명 팀에도 좋은 것은 아닙니다. AI의 첫 답은 결론이 아니라 후보로 보고, '왜 이 기술이어야 하는지', '이 정도 사용량이면 더 단순한 방법은 없는지', '가장 큰 운영 비용은 무엇인지' 되물으세요. 그래야 첫 제안에서 빠진 조건이 드러나고 다른 선택지와 비교할 수 있습니다. 답이 구체적이라고 검증이 끝난 것은 아니니, 실제 데이터와 운영 환경에서도 맞는지 확인해야 합니다.

@@ -1,0 +1,30 @@
+---
+id: business-plan-0284
+domain: business-plan
+claim: 디딤돌 R&D 사업계획서의 성능 목표는 '빠르다' 같은 형용사 대신 물리 단위와 숫자로 쓰고, 공인 시험기관의 성적서로 검증하겠다고 밝혀야
+  심사위원의 신뢰를 얻기 쉽다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=UpCqyUmW76k
+  author: 창업주일. 창업주가 하는 일
+  seen: '2026-11-07'
+  quote: '''빠르다'' 대신 ''응답 속도 30ms 이하'''
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 디딤돌
+- R&D
+- 사업계획서
+- 성능지표
+- KOLAS
+---
+'AI를 적용해 빠르게 처리', '최고의 성능' 같은 표현은 감점 대상이 될 수 있다. '응답 속도 30ms 이하', '정확도 95% 이상'처럼 단위와 수치로 바꿔 쓴다. 검증 방법은 자체 테스트에 그치지 말고 TTA·KTL 같은 KOLAS 공인 시험기관에 의뢰해 성적서를 받겠다고 명시한다. 감점 여부와 신뢰 효과는 컨설턴트인 화자의 주장이며, 공식 평가 기준은 해당 공고에서 확인해야 한다.

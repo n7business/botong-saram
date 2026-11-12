@@ -1,0 +1,28 @@
+---
+id: mindset-0174
+domain: mindset
+claim: 8년차 사장 황민지 씨는 '돈은 다시 벌 수 있지만 시간은 못 번다'는 기준으로 매일 운전 대신 택시를 타고, 이동하는 동안 밀린 업무와
+  급한 연락을 처리한다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.instagram.com/nana___2.2/reel/DfmnLEgyJj0/
+  author: 황민지 (@nana___2.2)
+  seen: '2026-11-12'
+  quote: 돈은 다시 벌면 되지만 시간은 다시 못 버니까...?!
+  source: 황민지 | 100만원으로 시작한 8년차 사장 (@nana___2.2)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 시간관리
+- 이동시간
+- 사장습관
+---
+직접 운전하면 이동 시간은 이동에만 쓰게 됩니다. 황민지 씨는 택시를 타서 그 시간을 밀린 업무 확인, 급한 연락 처리, 휴식에 씁니다. 택시비를 아까워하기보다 되찾을 수 없는 시간을 사는 비용으로 봅니다. 다만 본인도 '택시비를 합리화한다'고 말하는 개인 습관입니다. 따라 해 보려면 택시비가 매출에 비해 감당할 만한지, 차 안에서 실제로 처리한 업무가 얼마나 되는지 직접 따져 보는 것이 좋습니다.

@@ -1,0 +1,30 @@
+---
+id: marketing-0452
+domain: marketing
+claim: 유튜브 썸네일은 하나를 감으로 고르지 말고, YouTube 스튜디오 데스크톱의 '테스트 및 비교' 기능으로 최대 3개를 시청자에게 시험해
+  가장 좋은 것을 골라야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=ahkt_B40iO8
+  author: YouTube 크리에이터 (한국 공식 채널)
+  seen: '2026-11-09'
+  quote: 시청자에게 테스트할 동영상 썸네일을 최대 3개까지 선택해 최고의 썸네일을 고를 수 있습니다.
+  source: YouTube 크리에이터 (한국 공식 채널)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: '2027-01-08'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 유튜브
+- 썸네일
+- A/B테스트
+- YouTube스튜디오
+verified_by: 공식 출처
+---
+어떤 썸네일을 쓸지 정하기 어렵다면 YouTube 스튜디오 데스크톱의 '테스트 및 비교' 기능을 쓰세요. 썸네일 후보를 최대 3개까지 넣으면 시청자에게 시험한 결과로 가장 좋은 썸네일을 고를 수 있습니다. 새 동영상을 올릴 때뿐 아니라 이미 올린 동영상에도 쓸 수 있습니다. 다만 자격 요건을 충족한 채널만 쓸 수 있고 데스크톱 스튜디오에서만 제공되므로, 메뉴가 보이지 않으면 내 채널이 대상인지 먼저 확인하세요.

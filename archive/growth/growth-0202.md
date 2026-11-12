@@ -1,0 +1,29 @@
+---
+id: growth-0202
+domain: growth
+claim: 음식 맛을 점검할 때는 경쟁업체 1위부터 5위까지 직접 사 먹되 내 입맛만 믿지 말고 지인들을 불러 함께 비교해야 왜 잘되는지와 내 메뉴의
+  차이를 파악할 수 있다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=7QMLikGOYmI
+  author: 슈퍼자영업자 조세이돈 (진행자)
+  seen: '2026-11-07'
+  quote: 개인 입맛이 아니라 지인들을 불러 비교해야 한다.
+  source: 슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 벤치마킹
+- 시식
+- 경쟁분석
+- 식당
+---
+같은 상권이나 배달 권역에서 잘되는 경쟁업체 다섯 곳을 정해 직접 주문합니다. 내 메뉴와 나란히 놓고, 사장 혼자가 아니라 지인들을 불러 함께 먹으며 비교합니다. 이 비교로 각 매장이 왜 잘되는지 파악하고 내 맛의 차이를 확인합니다. 진행자는 맛과 함께 서비스도 경쟁 매장보다 더 풍부해야 한다고 덧붙입니다. 비교 효과를 수치로 검증한 자료는 없는 진행자의 조언입니다.

@@ -1,0 +1,28 @@
+---
+id: marketing-0133
+domain: marketing
+claim: '''용인 미용실''과 ''용인시 미용실''처럼 비슷한 플레이스 키워드는 둘 다 직접 검색해서, 순위가 같으면 하나만 관리하고 결과가
+  다르면 따로 관리한다.'
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=bUkMQHZdyD4
+  author: 머니코치 최준호 (@moneycoach)
+  seen: '2026-11-03'
+  quote: 결과가 다르면 다른 키워드이므로 따로 챙겨야 한다.
+  source: 머니코치 최준호 (@moneycoach)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 키워드
+- SEO
+---
+비슷한 키워드 후보는 각각 네이버에서 직접 검색해 플레이스 순위를 비교합니다. 순위가 같으면 네이버가 같은 키워드로 본다는 뜻입니다. 이때는 하나만 관리해도 나머지가 따라옵니다. 순위가 다르면 네이버가 다른 키워드로 보는 것이므로 각각 키워드 칸과 문장에 넣어야 합니다. 이렇게 확인하면 한정된 키워드 칸에 같은 키워드를 겹쳐 넣는 낭비를 막을 수 있습니다.

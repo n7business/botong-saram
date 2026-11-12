@@ -1,0 +1,33 @@
+---
+id: law-basics-0100
+domain: law-basics
+claim: 폭행·협박·명예훼손은 피해자가 처벌을 원하지 않으면 처벌할 수 없지만 사기·상해·무고는 합의해도 처벌을 막지 못하므로, 합의 전에 내
+  사건이 어느 죄에 해당하는지부터 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.9
+sources:
+- url: https://www.youtube.com/watch?v=To_3_EKRSqk
+  author: 권단 변호사 DKL
+  seen: '2026-11-06'
+  quote: 사기죄, 상해죄, 무고죄는 합의를 해도 처벌 자체를 막지 못하고
+  source: 권단 변호사 DKL | AI 스타트업 & 크리에이터 IP
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 형법
+  article: 제260조 제3항, 제283조 제3항, 제312조
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 형사합의
+- 반의사불벌죄
+- 친고죄
+- 폭행
+- 상해
+---
+합의하면 끝나는지는 죄에 따라 다릅니다. 폭행죄, 협박죄, 명예훼손죄는 피해자가 처벌을 원하지 않으면 처벌할 수 없고, 모욕죄는 고소를 취소하면 같은 결과가 됩니다. 반면 사기죄, 상해죄, 무고죄는 합의를 해도 처벌 자체를 막지 못하며 형을 정할 때 유리한 사정으로 참작될 뿐입니다. 예를 들어 다툼에서 상대가 다치지 않았다면 폭행죄로 합의해 끝낼 수 있지만, 진단서가 제출되어 상해죄로 다투어지면 합의해도 처벌 자체는 피할 수 없습니다.

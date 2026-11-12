@@ -1,0 +1,28 @@
+---
+id: ai-tools-0309
+domain: ai-tools
+claim: AI 인물 영상은 예쁜 첫 프레임이 아니라 움직이는 동안 같은 사람으로 보이는지와 게시물에 쓸 구간이 있는지로 판단해야, 실제로 쓸 수
+  있는 결과를 고를 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=wnlVq-citlE
+  author: 샘 호트만
+  seen: '2026-11-07'
+  quote: 예쁜 첫 프레임 하나와 쓸 수 있는 영상 한 컷은 다르다.
+  source: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 품질검수
+- 캐릭터일관성
+---
+예쁜 첫 프레임 하나와 쓸 수 있는 영상 한 컷은 다릅니다. 결과를 볼 때는 움직이는 동안에도 같은 사람으로 보이는지, 게시물에 실제로 쓸 만한 구간이 있는지를 확인합니다. 일관성을 시험할 때는 걸어오다가 몸을 돌리는 동작처럼 얼굴이 가까워졌다가 옆으로 돌아가는 프리셋이 여러 각도를 확인하기 좋습니다. 재킷을 걸치는 방식처럼 요청과 다른 부분이 있어도, 다음 영상에서 이 인물을 유지할 수 있는지를 더 중요하게 봅니다.

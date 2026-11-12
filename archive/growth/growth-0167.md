@@ -1,0 +1,28 @@
+---
+id: growth-0167
+domain: growth
+claim: 이미 장악한 소규모 키워드에 더 투입하지 말고, 공략할 키워드 목록을 만들어 월 검색량 1,000 이하부터 하나씩 잡으며 넓혀 간다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=hh77jXduj8o
+  author: 권프로
+  seen: '2026-11-06'
+  quote: 천 밑으로 일단은 다 잡으시는게
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 키워드
+- 검색량
+- 외식업
+---
+상담 사례의 매장은 '쌀국수' 키워드의 월 검색량이 200~280 수준으로 작았고 이미 어느 정도 장악한 상태였습니다. 권프로는 여기에 더 쓰기보다 '점심'(약 260), '맛집'(약 520), '혼밥'처럼 아직 노출되지 않은 다른 키워드에 투자하라고 조언했습니다. 현재 검색량과 비슷한 수준의 키워드부터 공략하면 바로 올릴 수 있다는 판단입니다. 먼저 목록을 정리해 두면 체험단에 요청할 때 간단한 가이드로도 쓸 수 있습니다. 이 수치는 한 매장 상담에서 나온 기준이므로 내 지역의 검색량과 경쟁 상황에 맞춰 조정합니다.

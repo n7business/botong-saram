@@ -1,0 +1,38 @@
+---
+id: law-basics-0008
+domain: law-basics
+claim: 자본금 10억 원 미만 주식회사를 설립할 때는 지분이 없는 이사 또는 감사 1명을 두면 공증인 조사 없이 설립등기를 할 수 있어 공증
+  수수료를 아낄 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.help-me.kr/blog/article/ai-startup-company-registration/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-03'
+  quote: 외부 공증인을 선임할 필요가 없어 수십만 원에 달하는 공증 수수료를 0원으로 절감할 수 있습니다.
+  source: 헬프미 법률사무소 블로그
+- url: https://www.help-me.kr/blog/article/single-agricultural-corporation-setup/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-03'
+  quote: 지분이 전혀 없는 가족이나 지인 1명을 '감사'로 일시 등재하여 설립 등기를 마친 뒤 사임하는 방식을 널리 활용합니다.
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상법
+  article: 제298조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 법인설립
+- 1인법인
+- 공증
+- 감사
+- 조사보고
+---
+자본금 10억 원 미만이면 사내이사 1인만으로 설립할 수 있고 감사를 두지 않아도 된다(상법 제383조, 제409조 제4항). 다만 설립 과정에서 주식이 없는 이사·감사 또는 공증인이 설립 경과를 조사·보고해야 한다(상법 제298조). 1인 법인처럼 대표가 지분 100%를 가지면 조사보고를 할 사람이 없어 공증인을 선임해야 하고 수십만 원의 공증 수수료가 든다. 실무에서는 지분이 전혀 없는 가족·지인 1명을 이사나 감사로 선임해 등기를 마친 뒤 사임시키는 방식을 쓴다. 유한회사·유한책임회사는 조사보고서 의무가 없어 대표 1인 서류만으로 설립 가능하다.

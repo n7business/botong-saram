@@ -1,0 +1,38 @@
+---
+id: business-plan-0314
+domain: business-plan
+claim: 로봇 핸드·휴머노이드·로봇 학습 데이터 분야 스타트업은 2026-11-15 23:59까지 온라인으로 신청하면 11월 16일 서울 강남
+  팁스타운 S6에서 열리는 Human Dexterity Networking Day에 무료로 참가할 수 있고, 신청서에 '제품 소개 부스 참여'를
+  표시하면 선착순 3팀 안에 들 경우 제품 시연·B2B 상담 부스를 무료로 운영할 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48825
+  author: 오유식(왓츠랩)
+  seen: '2026-11-09'
+  quote: 제품 시연·B2B 상담 부스 무료 (선착순 3팀)
+  source: 이오플래닛 매거진
+- url: https://eopla.net/magazines/48755
+  author: 오유식(왓츠랩)
+  seen: '2026-11-06'
+  quote: 제품 시연·B2B 상담 부스 무료 (선착순 3팀)
+  source: 이오플래닛 매거진
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 행사
+- 네트워킹
+- 피지컬AI
+- 로봇
+- 무료
+- 마감임박
+mentions: 2
+---
+주식회사 왓츠랩이 2026년 11월 16일(월) 14:00~16:00 팁스타운 S6 1층(서울 강남구 역삼로 168)에서 피지컬 AI 업계 네트워킹 행사를 연다. 로봇 데이터·피지컬 AI 분야 기업, 스타트업, 연구기관, 투자사 관계자가 대상이며 정원은 선착순 30명이고 일찍 마감될 수 있다. 제품 시연·B2B 상담 부스는 선착순 3팀까지 무료이며, 신청서의 '제품 소개 부스 참여' 항목에 표시해야 한다. 신청서에 남긴 질문과 정책 제안은 미리 모아 국회의원이 참석하는 타운홀 미팅에서 다룬다. 신청은 tally.so 신청서로 받고, 참가 확정은 이메일로 따로 안내되므로 확정 메일을 받았는지 확인해야 한다. 건물 안 주차가 어려우니 대중교통을 이용해야 한다.

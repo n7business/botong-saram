@@ -1,0 +1,35 @@
+---
+id: mindset-0028
+domain: mindset
+claim: 마케팅을 대행사나 AI에 맡기더라도 어떤 블로그 글·인스타 영상이 좋고 문의로 이어지는지 판단하는 안목은 대표가 먼저 공부해 직접 갖춰야
+  한다.
+status: verified
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=fEa9hI7Ikn4
+  author: 김다빈 (이상한마케팅 아카데미 매니저)
+  seen: '2026-11-03'
+  quote: 직접 만들 줄은 몰라도 그 안목은 있어야 한다는 것입니다.
+  source: 이상한마케팅 (@isanghan_marketing)
+- url: https://www.youtube.com/watch?v=oTAh2iryDnQ
+  author: 안대장(안규호)
+  seen: '2026-11-03'
+  quote: 대표가 성장하지 않으면 절대로 그 회사는 성장할 수 없어요.
+  source: 안대장TV (@angyuho85)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-11-03'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 판단기준
+- 안목
+mentions: 2
+verified_by: 독립 2곳 weight 1.3
+---
+AI가 경쟁사 분석, 키워드 조사, 고객 동선 점검까지 해 주는 시대여도 결과의 방향이 맞는지는 사람이 판단해야 합니다. 블로그라면 좋은 글의 기준을, 인스타라면 문의로 이어지는 영상의 특징을 사장 스스로 알고 있어야 합니다. 콘텐츠를 직접 만들 줄은 몰라도 이 판단 기준이 없으면 AI가 낸 결과를 그대로 받아들이게 됩니다. AI에 일을 맡기기 전에 잘된 사례와 안된 사례를 직접 비교해 보며 기준부터 세우는 것이 좋습니다.

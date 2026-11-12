@@ -1,0 +1,29 @@
+---
+id: business-plan-0306
+domain: business-plan
+claim: 창업 7년 미만(신산업 분야는 10년 미만) 기업이나 예비창업자가 2026년 하반기 서울창업허브M+에 들어가려면 2026-11-13 23:59까지
+  온라인으로 신청해야 하며, 입주계약 뒤 30일 안에 주소를 M+로 옮길 수 있어야 한다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.venturesquare.net/announcement/1125558
+  author: 서울경제진흥원
+  seen: '2026-11-09'
+  quote: 입주계약 체결 이후 30일 이내 서울창업허브M+로의 주소 이전이 가능한 기업
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 서울창업허브M+
+- 입주공간
+- 서울
+- 마감 2026-11-13
+---
+서울창업허브M+(마곡)는 2026년 하반기에 21개 호실의 입주기업을 모집하며, 신청은 스타트업 플러스 홈페이지에서 온라인으로 받는다. 신청 대상은 마곡일반산업단지 관리 기본계획에 따른 입주업종 기업으로 창업 7년 미만이어야 하고, 신산업 창업 분야는 10년 미만까지 가능하다. 예비창업자도 신청할 수 있지만 입주계약 전에 사업자등록을 반드시 마쳐야 한다. 입주계약 뒤 30일 안에 주소를 이전해야 하며, 해외기업과 기업부설연구소는 3개월까지 허용된다. 선정은 적정성평가, 서면평가, 대면평가 순으로 진행된다.

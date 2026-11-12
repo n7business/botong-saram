@@ -1,0 +1,27 @@
+---
+id: mindset-0093
+domain: mindset
+claim: 오픈 초반의 갑작스러운 인기는 내 실력으로 번 매출로 여기지 않고, 그 기간에 재방문과 단골을 다진다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=V9eC1uLrj_w
+  author: 장사는 김형철
+  seen: '2026-11-06'
+  quote: 지금은 우리 매출 아니다.
+  source: 장사는 김형철 (@장사는김형철)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 초기매출
+- 재방문
+- 단골
+---
+화자는 전 지점 중 제일 잘되는 송도점의 점장·실장에게도 지금은 우리 매출이 아니라고 늘 말한다. 갑작스러운 인기는 마케팅, 호기심, 자리, 운 때문일 수 있어 한 달 뒤에 사라질 수도 있다고 본다. 화자는 예전에 4~5개월 만에 원금을 회수한 홍대 고깃집이 오래가지 못한 경험이 있다. 그때를 돌아보며 기본기를 다지고 재방문 손님과 단골을 확보했어야 했다고 말한다.

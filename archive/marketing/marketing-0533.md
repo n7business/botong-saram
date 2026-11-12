@@ -1,0 +1,29 @@
+---
+id: marketing-0533
+domain: marketing
+claim: 브랜드 계정을 AI 영상만으로 채우면 처음에는 신기해서 조회수가 조금 오를 수 있지만, AI 영상이 쏟아지는 지금은 그마저 늘지 않고
+  사업에도 도움이 되지 않는다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=SOOUdeOIcdQ
+  author: 깡대표
+  seen: '2026-11-11'
+  quote: AI 영상이 쏟아지는 지금은 그마저 늘지 않는다.
+  source: 깡대표
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 브랜드계정
+- 숏폼
+- 콘텐츠전략
+---
+브랜드 계정에 AI로 만든 영상만 올리는 전략은 피하는 편이 낫습니다. 화자에 따르면 초반에는 신기해서 조회수가 조금 오를 수 있습니다. 하지만 AI 영상이 넘쳐나는 지금은 그 효과도 거의 없습니다. 소비자는 감흥이 없는데 만든 사람만 '내가 만들었다'는 만족감에 빠져 같은 방식을 이어 가기 쉽습니다. 조회수와 손님 반응을 기준으로 AI 영상의 비중을 판단해야 합니다.

@@ -1,0 +1,31 @@
+---
+id: business-plan-0302
+domain: business-plan
+claim: 방위사업청 2026년 2차 유망수출품목발굴 지원사업(2026-11-12 마감)에 신청하는 방산 중소·중견기업은 국방기술진흥연구소 PMS에서
+  온라인 접수를 마친 뒤 수출사업관리팀에 전화해 접수 여부를 따로 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127757
+  author: 방위사업청·국방기술진흥연구소 (기업마당)
+  seen: '2026-11-09'
+  quote: ※ 접수 완료 후 유선확인 (055-751-5660, 5661)
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: '2026-11-12'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 방위산업
+- 유망수출품목발굴
+- PMS
+- 접수확인
+- '2026'
+verified_by: 공식 출처
+---
+이 사업은 국방기술진흥연구소 과제관리시스템(PMS)으로 온라인 접수합니다. 공고문에는 접수를 마친 뒤 유선으로 확인하라는 절차가 따로 적혀 있습니다(수출사업관리팀 055-751-5660, 5661). 시스템에 올린 것만으로 접수가 끝났다고 보지 말고, 마감일 전에 전화로 접수 여부를 확인해 두세요. PMS 사용 중 생기는 문제는 서비스 데스크(055-751-7664, 7687, 7688)에 따로 문의합니다.

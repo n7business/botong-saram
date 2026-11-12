@@ -1,0 +1,29 @@
+---
+id: factory-ax-0004
+domain: factory-ax
+claim: 공장을 새로 짓거나 이전하기 전에 팩토리온(factoryon.go.kr) 공장인허가 사전진단 서비스로 후보지의 법령·규제 저촉 여부를
+  먼저 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172367/view?mno=&pageIndex=1
+  author: 산업통상부 입지총괄과
+  seen: '2026-11-03'
+  quote: 후보지 에 대한 관련 법령 및 규제사항 을 검색 · 분석 하여 가능 여부 등을 진단하고
+  source: 산업통상부 보도자료
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-02-01'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 공장설립
+- 인허가
+- 팩토리온
+- 입지
+---
+산업통상부와 국토교통부가 2025년 3월부터 공동 운영하는 무료 서비스다. 후보지 주소를 넣으면 관련 법령과 규제사항을 검색·분석해 공장 설립 가능 여부를 진단해 준다. 토지 계약이나 설계 발주 전에 이 진단을 먼저 돌려야 뒤늦게 인허가 불가로 비용을 날리는 일을 막을 수 있다. 공장설립온라인지원시스템(Factory-On)과 국토부 디지털 트윈국토 플랫폼(V-World, K-GeoP)이 연계돼 있어 별도 가입 없이 한 곳에서 처리된다. 최종 인허가는 관할 지자체 판단이므로 진단 결과는 사전 검토용으로 쓰고 정식 신청 전 담당 부서에 확인한다.

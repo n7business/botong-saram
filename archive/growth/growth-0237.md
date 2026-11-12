@@ -1,0 +1,29 @@
+---
+id: growth-0237
+domain: growth
+claim: 소상공인365의 상권 데이터는 개인적인 용도로만 쓸 수 있으므로, 유료 보고서·컨설팅 자료·판매용 콘텐츠에 그대로 넣으면 안 된다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://bigdata.sbiz.or.kr/#/apiMain/commercialGuide/2
+  author: 소상공인시장진흥공단
+  seen: '2026-11-09'
+  quote: 해당 사이트의 데이터는 상업적인 목적이 아닌 개인적인 용도로만 사용이 가능합니다.
+  source: 소상공인365 (소진공 빅데이터 플랫폼)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: '2027-02-07'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 소상공인365
+- 데이터이용조건
+- 상권분석
+- 상업적이용
+verified_by: 공식 출처
+---
+소상공인365 기준 데이터 안내에는 이 사이트의 데이터는 상업적인 목적이 아닌 개인적인 용도로만 사용할 수 있다고 적혀 있습니다. 내 가게 입지나 업종을 검토하는 데 쓰는 것은 괜찮습니다. 하지만 고객에게 파는 상권분석 보고서, 유료 강의 자료, 판매용 전자책에 화면이나 수치를 옮겨 넣는 것은 이 조건에 맞지 않습니다. 상업용 자료에 쓸 통계가 필요하면 영리 이용이 허용되는 KOSIS 같은 국가통계를 찾아 그 이용 조건을 따르는 편이 안전합니다.

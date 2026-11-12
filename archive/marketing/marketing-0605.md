@@ -1,0 +1,29 @@
+---
+id: marketing-0605
+domain: marketing
+claim: 블로그 글을 한 번 쓰면 AI가 요약해 네이버 플레이스 소식과 당근 새소식에 자동으로 올리도록 만들어 두면, 일손이 부족한 사업장도 여러
+  채널을 따로 챙기지 않고 운영할 수 있다는 것이 출연 업체의 경험이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=pMgpFCSSg5Q
+  author: 카스페이스 분당판교점 운영자 (이상한마케팅 출연)
+  seen: '2026-11-12'
+  quote: 블로그 글을 올리면 AI가 내용을 요약해 네이버 플레이스 소식과 당근 새소식에 자동으로 올라가도록 만들었습니다.
+  source: 이상한마케팅 (@isanghan_marketing)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 원소스멀티유즈
+- 네이버플레이스
+- 당근
+- 자동화
+---
+블로그를 원본으로 두고, 새 글이 올라오면 AI가 요약해 네이버 플레이스 '소식'과 당근 비즈프로필 '새소식'에 올리도록 연결하세요. 출연 업체는 부부 둘이 운영하며 남편은 시공을, 아내는 전화 응대와 마케팅을 맡고 있어 같은 글을 채널마다 다시 올리는 일이 번거로웠다고 합니다. 이 연결을 만들고 나서는 따로 시간을 들이지 않고도 여러 채널에 소식이 올라가게 됐습니다. 요약문이 채널마다 금지 표현이나 형식에 맞는지는 처음 몇 번 직접 확인하는 편이 안전합니다.

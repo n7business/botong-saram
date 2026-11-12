@@ -1,0 +1,29 @@
+---
+id: ai-tools-0090
+domain: ai-tools
+claim: 반복 업무를 프로그램(ERP·앱)으로 만들고 싶다면 앱부터 만들지 말고 숫자를 한곳에 모으는 구글 시트 표부터 만들어야, 업무 방식이
+  굳기 전에 앱을 계속 뜯어고치는 일을 피할 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DfPC8DFk48Q
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-03'
+  quote: 앱부터 만들면 업무 방식이 안 굳은 상태라 계속 뜯어고치게 된다고요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 업무자동화
+- 구글시트
+- erp
+- 마케팅대행
+---
+업무 방식이 정해지지 않은 상태에서 앱부터 만들면 쓰면서 구조를 계속 뜯어고치게 됩니다. 먼저 구글 시트 하나에 반복 업무의 숫자를 모읍니다. 예를 들어 매장 여러 곳의 플레이스 통계·광고·체험단 노출을 체크하는 대행사라면 '매장', '주간체크', '체험단' 탭 3개로 시작합니다. 시트로 일정 기간 운영해 보고 항목과 순서가 굳은 뒤에 앱이나 ERP로 옮깁니다.

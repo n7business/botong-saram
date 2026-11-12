@@ -1,0 +1,29 @@
+---
+id: marketing-0041
+domain: marketing
+claim: 본사 매뉴얼이나 전문가 조언을 받으면 자기 생각과 달라도 일단 그대로 실행한 뒤 문제점을 '이렇게 해봤더니 ○○가 생겼는데 이렇게 하면
+  어떨까요' 형식으로 건의해야 같은 아이템으로도 매출 차이를 만든다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=aTQsSID2OYQ
+  author: 깡대표
+  seen: '2026-11-03'
+  quote: 흡수율 자체가 달라요.
+  source: 깡대표
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 프랜차이즈
+- 조언 수용
+- 매장 운영
+- 피드백
+---
+같은 아이템·같은 매뉴얼을 받아도 점주에 따라 매출이 10배까지 차이 난다는 것이 프랜차이즈 운영자의 관찰이다. 잘되는 점주는 조언이 자기 생각과 조금 달라도 일단 바로 해본 뒤, 실행 결과에서 나온 문제를 '이렇게 하면 어떨까요' 식의 건의로 돌려준다. 안 되는 점주는 실행 전에 '이래서 안 된다'는 불평부터 한다. 자기가 옳다는 방어 본능을 거스르고 먼저 실행하는 것이 차이의 핵심이다. 컨설팅·체험단·광고 대행 조언을 받을 때도 실행 후 데이터를 근거로 수정 제안하는 방식을 적용한다.

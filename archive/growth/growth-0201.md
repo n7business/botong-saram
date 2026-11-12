@@ -1,0 +1,29 @@
+---
+id: growth-0201
+domain: growth
+claim: 배민 타임세일은 플랫폼 지원분을 뺀 실제 할인 부담을 계산해 객단가가 높은 메뉴에만 쓰는 것이 좋으며, 객단가가 낮은 메뉴에는 위험하다고
+  전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=7QMLikGOYmI
+  author: 슈퍼자영업자 조세이돈 (피자 브랜드 대표 인터뷰)
+  seen: '2026-11-07'
+  quote: 객단가가 낮으면 지원도 안 되고 위험하므로 추천하지 않는다.
+  source: 슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 배달의민족
+- 타임세일
+- 할인
+- 객단가
+---
+영상에서는 배민이 할인액의 30%를 지원한다고 설명합니다. 예를 들어 8,000원을 할인하면 2,400원을 지원받아 매장 부담은 5천 몇백 원이 됩니다. 객단가가 높은 피자는 이 부담을 방어할 수 있지만, 객단가가 낮으면 위험하므로 추천하지 않는다고 합니다. 참여 전에 메뉴별로 판매가에서 원가, 수수료, 실제 할인 부담을 뺀 금액을 계산합니다. 지원 비율과 조건은 바뀔 수 있으므로 신청 시점의 배민 공지를 확인합니다.

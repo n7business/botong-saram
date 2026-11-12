@@ -1,0 +1,32 @@
+---
+id: business-plan-0353
+domain: business-plan
+claim: 전문분야 실무 경력 10년 이상이거나 경영지도사·세무사·노무사 같은 자격을 가진 사업자는 2026-12-11 18:00까지 창업진흥원
+  신산업 분야·시장전문가 예비위원단에 신청할 수 있으며, 수당 받을 통장은 사업자통장이 아닌 본인 개인명의 통장이어야 하고 재직증명서는 공고일 기준
+  3개월 안에 발급한 것이어야 한다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179698
+  author: 창업진흥원 사업관리실
+  seen: '2026-11-11'
+  quote: 사업자통장(개인ㆍ법인)은 제출불가
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: '2026-12-11'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 평가위원
+- 예비위원단
+- 창업진흥원
+- 제출서류
+verified_by: 공식 출처
+mentions: 1
+---
+창업진흥원은 창업지원사업 평가와 심의·의결에 참여할 예비위원을 2026-11-05 10:00부터 2026-12-11 18:00까지 온라인으로 받습니다. 자격은 조교수 이상 교수, 박사, 석사 후 5년·학사 후 7년 이상 전문분야 경력자, 5급 이상 공무원 경력자, 기술사·변리사·경영지도사·공인회계사·세무사·변호사·노무사 등 전문가, 전문분야 실무 10년 이상 또는 연구개발 5년 이상 경력자 가운데 하나를 갖추고 신산업 분야나 시장전문가 경력이 있어야 합니다. 개인·법인 사업자통장은 받지 않으므로 본인 개인명의 통장 사본을 내야 합니다. 재직증명서는 공고일 기준 3개월 안에 발급한 것만 인정됩니다. 지원사업 참여제한을 받았거나 받고 있는 사람과 현직 중기부·전문기관 임직원은 신청할 수 없습니다.

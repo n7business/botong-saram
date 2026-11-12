@@ -1,0 +1,30 @@
+---
+id: marketing-0423
+domain: marketing
+claim: 힉스필드 애드 스튜디오로 광고 이미지를 만들 때는 셀링 포인트와 오디언스 칸을 자세히 적어야 광고가 타깃에 더 잘 맞춰진다는 것이 화자의
+  주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=4JYnvxHxns8
+  author: 인스타언니 초이픽스 (@insta_unnei_choi)
+  seen: '2026-11-07'
+  quote: 자세하게 적어 주면 적어 줄수록 광고가 타게팅이 잘 되겠죠.
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI광고
+- 힉스필드
+- 광고소재
+- 타게팅
+- 인스타그램
+---
+셀링 포인트 칸에 입력한 단어와 정보는 광고를 만들 때 모두 인용되므로 자세히 적을수록 타게팅이 잘 된다는 것이 화자의 설명입니다. 오디언스 칸에는 '트렌드에 민감한 20~30대 여성'처럼 타깃 고객을 적고 상품 설명까지 빠짐없이 채우라고 합니다. 정확한 제품 색이 있으면 컬러 코드로 넣습니다. 화자의 시연에서 이미지 3개를 만드는 데 12크레딧, 1개당 4크레딧이 들었고, 결과가 마음에 들지 않으면 프롬프트로 수정을 요청할 수 있습니다. 화자가 도구 링크를 함께 안내한 소개 영상이므로 소량으로 먼저 시험해 보는 것이 좋습니다.

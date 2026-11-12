@@ -1,0 +1,29 @@
+---
+id: marketing-0218
+domain: marketing
+claim: 마케팅 전략은 모든 고객을 동시에 만족시키려 하지 말고 핵심고객을 기준으로 먼저 세운 뒤 주변고객으로 넓혀야 하며, 주변고객을 무리하게
+  핵심고객처럼 다루면 오히려 핵심고객이 이탈한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20923
+  author: 옵트인텔리(ysoong)
+  seen: '2026-11-05'
+  quote: 주변고객을 무리하게 핵심고객처럼 다루면 오히려 핵심고객이 이탈한다
+  source: 오픈애즈
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 핵심고객
+- 타깃
+- 세분화
+- 자원배분
+---
+핵심고객은 단순히 많이 사는 사람이 아니라 브랜드의 매출, 성장, 이미지, 전략 방향에 가장 직접적이고 지속적인 영향을 주는 고객입니다. 일시적으로 큰 매출을 일으킨 고객과 구분해서 보세요. 핵심고객을 기준으로 전략을 세우면 메시지가 명확해지고, 주변고객까지 동시에 만족시키려 하면 차별성을 잃기 쉽습니다. 주변고객은 버릴 대상이 아니라 우선순위가 뒤에 놓이는 확장 대상이므로, 마케팅 자원을 핵심고객 중심으로 배치한 뒤 범위를 넓히세요. 수치 근거 없이 전문가 관점으로 제시된 원칙입니다.

@@ -1,0 +1,30 @@
+---
+id: ai-tools-0510
+domain: ai-tools
+claim: 에이전트에게 반복해서 맡길 작업은 성격이 다른 단계를 스킬로 나눠 정의하고, 작업 요령과 내가 준 피드백을 문서로 남겨 두게 해야 다음부터
+  더 낮은 모델과 낮은 사고 수준으로도 더 빠르고 좋은 결과를 낼 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=-cNmsRZQuGk
+  author: 일잘러 장피엠
+  seen: '2026-11-12'
+  quote: 더 낮은 모델과 더 낮은 사고 수준으로 훨씬 빠르게 해냈다.
+  source: 일잘러 장피엠
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 하네스
+- 스킬
+- 비용절감
+- 클로드코드
+---
+작업 기준과 절차, 도구 쓰는 법, 그동안 준 피드백을 작업 폴더 안 문서(스킬)로 남겨 두는 것을 하네스 세팅이라고 합니다. 실험에서는 흑백 스케치와 색 그림을 각각 스킬로 나누고 도구 사용법과 요령을 적어 두자, 더 낮은 모델과 낮은 사고 수준으로도 훨씬 빠르게 더 좋은 결과가 나왔습니다. 에이전트가 작업 중 폴더에 스스로 만든 문서도 다음 작업을 위한 세팅이므로 함부로 지우지 말고, 결과물이 나올 때마다 일관되게 피드백을 주어 문서에 반영되게 합니다.

@@ -1,0 +1,29 @@
+---
+id: business-plan-0313
+domain: business-plan
+claim: 대기업의 오픈이노베이션 수요기술을 직접 듣고 싶은 스타트업 대표는 2026-11-16 23:59까지 온라인으로 신청하면 11월 17일
+  천안 충남 오픈이노베이션 포럼에서 세라젬의 수요기술 발표를 듣고 참석자 네트워킹에 무료로 참여할 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.venturesquare.net/announcement/1125999
+  author: 한국기술교육대학교 앵커사업단
+  seen: '2026-11-09'
+  quote: 세라젬 오픈이노베이션 수요기술 발표
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 오픈이노베이션
+- 충남
+- 네트워킹
+- 마감 2026-11-16
+---
+한국기술교육대학교 앵커사업단이 여는 제8차 충남 오픈이노베이션 포럼은 사전 신청만 하면 참가할 수 있다. 행사는 11월 17일 10:00~13:30 한국기술교육대학교 제2캠퍼스 소강당에서 열린다. 오픈이노베이션 활용법 강의, 세라젬의 수요기술 발표, 세라젬·CP그룹 오픈이노베이션 참여기업 발표가 이어지고 마지막에 네트워킹이 있다. 대기업 PoC 협업을 노리는 기업이라면 공모 전에 수요기업이 실제로 무엇을 원하는지 미리 파악할 기회로 쓸 수 있다.

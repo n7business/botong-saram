@@ -1,0 +1,30 @@
+---
+id: growth-0233
+domain: growth
+claim: 검색에 나오면 안 되는 페이지를 robots.txt로 크롤 차단하면 구글이 '색인하지 마라' 표시를 읽지 못해 오히려 색인될 수 있으므로,
+  크롤은 열어 두고 noindex 헤더나 태그로 거부해야 한다.
+status: candidate
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://disquiet.io/products/4f0a61f2-a058-4ba1-ac2b-9da46c353813
+  author: 장성민(주식회사 디엑시트)
+  seen: '2026-11-09'
+  quote: 크롤은 열고 헤더로 거부하는 쪽으로 바꿨습니다.
+  source: 디스콰이엇
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- SEO
+- 구글서치콘솔
+- robots.txt
+- noindex
+- 홈페이지
+---
+로그인 화면이나 앱 내부 주소처럼 검색 결과에 나오지 않아야 할 페이지를 robots.txt로만 막는 경우가 많습니다. 그런데 크롤이 막히면 구글이 그 페이지의 noindex 표시를 읽을 수 없어서, 다른 곳의 링크를 통해 주소만 색인될 수 있습니다. 한 그룹웨어 회사는 구글 서치콘솔에서 앱 주소 두 개가 '색인됐는데 robots로 차단'으로 표시된 것을 보고 크롤은 열고 헤더로 거부하도록 바꿨습니다. 내 사이트도 서치콘솔의 페이지 색인 보고서에서 이 경고가 있는지 확인해 봅니다.

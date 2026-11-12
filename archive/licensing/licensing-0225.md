@@ -1,0 +1,33 @@
+---
+id: licensing-0225
+domain: licensing
+claim: 행정기관과 사법상 계약을 맺은 사업자가 그 계약의 사법적 효과를 얻으려고 행정기관에 특정한 행위를 요구하면 민원으로 보지 않으므로, 공공계약
+  대금·조건 다툼은 일반 민원이 아니라 계약상 절차나 별도 신고 경로로 풀어야 한다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.epeople.go.kr/nep/gdnc/PttnUtilGdncContent.npaid
+  author: 국민권익위원회
+  seen: '2026-11-12'
+  quote: 행정기관과 사법상의 계약관계에 있는 자가 사법적 효과를 얻기 위하여 행정기관에 특정한 행위를 요구하는 경우
+  source: 국민신문고
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: '2027-05-11'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민원 처리에 관한 법률
+  article: 제2조
+  effective: '2026-11-12'
+contributor: null
+tags:
+- 국민신문고
+- 민원
+- 공공계약
+- 민원제외
+verified_by: 공식 출처
+---
+국민신문고는 행정기관과 사법상 계약관계에 있는 사람이 사법적 효과를 얻으려고 특정한 행위를 요구하는 것을 민원으로 보지 않는다고 안내합니다. 관공서에 납품·용역·공사를 하는 사업자가 대금 지급이나 계약 변경을 일반 민원으로 내면 민원으로 처리되지 않을 수 있습니다. 이런 다툼은 계약서에 정한 이의·조정 절차를 밟거나 민사 절차로 풀어야 합니다. 공공기관이 불리한 조건을 강요하거나 대금을 깎는 경우에는 갑질피해신고 경로를 따로 검토합니다. 제외 범위는 '민원과 직접 관련된 계약관계'로 한정되므로, 애매하면 먼저 상담으로 확인하는 것이 좋습니다.

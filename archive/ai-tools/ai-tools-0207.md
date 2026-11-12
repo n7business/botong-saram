@@ -1,0 +1,27 @@
+---
+id: ai-tools-0207
+domain: ai-tools
+claim: AI 코드 리뷰는 계열이 다른 모델 여러 개에 같은 변경과 평가 기준을 보내고, 지적을 자동 반영하지 말고 분류해 처리해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4027/
+  author: 이정민
+  seen: '2026-11-06'
+  quote: 두 모델이 따로 같은 문제를 짚으면 가장 믿을 만한 신호로 봅니다.
+  source: 요즘IT
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 코드리뷰
+- 멀티모델
+- AI에이전트
+---
+모델마다 놓치는 곳이 다르므로, pstack은 두 모델이 따로 같은 문제를 짚으면 가장 믿을 만한 신호로 봅니다. 결과는 바로 고치기, 검토하기, 기록만 하기, 기각하기로 나누고 기각할 때는 이유를 적습니다. 어느 지적도 자동으로 반영하지 않습니다. 보안, 개인정보, 데이터에 관한 지적이나 애매한 지적은 사람에게 묻습니다. 사소한 코드 품질 지적을 넘기는 비용은 작지만 진짜 데이터·보안 버그를 넘기는 비용은 크기 때문입니다.

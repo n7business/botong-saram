@@ -1,0 +1,29 @@
+---
+id: business-plan-0124
+domain: business-plan
+claim: 모두의 창업 신청서의 팀원 수 칸에는 기창업자라면 4대보험에 가입된 직원 수를, 예비창업자라면 지원을 받았을 때 실제로 모을 수 있는
+  인원을 적어야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=yz6lSvqZ_mo
+  author: 창업주일 (@창업주일)
+  seen: '2026-11-03'
+  quote: 팀원 수는 기창업자라면 4대보험에 가입된 직원 수를
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 신청서
+- 팀원수
+- 4대보험
+---
+사업 분야, 창업 여부, 팀원 수처럼 사실만 입력하는 문항은 AI로 다듬어야 하는 문항과 따로 분리해 빨리 처리한다. 팀원 수는 기준이 헷갈리기 쉬운 칸이다. 기창업자는 4대보험 가입 직원 수를 기준으로 적는다. 예비창업자는 선정됐을 때 실제로 합류시킬 수 있는 인원을 적는다. 사실 입력 문항이므로 부풀려 적으면 이후 라운드의 질의에서 불리해질 수 있다.

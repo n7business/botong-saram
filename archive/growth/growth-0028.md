@@ -1,0 +1,29 @@
+---
+id: growth-0028
+domain: growth
+claim: 인도네시아 진출 시 외국인 셰프가 할랄 인증을 받는 것은 사실상 어려우므로, 메뉴별로 인증 필요 여부를 따지되 돼지고기·라드를 빼고 '논할랄(노포크
+  노라드)'로 홍보하는 경로가 현실적이다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=61KVFb1pfeI
+  author: 다점포왕TV (@dajumpo)
+  seen: '2026-11-03'
+  quote: 외국인 셰프가 할랄 인증을 받는 것은 사실상 불가능하다.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 해외진출
+- 인도네시아
+- 할랄
+- 외식업
+---
+인도네시아는 할랄 인증을 강화하고 있어 현지 외식업의 큰 이슈지만, 현지 F&B 그룹과 운영 중인 한인 셰프 모두 인증 없이 진출해도 무방하다고 답했다. 메뉴에 따라 인증이 필요한 품목이 있으므로 전 메뉴가 아니라 메뉴별로 판단한다. 외국인 셰프가 직접 인증을 받기는 사실상 불가능하므로, 돼지고기·라드 미사용을 내세워 피해 가는 방식이 쓰인다. 원래 돼지고기 기반 브랜드라면 소고기·닭고기 버전을 따로 만들어 진출하는 식으로 메뉴를 조정한다. 할랄·무슬림 문화는 장기적으로 남는 조건이므로 초기 메뉴 설계 단계에서 반영한다.

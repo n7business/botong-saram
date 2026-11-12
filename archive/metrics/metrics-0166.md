@@ -1,0 +1,30 @@
+---
+id: metrics-0166
+domain: metrics
+claim: 세무대행 견적은 월 기장료만 비교하지 말고 월 기장료×12개월에 연간 조정료와 계약 밖 신고·상담 비용을 더한 연간 총액으로 비교하고,
+  견적이 부가세 포함 금액인지도 확인한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://clobe.ai/blog/tax-agency-bookkeeping-cost-guide-2026
+  author: 클로브팀
+  seen: '2026-11-10'
+  quote: 연간 총비용은 월 기장료에 12개월을 곱하고, 조정료와 계약 밖의 신고·상담 비용을 더해 비교하세요.
+  source: 클로브 블로그
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 세무대행
+- 기장료
+- 조정료
+- 고정비
+- 견적비교
+---
+세무대행 비용은 장부를 작성하는 월 기장료와 결산·종합소득세·법인세 신고 때 붙는 조정료로 나뉩니다. 조정료는 월 기장료와 별도인 경우가 많습니다. 세무조사 대응, 수정신고, 사업자 변경 같은 추가 업무도 따로 비용이 붙을 수 있습니다. 그래서 월 기장료에 12를 곱하고 조정료와 추가 업무 비용을 더해 1년 총액으로 비교해야 합니다. 부가가치세를 별도로 받는 요금표도 있으니 견적 금액에 부가세가 포함됐는지 확인합니다.

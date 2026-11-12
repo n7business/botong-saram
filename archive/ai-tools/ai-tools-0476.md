@@ -1,0 +1,29 @@
+---
+id: ai-tools-0476
+domain: ai-tools
+claim: ChatGPT로 만든 그림이 마음에 들지 않으면 처음부터 다시 만들지 말고 바꿀 부분만 골라 고쳐 달라고 하고, 그래도 원하는 느낌이
+  안 나면 같은 문장을 제미나이에도 넣어 비교해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DfbDu82CQxt
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-11'
+  quote: 마음에 안 드는 부분만 골라 고쳐 달라고 합니다.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 이미지생성
+- ChatGPT
+- 제미나이
+- 무료요금제
+---
+ChatGPT는 대화창에 장면을 한 문장으로 쓰면 바로 그림을 만들어 줍니다. 결과가 아쉬우면 "배경을 밤으로 바꿔 줘"처럼 마음에 안 드는 부분만 짚어 고쳐 달라고 하세요. 그래도 원하는 느낌이 나오지 않으면 같은 문장을 제미나이에도 넣어 결과를 비교해 보세요. 무료 요금제에서도 그림을 만들 수 있지만 양이 제한되고, 몇 장까지인지는 요금 안내에 나와 있지 않습니다. 한도에 걸리면 앱에 뜨는 안내를 확인하세요.

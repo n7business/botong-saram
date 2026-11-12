@@ -1,0 +1,34 @@
+---
+id: factory-ax-0032
+domain: factory-ax
+claim: PLC로 설비 순차 제어 회로를 짤 때는 입출력 할당과 스위칭 조건표를 먼저 만들고 회로를 그려야 스텝별 동작 조건이 빠지지 않는다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=yV0H7jk1hLo
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-03'
+  quote: 스위칭 조건표를 작성하실 줄 알아야 됩니다
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
+- url: https://www.youtube.com/watch?v=IOxNGcPgOQw
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-06'
+  quote: 이걸 그대로 전개만 하시면 돼요.
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- PLC
+- 입출력할당
+- 스위칭조건표
+- 회로설계
+- XG5000
+---
+먼저 센서·스위치·솔레노이드를 PLC의 어느 입출력 번호(P1, P21 등)에 연결할지 할당표를 만들고, 그 순서대로 배선합니다. 입력 모듈의 커먼 방식(싱크/소스)도 이때 확인해야 합니다. 그다음 스텝마다 켜져 있어야 하는 센서 조합을 정리한 스위칭 조건표를 만들고, 그 조합을 직렬 접점으로 옮겨 해당 스텝을 세트합니다. 입력할 때 출력마다 설명문('A 전진회로', '리셋회로' 등)을 적어 두면 나중에 운전자나 보전 담당자가 회로를 읽기 쉽습니다. 프로그램 마지막에는 END 명령을 반드시 넣어야 합니다.

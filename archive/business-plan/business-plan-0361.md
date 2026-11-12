@@ -1,0 +1,35 @@
+---
+id: business-plan-0361
+domain: business-plan
+claim: 수출 잠재력이 있는 소비재 분야 소상공인은 중소벤처기업부 '글로벌 소상공인 육성사업'을 알아볼 만하며, 선정되면 수출 역량 교육, 최대
+  1억원의 수출형 제품 개발·사업화 자금, 해외 박람회 참가를 단계별로 지원받을 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://startuprecipe.co.kr/archives/5840833
+  author: 이석원 기자
+  seen: '2026-11-11'
+  quote: 최대 1억원의 수출형 제품 개발·사업화 자금
+  source: 스타트업레시피 뉴스레터
+- url: https://startuprecipe.co.kr/archives/invest-newsletter/5840868
+  author: 주승호 기자(스타트업레시피)
+  seen: '2026-11-12'
+  quote: 사업 참여로 작년 수출 실적이 없던 6개사가 첫 수출에 성공
+  source: 스타트업레시피 뉴스레터
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 소상공인
+- 수출
+- 중소벤처기업부
+- 글로벌소상공인육성사업
+- 사업화자금
+---
+중소벤처기업부의 '글로벌 소상공인 육성사업'은 수출 잠재력이 큰 소비재 분야 소상공인을 지원하는 사업으로, 2026년에 처음 시작됐습니다. 지원은 수출 역량 교육, 최대 1억원의 수출형 제품 개발·사업화 자금, 해외 박람회 참가 순서로 단계별로 이루어집니다. 2026년 선정 기업 100개사 가운데 수출 실적이 있는 92개사의 1~9월 수출액은 706만 달러로 1년 전보다 56.3% 늘었습니다. 전년에 수출 실적이 없던 6개사도 첫 수출에 성공했습니다. 다만 이 수치는 중기부가 발표한 성과이고 신청 요건과 모집 시기는 이 기사에 나오지 않습니다. 소비재를 만드는 소상공인이라면 다음 연도 공고가 나왔을 때 신청 자격과 자부담 비율부터 확인하는 것이 좋습니다.

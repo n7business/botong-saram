@@ -1,0 +1,30 @@
+---
+id: growth-0081
+domain: growth
+claim: 결제창을 띄우기 전에 주문 ID와 주문 금액을 서버 DB에 먼저 저장해 두고, 실제 결제 요청에 담긴 금액과 저장된 주문 금액을 비교해야
+  고객 브라우저에서 결제 금액이 임의로 바뀌는 문제를 막을 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.tosspayments.com/blog/articles/54515
+  author: 토스페이먼츠
+  seen: '2026-11-03'
+  quote: 결제 요청 전에는 주문 ID와 주문 금액 등 최초의 주문 정보를 서버에 저장하고 관리해야 해요.
+  source: 토스페이먼츠피드
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 결제연동
+- 쇼핑몰
+- 보안
+- 금액변조
+- PG
+---
+주문서에서 고객이 결제수단을 고르고 결제창이 열리기 전에 최초 주문 정보(주문 ID·금액)를 서버에 저장하고 관리한다. 이후 결제 승인 단계에서 요청 금액과 서버에 저장된 금액이 다르면 승인하지 않도록 구현한다. 결제수단 선택 화면을 직접 개발하기 어렵다면 PG사가 제공하는 결제위젯 같은 완성 UI를 쓰면 카드 할부 개월, 가상계좌 환불 계좌·입금기한, 약관 동의 기능까지 개발 부담을 줄일 수 있다. 다만 어떤 방식이든 서버의 금액 검증 로직은 별도로 구현해야 한다.

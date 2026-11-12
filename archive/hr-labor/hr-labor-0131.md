@@ -1,0 +1,31 @@
+---
+id: hr-labor-0131
+domain: hr-labor
+claim: 2025년 10월부터 고용노동부가 국세청 자료를 받아 근로감독을 나갈 수 있게 되었으므로, 사업소득(3.3%) 신고 인원이 4대보험 신고
+  인원보다 많은 사업장은 감독 대상이 될 수 있다고 보고 실제 근로자를 4대보험으로 전환해야 한다.
+status: merged
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=3xS58pH7IIo
+  author: 노무닥터 김기민 노무사 (@nomudoctor)
+  seen: '2026-11-07'
+  quote: 사업소득 비중이 70~80%인 회사에 근로감독이 나가고 있고
+  source: 노무닥터 김기민 노무사 (@nomudoctor)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 3.3%
+- 가짜프리랜서
+- 근로감독
+- 국세청
+- 4대보험
+merged_into: hr-labor-0104
+---
+화자는 2025년 10월 법 개정 이후 고용노동부가 국세청 자료를 받아 근로감독을 나갈 수 있게 되어 많은 사업장이 점검받고 있다고 설명합니다. 감독 대상의 정확한 기준은 아직 없습니다. 화자는 4대보험 신고 인원보다 사업소득 신고 인원이 많은 사업장을 대상으로 추정합니다. 현재는 기사 기준으로 사업소득 비중이 70~80%인 회사에 감독이 나가고 있으며, 점차 기준이 낮아질 것으로 예상합니다. 이 비율은 공식 기준이 아니라 화자의 추정이므로, 비율과 관계없이 실제 근로자는 4대보험으로 신고하세요.

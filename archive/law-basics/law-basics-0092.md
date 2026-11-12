@@ -1,0 +1,35 @@
+---
+id: law-basics-0092
+domain: law-basics
+claim: 예식장업·결혼준비대행업 사업자는 기본서비스와 선택품목의 항목별 세부 내용·요금, 계약 해지 시 위약금·환급기준을 자기 누리집이나 한국소비자원
+  참가격 중 한 곳과 계약서 표지에 표시해야 하며, 표시하지 않으면 과태료 대상이 된다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.ftc.go.kr/www/selectBbsNttView.do?pageUnit=10&pageIndex=1&searchCnd=all&key=12&bordCd=3&searchCtgry=01,02&nttSn=48190
+  author: 공정거래위원회 소비자정책총괄과
+  seen: '2026-11-06'
+  quote: 사업자 누리집(홈페이지) 또는 한국소비자원 참가격 중 한 곳과 계약서 표지에 표시하여야 함
+  source: 공정거래위원회 보도자료
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2027-05-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 표시·광고의 공정화에 관한 법률
+  article: 제4조 제1항
+  effective: '2026-11-06'
+contributor: null
+tags:
+- 표시광고법
+- 중요정보고시
+- 예식장
+- 결혼준비대행
+- 가격표시
+- 과태료
+verified_by: 공식 출처
+---
+스튜디오·드레스·메이크업 등 결혼 준비 일체를 위탁받아 대행하는 업체도 결혼준비대행업에 포함된다. 표시할 곳은 온라인(누리집 또는 참가격 중 한 곳)과 계약서 표지 두 곳이다. 공정위가 전국 50개 주요 사업자를 집중점검한 결과, 항목별 세부 내용과 요금 등을 계약서 표지 또는 홈페이지(참가격)에 표시하지 않은 17개 사업자에 과태료 총 1,560만원이 부과됐다. 공정위는 2026년 11월 2일부터 홈페이지에 전담 신고센터를 운영하고 있어 고객이 미표시를 직접 신고할 수 있으며, 위반 여부 점검도 순차적으로 이어갈 계획이다. 해당 업종이라면 온라인 게시와 계약서 표지 양식에 모든 항목이 들어갔는지 지금 확인해야 한다.

@@ -1,0 +1,30 @@
+---
+id: marketing-0335
+domain: marketing
+claim: 인스타그램 계정을 키우려면 좋아요보다 모르는 사람에게 퍼지는 데 유리한 공유·저장을 노려 '내 얘기다' 싶은 콘텐츠를 만들어야 한다는
+  것이 화자의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=UerlbLyBR20
+  author: 혜님 인스타그램마케팅 (@hyenimtv)
+  seen: '2026-11-06'
+  quote: 자기 얘기다 싶으면 저장하고 그 순간 누군가가 떠오르면 공유를 합니다.
+  source: 혜님 인스타그램마케팅 (@hyenimtv)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- 알고리즘
+- 공유
+- 저장
+- 팔로워
+---
+화자는 인스타그램 CEO 애덤 모세리의 공식 발언을 근거로, 좋아요는 이미 나를 팔로우하는 사람에게 노출될 때 유리하고 공유·저장은 나를 모르는 사람에게 노출되는 데 더 도움이 된다고 전합니다. 사람들은 자기 얘기라고 느끼면 저장하고, 그 순간 누군가가 떠오르면 공유한다는 것입니다. 다만 공유·저장만으로는 부족하며, 조회수가 나와도 팔로우가 늘지 않으면 계속 지켜볼 이유를 주지 못한 것으로 봅니다. 모세리 발언의 원문은 이 영상에서 직접 확인되지 않았으므로 화자를 통한 2차 인용입니다.

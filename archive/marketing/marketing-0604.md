@@ -1,0 +1,29 @@
+---
+id: marketing-0604
+domain: marketing
+claim: AI로 블로그 글을 자동으로 쓸 때 자료만 넣으면 원하는 글이 나오지 않으므로, AI가 먼저 원하는 방향을 질문하고 의도를 파악한 뒤에
+  쓰기 시작하도록 설계해야 한다는 것이 출연 업체의 경험이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=pMgpFCSSg5Q
+  author: 카스페이스 분당판교점 운영자 (이상한마케팅 출연)
+  seen: '2026-11-12'
+  quote: AI가 내 머릿속을 알 수 없으니 원하는 글이 나오지 않았다고 합니다.
+  source: 이상한마케팅 (@isanghan_marketing)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 블로그
+- AI글쓰기
+- 자동화
+- 프롬프트
+---
+자료만 넣고 바로 글을 뽑는 자동화는 쓰는 사람의 의도를 담지 못한다는 것이 출연 업체의 경험입니다. 그래서 쓰고 싶은 방향을 먼저 말하면 AI가 정말 원하는 방향을 되묻고, 답을 들어 의도를 대략 파악한 뒤에 쓰기 시작하도록 지시문을 짰다고 합니다. 이때 독자가 글을 어디서 읽는지도 함께 알려 주세요. 예를 들어 고객이 회사에서 많이 본다면 모바일보다 PC에서 읽기 좋게 써야 한다는 조언이 나왔습니다.

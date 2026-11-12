@@ -1,0 +1,30 @@
+---
+id: business-plan-0056
+domain: business-plan
+claim: 외주 앱 개발비는 대부분 인건비이므로 기획·디자인 500만~1,000만원, 개발자 2명 1~2개월 2,000만~2,800만원(풀스택 1명이면
+  1,400만~2,000만원), PM 약 500만원으로 쪼개 견적을 받아야 하며, 2~3개월 프로젝트 총액은 2,500만~4,000만원, AI 모듈
+  등 특수 기능이 들어가면 5,000만~6,000만원이 적정선이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=6fxaeHBcAS4
+  author: 민썸 MinSsum
+  seen: '2026-11-03'
+  quote: 대부분 이제 외주 개발 시장은 인건비라고 보시면 됩니다.
+  source: 민썸 MinSsum, 스타트업 크리에이터 (@MinSsum)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 앱개발비용
+- 외주견적
+- 인건비
+- MVP
+---
+개발사에 '얼마냐'고 물으면 '기능과 규모에 따라 다르다'는 답만 돌아오므로 사업자가 항목별 기준을 갖고 있어야 한다. 기획·디자인·UX/UI는 500만원, 서비스 정책이 복잡하면 1,000만원 정도가 적정선이다. 개발은 백엔드·프론트엔드 2명이 1~2개월, 1인당 월 500만~1,000만원으로 2,000만~2,800만원이고, 풀스택 1명이면 월 700만~1,000만원으로 1,400만~2,000만원이다. 여기에 PM 비용 약 500만원이 붙는다. 견적서가 이 구성과 크게 다르면 어디에 인력이 더 들어가는지 항목별로 물어야 한다. 2025년 5월 기준 에이전시 운영자의 추정치다.

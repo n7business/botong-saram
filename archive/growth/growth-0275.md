@@ -1,0 +1,30 @@
+---
+id: growth-0275
+domain: growth
+claim: 고객과 요구사항 회의를 하는 외주·구축 사업자는 회의가 끝나면 회의록부터 쓰지 말고, 나온 말을 항목으로 쪼개 '우리가 할 일·자료 요청·결정
+  필요' 세 가지로 나눠야 항목마다 다음에 움직일 쪽이 정해져 요구사항이 빠지지 않는다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48993
+  author: 방동걸(웨이스)
+  seen: '2026-11-12'
+  quote: 자료 요청을 할 일과 따로 두면 「업체가 늦은 것」과 「자료가 안 온 것」이 기록에서 구분됩니다.
+  source: EO 플래닛
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 외주
+- 프로젝트관리
+- 회의록
+- 요구사항
+- B2B
+---
+요구사항은 회의 중보다 회의가 끝난 뒤 개발 대기열에 들어가기 전에 많이 빠진다. 회의가 끝나면 회의록을 쓰기 전에 나온 말을 항목 단위로 쪼개고, 항목마다 '우리가 할 일', '자료 요청', '결정 필요' 가운데 하나를 붙인다. 우리가 할 일은 무엇을 바꾸는지 한 문장으로 적고, 고객이 실제 화면에서 확인해야 끝난 것으로 본다. 자료 요청은 무엇을, 누가, 언제까지 보내는지 적어 할 일과 따로 둔다. 그래야 '업체가 늦은 것'과 '자료가 안 온 것'이 기록에서 구분된다. 한 제조 시스템 구축 업체가 소개한 실무 방식이다.

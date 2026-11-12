@@ -1,0 +1,28 @@
+---
+id: mindset-0145
+domain: mindset
+claim: 박슬기 대표는 지원사업 마감이 있으면 달력에 실제 마감보다 2~3일 이른 날짜를 마감으로 적어 그때 내고, 마감 당일 낮에는 절대 제출하지
+  않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=ZNTSxWHOlzI
+  author: 박슬기 대표(도타컴퍼니), 엠마쌤 @emmassam 채널 출연
+  seen: '2026-11-10'
+  quote: 마감 당일 낮에는 절대 넣지 않는다
+  source: 엠마쌤 (@emmassam)
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 마감관리
+- 습관
+- 멘토링
+---
+박슬기 대표는 달력에 실제 마감보다 이틀에서 사흘 앞선 날짜를 마감으로 적어 두고 그날 제출합니다. 그가 참여한 사업은 1차 합격 뒤 6주간 필수 멘토링을 받으며 2차 서류를 다시 써야 했습니다. 마지막 멘토링이 마감 전날 저녁에 잡혔지만, 미리 써 둔 덕분에 리뷰만 받고 당일 새벽에 낼 수 있었습니다. 컨설턴트에게 검토를 받으려면 적어도 하루 전에는 보내야 한다는 이야기도 나왔습니다.

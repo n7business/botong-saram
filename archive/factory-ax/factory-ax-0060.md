@@ -1,0 +1,33 @@
+---
+id: factory-ax-0060
+domain: factory-ax
+claim: 쓸지 확실하지 않은 인서트를 싸다는 이유로 미리 대량 구매하면 안 쓰는 재고로 남아 돈이 묶이므로, 실제 쓰는 공구 위주로 사야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=udDv1ZLyb1c
+  author: 기계맨 CNC MCT (@GIGYEMAN)
+  seen: '2026-11-06'
+  quote: 세라믹 인서트도 샀지만 거의 안 써서 아깝다고 한다.
+  source: 기계맨 CNC MCT (@GIGYEMAN)
+- url: https://www.youtube.com/watch?v=kh71_yh-QOQ
+  author: 기계맨 CNC MCT (@GIGYEMAN)
+  seen: '2026-11-06'
+  quote: 싼 맛에 쓰기 딱 좋은 거 같습니다.
+  source: 기계맨 CNC MCT (@GIGYEMAN)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: factory-ax-0075
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 공구구매
+- 인서트
+- 재고
+- 낭비
+---
+한 가공 현장은 3~5년 전 알리에서 CBN 인서트를 대량으로 샀고 세라믹 인서트도 샀지만 세라믹은 거의 쓰지 않았습니다. 예전에 많이 사 둔 T 타입 인서트도 지금은 거의 쓰지 않습니다. 커터를 받으려고 개당 2천 원대에 100개를 산 인서트도 요즘은 손이 잘 가지 않는다고 합니다. 폐초경 값이 올라 T 타입 손해를 조금 덜었다고는 하지만, 이는 일부 보전일 뿐입니다. 한 현장의 경험담입니다.

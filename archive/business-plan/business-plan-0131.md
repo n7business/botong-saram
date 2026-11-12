@@ -1,0 +1,30 @@
+---
+id: business-plan-0131
+domain: business-plan
+claim: 만 40세 이상 예비창업자와 창업 3년 이내 기업은 2026-11-27 18:00까지 김해시중장년기술창업센터에 신청하면 임대료·관리비
+  없이 입주할 수 있지만, 모집이 2개사 내외이고 요식업·숙박업·임대업 등 단순서비스 업종은 제외되므로 기술·전문경력 기반 아이템이어야 한다.
+status: verified
+evidence: policy
+confidence: 0.92
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179714
+  author: 김해의생명산업진흥원
+  seen: '2026-11-05'
+  quote: 타 직장에 재직 중이라도 창업을 원하는 퇴직예정자 가능
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: '2027-03-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 입주공간
+- 김해
+- 중장년
+- 마감2026-11-27
+verified_by: 공식 출처
+---
+다른 직장에 재직 중인 퇴직예정자도 신청할 수 있고, 모두의 창업 진출자와 2026년 맞춤형 창업과정 수료생은 우대한다. 지정석과 사무실 집기가 무상이고 센터 주소로 사업자등록을 할 수 있으며, 시제품 제작·판로개척용 사업화 자금을 최대 500만원까지 선택형으로 지원한다. 입주기간은 1년이고 연장평가를 거쳐 1년 더 쓸 수 있으며, 2027년 1월부터 순차 입주한다. 신청서, 사업계획서, 개인정보 동의서를 이메일이나 방문으로 내고, 기창업자는 사업자등록증도 낸다. 국세·지방세 체납자와 금융 채무불이행자는 제외된다.

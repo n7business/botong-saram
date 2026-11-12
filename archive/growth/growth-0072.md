@@ -1,0 +1,35 @@
+---
+id: growth-0072
+domain: growth
+claim: AI 상담에서 사람으로 넘기는 시점은 '정보 수집은 끝났지만 판단이 필요한 지점'으로 정하고, 답변 범위 밖 문의·이미지나 서류 판단·정책
+  예외 결정·상담사 연결 요청과 특정 고객군은 AI 해결률이 떨어지더라도 자동으로 사람에게 넘기는 규칙을 둔다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://channel.io/kr/blog/articles/cs-worker-protection-manual-1ae24025
+  author: 채널톡 블로그 (Dex, AE Team)
+  seen: '2026-11-03'
+  quote: 정보 수집은 끝났지만 판단이 필요한 지점이 인계의 적정 시점입니다.
+  source: 채널톡 블로그
+- url: https://channel.io/kr/blog/articles/ai-case-estar-jet-6cf8627b
+  author: 채널톡 블로그 (Ken, Marketer)
+  seen: '2026-11-03'
+  quote: 직원 연결을 요청하는 경우에는 편의성과 응대 만족도를 위해 ALF가 자동으로 상담원에게 연결되도록 설계
+  source: 채널톡 블로그
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI상담
+- 에스컬레이션
+- 고객응대
+- 자동화
+mentions: 2
+---
+AI 상담봇이 어디까지 응대하고 언제 사람에게 넘길지 기준이 흐리면 두 가지 문제가 생긴다. 너무 늦게 넘기면 고객 불만이 쌓이고, 너무 일찍 넘기면 AI를 쓰는 의미가 없다. 인계 조건은 ① 답변 가능한 정보 범위를 벗어난 문의, ② 첨부 이미지·서류의 판단이 필요할 때, ③ 정책 예외 여부를 결정해야 할 때, ④ 고객이 상담사 연결을 직접 요청할 때로 잡는다. AI에게는 주문번호·상황 설명·사진 같은 1차 정보 수집만 맡기고, 사람은 수집된 요약과 원문을 보고 첫 마디부터 해결책을 말하는 구조가 목표다. growth-0006(꼬리 질문)·growth-0007(직원 연결 요청 자동 인계)과 함께 적용한다.

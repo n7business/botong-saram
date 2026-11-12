@@ -1,0 +1,31 @@
+---
+id: factory-ax-0150
+domain: factory-ax
+claim: 스마트공장 도입을 망설이는 소규모 제조 사업자는 처음부터 고도 수준을 목표로 잡지 말고, 비용이 적게 드는 기초 단계(실적집계 자동화·공정물류
+  관리)부터 구축해 생산 실적 실시간 집계와 자재 이력관리(lot-tracking)를 먼저 확보하는 방식으로 시작할 수 있다.
+status: verified
+evidence: policy
+confidence: 0.65
+sources:
+- url: https://www.smart-factory.kr/usr/pr/sf/ma/smrtFctryIntrcn
+  author: 중소기업기술정보진흥원(TIPA) 스마트제조혁신추진단
+  seen: '2026-11-12'
+  quote: 첫 단계부터 고도 수준을 걱정할 필요는 없다.
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: '2027-02-10'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 단계적구축
+- 기초단계
+- lot-tracking
+- MES
+verified_by: 공식 출처
+---
+스마트제조혁신추진단은 구축 시스템의 스마트화 수준을 기초, 중간1, 중간2, 고도로 나눕니다. 기업의 여력과 상황에 따라 단계적으로 구축할 수 있다고 안내합니다. 기초 단계만으로도 실시간으로 만들어지는 제품을 바로 집계해 관리할 수 있고, 자재 이력관리(lot-tracking)도 할 수 있습니다. 따라서 수작업으로 실적을 관리하는 현장이라면 기초 단계로 시작하는 것이 현실적입니다. 이후 설비데이터 자동집계(중간1), 설비제어 자동화(중간2) 순으로 넓혀 갈 수 있습니다. 다만 ‘기대 이상의 성과에 만족’한다는 표현은 기관의 홍보성 서술이므로 투자 효과는 내 공정 기준으로 따로 따져 봐야 합니다.

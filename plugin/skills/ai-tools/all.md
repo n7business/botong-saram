@@ -1,0 +1,120 @@
+# 보통사람 · AI 도구·트렌드 — 전체 목록(공식·여러 명·주의·실험)
+빌드 2026-11-12. SKILL.md에는 이 중 일부만 있다.
+
+## 🏛 공식 발표 · 📚 연구·저서
+- 🏛 공식 발표 · AI에게 계약서 같은 자료를 정리한 위키나 요약집을 만들게 할 때는 어떤 정보가 가장 중요한지 지시문에 분명히 적어야 하는데, 이를 적지 않으면 핵심 조건이 요약 과정에서 빠질 수 있기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0483.md`
+- 🏛 공식 발표 · AI가 만든 문서 정리 위키는 한두 번 만들어 보고 쓸모를 판단하지 말고, 여러 번에 걸쳐 내용을 보태고 고치고 정리하게 해야 하는데, 처음 위키는 신입 직원 수준이라 이것만으로는 답을 잘 찾지 못하기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0484.md`
+- 🏛 공식 발표 · 클로드 코드 업데이트를 따로 챙기기 어렵다면 Homebrew나 WinGet 대신 공식 설치 명령(Native Install)으로 설치해야 하는데, 이 방식만 백그라운드에서 자동으로 최신 버전으로 업데이트되기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0485.md`
+- 🏛 공식 발표 · 클로드 코드 설치 명령은 내려받는 동안 진행 상황을 보여 주지 않으므로 멈춘 줄 알고 끊지 말고, 끝나면 새 터미널 창을 열어 claude --version으로 버전 번호가 나오는지 확인해야 한다. — Claude Code 공식 문서 → `items/ai-tools-0486.md`
+- 🏛 공식 발표 · 윈도우에서 클로드 코드를 설치할 때는 프롬프트가 PS C:\로 시작하는지 먼저 보고 PowerShell용과 CMD용 설치 명령 중 맞는 것을 넣어야 하는데, 다른 쪽 명령을 넣으면 오류가 나기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0487.md`
+- 🏛 공식 발표 · 터미널이 낯설어 클로드 코드를 데스크톱 앱으로 쓰려면 앱만 설치하고 따로 CLI를 깔 필요는 없지만, 유료 구독이 있어야 쓸 수 있다는 점을 먼저 확인해야 한다. — Claude Code 공식 문서 → `items/ai-tools-0488.md`
+- 🏛 공식 발표 · 클로드 코드를 API 키로만 쓰고 있다면 웹·모바일에서 시작한 작업을 터미널로 가져오는 claude --teleport와 터미널 세션을 데스크톱 앱으로 넘기는 /desktop을 쓸 수 없으므로, 기기를 오가며 이어 일하려면 claude.ai 구독으로 로그인해야 한다. — Claude Code 공식 문서 → `items/ai-tools-0489.md`
+- 🏛 공식 발표 · 밖에서 폰으로 사무실 컴퓨터의 클로드 코드 세션을 이어 하려면 Remote Control을, 텔레그램·디스코드 메시지나 웹훅을 세션에 바로 들여보내려면 Channels를 골라야 한다. — Claude Code 공식 문서 → `items/ai-tools-0490.md`
+- 🏛 공식 발표 · 클로드 코드를 터미널·VS Code·데스크톱 앱·웹에서 섞어 쓰더라도 작업 규칙은 프로젝트의 CLAUDE.md와 설정에 한 번만 적어 두면 되는데, 모든 화면이 같은 엔진을 쓰므로 CLAUDE.md·설정·MCP 서버가 그대로 적용되기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0491.md`
+- 🏛 공식 발표 · 클로드 코드에서 API 키로 페이블 5.2를 쓴다면 출력 토큰이 입력보다 5배 비싸고 캐시에서 다시 읽는 입력은 40분의 1 값이므로, 긴 자료는 매번 새로 넣지 말고 같은 맥락을 이어 쓰게 하고 결과물은 필요한 만큼만 길게 쓰게 해야 비용을 줄일 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0492.md`
+- 🏛 공식 발표 · 구글 Vertex로 클로드 코드를 쓰면서 fast mode를 켰다면 global·us·eu 리전에서만 지원되고 Vertex가 거부하면 표준 속도로 돌아가므로, 속도가 빨라지지 않았다면 리전 설정부터 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0493.md`
+- 🏛 공식 발표 · 클로드 코드 자동 모드에서 '이 세션은 무료 분류기 요청 대상이 아니다'라는 안내가 뜨면 중간에 낀 LLM 게이트웨이나 프록시가 원인인 경우가 많고, Enter로 계속하면 분류기 요청이 토큰 사용량으로 과금되므로 /status의 Auto mode server 항목부터 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0419.md`
+- 🏛 공식 발표 · 계약서 여러 건을 AI에게 정리시켜 자료집을 만들 때는 여러 AI가 표 하나에 함께 요약해 넣게 하지 말고, 계약서마다 한 AI가 페이지를 따로 맡아 조건을 원문 그대로 옮기게 해야 중요한 조건이 빠지지 않는다. — Anthropic Engineering 블로그 → `items/ai-tools-0448.md`
+- 🏛 공식 발표 · CLAUDE.md처럼 AI가 매 세션 자동으로 읽는 지침 파일은 길게 늘리지 말고 꼭 필요한 내용만 남겨야 하는데, 지침이 길수록 잘 따르지 않고 그 안의 틀린 메모가 모든 세션에 그대로 따라가기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0449.md`
+- 🏛 공식 발표 · AI에게 문서 정리 위키를 만들게 했다면 위키가 원본 문서보다 커지지 않았는지 확인해야 하는데, 원본만큼 자세해진 위키는 정리 효과 없이 검색 비용만 늘린다. — Anthropic Engineering 블로그 → `items/ai-tools-0450.md`
+- 🏛 공식 발표 · 클로드 코드를 Homebrew나 WinGet으로 설치했다면 자동으로 업데이트되지 않으므로, brew upgrade나 winget upgrade를 주기적으로 실행해야 보안 수정을 놓치지 않는다. — Claude Code 공식 문서 → `items/ai-tools-0451.md`
+- 🏛 공식 발표 · 업무용 컴퓨터에 Homebrew로 클로드 코드를 설치할 때는 claude-code@latest 대신 claude-code를 고르는 편이 좋은데, 일주일쯤 늦게 받는 대신 큰 문제가 생긴 버전은 건너뛰기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0452.md`
+- 🏛 공식 발표 · 윈도우에서 WSL 없이 클로드 코드를 쓴다면 Git for Windows를 먼저 설치해야, 클로드 코드가 PowerShell 대신 Bash 도구로 명령을 실행할 수 있다. — Claude Code 공식 문서 → `items/ai-tools-0453.md`
+- 🏛 공식 발표 · 컴퓨터에 ANTHROPIC_API_KEY 환경변수가 설정되어 있으면 클로드 코드가 첫 실행 때 그 키를 쓸지 묻는데, 구독 요금제로 쓰려면 승인하지 말고 로그인해야 한다. — Claude Code 공식 문서 → `items/ai-tools-0454.md`
+- 🏛 공식 발표 · 클로드에게 정기 작업을 맡길 때 컴퓨터가 꺼져 있어도 돌아야 하면 클라우드 예약 작업을, 내 컴퓨터의 파일과 프로그램이 필요하면 데스크톱 예약 작업을 골라야 한다. — Claude Code 공식 문서 → `items/ai-tools-0455.md`
+- 🏛 공식 발표 · Claude Agent SDK로 만든 서비스를 고객에게 제공할 때는 claude.ai 로그인이나 구독 사용량을 연결하지 말고 API 키 인증을 써야 하는데, 사전 승인 없이는 Anthropic이 허용하지 않기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0456.md`
+- 🏛 공식 발표 · Claude Agent SDK로 만든 내 서비스 이름에 'Claude Code'를 넣거나 클로드 코드처럼 보이게 꾸미지 말고, 'OO Powered by Claude'처럼 표기해야 브랜딩 규정을 어기지 않는다. — Claude Code 공식 문서 → `items/ai-tools-0457.md`
+- 🏛 공식 발표 · 다른 AI 코딩 도구용 AGENTS.md가 이미 있는 프로젝트라면 같은 내용으로 CLAUDE.md를 따로 만들지 않아도 되는데, 클로드 코드가 CLAUDE.md 대신 AGENTS.md를 읽을 수 있기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0458.md`
+- 🏛 공식 발표 · 클로드 코드를 claude -p로 무인 자동 실행하면서 자동 모드를 쓴다면 stderr 로그에 '이 세션은 무료 분류기 요청 대상이 아니다' 안내가 찍혔는지 확인해야 하는데, 이 경우 작업은 멈추지 않고 그대로 이어지면서 분류기 요청이 토큰 사용량으로 과금되기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0459.md`
+- 🏛 공식 발표 · 클로드 코드 자동 모드에서 쓰는 LLM 게이트웨이가 서버 측 검사를 지원하지 못한다는 것을 이미 안다면 세션 시작 전에 CLAUDE_CODE_AUTO_MODE_SERVER=0을 설정해 매번 뜨는 안내를 없앨 수 있지만, 분류기 요청 비용은 그대로 나가고 이 설정은 나중 버전에서 없어질 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0460.md`
+- 🏛 공식 발표 · Microsoft Foundry(Azure)로 클로드 코드를 여러 사람에게 배포하기 전에는 배포마다 모델 버전을 고정하고 ANTHROPIC_DEFAULT_OPUS_MODEL 같은 변수를 지정해야 하는데, 그러지 않으면 기본값이 계정에 없는 모델을 가리켜 요청이 실패하거나 opus가 구버전(Opus 4.6)으로 잡히기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0461.md`
+- 🏛 공식 발표 · Microsoft Foundry에서 클로드 코드로 긴 문서를 다룰 때는 배포 이름을 claude-opus-4-8처럼 모델 ID로 짓거나 modelOverrides로 연결해야 하는데, 클로드 코드가 이름으로 모델을 알아보지 못하면 1M이 아니라 200K 컨텍스트로 가정하기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0462.md`
+- 🏛 공식 발표 · 클로드 코드에서 프롬프트 캐시를 1시간으로 늘리는 ENABLE_PROMPT_CACHING_1H=1은 캐시 쓰기 요금이 더 비싸므로, 작업 사이 공백이 5분을 자주 넘길 때만 켜야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0463.md`
+- 🏛 공식 발표 · AI 에이전트에게 메모리 폴더를 줄 때는 메모리가 무엇에 쓰이는지만 알려 주고 '실패만 기록하라' 같은 고정 규칙을 정하지 말아야, 최신 모델이 메모리로 얻는 성능 향상을 깎아 먹지 않는다. — Anthropic Engineering 블로그 → `items/ai-tools-0410.md`
+- 🏛 공식 발표 · AI 메모리에는 매번 화면이나 자료에서 다시 확인할 수 있는 정보까지 다 쌓지 말고 직접 알아낸 전략·검증된 규칙·계획만 남겨야, 메모리를 뒤지느라 정작 일을 못 하는 상황을 막을 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0411.md`
+- 🏛 공식 발표 · 매 세션 자동으로 읽히는 클로드 코드 MEMORY.md는 내용을 담지 말고 어디에 무엇이 있는지 알려 주는 목차로 짧게 유지해야 하는데, 앞쪽 200줄 또는 25KB까지만 불러오기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0412.md`
+- 🏛 공식 발표 · AI가 작업 중에 남긴 메모는 틀려도 다음 세션에서 그대로 믿고 쓰이므로, 주기적으로 원래 대화 기록과 대조해 고치게 해야 같은 실수가 되풀이되는 일을 막을 수 있다. — Anthropic Engineering 블로그, 조코딩 JoCoding → `items/ai-tools-0413.md`
+- 🏛 공식 발표 · AI에게 문서 묶음을 정리한 위키를 만들게 하는 것은 여러 문서를 엮어야 답이 나오는 질문이 많을 때만 하고, 문서 하나에서 검색으로 찾을 수 있는 일에는 만들지 말아야 들인 품만큼 효과를 본다. — Anthropic Engineering 블로그 → `items/ai-tools-0414.md`
+- 🏛 공식 발표 · AI가 만든 위키가 있어도 원본 검색 기능을 끄지 말고 둘을 함께 쓰게 해야, 위키만 쓸 때보다 정답률이 높고 질문당 토큰도 아낄 수 있다. — Anthropic Engineering 블로그, 조코딩 JoCoding → `items/ai-tools-0415.md`
+- 🏛 공식 발표 · 구형이나 저렴한 AI 모델에 메모리를 맡길 때는 답하기 전에 메모 파일을 먼저 읽고 추측을 직접 확인하라고 명시해야, 메모리가 있어도 쓰지 않아 생기는 성능 손실을 줄일 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0416.md`
+- 🏛 공식 발표 · AI가 남기는 업무 메모에는 규칙만 적지 말고 그 규칙이 맞는지 어떻게 알았는지, 확인된 것인지 아직 추측인지, 빠지기 쉬운 함정까지 함께 적게 해야 다음 작업에서 틀린 추측을 사실로 믿지 않는다. — Anthropic Engineering 블로그 → `items/ai-tools-0417.md`
+- 🏛 공식 발표 · 클로드 코드 2.1.321부터 Pro·Max 요금제에서 저장해 둔 Fable 5.1 선택이 자동으로 최신 Fable(5.2)로 바뀌므로, 업데이트 뒤 결과물 품질이나 비용이 달라졌다면 /model claude-fable-5-1로 이전 모델로 되돌려 비교해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0418.md`
+- 🏛 공식 발표 · 클로드 코드 2.1.321 이전 버전에는 권한 확인 없이 명령이 실행되거나 MCP 로그인 토큰이 다른 서버로 새는 버그가 있었으므로, 권한 창과 deny 규칙에 기대어 쓴다면 최신 버전으로 업데이트해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0420.md`
+- 🏛 공식 발표 · NAS 공유 폴더나 WSL 폴더 같은 네트워크 경로의 파일을 클로드 코드로 고쳤다면, 2.1.321 이전 버전은 파일 전체를 바꾸거나 노트북 첫 셀을 지울 수 있었으므로 업데이트하고 그동안 고친 파일을 백업과 대조해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0421.md`
+- 🏛 공식 발표 · 클로드 코드 자동 모드나 권한 우회 모드에서는 클로드가 만든 mod가 묻지 않고 켜지고 mod의 도구 호출도 권한 창을 띄우지 않으므로, 꼭 막아야 할 작업은 ask 규칙이 아니라 deny 규칙으로 걸어 두어야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0422.md`
+- 🏛 공식 발표 · claude remote-control에 --settings로 설정 파일을 지정해 쓰다가 그 파일을 고쳤다면 claude remote-control을 다시 시작해야 하는데, 재시작 전까지는 새 세션이 시작되지 않기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0423.md`
+- 🏛 공식 발표 · claude -p로 자동 작업을 돌릴 때 백그라운드 명령은 10분이 지나면 중지되므로, 그보다 오래 걸리는 수집·빌드 작업은 백그라운드로 맡기지 말고 따로 실행하거나 단계를 나눠야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0424.md`
+- 🏛 공식 발표 · AI에게 코드를 맡길 때 사람은 시스템의 핵심 제약과 설계 판단을 쥐고 있다가, AI가 그 제약을 어기는 방식으로 문제를 풀면 '안 된다'고 막아야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0379.md`
+- 🏛 공식 발표 · AI끼리 서로 검토시키는 적대적 리뷰 결과를 그대로 반영하지 말고, 일어날지 모를 걱정에 대응하느라 검증과 복잡도만 늘어나는 수정은 사람이 걸러야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0380.md`
+- 🏛 공식 발표 · AI가 쓴 코드가 너무 많아 한 줄씩 읽을 수 없다면 그 변경이 무엇을 하려는 것인지, 의도가 맞는지를 중심으로 검토하되 검토 자체는 빼먹지 말아야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0381.md`
+- 🏛 공식 발표 · 운영 중인 시스템을 AI로 감시하려면 하나의 AI에게 여러 시스템을 맡기지 말고, 시스템마다 전담 AI를 두어 로그와 지표를 계속 보게 해야 일반 알림이 놓치는 미묘한 이상을 잡아낼 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0382.md`
+- 🏛 공식 발표 · AI로 코드를 많이 만드는 소규모 팀이라도 Anthropic이 자체 버전 관리 시스템으로 옮겼다는 이유로 git을 버리지 말아야 하는데, 그런 시스템은 초대형 모노레포에서나 의미가 있기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0383.md`
+- 🏛 공식 발표 · 클로드 코드의 빠른 모드(/fast)를 쓸 거라면 대화 중간이 아니라 세션을 시작할 때 켜야, 그때까지 쌓인 대화 전체를 비싼 요금으로 다시 읽는 비용을 줄일 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0384.md`
+- 🏛 공식 발표 · Pro·Max·Team 같은 구독 요금제에서 클로드 코드 빠른 모드를 켜면 요금제 사용량이 남아 있어도 추가 사용 크레딧에서 바로 돈이 나가므로, 켜기 전에 크레딧 결제 설정을 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0385.md`
+- 🏛 공식 발표 · 클로드 코드 사용료가 어디로 청구되는지 헷갈리면 /status를 실행해 로그인 방식이 구독 계정인지 API 키인지 먼저 확인해야, 엉뚱한 곳에 요금이 쌓이는 일을 막을 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0386.md`
+- 🏛 공식 발표 · 클로드 코드 플러그인은 켜 두기만 해도 모든 대화에서 토큰을 쓰므로, 요즘 쓰지 않는 플러그인은 지우지 않더라도 꺼 두어야 사용량과 컨텍스트 낭비를 줄일 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0387.md`
+- 🏛 공식 발표 · 클로드 코드 플러그인은 동료가 만든 것이든 공식 마켓플레이스에 있는 것이든 내 권한으로 코드를 실행하므로, 설치 전에 출처와 들어 있는 구성 요소를 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0388.md`
+- 🏛 공식 발표 · 클로드 코드가 사소한 결정마다 묻는 게 번거로우면 출력 스타일을 Proactive로 바꾸면 되지만, 권한 확인 창은 그대로 뜨므로 승인 기준까지 느슨해지는 것은 아니다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0389.md`
+- 🏛 공식 발표 · 클로드 코드를 쓰면서 코딩을 직접 익히고 싶다면 출력 스타일을 Learning으로 두어야, AI가 일상적인 구현은 하고 설계 판단이 필요한 몇 줄은 내가 직접 작성하게 맡겨 준다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0390.md`
+- 🏛 공식 발표 · AI 에이전트의 메모리에는 화면이나 시스템에서 바로 확인되는 정보를 쌓지 말고, 직접 알아낸 전략·계획·검증된 규칙만 적어야 오래된 기록을 뒤지느라 작업이 늦어지는 일을 줄일 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0273.md`
+- 🏛 공식 발표 · 최신 Claude 모델에는 메모리에 무엇을 적을지 고정 규칙을 주지 말고 메모리의 용도만 알려 줘야, 메모리로 얻는 성능 향상을 잃지 않는다. — Anthropic Engineering 블로그 → `items/ai-tools-0274.md`
+- 🏛 공식 발표 · 구형 AI 모델을 쓸 때는 답하기 전에 메모리를 읽고 자기 가설을 직접 시험하라고 지시해야 메모리 효과를 제대로 얻을 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0275.md`
+- 🏛 공식 발표 · AI가 남긴 메모는 원본 대화 기록과 대조해 고쳐야, 처음부터 틀렸거나 낡은 메모를 다음 세션에서 그대로 믿고 같은 실패를 반복하는 일을 막을 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0276.md`
+- 🏛 공식 발표 · 문서로 AI 위키를 만드는 일은 여러 문서를 합쳐 답해야 하는 업무에 쓰고, 문서 하나에서 검색으로 찾을 수 있는 업무라면 검색만으로 시작하는 편이 낫다. — Anthropic Engineering 블로그 → `items/ai-tools-0277.md`
+- 🏛 공식 발표 · AI 지식 위키를 만들어도 검색 도구를 없애지 말고 함께 제공해야 답변 점수가 더 높고 토큰도 절약된다. — Anthropic Engineering 블로그 → `items/ai-tools-0278.md`
+- 🏛 공식 발표 · AI로 계약서 지식을 정리할 때는 여러 에이전트가 표 하나에 동시에 요약하게 하지 말고 계약서마다 한 에이전트가 한 페이지에 조항을 원문 그대로 옮기게 해야 사실 누락을 줄일 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0280.md`
+- 🏛 공식 발표 · 클로드 코드를 Homebrew나 WinGet으로 설치했다면 자동 업데이트가 되지 않으므로, 업그레이드 명령을 직접 실행해야 최신 기능과 보안 수정을 받을 수 있다. — Claude Code 공식 문서 → `items/ai-tools-0281.md`
+- 🏛 공식 발표 · Homebrew로 클로드 코드를 설치할 때 큰 결함이 있는 버전을 피하고 싶으면 `claude-code`를, 새 버전을 바로 받고 싶으면 `claude-code@latest`를 고른다. — Claude Code 공식 문서 → `items/ai-tools-0282.md`
+- 🏛 공식 발표 · Claude Agent SDK로 만든 제품을 남에게 제공할 때는 사전 승인 없이 claude.ai 로그인이나 사용 한도를 쓰게 하면 안 되며, API 키 인증을 써야 한다. — Claude Code 공식 문서 → `items/ai-tools-0283.md`
+- 🏛 공식 발표 · Claude Agent SDK로 만든 제품에는 'Claude Code'라는 이름이나 이를 흉내 낸 시각 요소를 쓰면 안 되고, 자체 브랜드를 유지해야 한다. — Claude Code 공식 문서 → `items/ai-tools-0284.md`
+- 🏛 공식 발표 · 클로드 코드 예약 작업은 컴퓨터가 꺼져 있어도 돌아가야 하면 클라우드 예약으로, 내 컴퓨터의 파일과 도구가 필요하면 데스크톱 예약으로 만든다. — Claude Code 공식 문서 → `items/ai-tools-0285.md`
+- 🏛 공식 발표 · 터미널 없이 클로드 코드를 쓰고 싶다면 CLI를 따로 설치할 필요 없이 유료 구독으로 데스크톱 앱의 Code 탭을 쓰면 된다. — Claude Code 공식 문서 → `items/ai-tools-0286.md`
+- 🏛 공식 발표 · 저장소에 다른 코딩 에이전트용 AGENTS.md가 이미 있다면 클로드 코드가 이를 CLAUDE.md 대신 읽을 수 있으므로, 지시문을 처음부터 따로 만들지 않아도 된다. — Claude Code 공식 문서 → `items/ai-tools-0287.md`
+- 🏛 공식 발표 · 클로드 코드를 설치한 뒤 `claude`를 찾을 수 없다고 나오면 다시 설치하기 전에 설치 폴더가 PATH에 들어 있는지부터 확인한다. — Claude Code 공식 문서 → `items/ai-tools-0288.md`
+- 🏛 공식 발표 · 클로드 코드의 빠른 응답이 꼭 필요한 대화형 작업에만 `/fast`를 켜고, 비용이 더 중요할 때는 꺼 두어야 토큰 비용을 불필요하게 늘리지 않는다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0289.md`
+- 🏛 공식 발표 · 클로드 코드 작업을 여러 개 백그라운드로 돌릴 때는 `claude agents`로 에이전트 뷰를 열어야, 대화 기록을 일일이 넘겨 보지 않고 내 입력이 필요한 세션을 바로 찾을 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0290.md`
+- 🏛 공식 발표 · 매 세션 자동으로 불러오는 CLAUDE.md와 메모는 파일당 200줄 이하의 짧은 색인으로 유지하고 세부 규칙은 하위 파일로 내려 링크만 남겨야, 토큰 낭비와 지시 불이행을 줄일 수 있다. — 짐코딩 (@gymcoding), Anthropic Engineering 블로그 → `items/ai-tools-0364.md`
+- 🏛 공식 발표 · 스크립트에서 claude -p의 종료 코드로 성공 여부를 판단하려면 Claude Code를 2.1.314 이상(디스크 꽉 참 감지는 2.1.317 이상)으로 올려야 하며, 그 이전 버전은 시작 실패나 저장 실패 시에도 0을 반환한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0021.md`
+- 🏛 공식 발표 · Claude Code 2.1.317부터 웹·셸 도구가 계정 이메일을 외부로 보내려 하면 확인을 묻는데, 직접 의도한 경우가 아니면 거절해야 이메일이 User-Agent나 요청 본문에 실려 외부 서비스에 남는 걸 막는다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0024.md`
+- 🏛 공식 발표 · claude -p로 예약 작업을 돌린다면 claude auth status로 저장된 claude.ai 로그인의 만료일을 확인하고 표준 오류 경고까지 로그에 남겨야, 로그인 만료로 작업이 멈추기 전에 대비할 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0160.md`
+- 🏛 공식 발표 · Claude Code의 /schedule로 클라우드 예약 작업을 만들 때 요청하지 않은 커넥터가 붙었다는 경고가 뜨면, 안내된 방법으로 제거해야 예약 작업이 필요 없는 외부 서비스까지 연결된 채 돌지 않는다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0161.md`
+- 🏛 공식 발표 · Claude Code v2.1.318부터는 IDE 터미널에서 실행해도 IDE 확장이 자동으로 설치·업데이트되지 않으므로, 외부 터미널의 /ide나 편집기의 확장 화면에서 직접 설치·업데이트한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0162.md`
+- 🏛 공식 발표 · Claude Code v2.1.318 이전 버전에서는 메시지를 보낸 직후 친 키가 권한 확인 창의 답으로 처리될 수 있으므로, 업데이트하고 그전까지는 확인 창을 읽은 뒤에 키를 누른다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0164.md`
+- 🏛 공식 발표 · 코드 저장소가 없는 사람도 v2.1.318의 No repository 옵션을 고르면 Anthropic 호스팅 환경에서 저장소 선택 없이 Claude Code 클라우드 세션을 시작할 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0166.md`
+- 🏛 공식 발표 · Claude Code v2.1.317 이전 버전은 검색이 시간 제한에 걸려 일부만 찾고도 전체 결과로 취급할 수 있으므로, 파일이 많은 폴더를 다룬다면 업데이트하고 '없다'는 답은 직접 확인한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0167.md`
+- 🏛 공식 발표 · 시스템 프롬프트나 CLAUDE.md에 '답변 N단어 이내' 같은 출력 길이 제한을 넣으면 코딩 품질이 측정 가능하게 떨어진다. — Anthropic Engineering 블로그 → `items/ai-tools-0002.md`
+- 🏛 공식 발표 · AI 코드 리뷰를 시킬 때 변경 파일만 주지 말고 연관 저장소·의존 코드까지 맥락으로 주고 최신 모델을 쓰면 놓치던 버그를 잡는다. — Anthropic Engineering 블로그 → `items/ai-tools-0003.md`
+- 🏛 공식 발표 · Claude Code가 갑자기 앞 내용을 잊고 반복하거나 둔해지면 모델 탓보다 먼저 CLI 버전을 v2.1.116 이상으로 올린다. — Anthropic Engineering 블로그 → `items/ai-tools-0004.md`
+- 🏛 공식 발표 · AI 도구 품질 이상은 막연한 불만 대신 /feedback 명령이나 재현 가능한 구체 예시로 보고해야 실제 수정으로 이어진다. — Anthropic Engineering 블로그 → `items/ai-tools-0005.md`
+- 🏛 공식 발표 · AI 응답에 엉뚱한 외국어 문자나 명백한 구문 오류가 섞이면 사용량·시간대 탓이 아닌 인프라 버그일 수 있으므로 같은 대화를 고집하지 말고 새 대화로 재시도한다. — Anthropic Engineering 블로그 → `items/ai-tools-0006.md`
+- 🏛 공식 발표 · Homebrew나 WinGet으로 설치한 Claude Code는 자동 업데이트되지 않으므로 주기적으로 직접 업그레이드 명령을 실행해야 최신 기능과 보안 패치를 받는다. — Claude Code 공식 문서 → `items/ai-tools-0007.md`
+- 🏛 공식 발표 · Claude Code를 안정적으로 쓰려면 Homebrew의 stable 채널(claude-code)을 설치하고, 신기능을 바로 쓰려면 latest 채널(claude-code@latest)을 설치한다. — Claude Code 공식 문서 → `items/ai-tools-0008.md`
+- 🏛 공식 발표 · CLAUDE.md는 200줄 이내로 유지하고, 가끔만 필요한 참고 자료는 스킬이나 .claude/rules/ 파일로 분리한다. — Claude Code 공식 문서 → `items/ai-tools-0009.md`
+- 🏛 공식 발표 · Claude Code가 같은 규칙이나 명령을 두 번 틀리면 채팅에서 매번 고쳐주지 말고 CLAUDE.md에 그 규칙을 적는다. — Claude Code 공식 문서 → `items/ai-tools-0010.md`
+- 🏛 공식 발표 · 파일을 수십 개 읽는 조사 작업이나 컨텍스트가 차오를 때는 메인 대화에서 직접 시키지 말고 서브에이전트로 보내 요약만 받는다. — Claude Code 공식 문서 → `items/ai-tools-0011.md`
+- 🏛 공식 발표 · CLAUDE.md나 출력 스타일에 적은 지시는 강제되지 않으므로, 매번 반드시 실행돼야 하는 일(포맷터·린트 등)은 훅(hook)으로 건다. — Claude Code 공식 문서 → `items/ai-tools-0012.md`
+- 🏛 공식 발표 · Claude Code 추론 강도는 한 단계에 고정하지 말고 구현·기계적 편집은 낮음, 검증·버그 수정은 높음으로 작업 단계마다 바꾸고, 강도를 올리기 전에 모델이 스스로 검사할 수단(테스트·빌드 스크립트)부터 준다. — 요즘IT, Anthropic Engineering 블로그 → `items/ai-tools-0015.md`
+- 🏛 공식 발표 · Opus 4.8의 빠른 모드(fast mode)는 2026-10-30 지원 중단, 2026-11-30 제거되며 제거 후엔 일반 Opus 4.8로 대체되지 않고 오류만 나므로 그 전에 Opus 5.5로 옮긴다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0019.md`
+- 🏛 공식 발표 · Claude Code가 작업 폴더 밖 파일을 건드리는 사고를 막으려면 settings.json에 permissions.blockWritesOutsideWorkingDirectories를 켜서 모든 권한 모드에서 외부 경로 쓰기를 차단한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0020.md`
+- 🏛 공식 발표 · 프롬프트에 'ultrathink'라는 단어가 들어가면 그 턴이 가장 높은 추론 강도(xhigh)로 실행돼 시간과 비용이 늘어나므로, 붙여넣은 글 등에서 의도치 않게 켜지는 걸 막으려면 CLAUDE_CODE_DISABLE_ULTRATHINK=1로 끈다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0022.md`
+- 🏛 공식 발표 · 서브에이전트가 메인 세션의 높은 추론 강도를 그대로 물려받아 비용이 새는 걸 막으려면 CLAUDE_CODE_SUBAGENT_EFFORT로 서브에이전트 기본 강도를 따로 낮게 지정한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0023.md`
+- 🏛 공식 발표 · 2.1.317 이전 Claude Code에서는 입력창의 글자를 지우려고 Ctrl+C를 누르면 돌고 있던 백그라운드 에이전트가 전부 중단되므로, 구버전에서는 Ctrl+C 대신 다른 방법으로 입력을 지우거나 업데이트한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0025.md`
+- 🏛 공식 발표 · 맥·리눅스에서 Claude Code를 무인으로 돌리는 환경(launchd·cron·클라우드 세션)은 2.1.316 이상으로 올려야 하며, 그 이전 버전은 인증 거부 등으로 스스로 종료될 때 실행 중이던 셸 명령을 남겨 둬 좀비 프로세스가 쌓일 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0026.md`
+
+## 👥 여러 사람이 반복해서 말하는 것
+- 👥 3명이 말함 · Claude Code는 무료 플랜에서는 쓸 수 없으므로 월 정액 Pro 구독으로 시작하고, 내 업무 흐름에 도움이 된다고 확인되면 그때 Max로 올린다. — 짐코딩 (@gymcoding), 요즘IT, 레인 | AI 바이브코딩 (@Vibe_RaiN) → `items/ai-tools-0132.md`
+- 👥 2명이 말함 · Claude로 PPT를 만들 때는 레퍼런스 이미지·컬러 코드·폰트 파일·로고 여백 지시를 함께 주고 2페이지 샘플만 먼저 뽑아 수정한 뒤 전체를 생성하고, 완성된 디자인은 스킬로 저장해 재사용한다. — 요즘IT, 레인 | AI 바이브코딩 (@Vibe_RaiN) → `items/ai-tools-0017.md`
+- 👥 2명이 말함 · IDE 설치·프로젝트 생성·GitHub 연결 같은 개발 환경 설정에서 막히면 검색하지 말고 Claude Code에 그대로 물어보고, 오류 메시지는 복사해서 통째로 던진다. — 요즘IT, 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0035.md`
+- 👥 2명이 말함 · Claude Code에 바로 '만들어 줘'라고 시키지 말고 플랜 모드(Shift+Tab 두 번)에서 탐색→계획을 먼저 받아 충분히 고친 뒤 구현시켜야, 구현 후 수정하느라 토큰이 더 드는 것을 막는다. — 짐코딩 (@gymcoding), 요즘IT → `items/ai-tools-0133.md`
+- 👥 2명이 말함 · 영상 AI 모델을 고를 때는 한 플랫폼에서 한 글자도 고치지 않은 같은 프롬프트·같은 레퍼런스 사진·같은 길이와 화면 비율로 모델마다 한 번씩만 생성하되, 프롬프트의 각 부분이 검사 항목 하나(글자·제품 일관성·립싱크·물리)를 맡도록 짜고 처음 나온 결과끼리 감점표로 채점한다. — 코드깎는노인, 노마드 코더 Nomad Coders → `items/ai-tools-0137.md`
+- 👥 2명이 말함 · 챗GPT 프로·비즈니스 구독자가 월 최대 500달러 상당의 API 크레딧을 받으려면 구독 7일 뒤 오픈AI 설정의 빌링(결제) 화면에서 'API 크레딧 청구하기'를 직접 눌러 신청해야 하며, 안 쓴 크레딧은 결제 주기가 끝나면 사라진다. — 지피터스 GPTers, 조코딩 JoCoding → `items/ai-tools-0159.md`
+- 👥 2명이 말함 · AI에게 코드 수정을 맡기기 전과 한 작업 단위를 마칠 때마다 커밋해 두면, 일이 잘못됐을 때 원하는 시점을 골라 되돌릴 수 있다. — 레인 | AI 바이브코딩 (@Vibe_RaiN), 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0176.md`
+- 👥 2명이 말함 · AI 에이전트가 만든 코드는 테스트 통과나 봇의 승인만 보고 합치지 말고, 코드를 쓰지 않은 별도 에이전트가 사용자처럼 직접 실행해 본 판정을 받아야 한다. — 요즘IT, 짐코딩 (@gymcoding) → `items/ai-tools-0203.md`
+- 👥 2명이 말함 · 클로드 코드에서 위험한 명령 차단과 테스트 실행처럼 반드시 지켜야 할 규칙은 CLAUDE.md에 부탁하지 말고 퍼미션과 훅으로 강제해야 한다. — 짐코딩 (@gymcoding), 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0254.md`
+- 👥 2명이 말함 · AI가 사용자 대신 잘못된 가정을 하고 불필요한 코드까지 고치는 일을 줄이려면, 지시문에 모호하면 선택지를 드러내고 문제를 고치는 줄만 바꾸라는 규칙을 적어 둔다. — 노마드 코더 Nomad Coders, 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0295.md`
+- 👥 2명이 말함 · 새 프로젝트를 시작하면 AI에게 .gitignore부터 만들게 해야 API 키와 시크릿 키가 커밋되어 GitHub에 올라가는 일을 막을 수 있다. — 레인 | AI 바이브코딩 (@Vibe_RaiN), 양실장의 바이브코딩대학 (@VibecodingUniversity) → `items/ai-tools-0299.md`
+- 👥 2명이 말함 · AI로 업무 도구나 자동화를 만들기 전에는 만들 수 있는지보다 먼저 왜 필요한지 따져야 하며, 자주 하는 일인지, 오래 걸리는지, 틀리면 위험한지, 다시 쓸 수 있는지를 기준으로 고르고 줄일 일을 정해야 한다. — 요즘IT, 직장인 AI 업무 자동화 | 라핀 → `items/ai-tools-0326.md`
+- 👥 2명이 말함 · AI에게는 사람이 되돌릴 수 있는 일까지만 맡겨야 한다. 다른 사람에게 보이거나 되돌리기 어려운 일은 초안까지만 맡기고, 사람이 승인한 뒤 실행하거나 게시해야 한다. — 요즘IT, 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong) → `items/ai-tools-0329.md`
+- 👥 2명이 말함 · 반복 작업을 스킬로 저장할 때는 첫 결과를 원본과 대조하고 마음에 들 때까지 고친 뒤 저장해야 한다. 그래야 빠진 조건이나 틀린 절차가 되풀이되지 않고 같은 품질로 반복할 수 있다. — 직장인 AI 업무 자동화 | 라핀, 짐코딩 (@gymcoding) → `items/ai-tools-0354.md`
+- 👥 2명이 말함 · 클로드 코드는 사용자 폴더에서 바로 켜지 말고 작업 폴더를 만들어 들어간 뒤 켜야, 내 파일 전체가 작업 공간이 되는 일을 막을 수 있다. — 코드깎는노인, 테디노트 TeddyNote → `items/ai-tools-0374.md`
+- 👥 2명이 말함 · AI가 만든 웹페이지의 버튼이 안 되면 콘솔의 빨간 에러 문장을 요약하지 말고 통째로 복사해 증상과 함께 주어야, 원인을 더 빨리 찾게 할 수 있다. — 코드깎는노인, 지피터스 GPTers → `items/ai-tools-0375.md`

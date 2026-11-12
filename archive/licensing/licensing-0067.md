@@ -1,0 +1,30 @@
+---
+id: licensing-0067
+domain: licensing
+claim: 정부24 증명서를 우편으로 받으면 5부를 한 통으로 계산해 일반우편 520원, 등기우편 2,920원의 우편료가 붙고, 이 금액은 부가수수료
+  산정 기준에도 합산된다.
+status: merged
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://plus.gov.kr/portal/custcntr/utztngd/elstlmgd
+  author: 행정안전부 (정부24)
+  seen: '2026-11-05'
+  quote: 일반보통우편 520원, 등기보통우편 2,920원이며 5부씩 한 통으로 계산됩니다.
+  source: 정부24
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 정부24
+- 우편료
+- 부가수수료
+- 수수료
+merged_into: licensing-0163
+---
+우편 수령을 선택하면 민원수수료에 우편료가 더해지며, 5부씩 한 통으로 계산됩니다. 부가수수료는 민원수수료와 우편료를 합한 금액으로 정해집니다. 합계가 550원 미만이면 50원, 3,090원 미만이면 90원, 3,090원 이상이면 그 금액의 4%(페이코는 2.6%)입니다. 따라서 등기우편을 고르면 우편료뿐 아니라 부가수수료도 늘어날 수 있습니다.

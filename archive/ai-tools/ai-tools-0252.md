@@ -1,0 +1,28 @@
+---
+id: ai-tools-0252
+domain: ai-tools
+claim: AI에게 바로 '구현해 줘'라고 하지 말고 컨텍스트 수집, 계획, 구현 순서로 시켜야 원하는 결과를 얻기 쉽고 토큰 낭비도 줄일 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=501KRO5QSXM
+  author: 짐코딩
+  seen: '2026-11-06'
+  quote: 바로 구현하면 원하는 결과가 안 나오고 토큰도 많이 소모될 수 있다.
+  source: 짐코딩 (@gymcoding)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 클로드 코드
+- 플랜 모드
+- 컨텍스트
+- 워크플로
+---
+먼저 원문 링크, 로고, 참고 이미지처럼 필요한 자료를 모으거나 수집을 맡긴다. 그다음 플랜 모드에서 요구사항과 참고 자료를 주고 계획을 받아, 피드백을 주거나 계획 파일을 직접 고쳐 확정한다. 구현은 그 뒤에 요청한다. 화자는 이 순서가 개발뿐 아니라 마케팅, 유튜브 콘텐츠, 카드뉴스 제작에도 똑같이 적용된다고 말한다. 어렵지 않은 작업은 바로 구현할 수도 있지만, 경험이 적으면 계획을 먼저 세우라고 권한다.

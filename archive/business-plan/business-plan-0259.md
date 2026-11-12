@@ -1,0 +1,29 @@
+---
+id: business-plan-0259
+domain: business-plan
+claim: 모두의 창업 오디션 심사위원은 투자자만으로 구성되지 않을 수 있으므로, 스케일업 논리뿐 아니라 변리사·교수·기업 대표의 관점에서 나올
+  질문까지 대비해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=mpeCkZccdl4
+  author: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+  seen: '2026-11-07'
+  quote: 그니까 이게 저는 이제 변수인 거 같아요
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 심사위원
+- 질의응답
+- 발표
+---
+화자가 참여한 심사의 위원 5명은 투자자 2명, 변리사 1명, 교수 1명, 기업 대표 1명이었고 직군마다 질문 포인트가 분명히 달랐습니다. 화자는 투자자로만 구성됐다면 스케일업만 봤겠지만 실제 결과에는 여러 시각이 함께 반영됐다고 설명했습니다. 따라서 발표 준비 때 성장성 외의 시각에서 나올 질문도 함께 점검해야 합니다. 구성은 심사마다 달라질 수 있으므로 이 비율을 고정된 기준으로 여겨서는 안 됩니다.

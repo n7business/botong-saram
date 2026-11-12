@@ -1,0 +1,27 @@
+---
+id: factory-ax-0039
+domain: factory-ax
+claim: 날 하나는 절삭날, 하나는 와이퍼날로 대각 배치해 깎고 다듬기를 반복하면 날 자국은 조금 남아도 요구하는 표면 조도 수치는 맞출 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=Z-VhgTsCmHg
+  author: 오군아
+  seen: '2026-11-03'
+  quote: 날이 닿은 자국은 남지만 수치상 조도는 맞출 수 있다는 취지입니다.
+  source: 오군아 (@오군아)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 와이퍼인서트
+- 조도
+- 마감가공
+---
+마감 가공에서 날을 대각으로 배치해 한 날은 절삭날로, 다른 날은 와이퍼날로 쓰면 깎으면서 바로 면을 다듬을 수 있습니다. 이 방식은 공구가 지나간 자국이 눈에 보이게 남을 수 있습니다. 그래도 수치로 재는 조도는 맞출 수 있다는 것이 부스 측 설명입니다. 고객이 외관보다 조도 수치를 요구하는 부품이라면 마감 공정을 줄이는 방법으로 검토할 수 있습니다. 다만 외관 자국까지 문제 삼는 고객이라면 납품 전에 반드시 협의해야 합니다.

@@ -1,0 +1,32 @@
+---
+id: business-plan-0354
+domain: business-plan
+claim: 충남 청양군에서 착한가격업소로 지정된 지 1년이 넘은 업소는 2026-11-16까지 청양군청 경제과 지역경제팀에 방문해 신청하면 소규모
+  인테리어·간판 교체 비용을 업소당 최대 1,000만원까지 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127825
+  author: 충청남도 청양군
+  seen: '2026-11-11'
+  quote: 청양군 착한가격업소 지정 후 1년 이상 경과한 업소
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: '2026-11-16'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 착한가격업소
+- 시설개선
+- 간판교체
+- 청양군
+- 소상공인
+- 마감임박
+verified_by: 공식 출처
+---
+청양군이 2026년 착한가격업소 소규모 시설개선 지원사업 추가 모집을 하고 있습니다. 대상은 청양군 착한가격업소로 지정된 뒤 1년 이상 지난 업소이고, 소규모 인테리어나 간판 교체 같은 비용을 업소당 최대 1,000만원까지 지원합니다. 온라인 접수는 없고 청양군청 경제과 지역경제팀에 직접 찾아가 신청해야 하며, 신청 기간은 2026-11-09부터 11-16까지입니다. 지정된 지 1년이 안 된 업소는 대상이 아니므로 지정일부터 확인하세요. 지원 내용과 제출 서류는 첨부 공고문(hwpx)에서 확인해야 합니다.

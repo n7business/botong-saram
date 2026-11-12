@@ -1,0 +1,19 @@
+{
+  "name": "botong-saram",
+  "description": "요즘 보통사람이라면 이 정도는 알아요 — 업계 인플루언서·실무자·공식 기관이 반복해서 하는 말을 사람별로 모은 소규모 사업자 지식(마케팅·사업화·지표·제조AX·인허가·사업계획서·AI도구·노무·세무·기본법·창업자 마인드). 누가 몇 명이 말했는지·출처 포함, 매일 갱신(빌드 2026-11-12).",
+  "author": {
+    "name": "역삼836 · 보통사람",
+    "url": "https://yeoksam836.com"
+  },
+  "homepage": "https://yeoksam836.com",
+  "repository": "https://github.com/n7business/botong-saram",
+  "license": "CC-BY-4.0",
+  "keywords": [
+    "korea",
+    "small-business",
+    "marketing",
+    "tax",
+    "labor",
+    "knowledge"
+  ]
+}

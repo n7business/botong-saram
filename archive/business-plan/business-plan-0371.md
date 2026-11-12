@@ -1,0 +1,35 @@
+---
+id: business-plan-0371
+domain: business-plan
+claim: 첫 B2B 고객을 찾는 충남 지역 예비·초기창업자는 2026-11-17 10:00까지 온라인으로 신청하면 11월 18일 천안 충남창업마루나비에서
+  열리는 B2B 영업 전략 특강을 무료로 들을 수 있지만, 선착순이라 빨리 신청해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179769
+  author: 한국기술교육대학교 산학협력단
+  seen: '2026-11-12'
+  quote: 신청기간 내 온라인 신청자 대상 선착순 마감
+  source: K-Startup 사업공고(모집중)
+- url: https://www.venturesquare.net/announcement/1127663
+  author: 한국기술교육대학교 산학협력단
+  seen: '2026-11-12'
+  quote: 신청기간 내 온라인 신청자 대상 선착순 마감
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: '2026-11-17'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- B2B영업
+- 충남
+- 무료교육
+- 선착순
+verified_by: 공식 출처
+---
+한국기술교육대학교 앵커사업단이 충남 지역 예비창업자와 초기창업자를 위한 「스타트업을 위한 B2B 영업 전략 특강」을 엽니다. 일시는 2026년 11월 18일 14:00~16:00, 장소는 천안아산역 근처 충남창업마루나비 4층 컨퍼런스룸이고 교육비는 무료입니다. 내용은 타깃 고객사와 의사결정자 찾기(링크드인, 콜드메일), 제안서와 고객 미팅, 실적 없는 초기 기업이 신뢰를 얻는 법, 생성형 AI로 콜드메일·제안서 초안 쓰기입니다. 신청은 2026-11-17 10:00까지 구글폼으로 받고 선착순으로 마감하므로, 마감일보다 일찍 정원이 찰 수 있습니다.

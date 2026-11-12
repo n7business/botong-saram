@@ -1,0 +1,29 @@
+---
+id: growth-0161
+domain: growth
+claim: 리뷰 이벤트를 테이블에 붙여 두고 기다리지 말고 시간 날 때마다 테이블로 가서 직접 부탁하며, 한 명이 아니라 그 테이블 손님 모두가
+  쓰게 해야 리뷰가 빨리 쌓인다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=5kzKHeW1f34
+  author: 슈퍼자영업자 조세이돈
+  seen: '2026-11-06'
+  quote: 저는 시간 날 때마다 테이블로 가서 리뷰 좀 써 달라고 부탁을 드립니다.
+  source: 슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 리뷰
+- 영수증리뷰
+- 음식점
+- 손님응대
+---
+안내물이나 테이블 주문기에 이벤트를 넣어 두는 데서 그치지 않고 직접 테이블로 가서 리뷰를 부탁한다. 화자는 선결제를 요청해 나온 영수증으로 리뷰를 쓰게 한다. 특히 한 테이블에서 한 명만 쓰는 데 그치지 않고 모든 손님이 쓰게 만드는 것을 장사가 잘되는 비결 중 하나로 꼽는다. 이는 오픈 약 두 달 차 이자카야 운영자의 경험담이며 리뷰 수나 매출 증가를 따로 측정한 결과는 제시되지 않았다. 손님이 강요로 느끼지 않도록 분위기를 보며 부탁한다.

@@ -1,0 +1,32 @@
+---
+id: marketing-0029
+domain: marketing
+claim: 제품·서비스의 핵심 정보(성분·사이즈·가격·이용 절차 등)가 상세 이미지 안에만 들어 있으면 AI 검색이 읽지 못하므로, 같은 내용을
+  페이지 본문 텍스트로 적고 가능하면 Schema.org 형식의 JSON-LD 구조화 데이터로도 넣어야 AI 답변에 인용될 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=21050
+  author: 플래티어 (오픈애즈)
+  seen: '2026-11-03'
+  quote: 이미지에만 있거나 흩어진 정보는 AI가 파악하기 어렵습니다.
+  source: 오픈애즈
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- GEO
+- AI검색
+- JSON-LD
+- 구조화데이터
+- 상품정보
+- 홈페이지
+mentions: 1
+---
+쇼핑몰이나 홈페이지의 상품 설명을 이미지 한 장에 몰아 넣는 경우가 많은데, ChatGPT·Gemini 같은 AI는 이미지 속 글자와 흩어진 정보를 제대로 파악하지 못한다. 상품명·가격 외에 사이즈·성분·사용법·주의사항처럼 고객이 비교할 때 보는 항목을 본문 텍스트로 따로 적는다. 가능하면 Schema.org 표준의 Product·Service·FAQ 등 JSON-LD를 페이지 head에 넣어 AI와 검색엔진이 구조적으로 읽게 한다. 후기에 담긴 사용 경험도 텍스트로 남아 있어야 AI가 '어떤 조건에 맞는 상품인지' 판단할 때 쓸 수 있다. 이 주장은 솔루션 업체(플래티어)의 홍보성 글에 근거하므로 효과 수치는 참고만 하고, 텍스트화·JSON-LD 자체는 비용이 거의 들지 않으니 먼저 적용한다.

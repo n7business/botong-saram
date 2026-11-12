@@ -1,0 +1,31 @@
+---
+id: law-basics-0028
+domain: law-basics
+claim: 2026년 10월 2일부터 경찰은 고소·고발 사건을 수리한 날부터 3개월 안에 송치 여부를, 검사는 송치·송부된 날부터 3개월 안에 기소
+  여부를 정해야 하므로, 고소인은 이 기한을 기준으로 사건 진행을 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=pVgfZ9iB768
+  author: 전세준 변호사
+  seen: '2026-11-03'
+  quote: 3개월 안에 무조건 송취되거나 기소된다는 뜻은 아닙니다.
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 형사소송법
+  article: null
+  effective: '2026-10-02'
+contributor: null
+tags:
+- 형사고소
+- 사건처리기한
+- 중수청
+- 공소청
+---
+중수청·공소청 출범으로 수사와 기소가 분리됐고, 개정 형사소송법은 사법경찰관에게 고소·고발 수리일부터 3개월 안에 수사를 마치고 송치 여부를 정하도록 했다. 공소 검사도 사건이 송치·송부된 날부터 3개월 안에 공소제기 여부를 정해야 한다. 다만 3개월 안에 무조건 송치·기소된다는 뜻은 아니며 혐의가 인정되지 않으면 불송치·불기소될 수 있다. 고소인은 고소장 접수일을 기록해 두고 3개월이 가까워지면 담당 수사관에게 진행 상황을 확인하고, 그 전에 증거와 의견서를 보강해 두는 것이 좋다.

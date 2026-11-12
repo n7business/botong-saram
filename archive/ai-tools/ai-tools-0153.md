@@ -1,0 +1,30 @@
+---
+id: ai-tools-0153
+domain: ai-tools
+claim: 선택지가 정해진 반복 판정에는 판정 전용 모델 Jev를 후보로 시험할 만하고, 판정 사유가 필요한 건은 큰 모델이 다시 판정해 설명하는
+  방식을 섞어야 한다.
+status: verified
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://www.gpters.org/dev/post/panjeong-jeonyong-model-jev-geodae-hoesa-dulyi-sohyeong-modeli-naon-dwiedo-f6awppi0Iirr7Ef
+  author: 아그나르(글쓴이 하영)
+  seen: '2026-11-05'
+  quote: 영업 리드 판정처럼 선택지가 정해진 반복 판정에 Jev를 쓸 만하다
+  source: 지피터스 GPTers
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: '2026-12-05'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- Jev
+- 판정모델
+- 비용절감
+- 모델라우팅
+verified_by: 실무자 실측(단일 출처)
+---
+영업 리드 판정 실험의 운영 입력 56건에서 정답률은 Jev 82.1%, Opus 80.4%였고, 1만 건 비용은 목록가 환산으로 Jev 1.35달러, Opus 286.71달러였다. 걸린 시간 중앙값도 Jev 0.20초, Opus 5.4초였으나 Opus 쪽에는 CLI 기동 시간이 포함돼 있다. 이번에 쓴 Jev API는 선택·확률·확신도만 돌려주고 이유를 주지 않아, 담당자가 사유를 읽고 승인하는 흐름에는 그대로 맞지 않는다. 보낼 사람을 놓친 건은 Opus 0건, Jev 4건이라 놓침이 비싼 업무라면 판단이 달라진다. 표본이 작고 Jev는 얼리 액세스 모델이며 가격도 바뀔 수 있는 초기 가격이므로, 내 업무 사례로 다시 재 본 뒤 정한다.

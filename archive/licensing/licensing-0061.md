@@ -1,0 +1,33 @@
+---
+id: licensing-0061
+domain: licensing
+claim: 자영업자도 고용보험에 가입했거나 가입된 것으로 보는 경우에는 실업급여 수급 대상인 피보험자가 되므로, 폐업에 대비하려는 사업주는 자영업자
+  고용보험 가입 여부를 먼저 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=722&ccfNo=1&cciNo=1&cnpClsNo=1
+  author: 법제처 찾기 쉬운 생활법령정보
+  seen: '2026-11-05'
+  quote: 고용보험에 가입된 근로자 및 자영업자
+  source: 법제처 생활법령정보
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: '2027-05-04'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 고용보험법
+  article: 제2조제1호
+  effective: '2026-11-05'
+contributor: null
+tags:
+- 고용보험
+- 자영업자
+- 실업급여
+- 폐업대비
+verified_by: 공식 출처
+---
+실업급여의 수급대상은 고용보험에 가입된 근로자와 자영업자 등 피보험자입니다. 자영업자는 고용보험 및 산업재해보상보험의 보험료징수 등에 관한 법률 제49조의2제1항·제2항에 따라 가입했거나 가입된 것으로 보는 경우 피보험자에 해당합니다. 다만 피보험자라는 것만으로 곧바로 받는 것은 아니고, 구직급여를 받으려면 고용센터장에게 수급 요건을 갖추었다는 사실을 인정받아야 합니다. 가입 조건과 수급 요건은 원문 이 페이지에 나오지 않으므로 고용24나 고용센터에서 따로 확인해야 합니다. 원문은 2026년 10월 15일 기준이며 2026년 11월 27일 시행 고용보험법 개정이 아직 반영되지 않았습니다.

@@ -1,0 +1,29 @@
+---
+id: marketing-0530
+domain: marketing
+claim: 글쓰기·콘텐츠 대행을 영업할 때는 내가 1~2년 동안 매일 써 온 글을 성실함의 증거로 내밀어 '대표님 글도 그렇게 써 드리겠다'고 말하는
+  것이 효과적이었다는 것이 화자의 경험이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@careernomad_/post/DfhHjsqH0B6
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-10'
+  quote: 매일 쓰는 글이 내 포트폴리오다.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 영업
+- 프리랜서
+- 포트폴리오
+- 꾸준함
+---
+화자는 월 1,000만 원을 벌던 프리랜서 시절에 이 멘트를 영업에 썼다고 밝혔다. 매일 공개적으로 올린 글이 따로 만든 포트폴리오보다 꾸준함과 책임감을 더 잘 보여 준다는 논리다. 대행·외주 서비스를 파는 1인 사업자라면 자기 채널에 꾸준히 쌓은 글을 영업 자료로 쓸 수 있다. 다만 이 효과는 화자 한 사람의 경험이다.

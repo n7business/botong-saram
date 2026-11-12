@@ -1,0 +1,30 @@
+---
+id: growth-0289
+domain: growth
+claim: 먹자상권에 식사 위주 식당을 낸다면 세트 메뉴와 술안주를 갖추고 술 손님이 들르기 좋은 인테리어로 꾸며, 1차 식사뿐 아니라 2·3차와
+  새벽 해장 손님까지 받는 구조를 검토해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=Xr-rlV9bw0c
+  author: 다점포왕TV (@dajumpo)
+  seen: '2026-11-12'
+  quote: 점심 저녁 매출이 1 대 1로 나올 걸 예상하고 입점을 하게 됐고
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메뉴구성
+- 인테리어
+- 야간영업
+- 24시간
+- 먹자상권
+---
+먹자상권에서는 다른 가게에서 1차를 마친 손님이 2·3차로 오거나 새벽에 마지막으로 해장하러 오는 수요가 있습니다. 다점포왕TV에 소개된 순댓국집은 덮밥·세트 메뉴와 술안주를 함께 갖춰 이 수요를 노렸습니다. 퇴근한 직장인이 가볍게 한잔하기 좋게 주막 같은 인테리어와 폴딩도어도 갖췄습니다. 상권이 받쳐 주면 24시간 운영까지 더해 매출을 늘릴 계획이라고 합니다. 다만 야간·24시간 영업은 인건비가 함께 늘어나므로, 심야 매출이 그 비용을 넘는지 확인하면서 단계적으로 늘려야 합니다.

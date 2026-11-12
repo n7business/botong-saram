@@ -1,0 +1,29 @@
+---
+id: business-plan-0129
+domain: business-plan
+claim: 사업계획서에 '고객이 이 문제를 아주 불편해합니다'처럼 대표 혼자의 판단만 쓰면 탈락하므로, 고객 문제는 '매월 00시간, 00원 손실
+  발생'처럼 시간과 돈으로 잰 객관적인 숫자로 증명해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.instagram.com/p/DeqzW3LlPOt/
+  author: 퀀텀비 (@qtum.be)
+  seen: '2026-11-03'
+  quote: '''불편하다''가 아니라 ''매월 00시간, 00원 손실 발생'' 같은 객관적 숫자로 증명하세요.'
+  source: 퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사업계획서
+- 문제정의
+- 정부지원사업
+- PSST
+---
+정부지원사업 심사위원은 대표의 주관적인 설명보다 데이터를 믿습니다. 문제 정의 항목에 '불편하다', '어려움을 겪는다' 같은 표현만 있으면 근거 없는 주장으로 읽힙니다. 고객이 그 문제 때문에 한 달에 몇 시간을 쓰는지, 얼마를 잃는지를 숫자로 적으십시오. 이 숫자는 직접 한 고객 인터뷰나 조사에서 나온 것이어야 하며, 미래나 가정을 묻는 질문에서 나온 응답률은 증거로 인정받기 어렵습니다.

@@ -1,0 +1,30 @@
+---
+id: ai-tools-0177
+domain: ai-tools
+claim: 카카오톡 MCP(플레이 MCP)는 모든 채팅방을 제어하지 못하고 '나에게 보내기'만 지원하므로, 고객이나 단체방 발송이 아니라 내게 오는
+  알림 용도로 설계해야 한다.
+status: verified
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=CcRM0IHYriM
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-06'
+  quote: '''나에게 보내기''만 지원한다'
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: '2026-12-06'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- MCP
+- 카카오톡
+- 플레이MCP
+- 자동화
+verified_by: 실무자 실측(단일 출처)
+---
+플레이 MCP는 Claude 데스크톱 앱의 + 버튼 아래 커넥터 메뉴에서 'K' 아이콘으로 찾을 수 있습니다. 시연에서 '오늘 날씨를 공유해 줘'라고 요청하자 '나에게 보내기'로 서울 기온과 챙길 것이 카카오톡에 도착했습니다. 다만 다른 채팅방은 제어하지 못합니다. 영상 기준의 지원 범위이므로 연결할 때 현재 범위를 다시 확인합니다.

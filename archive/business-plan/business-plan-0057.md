@@ -1,0 +1,29 @@
+---
+id: business-plan-0057
+domain: business-plan
+claim: 앱 MVP 개발 공수를 줄이려면 가입은 네이버·애플·구글 소셜 로그인 대신 휴대폰 번호 하나로만 받고, 채팅은 텍스트만 지원하며 사진
+  전송은 빼고, 관리자 대시보드는 Ant Design 같은 무료 템플릿에 꼭 필요한 지표만 매핑하되 신고 기능은 반드시 넣어야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=6fxaeHBcAS4
+  author: 민썸 MinSsum
+  seen: '2026-11-03'
+  quote: 신고하게 기능은 요즘은 필수적으로 들어가야 됩니다.
+  source: 민썸 MinSsum, 스타트업 크리에이터 (@MinSsum)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- MVP
+- 기능범위
+- 앱개발
+- 어드민
+---
+SNS 가입은 플랫폼별 연동 공수가 늘고 관리가 번거롭지만, 휴대폰 번호 인증만 쓰면 개발이 단순해지고 사용자 신뢰성도 올라간다. MVP 채팅에 사진 전송을 넣으면 저장·검수 공수가 늘어나므로 텍스트만 지원한다. 신고 기능은 앱 심사와 운영상 요즘 필수이므로 MVP에서도 빼지 않는다. 관리자 대시보드는 사용자 수·매칭 건수·이번 달 매출처럼 마케팅 판단에 필요한 핵심 지표만 넣고, 항목마다 데이터 매핑 비용이 들기 때문에 욕심내서 늘리지 않는다. 대시보드 UI는 Ant Design 등 무료 템플릿을 가져다 데이터만 연결하면 된다.

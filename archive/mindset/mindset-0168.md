@@ -1,0 +1,27 @@
+---
+id: mindset-0168
+domain: mindset
+claim: 돈을 버는 방법도 내가 살고 싶은 삶의 가치에 맞는 것으로 골라야 하며, 화자는 돈은 되지만 가치에 맞지 않는 제안을 거절했다고 밝혔다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=vgoHS0RUkXg
+  author: 혜님 (@hyenimtv)
+  seen: '2026-11-11'
+  quote: 돈보다 내가 원하는 삶이 더 가치 있다.
+  source: 혜님 인스타그램마케팅 (@hyenimtv)
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 가치관
+- 돈
+- 사업판단
+---
+화자는 돈만 쫓던 시기에 통장 잔고는 가장 많았지만 공황장애와 우울증이 왔고, 믿던 사람에게 배신까지 당했다고 말한다. 생존을 해결할 만큼의 돈은 반드시 필요하다고 단서를 달면서도, 돈을 버는데 무기력하고 허망하다면 내 삶에서 가장 중요한 가치가 무엇이고 그 방향으로 가고 있는지 다시 물어보라고 권한다. 화자는 존경하는 대표의 회사를 빼앗아 더 키우자는 제안을 받았지만, 자신의 좌우명('배워서 남 주자')과 맞지 않아 거절했다. 같은 가치를 가진 사람들과 공동체를 이루라는 것도 화자의 권고다. 순수익이 월 1,000만 원을 넘으면 누리는 행복이 월 1억 원 이상 버는 사람과 거의 같다는 말은 근거 없이 나온 화자 개인의 주장이다.

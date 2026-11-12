@@ -1,0 +1,30 @@
+---
+id: factory-ax-0112
+domain: factory-ax
+claim: 공구가 많고 척 인치 수가 큰 CNC 선반을 셋업할 때는 핸들로 천천히 갖다 대며 터렛과 공구의 간섭부터 확인해야 하며, 이 확인을 건너뛰면
+  큰 충돌이 나서 공구가 날아갈 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=ZUO8hRzOzuM
+  author: 기계맨 CNC MCT (@GIGYEMAN) 인터뷰 출연자(DM테크놀로지 CNC 선반 셋업 담당)
+  seen: '2026-11-09'
+  quote: 셋업하는 사람이 핸들로 천천히 갖다 대며 간섭 여부를 확인해야 하는데
+  source: 기계맨 CNC MCT (@GIGYEMAN)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- CNC선반
+- 셋업
+- 간섭확인
+- 충돌
+- 안전
+---
+공구가 많이 들어가고 척 인치 수가 큰 선반은 셋업이 조금만 틀려도 터렛과 공구가 부딪힐 수 있습니다. 그래서 셋업하는 사람이 자동으로 돌리기 전에 핸들로 천천히 갖다 대며 간섭이 없는지 확인해야 합니다. 이 영상의 출연자는 2년 차쯤 GT 설비에서 이 확인을 소홀히 했다가 큰 충돌이 났고, 공구가 날아가는 위험한 일을 겪었습니다. 새 공구 배치나 새 제품으로 셋업할 때는 이 확인을 작업 순서에 넣어 두는 것이 좋습니다. 한 사람의 경험담이므로 설비 제조사의 안전 지침도 함께 확인하세요.

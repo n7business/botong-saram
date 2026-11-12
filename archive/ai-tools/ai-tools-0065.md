@@ -1,0 +1,29 @@
+---
+id: ai-tools-0065
+domain: ai-tools
+claim: 에이전트를 만들기 전 기획서에 의도·입력·출력·제약 네 가지를 적고, Claude 앱에 'AskUserQuestion으로 나를 인터뷰해
+  다 정해질 때까지 물어봐'라고 시킨 뒤 그 결과를 Claude Code 계획 모드에 넣어 설계한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=yh05xGAUyRc
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-03'
+  quote: 기획서에는 의도, 입력, 출력, 제약 사항 네 가지를 꼭 넣는다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 기획서
+- 에이전트 설계
+- 계획 모드
+- AskUserQuestion
+---
+기획서에는 의도(누가 언제 왜), 입력(엑셀·이미지·영상 등 형식), 출력(완성 파일·기준·방법), 제약(해야 할 것·하지 말아야 할 것) 네 가지를 반드시 넣는다. 넷으로 나누면 빠진 항목이 바로 보이고, 이후 지침·MCP·스킬·검증·서브에이전트가 이 기획에 맞춰 정렬된다. 처음에는 기획은 Claude 앱 채팅으로, 구현은 Claude Code로 나누는 편이 생각을 넓히기 좋다. 네 가지 답을 붙여 넣고 '의도·입력·출력·제약을 CLAUDE.md에 짧게 써 줘, 코드는 아직 만들지 마, AskUserQuestion 도구로 나를 인터뷰하고 뻔한 질문은 빼고 다 정해질 때까지 물어봐'라고 하면 내가 놓친 질문을 10개 이상 받게 된다. 이렇게 만든 MD를 Claude Code에 주고 '이 기능을 구현할 에이전트를 설계해 줘'라고 하되 자동 모드가 아닌 계획 모드를 쓴다. 기획 없이 두 줄짜리 요청을 자동 모드로 돌리면 불필요한 패키지 설치, 실패, 무관한 파일 읽기 같은 정돈되지 않은 작업이 나온다.

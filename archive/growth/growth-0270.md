@@ -1,0 +1,26 @@
+---
+id: growth-0270
+domain: growth
+claim: 유입을 늘리려고 핵심과 관계없는 기능을 붙여 온 서비스는 그 기능이 제품 정체성을 흐리고 있지 않은지 점검하고 빼는 것을 검토해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://moneypin.biz/blog/moneypin-restart
+  author: 김홍락(머니핀)
+  seen: '2026-11-11'
+  quote: 유입용 기능이 정체성을 흐렸습니다
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 제품전략
+- 기능정리
+- 포지셔닝
+---
+한 회계 서비스는 8년 운영을 복기하면서 실패 원인 중 하나로 '유입용 기능이 정체성을 흐렸다'는 점을 꼽았습니다. 이후 재시동 방향을 '기능은 빼고 AI는 에이전트로 키운다'로 잡았습니다. 운영을 멈추고 상담만 AI로 자동화해 두었는데도 사용자가 조금씩 늘었고, 대표는 이 자연 유입 신호를 근거로 핵심 제품에 집중하기로 했습니다. 유입용 기능을 정리할 때는 그 기능만 쓰는 사용자가 얼마나 되는지, 핵심 기능으로 넘어오는 비율이 어떤지 숫자로 먼저 확인하는 것이 안전합니다.

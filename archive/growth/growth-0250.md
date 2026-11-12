@@ -1,0 +1,29 @@
+---
+id: growth-0250
+domain: growth
+claim: 두 사람이 함께 써야 가치가 생기는 서비스는 한 사람이 먼저 시작해 둘 수 있게 하더라도, 상대를 초대해 함께 들어오는 단계에서 이탈이
+  크게 날 수 있으므로 이 단계를 따로 확인해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://disquiet.io/products/b3d51601-3887-47d4-8a0d-20ef4088bd34
+  author: Jay · 비보리랩
+  seen: '2026-11-10'
+  quote: 상대를 초대해서 같은 공간에 들어오는 단계가 생각보다 멀어요.
+  source: 디스콰이엇
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 온보딩
+- 초대
+- 전환율
+- 앱
+---
+커플 앱처럼 두 사람이 같이 써야 하는 서비스는 둘이 동시에 가입해야 시작되는 경우가 많습니다. 한 1인 개발자는 혼자 먼저 공간을 만들고 사진을 담아 둔 뒤 6자리 코드로 상대를 초대하도록 바꿨습니다. 그래도 한 사람이 설치하는 데까지는 오지만 상대를 초대해 같은 공간에 들어오는 단계가 생각보다 멀다고 전합니다. 이런 서비스는 설치 수만 보지 말고 초대 완료까지 간 비율을 따로 보고, 사용자가 상대에게 '같이 쓰자'고 말하게 된 계기를 직접 물어볼 만합니다. 한 사람의 경험담이며 초대율 수치는 공개되지 않았습니다.

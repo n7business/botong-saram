@@ -1,0 +1,33 @@
+---
+id: hr-labor-0049
+domain: hr-labor
+claim: 근로감독에서 가장 자주 적발되는 위반은 노동절(5월 1일) 근무자에게 휴일수당을 주지 않은 것과 파트타이머·일용직에게 주휴수당·연차수당을
+  주지 않은 것이므로 이 두 항목을 먼저 점검해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=PdSJVtJVWOE
+  author: 달리는 노무사 (@runnomu)
+  seen: '2026-11-03'
+  quote: 노동절에 근무를 시키고 휴일수당을 주지 않은 경우, 그리고 파트타이머나 일용직에게 주휴수당·연차수당을 주지 않은 경우입니다.
+  source: 달리는 노무사 (@runnomu)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제55조, 제56조, 제60조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 근로감독
+- 노동절
+- 휴일수당
+- 주휴수당
+- 파트타이머
+---
+노동절은 근로자의 날 제정에 관한 법률에 따른 유급휴일이라 그날 근무시키면 휴일근로수당(5인 이상 사업장은 통상임금의 50% 가산)을 지급해야 합니다. 파트타이머·일용직도 4주 평균 주 15시간 이상 일하면 주휴수당이, 1년 미만이라도 월 개근 시 월 1일의 연차가 발생하므로 '단시간이라 해당 없다'고 빼놓으면 적발됩니다. 최근 3년 치 노동절 근무자 명단과 파트타이머 근로시간 기록을 꺼내 수당 지급 여부를 확인하세요. 미지급분은 감독 전에 소급 지급하고 지급 내역을 남겨 두어야 합니다.

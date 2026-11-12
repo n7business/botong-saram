@@ -1,0 +1,29 @@
+---
+id: marketing-0053
+domain: marketing
+claim: 수노(Suno) 같은 AI 작곡 도구로 만든 음악을 매장·광고·채널 수익화에 쓰려면 무료 플랜이 아니라 유료 플랜으로 만든 곡을 써야
+  상업적 이용 권리를 가져올 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=irHIonFwYJA
+  author: 마브사끼 (돈버는 기술)
+  seen: '2026-11-03'
+  quote: 플랫폼에 돈을 내야 저작권을 내 것으로 가져올 수 있다는 논리다.
+  source: 돈버는 기술, 마브사끼
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI작곡
+- Suno
+- 저작권
+- 상업적이용
+---
+AI 작곡 도구는 무료 플랜으로도 곡이 나오지만, 연습·시험용으로만 쓰고 수익이 걸린 용도(유튜브 플레이리스트 수익화, 음원 유통, 매장·광고 배경음악)에는 유료 플랜에서 만든 곡을 쓴다. 화자는 과거 샘플 루프 시절에도 돈을 내고 산 샘플만 저작권이 인정됐듯, 플랫폼에 비용을 내야 결과물 권리를 내 것으로 가져올 수 있다고 설명한다. 도구의 다운로드 제한·저작권 정책이 계속 바뀌는 중이므로 결제 전 현재 이용약관의 상업적 이용 조항을 확인한다. 처음부터 결제할 필요는 없고, 무료로 몇 곡 만들어 보고 수익화를 결정한 뒤 결제한다.

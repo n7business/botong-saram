@@ -1,0 +1,33 @@
+---
+id: licensing-0234
+domain: licensing
+claim: 미성년자는 원칙적으로 소송능력이 없지만 자기 노무에 대한 임금은 법정대리인 없이 혼자 소송으로 청구할 수 있으므로, 미성년 아르바이트생을
+  고용한 사업주는 부모 동의가 없으면 임금 소송을 당하지 않는다고 보면 안 된다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=568&ccfNo=1&cciNo=1&cnpClsNo=1
+  author: 법제처 찾기 쉬운 생활법령정보
+  seen: '2026-11-12'
+  quote: 미성년자 자신의 노무제공에 따른 임금의 청구는 「근로기준법」에 따라 미성년자라도 독자적으로 가능합니다
+  source: 법제처 생활법령정보
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: '2027-05-11'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제68조
+  effective: '2026-11-12'
+contributor: null
+tags:
+- 미성년자
+- 임금체불
+- 소송능력
+- 아르바이트
+verified_by: 공식 출처
+---
+대법원은 미성년자가 자기 노무를 제공한 대가인 임금은 근로기준법에 따라 독자적으로 청구할 수 있다고 보았습니다(대법원 1981. 8. 25. 선고 80다3149 판결). 따라서 임금을 체불하면 미성년 근로자가 직접 사업주를 상대로 임금청구소송을 낼 수 있습니다. 미성년자를 고용한 사업주는 일반 근로자와 똑같이 임금을 제때 전액 지급하고 지급 기록을 남겨야 합니다.

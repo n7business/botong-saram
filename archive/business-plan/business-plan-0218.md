@@ -1,0 +1,29 @@
+---
+id: business-plan-0218
+domain: business-plan
+claim: 매출이 적거나 없는 사업자도 업력과 매출 상한 요건만 맞으면 매출 때문에 디딤돌 도약형을 포기하지 말아야 하며, 매출을 중시하는 초기창업패키지와
+  구분해 지원 사업을 골라야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=DBjh__dgCl8
+  author: 창업주일
+  seen: '2026-11-06'
+  quote: 매출이 적다고 쫄 필요가 전혀 없다 말씀드리고 싶습니다.
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 디딤돌
+- 신청자격
+- 매출
+- 초기창업패키지
+---
+화자는 디딤돌 도약형의 신청 자격을 업력 7년 이내, 연 매출 20억 원 미만으로 설명하며, 매출이 정확히 20억 원이면 신청할 수 없다고 말합니다. 재무제표는 20억 원 초과 여부를 확인하는 용도일 뿐 매출로 점수를 매기지 않으며, 개인사업자인지 법인인지도 상관없다고 합니다. 매출이 0원이거나 1천만~2천만 원인 기업 다섯 곳이 선정됐다는 사례도 제시합니다. 반면 초기창업패키지는 매출을 최우선 기준으로 본다는 것이 화자의 주장입니다. 평가 기준은 화자의 경험에 근거한 설명이므로 신청 전에 해당 회차 공고로 자격과 평가 항목을 확인해야 합니다.

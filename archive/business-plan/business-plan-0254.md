@@ -1,0 +1,30 @@
+---
+id: business-plan-0254
+domain: business-plan
+claim: 용인시산업진흥원 창업지원센터 입주 신청자는 12월 초로 예정된 발표평가 일시를 조정할 수 없고 불참하면 자동 탈락하므로, 일정을 비워
+  두고 배점이 큰 기업 역량과 입주 후 사업계획에 맞춰 발표를 준비해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1126391
+  author: 용인시산업진흥원
+  seen: '2026-11-07'
+  quote: 평가일시는 조정이 불가하며 발표평가 불참 시 자동 탈락
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 용인시산업진흥원
+- 창업지원센터
+- 발표평가
+- 평가지표
+- 입주
+---
+발표평가는 발표 10분, 질의응답 10분으로 진행되며 대표자 발표가 원칙이다. 부득이하게 대체 발표자를 세우려면 진흥원에 반드시 사전 연락해야 하고, 참석은 발표자 포함 최대 2인까지다. 5인 이상 외부 전문가 점수에서 최고·최저점을 뺀 평균이 70점 이상이어야 하며, 고득점 순으로 협상을 통해 호실을 배정한다. 평가지표는 지원 필요성 20점, 기업 역량 및 기술(제품) 우수성 40점, 입주 후 사업계획 및 성장 가능성 40점이다. 마지막 항목에는 매출·수출·고용 성장계획과 투자유치 가능성, 용인시 관내 성장계획이 포함되므로 발표자료에 함께 담아야 한다.

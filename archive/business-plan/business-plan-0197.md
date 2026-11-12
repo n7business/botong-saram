@@ -1,0 +1,28 @@
+---
+id: business-plan-0197
+domain: business-plan
+claim: 인터뷰 뒤에는 타겟을 회사 규모 같은 겉모습이 아니라 '무엇을 찾는 사람인가'로 다시 정의해야 하며, 규모가 달라도 찾는 것이 같으면
+  같은 고객으로 묶어야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=LBQkgzimELM
+  author: 정석Biz
+  seen: '2026-11-06'
+  quote: 회사 규모가 달라도 찾는게 같으면은 같은 고객인 거죠.
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 타겟
+- 고객정의
+- 고객인터뷰
+---
+먼저 가장 쉽게 만날 수 있고 이야기를 들어 줄 고객부터 인터뷰한다. 만난 사람들의 직책·예산·목적이 달라도 실제 행동의 공통점을 찾는다. 사례의 A사는 대기업·중소기업·개인사업자·에이전시 분류를 버렸다. 대신 진짜 팔로워 5천~1만 명의 마이크로 인플루언서를 찾는 광고주로 타겟을 다시 잡았다. 타겟은 '무엇을 찾는 사람인지' 한 줄로 쓴다.

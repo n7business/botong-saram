@@ -1,0 +1,36 @@
+---
+id: business-plan-0292
+domain: business-plan
+claim: 스마트 제조 지원사업을 알아볼 때 제조업체는 스마트공장 구축사업을, 제조 솔루션을 만드는 소프트웨어 기업은 별도의 공급기업 지원사업을
+  검토해야 하며, 설비 도입이 부담스러운 제조업체는 2027년 제조AI특화 사업의 데이터 수집·검증 유형(정부지원 한도 최대 5,000만 원)도
+  함께 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.instagram.com/qtum.be/p/DfY-HtzlH7W/
+  author: 퀀텀비 (@qtum.be)
+  seen: '2026-11-07'
+  quote: 2027년 제조AI특화 사업에는 데이터 수집•검증 유형도 마련되어 있습니다
+  source: 퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)
+- url: https://www.instagram.com/p/DfY-HtzlH7W/
+  author: 퀀텀비 (@qtum.be)
+  seen: '2026-11-09'
+  quote: 해당 유형 정부지원 한도 최대 5,000만 원
+  source: 퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 제조AI
+- 정부지원사업
+- 공급기업
+- '2027'
+---
+같은 스마트 제조 분야라도 회사의 위치에 따라 살펴볼 사업이 다릅니다. 제조업체는 스마트공장 구축사업을, 제조 솔루션을 공급하는 소프트웨어 기업은 공급기업 지원사업을 먼저 봅니다. 원문은 2027년 스마트 제조혁신 지원사업 통합공고를 기준으로 제조AI특화 사업에 데이터 수집·검증 유형이 있고 정부지원 한도가 최대 5,000만 원이라고 안내합니다. 지원 여부와 기업 부담금은 사업별 심사로 결정되므로, 실제 신청 요건과 지원 규모는 개별 공고에서 확인해야 합니다.

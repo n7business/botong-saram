@@ -1,0 +1,48 @@
+---
+id: hr-labor-0029
+domain: hr-labor
+claim: 3.3% 사업소득으로 원천징수하며 쓰는 사람이라도 실제로 출퇴근·업무 지시를 받고 일했다면 근로자로 인정되어 임금·퇴직금 체불 책임이
+  생기므로, 프리랜서 계약은 지휘·감독 없이 운영해야 한다.
+status: verified
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.threads.com/@angela_cpla/post/DfOnjUqk1ps
+  author: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+  seen: '2026-11-03'
+  quote: 3.3% 떼고 일했어도 실제로 지시받고 일했다면 근로자로 인정될 수 있어요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.threads.com/@full_nomusa/post/DebOuxsDJ4k
+  author: 윤보름노무사
+  seen: '2026-11-03'
+  quote: 계약서의 명칭보다 실제로 어떻게 일했는지가 더 중요합니다.
+  source: 윤보름노무사 (Threads)
+- url: https://www.threads.com/@angela_cpla/post/DfOni5skzXX
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-05'
+  quote: 실제로 지시받고 일했다면 근로자로 인정될 수 있어요.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.youtube.com/watch?v=taJ9rF9UkPM
+  author: 달리는 노무사 (@runnomu)
+  seen: '2026-11-06'
+  quote: 이게 없다고 근로자성을 쉽게 부정할 수 없어
+  source: 달리는 노무사 (@runnomu)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-06'
+review_by: '2027-05-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제2조 제1항 제1호
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 프리랜서
+- 3.3%
+- 근로자성
+- 위장도급
+verified_by: 독립 2곳 weight 1.6
+---
+근로기준법 제2조의 근로자 판단은 계약서 명칭이나 3.3% 원천징수 여부가 아니라 실제 종속성으로 합니다. 출퇴근 시간을 정해 주고, 업무 방법을 지시하고, 회사 장비와 장소에서 일하게 했다면 프리랜서 계약서가 있어도 근로자로 인정될 가능성이 큽니다. 근로자로 인정되면 밀린 임금은 물론 주휴수당·연장수당·퇴직금·4대보험 소급분까지 한꺼번에 청구될 수 있습니다. 진짜 프리랜서로 쓰려면 근무시간·장소를 자율에 맡기고 결과물 단위로 계약하세요. 사실상 직원처럼 쓰고 있다면 지금 근로계약으로 전환하는 편이 비용이 적습니다.

@@ -1,0 +1,29 @@
+---
+id: business-plan-0190
+domain: business-plan
+claim: 2027년 해외 저작권 바우처 수행기관(2026-11-30 23:59 마감)에 신청하려는 법인은 법인과 대표자 각각의 국세·지방세 체납
+  여부를 확인해야 하며, 같은 사업의 참여기업으로 지원을 받고 있으면 제외된다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1125969
+  author: 한국저작권보호원(벤처스퀘어 게재)
+  seen: '2026-11-06'
+  quote: 국세·지방세를 체납 중인 법인(법인 및 대표자 각각 확인 필요)
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 저작권
+- 수행기관
+- 체납
+- 마감2026-11-30
+---
+신청 대상은 서비스 메뉴판에 등록된 서비스를 제공할 수 있는 법인 또는 대학교·연구소·공공기관 등의 기관입니다. 휴·폐업, 부도, 화의, 법정관리 중인 법인과 정부·공공기관의 사업참여 제한 중인 법인도 제외됩니다. 실적 확인이 불분명하거나 관련 분야 취급을 확인할 수 없어도 제외되므로 실적 증빙을 먼저 챙겨야 합니다. 제출서류에는 사업수행 제안서, 사업자등록증명원, 사업실적증명서, 최근 3개년 표준재무제표증명원 등이 포함됩니다.

@@ -1,0 +1,33 @@
+---
+id: metrics-0019
+domain: metrics
+claim: 창업 자금을 계산할 때 권리금·인테리어·장비 견적에 '부가세 별도'로 붙는 10%와 월세에 붙는 부가세 10%를 모두 별도 자금으로 잡지
+  않으면 실제 지출이 계획보다 10% 넘게 초과된다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=Y8r8uRIsfw4
+  author: 사군카페인 (@sa_caffeine)
+  seen: '2026-11-03'
+  quote: 큰 금액은 모두 10% 부가세를 따로 준비해야 하고
+  source: 사군카페인 (@sa_caffeine)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 부가가치세법
+  article: 제30조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 부가세
+- 창업자금
+- 자금계획
+- 견적
+- 월세
+---
+견적서에 '부가세 별도'라고 적혀 있으면 2천만 원짜리 장비는 실제 2,200만 원, 인테리어 공사도 같은 방식으로 10%가 더 나간다. 월세 300만 원 매물은 실제로 330만 원을 낸다. 쓸 수 있는 돈을 계산할 때 권리금·인테리어·장비 같은 큰 항목마다 10%를 따로 더해 자금표를 만든다. 매입 부가세는 일반과세자라면 신고 때 공제받지만, 공제받기까지 수개월간 현금이 먼저 나가므로 초기 자금에는 반드시 포함한다.

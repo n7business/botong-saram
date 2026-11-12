@@ -1,0 +1,31 @@
+---
+id: business-plan-0230
+domain: business-plan
+claim: 구로 NEST G밸리 4기 입주(2026-11-20 14:00 마감)를 노리는 창업 4년 이내 혁신 스타트업이나 예비창업자는 신보의 NEST
+  Space·창업드림센터 입주 이력이나 현재 받는 공공 창업공간 지원이 있으면 제외될 수 있으므로 이 이력부터 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.92
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179733
+  author: 신용보증기금
+  seen: '2026-11-07'
+  quote: 공고일 이전, 신용보증기금에서 운영한 NEST Space, 창업드림센터 등에 입주한 사실이 있는 기업
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: '2026-11-20'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 입주공간
+- NEST G밸리
+- 신용보증기금
+- 서울 구로
+- 제외대상
+verified_by: 공식 출처
+---
+신용보증기금 On-Biz 홈페이지의 창업지원 > 스타트업공모 > 공모신청에서 2026-11-20 14:00까지 온라인으로 신청합니다. 공고일 이전에 신보가 운영한 NEST Space나 창업드림센터 등에 입주한 기업은 제외됩니다. 공고일 기준으로 정부·지자체·공공기관의 창업공간 지원을 받고 있는 기업도 제외되지만, 입주일로부터 30일 이내에 퇴거할 예정이면 지원할 수 있습니다. 공고 항목의 창업업력은 '3년미만'까지로 표시되어 있어 신청대상의 '창업 4년 이내'와 다르므로, 업력이 3년을 넘었다면 모집공고문 별표 1이나 담당 부서에서 확인해야 합니다. 혁신 스타트업 기준과 보증금지·보증제한 대상은 모집공고문 별표 1·2에 있습니다.

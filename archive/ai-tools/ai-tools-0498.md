@@ -1,0 +1,30 @@
+---
+id: ai-tools-0498
+domain: ai-tools
+claim: 모델 촬영 없이 AI로 제품·의류 홍보 영상을 만들려면 동작이 잘 나온 레퍼런스 영상을 고르고, 바꿔 넣을 인물은 정면·옆모습·뒷모습
+  사진 3장을 함께 올려야 하는데, 결과 품질이 레퍼런스와 인물 이미지에 따라 갈리기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=IOSoD2WwTgI
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-12'
+  quote: 판매하는 제품이나 의류가 있다면 레퍼런스 영상만 잘 준비해 두면 된다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 힉스필드
+- Genjutsu
+- AI인플루언서
+- 제품영상
+- 모델촬영대체
+---
+힉스필드 Genjutsu는 레퍼런스 영상의 동작을 그대로 쓰고 인물만 모델 사진이나 AI 인플루언서로 바꿔 준다. 화자는 가상 인물의 정면·옆모습·뒷모습 사진 3장을 플러스 버튼으로 올린 뒤 이 이미지를 바탕으로 얼굴만 바꿔 달라고 요청했고, 헤어스타일과 옷 스타일까지 잘 바뀌었다. 다만 인종처럼 일부 특징은 조금 다르게 나왔다. 품질은 레퍼런스 영상을 얼마나 잘 찾는지와 넣을 인물 이미지를 얼마나 잘 만드는지에 달려 있으며, 전체 작업은 5분 정도 걸렸다.

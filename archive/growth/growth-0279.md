@@ -1,0 +1,29 @@
+---
+id: growth-0279
+domain: growth
+claim: 회의 항목 정리가 손이 많이 가서 건너뛰게 된다면, 회의를 녹음해 글로 옮긴 뒤 AI에게 항목 추출·세 가지 분류·발언자 표시를 맡기고
+  사람은 맞는 것만 승인하는 방식으로 바꿔 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/48993
+  author: 방동걸(웨이스)
+  seen: '2026-11-12'
+  quote: 처음부터 작성하던 일이 고르는 일로 바뀝니다.
+  source: EO 플래닛
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 회의록
+- 업무자동화
+- 외주
+---
+항목을 쪼개고 분류하고 말한 사람을 붙이는 일은 손이 많이 가서, 바쁜 프로젝트일수록 이 단계를 건너뛰고 회의록 한 장으로 끝내기 쉽다. 회의 녹음을 글로 옮기고 AI가 항목을 뽑아 분류하게 하면, 사람은 처음부터 쓰는 대신 맞는 항목은 승인하고 틀린 항목은 버리기만 하면 된다. 고객에게 나가는 목록은 사람이 확인한 뒤 보낸다. 한 제조 시스템 구축 업체가 고객 프로젝트 회의를 이렇게 운영한다고 전한다.

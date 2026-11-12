@@ -1,0 +1,30 @@
+---
+id: factory-ax-0137
+domain: factory-ax
+claim: 자체 조립했거나 정비한 드론은 미션 플래너 같은 지상 관제 프로그램에서 모터를 하나씩 돌려 회전 순서와 방향을 확인해야 하며, 이 시험은
+  반드시 프로펠러를 떼고 해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.hellot.net/news/article.html?no=116164
+  author: 헬로티 최재규 기자
+  seen: '2026-11-11'
+  quote: 안전을 위해 프로펠러를 장착하지 않은 상태에서 진행한 시험이다.
+  source: 헬로티
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 드론
+- 모터
+- 안전
+- FC
+- 미션플래너
+---
+쿼드 X 구조에서는 시계 방향(CW) 모터와 반시계 방향(CCW) 모터를 대각선으로 배치합니다. 이 배치는 비행제어기(FC) 소프트웨어의 모터 번호와 출력 순서에도 맞아야 합니다. 실제 모터 위치와 소프트웨어가 인식하는 번호가 어긋나면 정상적으로 제어하기 어렵습니다. 조립을 마친 뒤에는 프로그램에서 모터를 하나씩 작동시켜 순서와 방향을 확인하고, 반대로 도는 모터가 있으면 연결을 고칩니다. 안전을 위해 이 시험은 프로펠러를 달지 않은 상태에서 합니다.

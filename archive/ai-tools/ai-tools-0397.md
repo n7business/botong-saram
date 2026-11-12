@@ -1,0 +1,30 @@
+---
+id: ai-tools-0397
+domain: ai-tools
+claim: 일정 관리·문서 관리·파일 정리 같은 개인 생산성 도구는 범용 AI 에이전트가 이미 하고 만드는 사람도 많아 쉽게 대체되므로, 바이브코딩으로
+  만들어 팔아 돈을 벌 생각은 하지 않는 게 좋다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=Rz4TyRGjzME
+  author: 양실장의 바이브코딩대학
+  seen: '2026-11-09'
+  quote: the low barrier to entry makes them easy to replace, so do not expect much
+    money from them.
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 바이브코딩
+- 아이템선정
+- 수익화
+- 개인생산성
+---
+영상은 개인 생산성 도구를 수익화 기회가 낮은 분야로 분류합니다. 범용 AI 에이전트가 이미 이 일을 하고, 바이브코딩으로 비슷한 도구를 만드는 사람이 너무 많으며, 진입 장벽이 낮아 쉽게 대체되기 때문입니다. 반대로 물류·수출입, 건설·제조, 법률·회계, 마케팅 대행처럼 업무가 복잡하고 예외가 많은 분야는 기회가 크다고 봅니다. 교육·부동산·유통·의료는 가치는 있지만 규제나 보안 같은 외부 요인 때문에 실현이 어려워 중상으로 분류합니다.

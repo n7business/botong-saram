@@ -1,0 +1,29 @@
+---
+id: growth-0090
+domain: growth
+claim: 좌석이 적은 매장은 벽으로 막힌 자리를 단을 올려 정원 뷰 특별석으로 바꾸고 곡선 천장을 넣는 식으로, 어느 자리에 앉아도 공간감이 나오게
+  설계한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=sKen1zt_7uY
+  author: 다점포왕TV (@dajumpo)
+  seen: '2026-11-03'
+  quote: 어디에 앉든 공간감이 나오게 하는 것이 포인트다.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 매장인테리어
+- 좌석설계
+- 벤치마킹
+- 외식업
+---
+테이블 15개뿐인 매장에서는 자리 하나하나가 매출과 직결되므로 '안 좋은 자리'를 없애는 것이 목표입니다. 사례 매장은 창가 자리에서 바깥 조경이 보이게 했고, 원래 벽으로 막혀 있던 곳은 단을 올리고 마감해 대나무 정원을 보며 먹는 자리로 바꿨습니다. 대나무 조경은 이자카야·카페에서 주로 쓰던 요소인데, 카페에서 어르신들도 좋아하는 것을 보고 한식 매장에 가져왔습니다. 다른 업종의 공간 요소를 가져올 때는 3D 도면 등으로 미리 확인합니다.

@@ -1,0 +1,30 @@
+---
+id: marketing-0498
+domain: marketing
+claim: 메타 AI는 '30대 이상·연매출 1억 이상' 같은 업종 조건을 모르고 타겟을 넓히므로, DB 광고에는 '광고 도달에 제한 추가'를 반드시
+  걸어 설정한 조건대로만 광고가 나가게 해야 한다는 것이 화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=r3XmHz0NU9A
+  author: 마케팅쉐어 이과장
+  seen: '2026-11-10'
+  quote: 광고 도달에 제한 추가를 무조건 걸어야 됩니다.
+  source: 마케팅쉐어 이과장 (@마케팅쉐어)
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메타광고
+- 타겟팅
+- 어드밴티지
+- 도달제한
+- DB수집
+---
+자동·AI 기능을 켜 두면 '성과가 개선될 수 있다면 타겟을 확장'하는 설정 때문에 타겟이 넓어집니다. 예를 들어 30세 이상으로 설정해도 호기심에 클릭한 10~20대가 섞여 들어옵니다. 정책자금처럼 자격 조건이 있는 상품이라면 이렇게 들어온 DB는 상담으로 이어지지 않습니다. '광고 도달에 제한 추가'를 걸면 설정한 조건 밖으로 광고가 나가지 않습니다. 직접 운영하든 대행사에 맡기든 이 설정이 걸려 있는지 확인하세요.

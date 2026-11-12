@@ -1,0 +1,29 @@
+---
+id: marketing-0377
+domain: marketing
+claim: 플레이스 광고는 입찰가를 무조건 올리지 말고 첫 화면 끝자리 광고에 걸리는 선까지만 맞추는 편이 상단 3개 자리보다 가성비가 좋다는 것이
+  화자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=JTKf09vD408
+  author: 머니코치 최준호
+  seen: '2026-11-07'
+  quote: 같은 첫 화면이면 싼 자리가 이깁니다.
+  source: 머니코치 최준호 (@moneycoach)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 플레이스광고
+- 입찰가
+- 광고효율
+---
+화자는 상단 광고 3개는 손님도 광고인 줄 알고 입찰 경쟁이 세서 비싸다고 봅니다. 반면 끝자리 광고는 일반 플레이스 사이에 있어 눈에 덜 띄고 효율이 좋다고 설명합니다. 그래서 입찰가는 끝자리에 걸리는 선까지만 맞추라고 권합니다. 광고 노출이 늘면 입찰 경쟁과 광고비가 함께 오를 수 있다는 것이 화자의 전망입니다. 끝자리의 효율은 화자의 판단이고 수치 근거는 제시되지 않았으므로 내 계정의 클릭 단가와 문의 수로 확인합니다.

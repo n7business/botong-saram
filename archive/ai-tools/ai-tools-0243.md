@@ -1,0 +1,29 @@
+---
+id: ai-tools-0243
+domain: ai-tools
+claim: 제품 광고에서 영상 생성 AI의 결과물이 제품의 질감이나 디자인을 바꿔 쓸 수 없다면, 업체 사진·영상을 그대로 쓰고 움직임과 자막만
+  클로드 코드로 만드는 방법을 시도해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=ep786qOI1lU
+  author: 라핀
+  seen: '2026-11-06'
+  quote: 외부 유료 영상은 전혀 사용하지 않았고 음원도 무료 음원을 활용했습니다.
+  source: 직장인 AI 업무 자동화 | 라핀
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 클로드코드
+- 광고영상
+- 제품광고
+- 비용절감
+---
+유료 영상 생성 서비스는 결과물에서 제품의 질감이나 디자인이 바뀌면 실제 광고로 쓸 수 없고, 다시 만들 때마다 크레딧이 나간다. 화자는 업체가 올려둔 사진과 영상에 클로드 코드(오푸스 5.5)로 움직임과 자막 효과를 입혀 30초 광고를 만들었고, 외부 유료 영상은 쓰지 않았으며 음원도 무료 음원을 썼다. 첫 대본에 외부 툴용 프롬프트가 들어 있으면 전부 오푸스로만 제작 가능한지 확인하고, 안 되는 부분은 개선해 달라고 다시 요청한다. 쓸 자료가 없으면 직접 제품을 촬영해 넘겨줘도 된다.

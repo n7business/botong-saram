@@ -1,0 +1,29 @@
+---
+id: growth-0111
+domain: growth
+claim: 콘텐츠는 영상 원본 하나만 찍고 AI에게 캐러셀·뉴스레터·블로그 글로 바꾸게 하되, '내가 말한 그대로 두라'는 규칙을 걸어야 AI 티
+  나는 결과물을 피할 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/48666
+  author: 모건 드바운(조쉬의 뉴스레터 인터뷰)
+  seen: '2026-11-05'
+  quote: 평소 구조는 한 번 찍고 여러 곳으로 보내는 거예요.
+  source: EO 플래닛
+first_seen: '2026-11-05'
+last_confirmed: '2026-11-05'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 콘텐츠재활용
+- AI에이전트
+- 마케팅
+- 검수
+---
+즉흥 영상이든 녹화든 원본 하나를 정하고, 올라오면 에이전트가 플랫폼별 형식으로 바꾸게 한다. 검수 규칙에는 화자의 말을 바꿨는지, 말한 내용을 번드르르하게 덮었는지를 넣어 먼저 걸러낸다. 사례 대표는 자기 말을 그대로 옮기도록 훈련한 블로그 글은 직접 보지 않는다. 이는 매일 영상을 찍을 시간이 없는 부업 크리에이터 활동의 경험담이며, 조회수나 매출 효과 수치는 제시되지 않았다.

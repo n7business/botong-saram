@@ -1,0 +1,30 @@
+---
+id: marketing-0598
+domain: marketing
+claim: AI 답변에 인용된 우리 페이지가 고객의 다음 질문에 답하지 못하면 고객이 다시 검색하러 떠나므로, 문서 아래에 다음 질문의 답으로 가는
+  안내와 상담 때 보내야 할 정보를 짧게 적어 두어야 한다는 것이 GEO 업체의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.45
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=21177
+  author: 더로직(TheLogic)
+  seen: '2026-11-12'
+  quote: 상담이 필요할 때 어떤 정보를 보내야 하는지 짧게 적어 보세요.
+  source: 오픈애즈
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- GEO
+- AI검색
+- 랜딩페이지
+- CTA
+- 전환
+---
+AI 답변에 우리 업체가 나왔는데도 문의가 늘지 않으면, 먼저 인용된 페이지를 점검하세요. 서비스 내용만 있고 대상 인원·진행 방식·사전 준비 같은 정보가 빠져 있으면 고객은 다른 곳을 다시 찾아봅니다. 인용된 문서 아래에는 고객이 이어서 궁금해할 내용으로 가는 안내를 두고, 상담할 때 어떤 정보를 보내면 되는지를 짧게 적어 두세요. 상담 버튼을 문단마다 반복해 다는 것보다 고객이 질문을 해결한 지점에서 다음 행동을 안내하는 편이 중요합니다. GEO 대행사의 의견이며 효과를 수치로 보여 주지는 않았습니다.

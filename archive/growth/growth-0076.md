@@ -1,0 +1,29 @@
+---
+id: growth-0076
+domain: growth
+claim: AI 자동화는 100% 정확도를 목표로 하면 영원히 도입하지 못하므로 10번 중 8~9번 성공하면 일단 적용하고 안 되는 지점을 고치며,
+  바로 자동화되는 업무(1단계)와 추가 개발이 필요한 업무(장기 과제)로 단계를 나눈다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://channel.io/kr/blog/articles/magazine-01-what-is-ax-99dcaa52
+  author: 채널톡 블로그 (Lena, 채널코퍼레이션 젠 인터뷰)
+  seen: '2026-11-03'
+  quote: 저는 보통 10번 시도해서 8~9번 정도 성공하면 쓸 만하다고 봅니다.
+  source: 채널톡 블로그
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI도입
+- 자동화
+- AX
+- 단계적도입
+---
+기존 소프트웨어는 같은 입력에 같은 결과가 보장되지만 LLM은 확률적으로 동작해 100번 잘되다가 101번째에 틀릴 수 있다. 고객사 13곳 이상의 AI 도입을 진행한 담당자는 10번 시도해 8~9번 성공하면 쓸 만하다고 보고 적용한 뒤 부족한 부분을 채우는 방식이 늘 결과가 좋았다고 말한다. 안 써보면 어디가 왜 안 되는지 알 수 없으므로, 완벽한 준비가 끝나는 시점은 오지 않는다고 전제한다. 한 번에 다 하려 하지 말고 당장 자동화 가능한 업무를 1단계에서 끝내고 개발이 필요한 문제는 장기 과제로 분리한다. 중요한 업무의 실패 대비는 growth-0002의 비상 경로와 함께 둔다.

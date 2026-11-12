@@ -1,0 +1,32 @@
+---
+id: hr-labor-0058
+domain: hr-labor
+claim: 계약직에게 '문제 없으면 계속 가는 거야'라고 말하거나 매년 심사 없이 재계약해 온 관행이 있으면 갱신기대권이 인정되어 합리적 이유 없는
+  재계약 거절이 부당해고가 되므로, 심사로 재계약을 정하는 회사는 기준을 문서로 두고 실제로 그 기준대로 심사해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=4mRvcpjPMHw
+  author: 비법수다 (전효진 노무사)
+  seen: '2026-11-03'
+  quote: 기대권이 있다고 평생 데리고 가야 하는 건 아닙니다.
+  source: 비법수다 (전효진 노무사)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 기간제 및 단시간근로자 보호 등에 관한 법률
+  article: 제4조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 계약직
+- 갱신기대권
+- 부당해고
+- 재계약
+---
+대법원은 2011년 판례에서 계약서·취업규칙에 갱신 조건이 없어도 재계약 관행, 회사가 해온 말, 계약직을 쓰는 이유를 종합해 정당한 기대가 인정되면 합리적 이유 없는 재계약 거절은 효력이 없다고 봤다. 1년 계약으로 뽑아 매년 별다른 심사 없이 재계약해 왔거나, '평가 B등급 이상이면 재계약' 같은 기준을 둔 경우도 회사가 직접 기대를 만든 것이다. 기준만 있고 심사가 형식적이면 그 기준이 오히려 기대권의 근거가 된다. 상시 업무를 맡기면서 계약직으로만 돌리는 구조 자체도 재계약 기대를 만든다.

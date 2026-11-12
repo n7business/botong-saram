@@ -1,0 +1,29 @@
+---
+id: factory-ax-0113
+domain: factory-ax
+claim: CNC 선반 프로그램은 4분점 안에서 끝나는 간단한 작업이면 컨트롤러 앞에서 직접 G코드를 짜고, R이나 테이퍼처럼 복잡한 형상에만 CAM을
+  쓰는 식으로 나눌 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=ZUO8hRzOzuM
+  author: 기계맨 CNC MCT (@GIGYEMAN) 인터뷰 출연자(DM테크놀로지 CNC 선반 셋업 담당)
+  seen: '2026-11-09'
+  quote: 간단한 4분점에서 끝나는 날 같은 경우는 직접 손으로 코딩
+  source: 기계맨 CNC MCT (@GIGYEMAN)
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- CNC선반
+- G코드
+- CAM
+- 프로그래밍
+---
+선반 작업은 컴퓨터 앞에서 CAM을 돌리기보다 기계 컨트롤러 앞에 서서 G코드를 직접 짜는 일이 많습니다. 출연자는 4분점 안에서 끝나는 간단한 작업은 지금도 손으로 직접 코딩합니다. R이나 테이퍼처럼 계산이 복잡한 형상에는 CAM을 쓰며, 양산 제품 일부도 이렇게 작업합니다. 모든 작업을 CAM으로 돌리지 말고 형상 난이도에 따라 수동 코딩과 CAM을 나누면 기계 앞을 떠나는 시간을 줄일 수 있습니다. 출연자가 쓰는 CAM은 직접 개발한 것이므로, 일반 업체는 갖고 있는 CAM이나 기계의 대화형 기능에 이 기준을 적용하면 됩니다.

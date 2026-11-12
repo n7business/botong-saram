@@ -1,0 +1,35 @@
+---
+id: licensing-0091
+domain: licensing
+claim: 2027년에는 E-7-4 소득 기준이 크게 달라질 것으로 전망되므로, 2027년 연장이 예정된 직원의 사업주는 계약 연봉을 연봉 2,600만
+  원 기준에만 맞추지 말고 새 기준을 미리 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=l-7NbHkyxCc
+  author: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+  seen: '2026-11-06'
+  quote: 내년부터는 최저임금이 2,600만 원을 넘기 때문입니다.
+  source: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+- url: https://www.youtube.com/watch?v=-kCQsA13sYE
+  author: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+  seen: '2026-11-06'
+  quote: 내년(2027년)에는 소득 기준이 많이 달라질 것이다.
+  source: 장행닷컴 JOBS VISA in KOREA (@VISAinKOREA1)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- E-7-4
+- 소득요건
+- 최저임금
+- 2027년
+- 체류기간연장
+---
+화자는 소득 2,600만 원 이상 계약 요건이 올해로 사실상 끝난다고 봅니다. 내년부터는 최저임금이 2,600만 원을 넘는다는 이유에서입니다. 다른 영상에서도 내년 소득 기준이 많이 달라질 것이라며 미리 상담받고 연장을 준비하라고 안내합니다. 다만 새 기준은 원문에 제시되지 않았고 이는 전문가의 전망입니다. 2027년 시행 지침이 공고되면 근로계약을 맞춰 조정해야 합니다.

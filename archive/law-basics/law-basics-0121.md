@@ -1,0 +1,31 @@
+---
+id: law-basics-0121
+domain: law-basics
+claim: 양도세를 줄이려고 가장이혼을 해도 실제로 함께 살며 사실상 부부로 생활한다고 판단되면 1세대로 보아 양도세가 추징될 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=-uH7Gr9zQTQ
+  author: 법무사TV (대한법무사협회 공식)
+  seen: '2026-11-06'
+  quote: 이혼은 가능할 수 있어도 재산에 대한 그런 양도세 탈피는 어렵게 돼 있다.
+  source: 법무사TV (대한법무사협회 공식)
+first_seen: '2026-11-06'
+last_confirmed: '2026-11-06'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 소득세법
+  article: 제88조 제6호
+  effective: '2019-01-01'
+contributor: null
+tags:
+- 가장이혼
+- 양도소득세
+- 1세대 1주택
+- 추징
+---
+소득세법이 2018년 12월에 개정되어 2019년 1월 시행분부터는 이혼 형식만이 아니라 실질을 따져 1세대 여부를 판단할 수 있습니다. 국세청이 조사하면 함께 사는지 드러날 수 있습니다. 이혼 자체를 무효로 만들기는 어려워도 양도세 회피는 인정받기 어렵습니다. 1주택 비과세를 노린 가장이혼은 절세 수단으로 생각하지 마세요.

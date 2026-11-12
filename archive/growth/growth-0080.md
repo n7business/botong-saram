@@ -1,0 +1,36 @@
+---
+id: growth-0080
+domain: growth
+claim: 쇼핑몰 결제는 브라우저 화면 이동이나 클라이언트 응답만으로 완료로 처리하지 말고, 서버에서 결제 승인 API 응답의 결제 상태·금액·주문
+  ID를 검증한 뒤에만 주문 상태를 바꾸고 상품을 발송한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.tosspayments.com/blog/articles/54519
+  author: 토스페이먼츠
+  seen: '2026-11-03'
+  quote: 결제 완료 여부를 브라우저 화면이나 클라이언트의 응답만으로 판단하지 말고, 서버에서 결제 승인 결과를 검증한 뒤 주문 상태를 변경하도록
+    구현하는 것이 중요해요.
+  source: 토스페이먼츠피드
+- url: https://www.tosspayments.com/blog/articles/54515
+  author: 토스페이먼츠
+  seen: '2026-11-03'
+  quote: 인증 결과를 받았다고 해서 결제가 모두 완료된 것은 아니에요.
+  source: 토스페이먼츠피드
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 결제연동
+- 쇼핑몰
+- PG
+- 보안
+- 주문처리
+---
+결제 인증 결과를 받았다고 결제가 끝난 것이 아니며, 최종 승인 요청까지 정상 처리되어야 결제가 완료된다. 결제 완료 페이지는 고객이 주문 결과를 확인하는 용도일 뿐이므로 실제 주문 완료 여부는 서버가 확인한 승인 결과를 기준으로 처리한다. 승인 API 응답에서는 HTTP 상태 코드만 보지 말고 응답 본문의 결제 상태(status), 총 결제 금액, 주문 ID, 결제 키를 확인해 저장하고, 실패 응답이면 본문의 오류 코드(code)와 메시지를 보고 전달한 요청 값과 결제 상태를 함께 점검한다. 외주 개발사에 맡기더라도 '서버 검증 후 주문 상태 변경'이 구현되어 있는지 사장이 확인해야 결제 없이 주문이 완료되는 사고를 막을 수 있다.

@@ -1,0 +1,30 @@
+---
+id: ai-tools-0505
+domain: ai-tools
+claim: 노션 자료를 옵시디언으로 옮겨 클로드 코드 같은 AI가 컴퓨터 폴더 자료와 함께 찾게 하려면 Importer 플러그인을 쓰고 노션에서
+  Markdown이 아닌 HTML 형식으로 전체를 한 번에 내보내야 페이지 사이 링크가 살아남으며, 노션은 지우지 말고 함께 쓰는 편이 좋다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/Dfdoh0AiV8h
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-12'
+  quote: 옵시디언 안내는 Markdown보다 HTML을 권하고, 링크가 살도록 전체를 한 번에 가져오길 권해요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 노션
+- 옵시디언
+- 자료이전
+- 클로드코드
+mentions: 1
+---
+옵시디언은 자료를 내 컴퓨터 폴더에 글자 파일로 저장하므로, 폴더를 읽는 AI에게 그 폴더를 열어 주면 노션 자료와 컴퓨터 자료를 함께 찾게 할 수 있습니다. 먼저 옵시디언 설정에서 Importer 플러그인을 설치해 켜세요. 노션에서는 Markdown 대신 HTML 형식으로 내보내고, 링크가 살아 있도록 일부가 아니라 전체를 한 번에 가져와야 합니다. 가져온 폴더에 컴퓨터 자료도 넣은 뒤 AI에게 특정 주제의 자료를 찾아 정리해 달라고 하면 됩니다. 표로 보는 기능과 여러 사람이 함께 쓰는 일은 노션이 더 편하므로, 노션은 지우지 말고 같이 쓰세요.

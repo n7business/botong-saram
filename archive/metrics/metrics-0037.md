@@ -1,0 +1,32 @@
+---
+id: metrics-0037
+domain: metrics
+claim: 가족이 법인차를 쓰는 날은 처음부터 업무 외 사용으로 빼서 신고해야 하며, 업무사용비율을 100%로 적는 것이 세무조사에서 가장 위험하다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=hfm6xG0pC1A
+  author: 이상화세무사의 모래세무 (@nicetax)
+  seen: '2026-11-03'
+  quote: 업무사용비율을 100%로 쓰는 게 가장 위험하다.
+  source: 이상화세무사의 모래세무 (@nicetax)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 법인세법 시행령
+  article: 제106조
+  effective: '2026-11-03'
+contributor: null
+tags:
+- 법인차
+- 소득처분
+- 대표자상여
+- 가족사용
+- 세무조사
+---
+업무용 주행에는 사업장·거래처 방문, 회의, 판촉, 임직원 출퇴근이 포함되지만 임직원이 아닌 가족의 출퇴근은 업무가 아니다. 운행기록·하이패스·주유 위치와 시간(주말·야간, 자녀 학교 근처)이 어긋나면 업무비율이 0%로 뒤집히고, 손금불산입에 그치지 않고 소득처분이 따른다. 사외유출이 분명하면 임직원은 상여, 주주는 배당, 그 밖의 가족은 기타소득으로 처분되고 귀속이 불분명하면 대표자 상여가 되어 대표 개인 세율 구간까지 올린다. 업무 사용의 입증 책임은 회사에 있으므로 운행일지와 하이패스 기록만으로는 부족할 수 있다. 가족을 명목상 임원으로 올려도 보험 요건만 충족할 뿐 실제 업무 사용 여부는 별개로 따진다.

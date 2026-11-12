@@ -1,0 +1,29 @@
+---
+id: growth-0067
+domain: growth
+claim: 광고를 시작했다면 조회수가 아니라 손님이 어디서 알고 왔는지, 무엇 때문에 선택했는지, 실제 방문이 늘었는지, 비용을 쓰고도 남는지를
+  확인하고, 대행사에 맡기더라도 이 판단은 사장이 직접 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=O-ih4mXqGoc
+  author: 장사왕 임사부
+  seen: '2026-11-03'
+  quote: 그리고 광고를 시작했다면 조회스만 보지 마세요.
+  source: 장사왕 임사부 (@장사왕임사부)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 외식업
+- 마케팅
+- 광고성과
+- 대행사
+---
+좋은 음식을 만들어도 손님이 가게를 모르거나 왜 가야 하는지 이해하지 못하면 방문으로 이어지지 않지만, 많은 가게가 홍보하기 때문에 노출만으로는 선택받기 어렵다. 작은 가게는 광고비로 큰 매장과 맞붙지 말고 먼저 어떤 손님에게 무슨 이유로 선택받을지(가족 식사·빠른 점심·혼밥 등)를 정하고, 사진·설명·메뉴·가격이 그 이유를 보여 주게 한다. 광고를 보고 온 손님이 가격, 주차 여부, 대표 메뉴를 찾지 못하면 방문을 망설인다. 광고를 시작했다면 조회수만 보지 말고 유입 경로, 선택 이유, 실제 방문 증가, 비용 대비 수익을 확인한다. 홍보는 맡길 수 있어도 우리 가게를 선택할 이유까지 남에게 맡길 수는 없다.

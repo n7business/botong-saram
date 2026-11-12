@@ -1,0 +1,30 @@
+---
+id: growth-0296
+domain: growth
+claim: 콘텐츠로 1인 사업을 시작한다면 콘텐츠부터 쌓지 말고, 이미 아는 것으로 팔 상품 하나를 먼저 만든 뒤 콘텐츠로 사람을 모으고 반응을
+  보며 상품을 고쳐 볼 만하다. 한 1인 사업자는 상품 없이 콘텐츠만 다섯 달 만들었을 때 수익이 0원이었다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@teo_daily_business/post/Dfi_7-ToADT
+  author: 태오의 실행비즈니스 (@teo_daily_business)
+  seen: '2026-11-12'
+  quote: 콘텐츠는 사람을 모아주지만 모인 사람에게 건넬 게 없으면 거기서 끝난다
+  source: 태오의 실행비즈니스 (@teo_daily_business)
+first_seen: '2026-11-12'
+last_confirmed: '2026-11-12'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 1인사업
+- 콘텐츠마케팅
+- 첫상품
+- 전자책
+- 상품개발순서
+---
+콘텐츠로 사람을 모아도 그 사람들에게 팔 상품이 없으면 매출로 이어지지 않습니다. 순서를 '팔 것 하나 → 콘텐츠로 모객 → 반응 보고 상품 수정'으로 잡아 볼 만합니다. 첫 상품은 새로 공부해서 만들지 말고 내가 이미 겪고 익힌 노하우로 만들면 됩니다. 예를 들어 전자책 하나를 먼저 내고, 반응이 오면 스터디·모임처럼 사람이 직접 참여하는 상품으로 넓힐 수 있습니다. 한 1인 사업자는 2024년 3~7월 유튜브 콘텐츠만 만들 때 수익이 0원이었지만, 8월에 인적성 노하우 전자책을 내고 10월에 인적성 스터디를 열어 그해 약 700만 원을 벌었고 매출은 모두 이 두 상품에서 나왔다고 전합니다. 이는 한 사람의 경험이므로 내 분야에서도 같은 결과가 나온다고 보장할 수는 없습니다.

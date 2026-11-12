@@ -1,0 +1,28 @@
+---
+id: ai-tools-0323
+domain: ai-tools
+claim: 내 컴퓨터에서 됐다고 배포해도 된다고 믿지 말고 로컬·프리뷰·프로덕션 중 어디서 동작하는지 구분해 확인해야, 설정과 데이터 차이로 생기는
+  문제를 놓치지 않는다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=D-3Iojr7dIc
+  author: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+  seen: '2026-11-07'
+  quote: 실제 환경에서는 설정과 데이터가 달라 예상 못 한 문제가 생길 수 있다.
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 바이브코딩
+- 배포
+- 환경 구분
+---
+로컬은 내 컴퓨터에서 개발하고 확인하는 환경으로, localhost:3000 같은 주소로 표시되며 인터넷에 공개된 것이 아니다. 프리뷰는 실제 사용자에게 공개하기 전에 변경 사항을 확인하는 환경이며 없을 수도 있다. 프로덕션은 실제 사용자가 쓰는 환경이다. 실제 환경은 설정과 데이터가 달라 로컬에서 보이지 않던 문제가 생길 수 있다.

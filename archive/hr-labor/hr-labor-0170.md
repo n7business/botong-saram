@@ -1,0 +1,39 @@
+---
+id: hr-labor-0170
+domain: hr-labor
+claim: 같은 사업장에서 실업급여를 3회 이상 반복해서 받은 사람의 허위 이직신고 여부를 고용노동부가 2026년 11월 9일부터 12월 31일까지
+  특별점검하므로, 같은 직원을 퇴사시켰다가 다시 채용하는 사업장은 이직할 때마다 실제 사유를 보여 주는 자료를 남겨 두어야 한다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20213
+  author: 고용노동부
+  seen: '2026-11-09'
+  quote: 동일사업장에서 3회 이상 실업급여를 반복 수급한 사람 중 허위 이직신고 등이 의심되는 사례
+  source: 고용노동부 보도자료
+- url: https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20213
+  author: 고용노동부
+  seen: '2026-11-09'
+  quote: 반복수급이나 해외체류 사실만으로 부정수급이 되는 것은 아니다.
+  source: 고용노동부 보도자료
+first_seen: '2026-11-09'
+last_confirmed: '2026-11-09'
+review_by: '2027-05-08'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 고용보험법
+  article: 제62조
+  effective: '2026-11-09'
+contributor: null
+tags:
+- 실업급여
+- 반복수급
+- 특별점검
+- 이직확인서
+- 재채용
+verified_by: 공식 출처
+---
+고용노동부는 2026년 하반기 실업급여 부정수급 특별점검에서 '동일 사업장에서 3회 이상 실업급여를 반복 수급한 사람 중 허위 이직신고가 의심되는 사례'를 주요 점검 대상으로 정했습니다. 노동부는 반복수급이라는 사실만으로 부정수급이 되지는 않으며, 실제 이직 경위를 개별적으로 확인하겠다고 밝혔습니다. 계절 사업이나 단기 계약을 반복하는 사업장이라면 근로계약서의 계약기간, 계약 종료 통지, 사직서처럼 이직마다 실제 사유를 보여 줄 자료를 남겨야 합니다. 그리고 상실 신고 코드와 이직확인서는 그 자료와 같은 내용으로 맞춰 적어야 합니다.

@@ -1,0 +1,29 @@
+---
+id: ai-tools-0072
+domain: ai-tools
+claim: API 키 같은 비밀값을 실수로 AI에 보내는 사고를 막으려면 '비밀 키처럼 보이는 글이 있으면 경고하고 보내지 않는 모드'를 만들어
+  켜 두되, 이 장치와 별개로 진짜 키는 처음부터 입력창에 붙여 넣지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=zO68MQmfvcA
+  author: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+  seen: '2026-11-03'
+  quote: 그래도 진짜 키는 처음부터 붙여 넣지 마세요.
+  source: '샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)'
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- claude-code
+- 훅
+- 보안
+- API키
+---
+Claude Code 데스크톱의 모드(확장 기능)는 프롬프트를 보내는 순간 같은 정해진 때에 자동으로 끼어드는 훅으로 동작한다. 비밀 키 형태의 문자열을 감지하면 경고하고 전송을 막는 모드를 말로 요청해 만들어 켠다. 가짜 키로 테스트하면 프롬프트가 차단되고 문장은 입력창에 남으므로 키만 지우고 다시 보내면 된다. 다만 이는 마지막 안전망일 뿐이고, 비밀 키를 보내면 되돌리기 어려우므로 애초에 붙여 넣지 않는 습관이 우선이다.

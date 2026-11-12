@@ -1,0 +1,28 @@
+---
+id: ai-tools-0471
+domain: ai-tools
+claim: 직원에게 AI 사용 규칙을 정해 줄 때는 '하지 마세요'만 적지 말고 금지 이유와 대신 쓸 방법을 함께 적어야 하는데, 업무 목적은 그대로
+  남아 있어서 대안이 없으면 규칙을 피해 갈 방법을 찾게 되기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4034/
+  author: 둘둘
+  seen: '2026-11-11'
+  quote: 금지·주의 행동 → 이유 → 가능한 대안 의 순서로 정리했습니다.
+  source: 요즘IT
+first_seen: '2026-11-11'
+last_confirmed: '2026-11-11'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 가드레일
+- 직원교육
+- AI정책
+---
+직원이 AI를 쓰는 것은 해결하려는 업무가 있어서입니다. 외부 호스팅을 막으면 다른 공유 방법이 필요하고, 실데이터를 쓰지 말라고 하면 시험해 볼 데이터가 필요합니다. 규칙은 '금지·주의 행동 → 이유 → 쓸 수 있는 대안' 순서로 정리하세요. 아직 대안이 없다면 누구에게 무엇을 확인받아야 하는지라도 적어 두세요. 이때 '담당자에게 문의'라고만 쓰지 말고 공개 목적, 포함 데이터처럼 판단에 필요한 정보도 함께 안내하는 것이 좋습니다. 공지만 하고 끝내지 말고, 자주 나오는 질문을 보며 규칙을 계속 고쳐야 합니다.

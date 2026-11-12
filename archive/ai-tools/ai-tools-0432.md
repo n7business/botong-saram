@@ -1,0 +1,35 @@
+---
+id: ai-tools-0432
+domain: ai-tools
+claim: 클로드 답이 자꾸 틀리면 다른 도구로 옮기기 전에 웹 검색이 켜져 있는지와 답에 출처가 붙었는지부터 확인해야 하는데, 출처가 없으면 검색
+  없이 기억으로 답한 것이기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/Dfayweek7Lr
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-10'
+  quote: 답변에 출처가 안 붙어 있으면 검색 없이 기억으로 답한 거라고 했어요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+- url: https://www.threads.com/@yun_ja_dong/post/DfbDu82CQxt
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-10'
+  quote: 클로드가 틀릴 때는 검색 없이 기억으로 답한 경우가 많아요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 클로드
+- 웹검색
+- 퍼플렉서티
+- 출처확인
+- 환각
+---
+클로드가 틀린 답을 주는 경우는 검색 없이 학습된 기억으로 답한 때가 많습니다. 입력창의 + 버튼이나 슬라이더 모양 아이콘을 눌러 웹 검색이 켜져 있는지 보고, 꺼져 있으면 켭니다. 답에 출처가 붙지 않았다면 검색하지 않은 답이므로 그대로 믿지 않습니다. 질문 끝에 "최신 정보를 웹에서 검색해서 출처랑 같이 알려 줘"를 붙이면 검색을 유도할 수 있습니다. 검색 정확도만 보면 퍼플렉서티가 나을 수 있어서, 사실 확인은 퍼플렉서티로 하고 정리와 글쓰기는 클로드에 맡기는 식으로 나눠 써도 됩니다.

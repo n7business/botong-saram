@@ -1,0 +1,31 @@
+---
+id: marketing-0031
+domain: marketing
+claim: 블로그 체험단·인플루언서에게 제품이나 돈을 주고 우리 사이트 링크를 넣게 할 때는 그 링크에 rel="sponsored" 또는 rel="nofollow"
+  속성을 넣게 해야 Google 링크 스팸 정책 위반이 아니다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://developers.google.com/search/docs/essentials/spam-policies?hl=ko
+  author: Google 검색 센터
+  seen: '2026-11-03'
+  quote: 제품에 대한 글을 작성하고 링크를 포함하는 대가로 누군가에게 제품을 보내는 행위
+  source: Google 검색 센터 문서 — 스팸 정책
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-01-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 구글검색
+- 링크스팸
+- 협찬
+- 체험단
+- nofollow
+verified_by: 공식 출처
+---
+제품을 보내거나 현금을 주고 글에 링크를 넣게 하는 것은 Google이 명시한 링크 스팸 사례다. 협찬 글 자체는 허용되지만, 링크 태그에 rel="sponsored" 또는 rel="nofollow"를 붙여야 정책 위반이 되지 않는다. 체험단 가이드나 협찬 계약서에 이 속성 삽입을 조건으로 적어 둔다. 링크 교환만을 위한 파트너 페이지나 링크 자동 생성 서비스도 같은 정책에 걸린다. 위반이 감지되면 사이트 순위가 내려가거나 검색에서 빠질 수 있다.

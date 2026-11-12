@@ -1,0 +1,30 @@
+---
+id: marketing-0049
+domain: marketing
+claim: www가 붙은 주소와 안 붙은 주소가 모두 열리는 홈페이지는 한쪽을 대표 주소로 정해 301 redirect하거나, 그게 어려우면 모든
+  페이지에 rel="canonical"로 대표 주소를 적어야 중복 판정 없이 대표 URL로 검색에 노출된다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-create
+  author: 네이버 서치어드바이저
+  seen: '2026-11-03'
+  quote: 특히 www가 있는 경우와 없는 경우는 여러분의 선호도에 따라 한 쪽으로 redirect 해야 합니다.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-03'
+last_confirmed: '2026-11-03'
+review_by: '2027-01-02'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버SEO
+- canonical
+- 301redirect
+- 중복콘텐츠
+verified_by: 공식 출처
+---
+같은 내용이 여러 호스트명·URL로 열리면 네이버는 중복으로 판정하며 주소를 여러 개 쓴다고 노출 가능성이 높아지지 않는다. www.내도메인과 내도메인 중 선호하는 쪽을 대표(canonical) 주소로 정하고 다른 쪽은 서버 HTTP 301 redirect로 연결한다. 호스팅 설정에서 301이 어렵다면 각 페이지 head에 link rel="canonical" 태그로 대표 주소를 기입한다. redirect는 자바스크립트(document.location)가 아닌 HTTP 방식이어야 로봇이 인식한다. 호스트명에는 밑줄(_)을 쓸 수 없고 알파벳·숫자·하이픈만 허용되므로 서브도메인을 만들 때도 주의한다.

@@ -1,0 +1,29 @@
+---
+id: business-plan-0257
+domain: business-plan
+claim: 모두의 창업 지역 오디션에서는 매출을 냈더라도 진입장벽을 설득하지 못하면 탈락할 수 있으므로, 누구나 따라 할 수 없는 이유를 기술력
+  중심으로 준비해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.72
+sources:
+- url: https://www.youtube.com/watch?v=mpeCkZccdl4
+  author: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+  seen: '2026-11-07'
+  quote: 결국에는 기술 아이템이 훨씬 더 점수를 잘 받는 거 같아요
+  source: 사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 지역오디션
+- 진입장벽
+- 심사
+---
+모두의 창업 1기 지역 오디션의 한 심사위원에 따르면 기술 아이템이면서 진입장벽까지 갖춘 팀이 훨씬 높은 점수를 받았습니다. 한 팀은 고객 수백 명을 모으고 유료 전환으로 몇백만 원의 매출을 냈지만, 기술이 아닌 다른 역량으로 진입장벽을 만들겠다는 답이 다른 심사위원들을 설득하지 못해 탈락했습니다. 일반 생활용 아이템이라면 '누구나 쉽게 따라 할 수 있지 않느냐'는 질문을 예상하고 근거 있는 답을 준비해야 합니다. 다만 1기의 한 심사 현장을 본 경험담이므로 다른 권역이나 회차에도 똑같이 적용된다고 단정해서는 안 됩니다.

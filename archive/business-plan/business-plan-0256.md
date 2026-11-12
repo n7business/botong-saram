@@ -1,0 +1,31 @@
+---
+id: business-plan-0256
+domain: business-plan
+claim: 화성시에 본사·공장·연구소가 있거나 2026년 12월까지 이전·설립할 예정인 중소기업과 창업예정자는 2026-11-19 18:00까지
+  화성산업진흥원 성장자원 확보 패키지를 신청해 2027년 TIPS 연계(추천) 기회를 노릴 수 있지만, 세금 체납이나 신용 문제가 있으면 제외된다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1126392
+  author: (재)화성산업진흥원
+  seen: '2026-11-07'
+  quote: TIPS 프로그램 연계(추천) 기회 제공
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-07'
+last_confirmed: '2026-11-07'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 화성산업진흥원
+- TIPS
+- 팁스 추천
+- IR
+- 화성시
+- 마감 2026-11-19
+---
+다른 지역 기업도 2026년 12월까지 화성시로 본사·공장·연구소 중 하나 이상을 옮길 예정이면 신청할 수 있다. 화성시에 사업장을 설립할 예정인 창업예정자도 대상이며 모두의 창업 프로그램 참가자를 포함한다. 제출서류는 지정 양식의 신청서와 개인정보 동의서, 자율 양식의 IR 자료 또는 사업계획서다. 선정은 서류 평가 후 심의위원회에서 결정한다. 공고는 TIPS 연계(추천) 기회 제공을 지원 내용으로 밝힐 뿐이므로 선정만으로 TIPS 추천이 확정된다고 보면 안 된다.

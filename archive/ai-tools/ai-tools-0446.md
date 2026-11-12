@@ -1,0 +1,29 @@
+---
+id: ai-tools-0446
+domain: ai-tools
+claim: 새 AI 이미지 모델의 성능 비교가 제조사 자체 평가라면 그대로 믿지 말고, 비교 대상에 최신 경쟁 모델이 빠졌는지와 한국어 글자가 평가에
+  들어갔는지 확인한 뒤 내 한국어 문구로 직접 시험해 보고 도입해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.gpters.org/news/post/seedream-55-summary-transparent-DrMcx2U64UQAOl4
+  author: 강지인
+  seen: '2026-11-10'
+  quote: 한국어 글자는 이 평가에 들어 있는지 밝히지 않았어요.
+  source: 지피터스 GPTers
+first_seen: '2026-11-10'
+last_confirmed: '2026-11-10'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 시드림
+- 이미지생성
+- 벤치마크
+- 한글
+---
+바이트댄스가 공개한 시드림 5.5의 비교 결과는 자사 평가 플랫폼에서 직접 매긴 값입니다. 비교 대상에는 GPT Image 2.5가 들어 있지만, 11월 4일에 나온 GPT Image 2.6은 빠져 있습니다. 글자 깨짐 비율(심한 경우 0.4%, 가벼운 경우 1.7%)도 중국어와 영어 기준이고, 한국어 글자가 포함됐는지는 밝히지 않았습니다. 100번 연속 편집도 공식 데모 한 건일 뿐 모든 이미지에서 보장되는 것은 아닙니다. 가격과 API 조건도 공개되지 않았으니, 간판·메뉴처럼 한글이 들어가는 작업에 쓰기 전에 직접 시험해 보세요.
