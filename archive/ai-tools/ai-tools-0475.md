@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-11'
   quote: 막막하면 그 링크를 ChatGPT나 클로드에 붙여넣고 "왕초보한테 설치 방법 알려줘" 하면 돼요.
   source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+- url: https://www.threads.com/@yun_ja_dong/post/DfrlKnZCSeO
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-14'
+  quote: 그 링크를 ChatGPT나 클로드에 붙여넣고 "왕초보한테 설치 방법 알려줘" 하면 돼요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-11'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null
@@ -25,5 +30,6 @@ tags:
 - 설치
 - 무료프로그램
 - 초보
+mentions: 2
 ---
 영상 편집, 받아쓰기, 문구 자동 입력 같은 무료 프로그램 중에는 영어로 된 깃허브 페이지에만 설치 안내가 있는 경우가 많습니다. 이럴 때는 링크를 AI 채팅에 붙여 넣고 "왕초보한테 설치 방법 알려줘"라고 하면 단계별 안내를 받을 수 있습니다. 다만 쓰는 방식에 따라 AI 사용료가 따로 들거나 성능 좋은 컴퓨터가 필요할 수 있습니다. 유명한 도구는 이름이 비슷한 가짜 저장소가 생기므로, 설치 전에 만든 사람과 주소가 맞는지부터 확인하세요.

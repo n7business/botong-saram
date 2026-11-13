@@ -18,7 +18,7 @@ sources:
   quote: 갚아야 할 금액과 공탁 사유부터 정확히 확인해야 해.
   source: 법무사 정승제 (@__jjjjjeee)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -14,7 +14,7 @@ sources:
   quote: 월평균보수가 300만 원 미만인 저소득 노동자(유족)가 지원대상이다.
   source: 근로복지공단 보도자료·공지
 first_seen: '2026-11-10'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-14'
 review_by: '2027-05-09'
 supersedes: null
 superseded_by: null

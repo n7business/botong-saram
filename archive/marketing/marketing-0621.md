@@ -14,7 +14,7 @@ sources:
   quote: 글 본문 중 소제목과 관련 있는 부분을 발췌해 보여드리고 카페 글의 경우 글에 달린 댓글도 함께 보여드립니다.
   source: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2027-01-12'
 supersedes: null
 superseded_by: null

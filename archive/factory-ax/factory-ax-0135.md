@@ -13,7 +13,7 @@ sources:
   quote: 별도 사전등록 없이도 행사 당일 현장에서 등록 후 참석 가능합니다.
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2027-02-09'
 supersedes: null
 superseded_by: null

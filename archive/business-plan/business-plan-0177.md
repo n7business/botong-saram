@@ -3,7 +3,7 @@ id: business-plan-0177
 domain: business-plan
 claim: 여수시에 방문 매장을 두고 공고일 기준 6개월 이상 영업한 서점은 2026-11-09~11-13에 지역서점 인증을 신청해 인증을 받으면
   여수시립도서관 도서 납품과 동네서점 바로대출서비스에 참여할 기회를 얻을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.95
 sources:

@@ -3,7 +3,7 @@ id: business-plan-0170
 domain: business-plan
 claim: 아산 소재 기업은 물론 아산으로 이전하거나 창업하려는 (예비)창업자도 2026-11-13 23:59까지 아산 스타트업 프로그램을 신청할
   수 있으므로, 멘토링이 필요하면 Scale-UP을, IR 준비가 필요하면 Build-UP을 내용에 맞춰 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

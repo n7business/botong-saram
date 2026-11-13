@@ -3,7 +3,7 @@ id: business-plan-0211
 domain: business-plan
 claim: 이천시에 본사나 제조시설이 있는 제조업 수출 중소기업은 2026-11-13 17:00까지 신청하면 2026년 수출물류비의 90%를 최대
   700만 원까지 지원받을 수 있지만, 외상 결제 방식 수출 건은 제한되므로 결제 방식과 지급 완료 여부부터 확인해야 한다.
-status: candidate
+status: expired
 evidence: consensus
 confidence: 0.75
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 엠마쌤 (@emmassam)
 first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

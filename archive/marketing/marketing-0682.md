@@ -1,0 +1,34 @@
+---
+id: marketing-0682
+domain: marketing
+claim: 스레드에는 아침(6~9시)과 저녁(밤 9~12시) 피크타임이 있으므로, 시간이 없다면 피크타임에만 올리고 저녁에는 아침보다 2배 이상
+  발행해야 한다는 것이 빌리쌤의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@billy___ssam/post/Dfrja_zjrAf
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-14'
+  quote: 아침은 6~9시이고, 저녁은 9시~12시에요.
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DfrjnUvjyr2
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-14'
+  quote: 저녁(20~24시)이 피크타임이니까 2배 발행!
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 게시시간
+- 피크타임
+- 발행빈도
+---
+스레드도 하루 중 반응이 몰리는 피크타임이 있습니다. 빌리쌤은 아침 6~9시, 저녁 9~12시를 피크타임으로 봅니다. 다른 글에서는 저녁을 20~24시로 적었습니다. 매일 아침글을 쓰고, 저녁에는 아침보다 2배 이상 집중해서 올렸다고 합니다. 시간이 부족한 사장님이라면 피크타임에만 올리는 것부터 시작하면 됩니다. 이 시간대는 화자의 경험이고 플랫폼이 공식으로 밝힌 수치는 아닙니다.

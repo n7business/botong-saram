@@ -13,7 +13,7 @@ sources:
   quote: 소규모 사업자일수록 광고비보다 자기 이야기를 자산으로 쌓아가는 일이 중요하다.
   source: 커리어노마드 (@careernomad_)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -13,7 +13,7 @@ sources:
   quote: 맥락 없이 반복되는 홍보 댓글은 소음일 뿐이다.
   source: 캡선생 김용석 (@kap_writing)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -4,7 +4,7 @@ domain: business-plan
 claim: 아산시에 사업장이 있거나 아산으로 이전·창업하려는 기업은 2026-11-13 23:59까지 아산 투자유치 Build-Up 프로그램에 신청해
   IR 진단과 투자자 밋업을 받을 수 있지만, 1억 원 이상 직접투자와 TIPS 파트너사 연계는 유망기업 대상이므로 참여만으로 투자를 기대해서는
   안 된다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

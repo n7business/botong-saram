@@ -3,7 +3,7 @@ id: business-plan-0010
 domain: business-plan
 claim: 홍익대 아트앤디자인테크 창업보육센터 입주기업 2차 모집은 2026-11-13 23:59 마감이며 일반기업·1인 창조기업이 대상이므로 디자인·아트테크
   분야 1인 사업자도 신청할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.6
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

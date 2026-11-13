@@ -3,7 +3,7 @@ id: business-plan-0179
 domain: business-plan
 claim: 도내 어업용 면세유류 카드를 발급받은 보성군 관할 선적 어선·관리선의 어업인은 2026-11-13까지 방문 신청하면 2026년 4월 1일~9월
   30일에 쓴 면세휘발유의 인상분을 소급해 정액 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.93
 sources:

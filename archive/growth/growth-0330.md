@@ -1,0 +1,29 @@
+---
+id: growth-0330
+domain: growth
+claim: AI가 컴퓨터나 브라우저를 직접 쓰게 할 때는 금융 계정·의료 정보·고객 개인정보가 걸린 일을 맡기지 말고 위험이 낮은 일부터 시작해야
+  하며, 메시지 발송과 결제는 사람이 직접 해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.65
+sources:
+- url: https://eopla.net/magazines/48959
+  author: 조쉬의 뉴스레터(Anthropic 도움말 인용)
+  seen: '2026-11-14'
+  quote: 금융 계정, 의료 정보, 다른 사람의 개인정보가 걸린 일은 맡기지 말라고 강하게 권해요.
+  source: EO 플래닛
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 개인정보
+- 보안
+- 컴퓨터사용
+---
+Claude 데스크톱 앱의 내장 브라우저에 로그인하면 그 로그인이 다음 세션에도 남습니다. Anthropic 도움말은 금융 계정, 의료 정보, 다른 사람의 개인정보가 걸린 일은 맡기지 말라고 강하게 권합니다. 컴퓨터 사용 기능에는 격리 장치가 없으니 위험이 낮은 일부터 하라고도 안내합니다. 혼자 사업하는 경우 고객 데이터가 곧 개인정보이므로, 고객 명단을 뺀 전용 작업 폴더 하나부터 열어 주는 편이 안전합니다. 첫 로그인은 메일보다 돈과 개인정보가 걸리지 않는 곳으로 고르는 것이 좋습니다.

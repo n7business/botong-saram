@@ -3,7 +3,7 @@ id: business-plan-0142
 domain: business-plan
 claim: 2026년 지역거점 AX 혁신 기술개발 사업(바이오·헬스케어, 2026-11-13 마감)에 기업이 주관연구개발기관으로 신청하려면 접수
   마감일 현재 기업부설연구소를 보유한 법인사업자여야 하므로, 개인사업자나 연구소가 없는 법인은 주관기관으로 신청할 수 없다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.93
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

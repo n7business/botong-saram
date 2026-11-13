@@ -14,7 +14,7 @@ sources:
     committee
   source: 창업진흥원 사업공고
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2026-12-30'
 supersedes: null
 superseded_by: null

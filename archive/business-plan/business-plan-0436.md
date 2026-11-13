@@ -1,0 +1,33 @@
+---
+id: business-plan-0436
+domain: business-plan
+claim: 전남 강진군의 일반음식점·휴게음식점·제과점은 2026-11-18까지 신청하면 입식식탁 설치비의 50%를 업소당 100만 원 이내에서,
+  경사로 설치비는 업소당 80만 원 이내에서 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127929
+  author: 강진군(기업마당 게시)
+  seen: '2026-11-14'
+  quote: '입식식탁 : 업소당 1백만 원 이내 보조 / 설치 금액의 50%'
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: '2026-11-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 강진군
+- 음식점
+- 입식식탁
+- 경사로
+- 시설개선
+- 전남광주
+- 마감임박
+verified_by: 공식 출처
+---
+강진군이 일반음식점, 휴게음식점, 제과점의 입식식탁과 경사로 설치비를 지원하는 재공고를 냈습니다. 입식식탁은 설치 금액의 50%를 보조하며 업소당 한도는 100만 원입니다. 그래서 200만 원 넘게 들여도 보조금은 100만 원까지만 나옵니다. 경사로는 설치비를 포함해 업소당 80만 원 이내로 지원합니다. 신청은 2026-11-18까지 강진군청 축제마케팅추진단 식품위생팀(4층)에 방문하거나 우편·이메일·팩스로 할 수 있습니다. 세부 요건과 지급 시기는 공고 첨부 hwpx 파일에서 확인하고 수행기관(061-430-3194)에 문의하세요.

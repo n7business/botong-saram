@@ -13,7 +13,7 @@ sources:
   quote: 사업자등록 전이면 모두의창업, 등록 후 3년 이내면 초기창업패키지
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

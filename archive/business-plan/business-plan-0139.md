@@ -3,7 +3,7 @@ id: business-plan-0139
 domain: business-plan
 claim: 2025-01-01 이전에 개업해 2025년 연매출이 3억원 미만이고 지금도 운영 중인 남양주시 소상공인은 2026-11-13까지 신청하면
   시가 선정한 전문업체를 통해 에어컨 1대의 종합세척을 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

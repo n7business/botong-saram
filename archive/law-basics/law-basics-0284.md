@@ -1,0 +1,34 @@
+---
+id: law-basics-0284
+domain: law-basics
+claim: 대형마트·백화점·온라인쇼핑몰·편의점·TV홈쇼핑 같은 대규모유통업자에게 납품하는 사업자는 대금 지급 기한을 검수 완료일이 아니라 상품을
+  인도한 날(상품수령일)부터 계산해야 한다는 점을 알고 계약서와 정산 일정을 점검해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.ftc.go.kr/www/selectBbsNttView.do?pageUnit=10&pageIndex=1&searchCnd=all&key=12&bordCd=3&searchCtgry=01,02&nttSn=48222
+  author: 공정거래위원회 유통대리점정책과
+  seen: '2026-11-14'
+  quote: 대금 지급 기산일인 상품수령일은 상품을 인도받은 날이라는 점을 표준계약서에도 명시적으로 규정
+  source: 공정거래위원회 보도자료
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: '2027-05-13'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 대규모유통업에서의 거래 공정화에 관한 법률
+  article: null
+  effective: '2026-11-14'
+contributor: null
+tags:
+- 대규모유통업법
+- 납품대금
+- 상품수령일
+- 표준거래계약서
+- 납품업자
+verified_by: 공식 출처
+---
+대규모유통업법에서 대금 지급 기한을 세기 시작하는 날은 '상품수령일'이고, 이날은 대규모유통업자가 상품을 인도받은 날입니다. 공정위는 2026년 11월 유통분야 표준거래계약서 7종을 개정하면서 이 점을 계약서에 명시했습니다. 검수 조항을 대금 지급 조항 뒤로 옮겨, 상품수령일이 검수 이전인 인도일이라는 점도 분명히 했습니다. 거래처가 검수가 끝난 날부터 지급 기한을 센다면 대금이 늦게 들어올 수 있습니다. 납품할 때는 인도일을 증명할 수 있는 자료(인수증, 배송완료 기록)를 남겨 두는 것이 좋습니다. 업태별 법정 지급 기한은 대규모유통업법 원문에서 확인하세요.

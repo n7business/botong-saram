@@ -1,0 +1,31 @@
+---
+id: business-plan-0451
+domain: business-plan
+claim: 창업진흥원 예비위원단에 사업자가 신청할 때는 수당 받을 통장을 본인 개인명의로 내야 하고(개인·법인 사업자통장은 안 됨), 재직증명서는
+  공고일 기준 3개월 이내에 발급한 것이어야 한다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179698
+  author: 창업진흥원
+  seen: '2026-11-14'
+  quote: '* 사업자통장(개인ㆍ법인)은 제출불가'
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: '2027-03-14'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 창업진흥원
+- 예비위원단
+- 제출서류
+- 통장사본
+- 재직증명서
+verified_by: 공식 출처
+---
+예비위원 신청 서류는 증명사진, 통장사본, 자격 증빙자료입니다. 통장사본은 평가위원회 활동 뒤 수당을 받을 본인 '개인명의' 통장이어야 하며, 개인사업자 통장이든 법인 통장이든 사업자통장은 받지 않습니다. 재직증명서는 필수이고 공고일(2026-11-04) 기준 3개월 이내에 발급한 것만 인정됩니다. 자격 증빙으로는 경력기술서, 경력·재직증명서, 건강보험자격득실확인서, 사업자등록증, 법인 등기부등본, 학위증명서, 자격증 등을 냅니다. 사업자라고 해서 습관대로 사업자통장을 내면 서류가 반려될 수 있으니 미리 확인해야 합니다.

@@ -1,0 +1,30 @@
+---
+id: mindset-0193
+domain: mindset
+claim: 한 공간 사업 운영자는 매달 현금흐름을 조금 늘리는 것보다 사업을 넘기고 목돈을 만드는 일을 반복하는 쪽이 종잣돈을 훨씬 빨리 키운다고
+  보고, 사업을 시작할 때부터 언제 어떤 가격에 넘길지를 정해 두고 들어간다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=5fBVBnykuMA
+  author: 장사 권프로 (@권프로) 출연 공간 사업 운영자
+  seen: '2026-11-14'
+  quote: 언제 어떤 타이밍에 가장 좋은 가격으로 넘기고 다음으로 넘어갈지를 항상 생각하며 시작해야 한다.
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 엑시트
+- 매각
+- 호스텔
+- 원칙
+- 공간사업
+---
+이 운영자는 사업을 시작할 때부터 언제, 어떤 타이밍에 가장 좋은 가격으로 넘기고 다음으로 넘어갈지를 생각합니다. 그가 보기에 넘기기 가장 쉬운 것은 법인으로 운영하는 호스텔이고, 에어비앤비가 중간이며, 단기임대는 가능하지만 상대적으로 어렵습니다. 그래서 임대인과의 계약 방식, 계약 기간, 양도 방법을 처음 계약할 때부터 넘길 것을 염두에 두고 정합니다. 핵심은 싸게 사서 비싸게 파는 것이라고 말합니다.

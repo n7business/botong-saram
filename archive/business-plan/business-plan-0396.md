@@ -13,7 +13,7 @@ sources:
   quote: ★사전 신청 필수(구글폼 접수)★
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2026-11-23'
 supersedes: null
 superseded_by: null

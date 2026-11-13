@@ -4,7 +4,7 @@ domain: business-plan
 claim: 서울창업허브M+ 2026년 하반기 입주 모집(2026-11-13 23:59 마감, 21개사)은 창업 7년 미만(신산업 10년 미만)의
   마곡산업단지 입주업종 기업이 대상이지만 입주계약 후 30일 이내 주소를 옮길 수 있어야 하므로, 신청 전에 본점 주소 이전이 가능한지부터 확인해야
   한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:
@@ -15,7 +15,7 @@ sources:
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

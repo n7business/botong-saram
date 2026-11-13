@@ -1,7 +1,20 @@
 # 보통사람 · AI 도구·트렌드 — 전체 목록(공식·여러 명·주의·실험)
-빌드 2026-11-13. SKILL.md에는 이 중 일부만 있다.
+빌드 2026-11-14. SKILL.md에는 이 중 일부만 있다.
 
 ## 🏛 공식 발표 · 📚 연구·저서
+- 🏛 공식 발표 · 계약서 여러 건을 AI 에이전트 여러 개에게 나눠 정리시킬 때는 한 표에 같이 쓰게 하지 말고, 계약서마다 한 에이전트가 자기 페이지를 따로 만들어 조건을 요약 없이 원문 그대로 옮기게 해야 한다. 여러 에이전트가 한 표에 함께 쓰면 서로 쓴 내용을 덮어써서 핵심 조건이 빠지기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0541.md`
+- 🏛 공식 발표 · AI가 정리한 결과물에서 중요한 내용이 자꾸 빠진다면 지시문을 직접 계속 고치기만 하지 말고, AI에게 무엇을 놓쳤는지 돌아보게 한 뒤 지시문 수정안을 내게 하고 그 지시문으로 다시 만들게 해야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0542.md`
+- 🏛 공식 발표 · 클로드 코드의 CLAUDE.md처럼 세션마다 자동으로 불러오는 지시 파일은 짧게 유지하고 세부 내용은 별도 파일로 옮겨 링크만 남겨야 한다. 지시 파일이 길수록 지시를 덜 지키고, 그 안에 틀린 내용이 있으면 모든 세션에 그대로 따라 들어가기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0543.md`
+- 🏛 공식 발표 · AI에게 문서 정리 위키를 만들게 했다면 위키 분량이 원본 문서와 비슷하거나 더 커지지 않았는지 확인해야 한다. 그렇게 커진 위키는 아무것도 압축하지 못해 원본을 뒤지는 것과 다를 바 없기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0544.md`
+- 🏛 공식 발표 · AI가 위키나 문서 모음을 한 번 만들고 나면, 정리 작업을 한 번 더 돌려 없는 페이지를 가리키는 링크와 빠진 목차를 찾아 고치게 해야 한다. 한 번에 만든 위키에는 아직 만들어지지 않은 페이지로 걸린 링크가 남기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0545.md`
+- 🏛 공식 발표 · AI가 쌓아 둔 메모를 매번 전부 다시 점검시키는 것은 비용이 크므로, 가격·담당자·절차처럼 자주 바뀌는 정보나 자주 꺼내 쓰는 메모부터 골라 점검하게 하고 점검 주기도 정해 두는 편이 현실적이다. — Anthropic Engineering 블로그 → `items/ai-tools-0546.md`
+- 🏛 공식 발표 · 클로드 코드의 Code Mode는 실험 기능이라 켠 세션은 Code Mode를 켠 상태에서만 이어 열 수 있고 Remote Control·크롬 연동·데스크톱 앱 이동도 쓸 수 없으므로, 폰으로 이어 할 작업에는 켜지 말고 여러 파일을 똑같이 고치는 일 같은 반복 작업에서만 시험해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0547.md`
+- 🏛 공식 발표 · 직원들이 실험 기능인 클로드 코드 Code Mode를 쓰지 않게 하려면 관리 설정(managed settings)에 CLAUDE_CODE_EXPERIMENTAL_CODE_MODE 값을 0으로 넣어야 하고, 내려받은 저장소의 프로젝트 설정으로는 이 기능이 켜지지 않는다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0548.md`
+- 🏛 공식 발표 · 클로드 코드 팀·엔터프라이즈 요금제에서 직원이 fast mode를 쓰면 그 비용은 조직의 사용 크레딧에서 나가므로, 오너가 fast mode를 켜 줄 때는 fastModePerSessionOptIn을 true로 설정해 세션마다 직원이 /fast로 직접 켜야만 쓰이게 해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0549.md`
+- 🏛 공식 발표 · 클로드 코드에서 Read(./.env)처럼 상대 경로로 적은 읽기 금지·확인 규칙에 기대고 있다면 v2.1.325 이상으로 업데이트해야 하는데, 이전 버전에서는 작업 중 폴더를 옮기면(cd) 이 규칙이 프로젝트에 더 이상 적용되지 않는 문제가 있었기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0550.md`
+- 🏛 공식 발표 · claude.ai 구독으로 로그인해 클로드 코드를 쓰면서 터미널 환경 변수에 API 키도 넣어 두었다면 v2.1.325 이상으로 업데이트해야 하는데, 이전 버전에서는 백그라운드 세션이 구독 대신 그 API 키로 요금을 청구하는 문제가 있었기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0551.md`
+- 🏛 공식 발표 · 클로드 코드를 API 키나 게이트웨이로 쓰다가 auto mode에서 '이 세션은 무료 분류기 요청 대상이 아니다'라는 안내가 뜨면 auto mode의 안전 검사 요청이 내 토큰 사용량으로 청구된다는 뜻이므로, /status에서 Auto mode server 줄을 확인하고 중간에 있는 게이트웨이나 프록시부터 점검해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0552.md`
+- 🏛 공식 발표 · 클로드 코드 설정 파일에 outputStyle을 적을 때는 Concise·Explanatory처럼 대소문자를 정확히 맞춰야 하는데, explanatory처럼 이름이 정확히 맞지 않으면 오류 없이 기본(Default) 스타일로 실행되기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0553.md`
 - 🏛 공식 발표 · AI에게 기억 메모 폴더를 맡길 때는 '실패한 것만 적어라'처럼 무엇을 적을지 정해 주지 말고 메모 폴더가 무엇에 쓰이는지만 알려 줘야 하는데, 최신 모델은 고정 규칙을 주면 메모로 얻던 성능 향상을 상당 부분 잃었기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0511.md`
 - 🏛 공식 발표 · AI에게 메모를 남기게 할 때는 화면이나 시스템에서 언제든 다시 확인할 수 있는 현재 상태까지 적게 하지 말고, 직접 알아낸 전략·계획·검증한 규칙만 남기게 해야 하는데, 모든 것을 기록한 AI는 낡은 메모를 뒤지느라 정작 일을 하지 못했기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0512.md`
 - 🏛 공식 발표 · AI가 쌓아 둔 메모는 그대로 믿지 말고 주기적으로 원래 작업 기록(대화 기록)과 대조해 고치게 해야 하는데, 처음부터 틀렸거나 상황이 바뀌어 틀려진 메모를 다음 세션의 AI가 그대로 믿고 같은 실수를 되풀이하기 때문이다. — Anthropic Engineering 블로그, 조코딩 JoCoding → `items/ai-tools-0513.md`
@@ -27,10 +40,6 @@
 - 🏛 공식 발표 · 클로드 코드를 터미널·VS Code·데스크톱 앱·웹에서 섞어 쓰더라도 작업 규칙은 프로젝트의 CLAUDE.md와 설정에 한 번만 적어 두면 되는데, 모든 화면이 같은 엔진을 쓰므로 CLAUDE.md·설정·MCP 서버가 그대로 적용되기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0491.md`
 - 🏛 공식 발표 · 클로드 코드에서 API 키로 페이블 5.2를 쓴다면 출력 토큰이 입력보다 5배 비싸고 캐시에서 다시 읽는 입력은 40분의 1 값이므로, 긴 자료는 매번 새로 넣지 말고 같은 맥락을 이어 쓰게 하고 결과물은 필요한 만큼만 길게 쓰게 해야 비용을 줄일 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0492.md`
 - 🏛 공식 발표 · 구글 Vertex로 클로드 코드를 쓰면서 fast mode를 켰다면 global·us·eu 리전에서만 지원되고 Vertex가 거부하면 표준 속도로 돌아가므로, 속도가 빨라지지 않았다면 리전 설정부터 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0493.md`
-- 🏛 공식 발표 · 클로드 코드 자동 모드에서 '이 세션은 무료 분류기 요청 대상이 아니다'라는 안내가 뜨면 중간에 낀 LLM 게이트웨이나 프록시가 원인인 경우가 많고, Enter로 계속하면 분류기 요청이 토큰 사용량으로 과금되므로 /status의 Auto mode server 항목부터 확인해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0419.md`
-- 🏛 공식 발표 · 계약서 여러 건을 AI에게 정리시켜 자료집을 만들 때는 여러 AI가 표 하나에 함께 요약해 넣게 하지 말고, 계약서마다 한 AI가 페이지를 따로 맡아 조건을 원문 그대로 옮기게 해야 중요한 조건이 빠지지 않는다. — Anthropic Engineering 블로그 → `items/ai-tools-0448.md`
-- 🏛 공식 발표 · CLAUDE.md처럼 AI가 매 세션 자동으로 읽는 지침 파일은 길게 늘리지 말고 꼭 필요한 내용만 남겨야 하는데, 지침이 길수록 잘 따르지 않고 그 안의 틀린 메모가 모든 세션에 그대로 따라가기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0449.md`
-- 🏛 공식 발표 · AI에게 문서 정리 위키를 만들게 했다면 위키가 원본 문서보다 커지지 않았는지 확인해야 하는데, 원본만큼 자세해진 위키는 정리 효과 없이 검색 비용만 늘린다. — Anthropic Engineering 블로그 → `items/ai-tools-0450.md`
 - 🏛 공식 발표 · 클로드 코드를 Homebrew나 WinGet으로 설치했다면 자동으로 업데이트되지 않으므로, brew upgrade나 winget upgrade를 주기적으로 실행해야 보안 수정을 놓치지 않는다. — Claude Code 공식 문서 → `items/ai-tools-0451.md`
 - 🏛 공식 발표 · 업무용 컴퓨터에 Homebrew로 클로드 코드를 설치할 때는 claude-code@latest 대신 claude-code를 고르는 편이 좋은데, 일주일쯤 늦게 받는 대신 큰 문제가 생긴 버전은 건너뛰기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0452.md`
 - 🏛 공식 발표 · 윈도우에서 WSL 없이 클로드 코드를 쓴다면 Git for Windows를 먼저 설치해야, 클로드 코드가 PowerShell 대신 Bash 도구로 명령을 실행할 수 있다. — Claude Code 공식 문서 → `items/ai-tools-0453.md`

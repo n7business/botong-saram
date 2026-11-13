@@ -13,7 +13,7 @@ sources:
   quote: 19 ~ 39세 서울시 거주 청년 중 (예비)창업희망자 및 일반인
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2026-11-25'
 supersedes: null
 superseded_by: null

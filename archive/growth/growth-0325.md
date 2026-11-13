@@ -1,0 +1,29 @@
+---
+id: growth-0325
+domain: growth
+claim: AI에 통관 판단처럼 전문 판단이 필요한 업무를 맡긴다면 AI가 어디서 틀렸고 사람이 어떻게 바로잡았는지, 어떤 경우에 예외 처리가 필요했는지를
+  계속 기록해 두어야 한다. 이 기록이 쌓일수록 같은 업무에 사람이 다시 손댈 일이 줄어든다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48936
+  author: 기묘한(트렌드라이트)
+  seen: '2026-11-14'
+  quote: AI가 어디서 틀렸고 사람이 어떻게 바로잡았는지
+  source: EO 플래닛
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI자동화
+- 데이터축적
+- 예외처리
+- 구매대행
+---
+통관 가능 여부처럼 소재·용도·인증에 따라 결론이 달라지는 판단은 AI가 인터넷 정보만으로 하기 어렵습니다. 모드픽은 실제로 통관된 상품, AI가 틀린 지점, 사람이 고친 방법, 예외 처리 사례를 계속 기록하고 여기에 주문·문의·판매 데이터를 연결해 둡니다. 단순 반복 업무는 경쟁사도 금방 자동화할 수 있지만, 현장에서 어떤 판단이 맞았고 틀렸을 때 어떻게 고쳤는지에 대한 기록은 따라 하기 어렵습니다. 이 기록은 AI가 필요할 때 바로 꺼내 쓸 수 있는 형태로 정리해 두는 것이 좋습니다.

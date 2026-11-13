@@ -13,7 +13,7 @@ sources:
   quote: 중간 탈락 시 환수 여부는 회차별 공고문에 명시 됩니다.
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0029
 domain: business-plan
 claim: 대학 창업보육센터 입주는 공간 임대가 아니라 본점 이전 조건이 붙으므로, 국립공주대 창업보육센터(2026-11-13 18:00 마감)처럼
   예비창업자는 입주 후 3개월 내 사업자등록, 기창업자는 3개월 내 본점 소재지 이전이 가능할 때만 신청해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

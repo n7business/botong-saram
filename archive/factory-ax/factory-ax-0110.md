@@ -13,7 +13,7 @@ sources:
   quote: 검증을 마친 기술에 대해서는 수요 기업을 매칭해 지역 반도체 공급망 진입을 돕는 역할도 맡는다 .
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

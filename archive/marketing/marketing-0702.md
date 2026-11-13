@@ -1,0 +1,29 @@
+---
+id: marketing-0702
+domain: marketing
+claim: 식품 판매 영상에는 현장감·신선함·저렴함이 반드시 보여야 하며, 이 셋이 빠지면 공들인 영상도 광고처럼 보여 주문으로 이어지지 않는다는
+  것이 이상한마케팅 진행자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=c4CgbFBBQ6A
+  author: 이상한마케팅 진행자
+  seen: '2026-11-14'
+  quote: 현장감, 신선하다, 싸다.
+  source: 이상한마케팅 (@isanghan_marketing)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 식품
+- 릴스
+- 쇼츠
+- 전환
+---
+식품을 파는 릴스·쇼츠에는 현장감, 신선함, 저렴함 세 가지가 꼭 들어가야 한다고 합니다. 예를 들어 전복을 3kg씩 보여 주는 식으로 싱싱하고 싸다는 점만 드러내도 조회수 1~2만에 주문이 몰린다고 말합니다. 반대로 기획과 편집에 힘을 들여도 이 세 가지가 빠지면 광고처럼 보여 전환이 일어나지 않는다는 것입니다. 주문 수치는 진행자의 관찰일 뿐 측정 자료는 제시되지 않았습니다.

@@ -3,7 +3,7 @@ id: business-plan-0035
 domain: business-plan
 claim: 방산 분야 진출을 희망하는 기술력 있는 중소기업은 2026-11-13까지 한국방위산업진흥회에 이메일로 신청하면 기술·경영·법률·행정 전문가
   컨설팅 비용의 75% 이내(기업당 1개 과제, 3천만원 한도)를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

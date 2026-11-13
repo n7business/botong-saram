@@ -13,7 +13,7 @@ sources:
   quote: 4,411억 원·선발 2만 명은 심의 결과에 따라 달라질 수 있는 정부안 수치
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

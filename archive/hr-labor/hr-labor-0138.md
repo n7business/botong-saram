@@ -42,8 +42,13 @@ sources:
   seen: '2026-11-11'
   quote: '"내일부터 나오지 마" 말 한마디로 끝났다'
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+- url: https://www.youtube.com/watch?v=hLq7TzHHaTU
+  author: 노무닥터 김기민 노무사 (@nomudoctor)
+  seen: '2026-11-14'
+  quote: 5인 이상 사업장은 해고 사유와 해고 시기를 반드시 서면으로 알려야 합니다.
+  source: 노무닥터 김기민 노무사 (@nomudoctor)
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-14'
 review_by: '2027-05-05'
 supersedes: null
 superseded_by: null

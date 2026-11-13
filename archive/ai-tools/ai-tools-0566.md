@@ -1,0 +1,29 @@
+---
+id: ai-tools-0566
+domain: ai-tools
+claim: AI 결과물에서 같은 지적이 두세 번 반복되면 사람이 기억해 두거나 늘 읽는 지시문에 계속 덧붙이지 말고, 해당 단계의 체크리스트·완료
+  조건이나 자동 검사로 옮겨 막아야 한다. 늘 읽는 지시문에 규칙이 쌓이면 AI가 지금 해야 할 일을 흐릿하게 이해하기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4039/
+  author: 요즘IT
+  seen: '2026-11-14'
+  quote: 늘 읽는 지시문에 규칙을 계속 쌓으면 AI가 지금 해야 할 일을 흐릿하게 이해하기 때문이라고 해요.
+  source: 요즘IT
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 체크리스트
+- 지시문
+- CLAUDE.md
+---
+반복되는 실수는 가장 확실한 방법부터 차례로 막습니다. 먼저 구조를 바꿔 실수할 수 없게 하고, 그다음 자동 검사·테스트로 막고, 문서에 적는 일은 마지막에 합니다. 한 개발자의 도구는 같은 품질 문제가 세 번 이상 쌓이면 규칙 후보로 뽑습니다. 개발자는 그 후보가 다른 작업에도 통하는지 검토한 뒤, 필요한 단계의 체크리스트와 완료 조건에만 넣었습니다. 이번 주에 쓰려는 지적을 지난주에도 썼다면 체크리스트로 옮길 때입니다.

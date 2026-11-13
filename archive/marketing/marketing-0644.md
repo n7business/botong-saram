@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-13'
   quote: 제목은 감정은 크게, 사실은 정확하게.
   source: 새벽리더 블로그 강의 (@MorningLeader)
+- url: https://www.youtube.com/watch?v=RYucMA2If90
+  author: 새벽리더 (@MorningLeader)
+  seen: '2026-11-14'
+  quote: 바닥과 천장 · 조합글 제목 공식
+  source: 새벽리더 블로그 강의 (@MorningLeader)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

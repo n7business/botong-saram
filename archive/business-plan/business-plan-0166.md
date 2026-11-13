@@ -3,7 +3,7 @@ id: business-plan-0166
 domain: business-plan
 claim: 서울창업허브M+ 2026년 하반기 입주(2026-11-13 23:59 마감)를 노리는 기업은 서울시·자치구 창업공간에 입주 중이거나 서울창업허브
   등 7대 거점시설을 이용한 이력이 있으면 제외될 수 있으므로, 사업계획서를 쓰기 전에 수혜 이력부터 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.95
 sources:

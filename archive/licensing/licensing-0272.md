@@ -13,7 +13,7 @@ sources:
   quote: 회화지도 강사(E-2)의 마약검사 항목이 기존 4종에서 6종으로 확대되었음을 알려드리니
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2027-05-08'
 supersedes: null
 superseded_by: null

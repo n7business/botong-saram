@@ -13,7 +13,7 @@ sources:
   quote: 반드시 ①(입주신청서류)와 ②(팀장면담) 모두 하셔야 접수가 완료됩니다.
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: '2026-11-30'
 supersedes: null
 superseded_by: null

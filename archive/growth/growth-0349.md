@@ -1,0 +1,30 @@
+---
+id: growth-0349
+domain: growth
+claim: 단기임대나 숙소용 집을 구할 때는 입지·임대료가 다 좋은 집보다 상태가 나빠 임대인이 처치 곤란해하는 집을 골라 직접 수리하는 조건으로
+  임대료를 낮추고 무상 임대 기간을 받아 볼 만하며, 한 운영자는 강남 8평 원룸에서 1년 무상 임대를 받아냈다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=5fBVBnykuMA
+  author: 장사 권프로 (@권프로) 출연 공간 사업 운영자
+  seen: '2026-11-14'
+  quote: 저는 컨디션이 안 좋은 집들을 더 선호하긴 해요.
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 단기임대
+- 임대차
+- 협상
+- 렌트프리
+- 매물
+---
+입지와 상태가 다 좋은 집은 임대인이 조건을 양보하지 않으므로 협상할 여지가 거의 없습니다. 반대로 상태가 나쁜 집은 초기 비용이 더 들더라도 임대료를 낮추고 렌트프리 기간을 길게 받아낼 수 있습니다. 한 운영자는 강남의 약 8평 분리형 원룸을 보증금 1천만 원·월 70만 원에 계약하고, 직접 꾸미고 수리하는 조건으로 1년 무상 임대를 받았습니다. 세팅비는 약 300만 원이 들었고, 월 단위로 200만 원 초반을 받아 임대료의 약 3배가 나온다고 합니다. 수리 범위와 원상복구 조건은 계약서에 적어 두어야 합니다.

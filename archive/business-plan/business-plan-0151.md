@@ -3,7 +3,7 @@ id: business-plan-0151
 domain: business-plan
 claim: 대·중견기업과의 협업을 찾는 벤처·스타트업은 2026-11-13까지 벤처기업협회의 COMEUP 2026 오픈이노베이션 밋업에 참가를 신청하면,
   정밀매칭을 거쳐 12월 9~11일 코엑스 행사장에서 1:1 비즈니스 미팅을 할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.75
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

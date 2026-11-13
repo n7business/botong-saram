@@ -3,7 +3,7 @@ id: business-plan-0149
 domain: business-plan
 claim: 성동청년 창업이룸센터 10차 입주는 예비창업자라면 공고일 기준 성동구 주민등록과 입주계약 후 3개월 이내 창업이, 창업기업이라면 성동구
   사업자등록 또는 입주계약 후 5개월 이내 이전이 요건이므로, 2026-11-13 23:59 마감 전에 주소 요건부터 확인해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

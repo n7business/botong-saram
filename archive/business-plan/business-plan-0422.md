@@ -13,7 +13,7 @@ sources:
   quote: 2027년 초에 공고가 집중될 가능성이 크며, 그 전에 준비를 끝내두는 것이 유리합니다.
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-14'
 review_by: null
 supersedes: null
 superseded_by: null

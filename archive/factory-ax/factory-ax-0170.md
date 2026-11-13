@@ -1,0 +1,31 @@
+---
+id: factory-ax-0170
+domain: factory-ax
+claim: PHP2Shell 취약점 점검을 직접 하려는 사업자는 인터넷에 돌아다니는 출처 불분명한 공격 재현 코드(PoC)를 자기 서버나 PC에서
+  실행하지 말아야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.smart-factory.kr/usr/np/nm/ma/noticeMatterDetail
+  author: 중소기업기술정보진흥원(과기정통부·KISA 요청 안내)
+  seen: '2026-11-14'
+  quote: 출처가 불분명한 PoC 실행 지양
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: '2027-02-12'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 보안
+- PHP
+- PHP2Shell
+- PoC
+- 홈페이지
+verified_by: 공식 출처
+---
+PHP2Shell은 공격코드가 이미 공개된 취약점이라, '취약한지 확인해 보는 코드'라며 퍼지는 PoC가 많습니다. 과기정통부·KISA의 기업 보안 대응 수칙은 출처가 불분명한 PoC는 실행하지 말라고 안내합니다. 출처를 모르는 코드는 그 자체가 악성코드일 수 있습니다. 취약 여부는 PHP 버전을 확인해 판단하고, 확인이 어려우면 호스팅 업체나 공급기업에 문의하는 편이 안전합니다.

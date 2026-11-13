@@ -3,7 +3,7 @@ id: business-plan-0042
 domain: business-plan
 claim: 충남 서산시의 어업인·어업법인·생산자단체가 유기수산물·무항생제 친환경 인증을 받았다면 2026-11-13까지 서산시청 해양수산과에 방문·우편
   신청해 인증 건당 최대 100만원의 인증수수료를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

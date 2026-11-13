@@ -1,0 +1,29 @@
+---
+id: marketing-0698
+domain: marketing
+claim: 상세 페이지를 고칠 때는 잘 팔리는 상세 페이지를 복사해 AI에 넣고 왜 잘 짜였는지 분석해 공식을 만들게 한 뒤, 내 상세 페이지를
+  함께 주고 그 장점대로 고쳐 달라고 해야 한다는 것이 이상한마케팅 진행자의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=c4CgbFBBQ6A
+  author: 이상한마케팅 진행자
+  seen: '2026-11-14'
+  quote: 이 상세 페이지가 왜 잘 짜졌는지 분석하고 공식을 만들어 봐
+  source: 이상한마케팅 (@isanghan_marketing)
+first_seen: '2026-11-14'
+last_confirmed: '2026-11-14'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 상세페이지
+- AI활용
+- 레퍼런스분석
+- 스마트스토어
+---
+잘되는 상세 페이지를 하나 골라 내용을 복사한 뒤 AI에 붙여 넣습니다. 그리고 '이 상세 페이지가 왜 잘 짜졌는지 분석하고 공식을 만들어 봐'라고 시킵니다. 다음으로 내 상세 페이지를 함께 주고 '이 장점을 바탕으로 내 상세 페이지를 고쳐 줘'라고 요청합니다. 같은 방법을 릴스·쇼츠·홈페이지에도 쓸 수 있다고 합니다. AI가 내놓은 결과는 그대로 쓰지 말고 직접 읽어 본 뒤 쓸 만한 것만 골라 넣어야 합니다. 출연한 정육점 사장님은 이렇게 상세 페이지만 고쳐서 네이버 쪽 월 매출이 3,600만 원에서 8,100만 원으로 올랐다고 말했습니다. 다만 한 업체의 한 달 사례일 뿐입니다.

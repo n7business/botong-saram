@@ -11,3 +11,5 @@ AI 답변은 날짜와 조건에 따라 달라지므로 한 번 물어본 결과
   > 같은 질문을 날짜를 바꿔 여러 번 확인합니다.
 - ONSITE 류준영 · 2026-11-10 · https://www.openads.co.kr/content/contentDetail?contsId=21122
   > 지도형 목록에 나온 것은 따로 표시하고 효과로 세지 않겠습니다.
+- GEO리드젠랩 · 2026-11-07 · https://www.openads.co.kr/content/contentDetail?contsId=20966
+  > 한 번의 화면 캡처로 노출 여부를 판단하면 안 됩니다.

@@ -3,7 +3,7 @@ id: business-plan-0306
 domain: business-plan
 claim: 창업 7년 미만(신산업 분야는 10년 미만) 기업이나 예비창업자가 2026년 하반기 서울창업허브M+에 들어가려면 2026-11-13 23:59까지
   온라인으로 신청해야 하며, 입주계약 뒤 30일 안에 주소를 M+로 옮길 수 있어야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

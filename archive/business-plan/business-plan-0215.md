@@ -3,7 +3,7 @@ id: business-plan-0215
 domain: business-plan
 claim: 강남구에 주 사무소를 둔 지 2년 이상인 상시근로자 5~49인 중소기업은 2025-09-30 대비 2026-09-30 고용이 3명 이상,
   5% 이상 늘었다면 2026-11-13 18:00까지 일자리 창출 우수기업 인증을 신청해 지방세 세무조사 면제와 지원사업 가점을 노릴 수 있다.
-status: candidate
+status: expired
 evidence: consensus
 confidence: 0.75
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 엠마쌤 (@emmassam)
 first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

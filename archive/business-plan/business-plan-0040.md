@@ -3,7 +3,7 @@ id: business-plan-0040
 domain: business-plan
 claim: 전남광주 소재 수산물 생산·가공업체가 2026-11-13까지 이메일(PDF)로 신청하면 2026 푸드페어(부산 벡스코, 11-26~29)
   부스 임차료·장치비·홍보비를 기업당 최대 300만원까지 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

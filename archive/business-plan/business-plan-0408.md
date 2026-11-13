@@ -3,7 +3,7 @@ id: business-plan-0408
 domain: business-plan
 claim: 충북Pro메이커센터 2026 베트남 제조창업 스케일업 프로그램은 2026-11-13 13:00까지 이메일(cbyy12@chungbuk.ac.kr)로만
   접수하며, 체제비는 기업당 1명분만 나오고 기내 반입·위탁수하물 금지 물품과 관련된 아이템은 신청할 수 없다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-13'
 last_confirmed: '2026-11-13'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null

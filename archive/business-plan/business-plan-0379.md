@@ -3,7 +3,7 @@ id: business-plan-0379
 domain: business-plan
 claim: 강원 태백시에 사업장을 두고 사업주 주민등록 주소지도 태백시인 사업주가 지역 청년을 고용하면, 2026-11-13까지 태백시청에 방문
   신청해 청년 근로자 인건비 월 100만원과 교통비 월 10만원을 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

@@ -3,7 +3,7 @@ id: business-plan-0365
 domain: business-plan
 claim: 전남광주통합특별시장 품질인증 제품을 가진 업체는 2026-11-13까지 인증제품 포장디자인 제작 지원사업에 신청하면 디자인 개발과 시제품
   제작비를 최대 900만 원까지 받을 수 있지만, 1개소만 뽑고 포장 개선이 시급한 신규 인증업체를 먼저 지원한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.7
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 엠마쌤 (@emmassam)
 first_seen: '2026-11-11'
 last_confirmed: '2026-11-11'
-review_by: null
+review_by: '2026-11-13'
 supersedes: null
 superseded_by: null
 experiment: null
