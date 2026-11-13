@@ -3,7 +3,7 @@ id: business-plan-0302
 domain: business-plan
 claim: 방위사업청 2026년 2차 유망수출품목발굴 지원사업(2026-11-12 마감)에 신청하는 방산 중소·중견기업은 국방기술진흥연구소 PMS에서
   온라인 접수를 마친 뒤 수출사업관리팀에 전화해 접수 여부를 따로 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

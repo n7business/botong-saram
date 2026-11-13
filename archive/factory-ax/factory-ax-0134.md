@@ -14,7 +14,7 @@ sources:
   quote: 구버전(PHP 8.1 이하)은 지원 버전으로 전환
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-11'
+last_confirmed: '2026-11-13'
 review_by: '2027-02-09'
 supersedes: null
 superseded_by: null

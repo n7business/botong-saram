@@ -4,7 +4,7 @@ domain: business-plan
 claim: 만 19~45세 청년 예비창업자나 업력 7년 이내 사업자는 2026-11-12 17:00까지 전남광주통합특별시 '지역자원 연계 청년창업
   지원사업'에 신청할 수 있지만, 사업화 지원 대상으로 뽑히면 인구감소지역에서 창업하거나 본사를 옮겨야 하고 주민등록도 반드시 옮겨야 하므로 신청
   전에 이전이 가능한지부터 따져 봐야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 엠마쌤 (@emmassam)
 first_seen: '2026-11-11'
 last_confirmed: '2026-11-11'
-review_by: null
+review_by: '2026-11-12'
 supersedes: null
 superseded_by: null
 experiment: null

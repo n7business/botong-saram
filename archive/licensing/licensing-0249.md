@@ -13,7 +13,7 @@ sources:
   quote: 전자입국신고 수수료는 무료입니다. 결제정보 입력을 요구하는 사이트는 공식 서비스가 아닙니다.
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

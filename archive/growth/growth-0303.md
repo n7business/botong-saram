@@ -1,0 +1,29 @@
+---
+id: growth-0303
+domain: growth
+claim: AI 코딩 도구나 AI 에이전트에게 기획서를 넘겨 일을 시킬 때는 '구글 로그인 → 카카오 로그인'처럼 바뀐 결정만 적지 말고 바꾼 이유와
+  누가 제안했는지까지 같은 기준 문서에 적어 두어야 AI가 빈칸을 추측으로 채우지 않는다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/48920
+  author: 조쉬의 뉴스레터(매니패스트 허재혁 대표 인터뷰)
+  seen: '2026-11-13'
+  quote: 그런데 AI는 텍스트만 있고 누가 제안했는지도 모르면 추측을 하게 됩니다.
+  source: EO 플래닛
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 기획서
+- 기준문서
+- 의사결정기록
+---
+회의에 있던 사람은 결정이 바뀐 이유를 알지만, 문서에 '바뀌었다'만 남으면 AI는 텍스트만 보고 추측합니다. 매니패스트 허재혁 대표는 이런 추측이 쌓이면 코드가 꼬이거나 큰 사고가 날 수 있다고 말합니다. 기준 문서는 하나만 두고, 결정이 바뀔 때마다 변경 내용과 이유·제안자·날짜를 그 문서에 계속 쌓으세요. 특정 시점 사본(스냅샷)을 보기 좋게 정리한 한 페이지는 기준 문서가 아닙니다. 회의록과 기획서가 어긋나면 어느 쪽이 우선인지도 정해 두어야 합니다.

@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-11'
   quote: 전산 마감 종료일 20시 기준으로 채점하며, 반드시 고용허가서발급신청이 처리 완료되어야 합니다.
   source: 고용허가제 EPS
+- url: https://www.eps.go.kr/eo/NotiR.eo?bbswSn=3835
+  author: 한국고용정보원 외국인고용서비스팀(박세은)
+  seen: '2026-11-13'
+  quote: 전산 마감 종료일 20시 기준으로 채점하며, 반드시 고용허가서발급신청이 처리 완료되어야 합니다.
+  source: 고용허가제 EPS
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-11'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

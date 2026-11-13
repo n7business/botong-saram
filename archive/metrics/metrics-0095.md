@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-06'
   quote: 세가지 지표가 성장 추세를 보인다면 2026년에 매출이 올라갈 가능성이 높은 것이죠.
   source: 아웃스탠딩
+- url: https://outstanding.kr/bigmobility20261112
+  author: 아웃스탠딩
+  seen: '2026-11-13'
+  quote: 방문자 수와 소비자 거래액이 2026년에도 우상향하고 있기 때문입니다
+  source: 아웃스탠딩
 first_seen: '2026-11-06'
-last_confirmed: '2026-11-06'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

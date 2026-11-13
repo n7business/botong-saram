@@ -3,7 +3,7 @@ id: business-plan-0324
 domain: business-plan
 claim: 핀테크 예비창업자나 창업 5년 이내 기업은 2026-11-12 16:00까지 전북 핀테크 라이징 스타 챌린지에 신청할 수 있고, 대상을
   받은 뒤 1년 안에 전북으로 본사를 옮기면 사업화지원금 3,000만원을 더 받지만 1년 안에 폐업·휴업하거나 전북 밖으로 옮기면 전액 환수된다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

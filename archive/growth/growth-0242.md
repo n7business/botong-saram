@@ -13,7 +13,7 @@ sources:
   quote: 자유이용의 경우 반드시 저작물의 출처를 구체적으로 표시하여야 합니다.
   source: 소상공인365 (소진공 빅데이터 플랫폼)
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-11'
+last_confirmed: '2026-11-13'
 review_by: '2027-02-07'
 supersedes: null
 superseded_by: null

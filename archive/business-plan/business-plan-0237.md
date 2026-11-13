@@ -3,7 +3,7 @@ id: business-plan-0237
 domain: business-plan
 claim: 방위산업 분야의 완제품·구성품·부품·소프트웨어를 연구개발하거나 생산하는 중소·중견기업은 2026-11-12까지 유망수출품목발굴 지원사업에
   신청하면 해외 인증 획득, 수출 컨설팅, 해외 성능 시현 비용의 70~75%를 정부지원금 최대 5,000만원까지 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:

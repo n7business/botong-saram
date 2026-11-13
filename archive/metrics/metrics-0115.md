@@ -2,7 +2,7 @@
 id: metrics-0115
 domain: metrics
 claim: 창업 예산은 가진 돈에 딱 맞추지 말고, 최소 6개월치 운영 자금을 예산에 넣을 수 있을 때 시작한다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.65
 sources:
@@ -23,5 +23,6 @@ tags:
 - 창업자금
 - 운영자금
 - 현금관리
+merged_into: metrics-0020
 ---
 예산이 1억 5천만 원인데 가진 돈도 1억 5천만 원이라면 시작하지 않는 것이 화자의 기준이다. 적어도 6개월 운영 자금을 예산에 함께 넣어야 한다. 화자는 사업 판단을 가장 많이 실수하는 때가 당장 돈에 허덕일 때라고 본다. 오픈 후 매출이 1~2개월 만에 올라온 매장도 3~4개월 걸렸다면 매우 힘들었을 것이라고 말한다.

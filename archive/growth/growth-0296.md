@@ -13,7 +13,7 @@ sources:
   quote: 콘텐츠는 사람을 모아주지만 모인 사람에게 건넬 게 없으면 거기서 끝난다
   source: 태오의 실행비즈니스 (@teo_daily_business)
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

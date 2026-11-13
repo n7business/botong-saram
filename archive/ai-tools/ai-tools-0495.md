@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-12'
   quote: 한번 물어보고 진행을 해 주시는 게 좋습니다.
   source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+- url: https://www.youtube.com/watch?v=eTM3zIVFkp4
+  author: 코드깎는노인
+  seen: '2026-11-13'
+  quote: 이때는 캐릭터 시트가 아니라 한 마리가 서 있는 그림을 씁니다.
+  source: 코드깎는노인
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

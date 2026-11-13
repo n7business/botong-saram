@@ -1,0 +1,30 @@
+---
+id: law-basics-0273
+domain: law-basics
+claim: 창업 전 아이디어를 특허로 만들고 싶은 예비창업자는 특허청 IP 디딤돌 프로그램으로 특허출원비용을 170만 원 한도에서 지원받을 수 있고,
+  본인 부담 20%는 IP창업Zone 교육을 수료하면 면제받을 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.kipo.go.kr/ko/topMenuLink.do?menuCd=SCD0200306
+  author: 특허청(지식재산처)
+  seen: '2026-11-13'
+  quote: 사업아이템의 특허출원비용 (170만원 이내)
+  source: 특허청 (상표)
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 특허
+- 예비창업
+- 지원사업
+- IP디딤돌
+- 출원비용
+---
+IP 디딤돌 프로그램은 창의적 아이디어가 있는 예비창업자를 대상으로 아이디어 상담, 창업교육, 아이디어 고도화를 거쳐 사업아이템의 특허출원까지 지원합니다. 특허출원비용은 170만 원 이내에서 정부가 80%, 개인이 20%를 부담합니다. 개인 부담 20%는 IP창업Zone 교육을 수료하면 면제될 수 있습니다. 관납료 등 추가 비용은 따로 생길 수 있으니 신청 전에 확인해야 합니다. 사업자등록 전 단계에서 신청하는 제도이므로 창업 시점을 정하기 전에 먼저 알아보는 것이 좋습니다.

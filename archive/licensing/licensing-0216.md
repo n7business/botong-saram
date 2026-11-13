@@ -13,7 +13,7 @@ sources:
   quote: 외부 기관에 제공 시 성명에 붙임표(하이픈, “-”) 없이 실제 성명으로 제공
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

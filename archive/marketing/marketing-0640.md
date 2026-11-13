@@ -1,0 +1,29 @@
+---
+id: marketing-0640
+domain: marketing
+claim: 네이버 크리에이터샵에서는 컬렉션 만들기보다 상품 등록을 먼저 해야 하며, 순서를 거꾸로 하면 담을 상품이 없다고 나와 처음 하는 사람들이
+  많이 헤맨다는 것이 새벽리더의 안내다.
+status: candidate
+evidence: anecdote
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=shWNRS6W9PA
+  author: 새벽리더
+  seen: '2026-11-13'
+  quote: 네, 컬렉션보다 상품 등록이 먼저예요.
+  source: 새벽리더 블로그 강의 (@MorningLeader)
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- 크리에이터샵
+- 쇼핑커넥트
+- 컬렉션
+---
+크리에이터샵을 연 뒤 바로 '컬렉션 만들기'를 누르면 담을 상품이 없다는 안내가 나옵니다. 상품부터 등록한 다음 컬렉션을 만드세요. 상품은 네이버쇼핑에서 실제로 산 것, 찜한 것, 장바구니에 담아 둔 것에서 불러올 수 있고, 쇼핑커넥트 탭에서 미리 링크를 발급해 둔 상품도 고를 수 있습니다. 등록하면 수수료 대상 상품은 쇼핑커넥트 링크로 자동 전환됩니다. 그다음 컬렉션 제목을 쓰고 상품을 담아 저장한 뒤, 프로필 옆 공유 버튼으로 링크를 복사해 블로그나 인스타 프로필에 겁니다. 화자는 화면만 따라 하면 10분이면 된다고 말합니다.

@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-09'
   quote: 본인이 변호사비용과 인지대 전부를 부담한 비용은 9.8%에 불과하며
   source: 대한법률구조공단
+- url: https://www.klac.or.kr/legalstruct/outlineOfLitigationStruct.do
+  author: 대한법률구조공단
+  seen: '2026-11-13'
+  quote: 공단 소송구조 사건의 90%이상이 무료 법률구조대상자 사건이므로 비용은 크게 걱정하지 않으셔도 됩니다.
+  source: 대한법률구조공단
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-09'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -1,0 +1,31 @@
+---
+id: marketing-0626
+domain: marketing
+claim: 홈페이지의 없는 페이지 안내는 「페이지가 없습니다」라는 문구만 띄우고 정상(200) 응답을 보내지 말고, 실제로 404 응답 코드를 돌려주게
+  만들어야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-create
+  author: NAVER Corp. (네이버 서치어드바이저)
+  seen: '2026-11-13'
+  quote: “페이지가 없습니다”라는 내용만 출력하고 HTTP 200 OK return 하지 말아 주세요.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: '2027-01-12'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- '404'
+- 오류페이지
+- HTTP
+verified_by: 공식 출처
+---
+네이버는 오류 페이지가 의미 있는 HTTP 응답 코드를 유지하도록 요구합니다. 없는 페이지는 404 Not Found, 권한 없는 페이지는 403, 서버 과부하는 503으로 응답해야 합니다. 「페이지가 없습니다」라는 내용만 보여 주고 200 OK를 돌려주거나, 오류 페이지로 이동(redirect)시키면 안 됩니다. 방문자에게 보이는 안내 화면은 사이트에 맞게 꾸며도 되지만, 응답 코드는 규약대로 유지해야 합니다. 직접 확인이 어렵다면 제작업체에 확인을 요청하세요.

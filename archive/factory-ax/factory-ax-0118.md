@@ -13,7 +13,7 @@ sources:
   quote: 2026년 스마트공장 보급확산사업 세부관리기준 전문(2026.8.26. 개정)을 첨부와 같이 게시
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-09'
+last_confirmed: '2026-11-13'
 review_by: '2027-02-07'
 supersedes: null
 superseded_by: null

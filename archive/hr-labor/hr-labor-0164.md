@@ -18,7 +18,7 @@ sources:
   quote: '[보도참고자료] 2027년도 적용 최저임금안 시간급 10,700원'
   source: 최저임금위원회 보도자료
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

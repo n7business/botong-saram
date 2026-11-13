@@ -1,0 +1,29 @@
+---
+id: marketing-0648
+domain: marketing
+claim: AI로 광고를 만들더라도 기획·선별·검토·수정 같은 사람의 역할과 제작 과정을 광고에 보여 주어야, 고객이 '노력을 덜 들였다'고 보고
+  제품 품질까지 낮게 판단하는 일을 줄일 수 있다는 것이 컨설팅사의 권고다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=21194
+  author: BX컨설팅
+  seen: '2026-11-13'
+  quote: AI를 활용했더라도 인간이 담당한 기획·선별·검토·수정 등의 역할을 소비자가 이해할 수 있도록 커뮤니케이션하십시오.
+  source: 오픈애즈
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI광고
+- 스토리텔링
+- 광고제작
+- 신뢰
+---
+연구에서 AI 활용 공개가 반응을 떨어뜨린 주된 경로는 '노력을 덜 들였다'는 인식이었습니다. 이 인식이 제품 품질을 낮게 보는 판단으로 이어졌습니다. 그래서 AI를 숨기거나 드러내는 것보다 브랜드가 들인 노력이 보이게 만드는 것이 핵심이라고 컨설팅사는 권합니다. 광고에 무엇을 고민했고 어떤 과정을 거쳐 완성했는지, 사람이 맡은 기획·고르기·검토·수정을 함께 보여 주십시오. 'AI로 빠르게 만들었다'는 효율만 내세우는 표현은 피하는 편이 낫습니다.

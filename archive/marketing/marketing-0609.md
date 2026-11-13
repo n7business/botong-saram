@@ -13,7 +13,7 @@ sources:
   quote: 스레드에만 9,000개 글을 썼는데 전부 엑셀에 기록해 분석합니다.
   source: 커리어노마드 (@careernomad_)
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

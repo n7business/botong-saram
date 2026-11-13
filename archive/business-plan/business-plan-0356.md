@@ -3,7 +3,7 @@ id: business-plan-0356
 domain: business-plan
 claim: 충남 논산시에 있는 농식품 업체나 단체는 2026-11-12까지 논산시청 농산물유통지원센터에 방문하거나 이메일로 신청서를 내면 행사 부스비·렌탈비·홍보판촉물·현수막·인쇄물
   제작비를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

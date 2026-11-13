@@ -1,0 +1,31 @@
+---
+id: marketing-0653
+domain: marketing
+claim: AI 가상인물로 인스타 계정을 운영할 때는 먼저 고른 캐릭터 이미지를 레퍼런스로 넣어 같은 인물의 전신 정면·뒷모습·얼굴 클로즈업 상반신을
+  한 장에 담은 캐릭터 시트를 만들고, 이후 영상은 이 시트를 레퍼런스로 넣어 생성해야 인물이 바뀌지 않는다는 것이 인스타언니 초이픽스의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=dX-PVIzZoh8
+  author: 인스타언니 초이픽스 (@insta_unnei_choi)
+  seen: '2026-11-13'
+  quote: 이 시트가 앞으로 계속 쓸 기본 모델이 된다고 설명한다.
+  source: 인스타언니 초이픽스 (@insta_unnei_choi)
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인스타그램
+- AI영상
+- AI캐릭터
+- 캐릭터시트
+- 일관성
+- 릴스
+---
+AI 캐릭터로 계정을 운영하려면 게시물마다 같은 인물로 보여야 합니다. 화자는 먼저 머리부터 발끝까지 외관을 자세히 적어 이미지를 여러 장 만들고, 그중 가장 마음에 드는 한 장을 고릅니다. 그다음 그 이미지를 레퍼런스로 넣고 '전신 정면, 뒷모습, 얼굴 클로즈업 상반신' 세 구도를 스튜디오 배경에 담은 캐릭터 시트를 만들며, 이때 머리부터 발끝까지 바뀌지 않게 하라고 적습니다. 영상을 만들 때는 처음 고른 이미지가 아니라 이 캐릭터 시트를 레퍼런스로 넣습니다. 이 방법은 특정 유료 도구(힉스필드)를 소개하는 영상에서 나온 한 사람의 작업 방식이며, 효과를 수치로 보여 주지는 않았습니다.

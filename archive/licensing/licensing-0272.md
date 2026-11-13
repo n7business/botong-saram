@@ -1,0 +1,35 @@
+---
+id: licensing-0272
+domain: licensing
+claim: 회화지도 강사(E-2)의 마약검사 항목이 4종에서 6종으로 늘었으므로, 외국인 회화강사를 채용하는 학원·교습소는 예전 4종 기준 채용신체검사서를
+  받지 말고 바뀐 6종 기준으로 검사를 받게 해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.hikorea.go.kr/board/BoardNtcDetailR.pt?BBS_GB_CD=BS10&BBS_SEQ=1&NTCCTT_SEQ=2024
+  author: 법무부 출입국·외국인정책본부(하이코리아)
+  seen: '2026-11-13'
+  quote: 회화지도 강사(E-2)의 마약검사 항목이 기존 4종에서 6종으로 확대되었음을 알려드리니
+  source: 하이코리아 (출입국·비자)
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: '2027-05-08'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 법무부지정 의료기관의 요건 및 지정절차(법무부고시 제2026-374호)
+  article: null
+  effective: '2026-11-13'
+contributor: null
+tags:
+- 외국인고용
+- E-2
+- 회화강사
+- 마약검사
+- 학원
+verified_by: 공식 출처
+mentions: 1
+---
+법무부는 회화지도 강사(E-2) 사증·체류 심사 때 내는 마약검사 항목을 기존 4종에서 6종으로 늘렸습니다. 외국인 원어민 강사를 새로 채용하거나 체류 연장을 준비하는 학원·교습소는 강사가 예전 양식이나 4종 기준으로 받은 검사서를 그대로 내지 않도록 확인해야 합니다. 검사는 법무부 지정 의료기관에서 받아야 하고, 지정 요건과 절차는 법무부고시 제2026-374호에 있습니다. 바뀐 항목과 채용신체검사서 양식은 하이코리아 공지 첨부파일(국문·영문)에서 확인하십시오.

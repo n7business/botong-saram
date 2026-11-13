@@ -13,7 +13,7 @@ sources:
   quote: 책을 알리고 싶은데 광고비가 없다? 그럼 전국 서점과 모임 공간에 북토크를 먼저 제안하면 된다.
   source: 캡선생 김용석 (@kap_writing)
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

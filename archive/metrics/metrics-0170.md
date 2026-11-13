@@ -13,7 +13,7 @@ sources:
   quote: 법정 납품대금 지급기한이 1975년 이후 60일로 유지되어 온 점
   source: 중소벤처기업부 보도자료
 first_seen: '2026-11-11'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: '2027-05-10'
 supersedes: null
 superseded_by: null

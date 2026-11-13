@@ -13,7 +13,7 @@ sources:
   quote: 대행기관 및 그 구성원과 소속직원 모두 유효기간 내 보수교육을 이수하여야 하오니
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-10'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: '2027-05-09'
 supersedes: null
 superseded_by: null

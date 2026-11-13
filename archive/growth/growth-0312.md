@@ -1,0 +1,29 @@
+---
+id: growth-0312
+domain: growth
+claim: 토스 미니앱 사업자 인증을 서류 첨부로 승인받았다면 상호가 비어 있거나 반영 과정에서 오타가 날 수 있으므로, 반영됐다는 답을 받은 뒤
+  '내 정보'의 상호를 한 글자씩 확인해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://disquiet.io/products/71a5be0e-2a7c-4939-ad25-e56eaa60338b
+  author: 허찬영
+  seen: '2026-11-13'
+  quote: 서류 첨부로 승인받으면 상호가 비어 있을 수 있고, 반영 과정에서 오타가 날 수 있다.
+  source: 디스콰이엇
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 토스미니앱
+- 사업자인증
+- 상호
+- 플랫폼입점
+---
+토스 앱 인증에서 홈택스 정보 불러오기가 실패하면 PC 웹에서 사업자등록증을 직접 첨부해 승인받을 수 있다. 다만 한 개발자는 이 방법으로 승인받은 뒤 '내 정보'의 상호가 '-'로 비어 있었고, 수정하기를 누르면 다시 실패하는 앱 인증을 요구받았다고 전한다. 문의 후 채워진 상호도 '딱따구리AI'가 '떡따구리A1'로 잘못 들어가 있었고, 정정을 요청해 바로잡기까지 2주 가까이 더 걸렸다. 문의할 때는 승인 메일 캡처처럼 상황을 보여 주는 자료를 함께 붙이고, 반영됐다는 답을 받으면 직접 한 글자씩 대조해야 한다.

@@ -9,3 +9,5 @@
 ## 출처
 - 법제처 찾기 쉬운 생활법령정보 · 2026-11-12 · https://www.easylaw.go.kr/CSP/CnpClsMain.laf?csmSeq=568&ccfNo=1&cciNo=1&cnpClsNo=1
   > ① 수표금·약속어음금 청구사건
+- 법제처 생활법령정보 · 2026-11-03 · https://www.easylaw.go.kr/CSP/CnpClsMain.laf?popMenu=ov&csmSeq=568&ccfNo=1&cciNo=1&cnpClsNo=1
+  > 소송목적의 값이 5억원을 초과하는 민사사건(「민사 및 가사소송의 사물관할에 관한 규칙」 제2조 본문)

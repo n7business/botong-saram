@@ -1,0 +1,30 @@
+---
+id: ai-tools-0512
+domain: ai-tools
+claim: AI에게 메모를 남기게 할 때는 화면이나 시스템에서 언제든 다시 확인할 수 있는 현재 상태까지 적게 하지 말고, 직접 알아낸 전략·계획·검증한
+  규칙만 남기게 해야 하는데, 모든 것을 기록한 AI는 낡은 메모를 뒤지느라 정작 일을 하지 못했기 때문이다.
+status: verified
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://www.anthropic.com/research/components-of-agent-memory
+  author: Anthropic Engineering
+  seen: '2026-11-13'
+  quote: can be read off the screen every turn, so storing it is redundant
+  source: Anthropic Engineering 블로그
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: '2026-12-10'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- agent-memory
+- 메모
+- claude
+verified_by: 실무자 실측(단일 출처)
+mentions: 1
+---
+잔액·현재 위치처럼 매번 화면에서 바로 읽을 수 있는 정보는 메모로 남겨도 쓸모가 없고, 상황이 바뀌면 금방 틀린 정보가 됩니다. Anthropic의 포켓몬 게임 실험에서 모든 것을 기록한 Sonnet 3.7은 225개 폴더에 메모 파일 413개를 만들었지만 배지를 1개밖에 얻지 못했습니다. 어떤 구간에서는 17단계 동안 파일 6개를 만들고 9개를 지우면서 게임은 한 번도 진행하지 않았습니다. 반면 Fable 5는 현재 목표·계획·스스로 검증한 규칙만 파일 9개와 대시보드 파일 하나에 정리해 배지 4개를 얻었습니다. 업무에서도 직접 확인해 얻은 요령과 다음 할 일만 남기게 하는 편이 낫습니다.

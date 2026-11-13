@@ -13,7 +13,7 @@ sources:
   quote: 특히 생기원이 자원효율등급제와 재생원료 인증제 추진 방안을 발표한다.
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: '2027-02-05'
 supersedes: null
 superseded_by: null

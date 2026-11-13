@@ -1,0 +1,29 @@
+---
+id: ai-tools-0536
+domain: ai-tools
+claim: AI 영상의 장면 프롬프트에는 누가 등장하는지, 어떤 행동을 하는지, 카메라가 어떻게 움직이는지, 어떤 소리가 들리는지 네 가지를 넣고,
+  다음 장면은 장소처럼 한 곳만 바꿔 만들면 같은 캐릭터로 새 장면을 쉽게 만들 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=eTM3zIVFkp4
+  author: 코드깎는노인
+  seen: '2026-11-13'
+  quote: 이렇게 장소만 수정해도 새로운 장면을 만들 수 있습니다.
+  source: 코드깎는노인
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 프롬프트
+- Seedance
+- 장면구성
+---
+화자는 장면 프롬프트에 등장인물, 행동, 카메라 움직임, 소리의 네 가지를 넣었습니다. 예를 들어 '해 질 녘 도시 광장에서 금 정육면체를 올려다봄, 카메라는 뒤쪽 낮은 곳에서 위로 올라감, 발소리와 금속이 은은하게 울리는 소리'처럼 적습니다. 결과물은 얼굴, 옷차림, 움직임을 기준으로 확인하고, 마음에 들지 않으면 프롬프트를 고쳐 다시 생성합니다. 마음에 드는 프롬프트가 생기면 나머지는 그대로 두고 장소만 '밤의 텅 빈 축구 경기장'처럼 바꿔도, 같은 캐릭터가 나오는 새 장면을 만들 수 있습니다.

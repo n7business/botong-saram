@@ -13,7 +13,7 @@ sources:
   quote: 감으로 쓴 시장 설명은 중간 라운드에서 가장 먼저 무너집니다.
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

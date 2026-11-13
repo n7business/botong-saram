@@ -13,7 +13,7 @@ sources:
   quote: 1라운드 통과 지원금 200만 원 → 500만 원
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-13'
 review_by: null
 supersedes: null
 superseded_by: null

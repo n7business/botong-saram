@@ -1,0 +1,29 @@
+---
+id: growth-0319
+domain: growth
+claim: 상담 자동화 도구를 붙이기 전에 전화·문자·카카오톡·홈페이지 문의·이메일로 흩어진 상담 창구를 한 곳으로 모아야 하며, 창구가 흩어져
+  있으면 자동화 효과가 반쪽이 된다고 전한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://channel.io/kr/blog/articles/cs-automation-guide-0535215d
+  author: 채널톡(DD · AE)
+  seen: '2026-11-13'
+  quote: 어떤 자동화 도구를 붙여도 효과가 반쪽이 됩니다.
+  source: 채널톡 블로그
+first_seen: '2026-11-13'
+last_confirmed: '2026-11-13'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 고객상담
+- 상담창구
+- 카카오톡
+- CS자동화
+---
+문의가 여러 창구로 따로 들어오면 고객별 상담 이력이 끊기고, 어떤 자동화 도구를 붙여도 일부 창구에서만 효과가 납니다. 먼저 모든 문의를 한 화면에서 보고 이력이 자동으로 쌓이게 해 두세요. 그래야 고객이 어떤 경로로 문의하든 앞의 맥락을 이어서 응대할 수 있습니다. 이렇게 쌓인 이력은 나중에 자주 묻는 질문을 골라 자동화할 때 근거가 됩니다. 이 주장은 상담 도구 회사의 블로그에서 나온 것입니다.
