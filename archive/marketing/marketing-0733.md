@@ -1,0 +1,29 @@
+---
+id: marketing-0733
+domain: marketing
+claim: AI 검색에 인용되기를 노리는 페이지에는 비교표와 통계를 넣는 것이 유리하며, AirOps 분석에서는 비교표 3개를 넣은 페이지가 인용이
+  25.7% 많았고 통계 5~7개를 담은 초기 탐색형 콘텐츠는 인용 가능성이 20% 높았다고 GEO리드젠랩이 전한다.
+status: verified
+evidence: observed
+confidence: 0.45
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20987
+  author: GEO리드젠랩
+  seen: '2026-11-15'
+  quote: 비교표 3개를 넣은 페이지의 인용이 25.7% 많았고
+  source: 오픈애즈
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-01-14'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- GEO
+- AI검색
+- 콘텐츠구조
+verified_by: 실무자 실측(단일 출처)
+---
+AI 검색용 콘텐츠는 편수보다 구조가 중요합니다. 문단 하나에 주장 하나, 질문형 제목, 첫 문장에서 바로 답하기, 따로 읽어도 이해되는 섹션 같은 기준이 문서로 정리돼 있는지 확인합니다. 원문이 인용한 AirOps 분석에서는 비교표 3개를 넣은 페이지의 인용이 25.7% 많았고, 통계 5~7개를 담은 초기 탐색형 콘텐츠는 인용 가능성이 20% 높았습니다. 이 수치는 제3자 분석을 옮긴 것이므로 원 자료에서 한 번 더 확인하는 편이 좋습니다.

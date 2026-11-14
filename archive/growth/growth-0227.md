@@ -18,7 +18,10 @@ review_by: '2027-02-07'
 supersedes: null
 superseded_by: null
 experiment: null
-law_ref: null
+law_ref:
+  law: 공공데이터의 제공 및 이용 활성화에 관한 법률
+  article: 제3조
+  effective: '2026-11-15'
 contributor: null
 tags:
 - KOSIS
@@ -27,5 +30,6 @@ tags:
 - 데이터상품
 - 콘텐츠판매
 verified_by: 공식 출처
+mentions: 1
 ---
 KOSIS 통계정보를 별도 가공 없이 유료로 판매하는 행위는 금지되어 있습니다. 반면 다운로드한 통계표를 다른 정보와 융합해 자체 DB를 만든 뒤 비용을 받고 서비스하는 것은 허용되는 상업적 활용입니다. 유료 블로그나 유료 카페에 통계표를 올리는 것도 상업적 활용에 해당하지만, 받은 그대로 올려 개별적으로 유료 판매하는 것은 금지됩니다. 통계를 활용한 유료 리포트나 상권분석 서비스를 판다면 원자료에 자체 분석이나 다른 데이터를 더해야 합니다.

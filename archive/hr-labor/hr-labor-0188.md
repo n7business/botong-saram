@@ -18,7 +18,7 @@ sources:
   quote: '운영시간 : 12시 ~ 13시 (고객상담실 미운영)'
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-15'
 review_by: null
 supersedes: null
 superseded_by: null

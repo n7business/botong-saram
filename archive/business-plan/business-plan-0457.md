@@ -1,0 +1,32 @@
+---
+id: business-plan-0457
+domain: business-plan
+claim: 광양여성새로일하기센터를 통해 창업한 지 1년이 안 된 광양시 기업은 2026년 광양시 기업환경 개선사업에 예산이 남아 있는 동안 신청하면,
+  사업 초기 세팅에 필요한 물품을 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000127926
+  author: 광양시 광양여성새로일하기센터(기업마당)
+  seen: '2026-11-15'
+  quote: 새일센터를 통해 창업한 기업의 초기 세팅을 위한 물품 지원
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-03-15'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 광양시
+- 새일센터
+- 여성창업
+- 창업초기
+- 물품지원
+- 전남광주
+verified_by: 공식 출처
+---
+광양시와 광양여성새로일하기센터의 2026년 기업환경 개선사업은 여성 전용시설과 근로환경 개선 외에 '새일센터를 통해 창업한 기업'의 초기 세팅 물품도 지원합니다. 대상은 새일센터를 거쳐 창업했고 창업 후 1년이 지나지 않은 기업입니다. 공고는 이 요건을 '광양시에 본사 또는 주 공장을 둔 상시근로자 5인 이상 300인 미만 기업' 조건 아래에 두고 있어, 직원이 5명 미만인 창업기업도 신청할 수 있는지는 공고문만으로 분명하지 않습니다. 신청 전에 광양여성새로일하기센터(061-797-1970~6)에 전화해 인원 요건이 적용되는지 확인하는 것이 좋습니다. 접수는 방문이나 우편으로 하며, 기간을 정하지 않고 예산이 떨어지면 마감합니다.

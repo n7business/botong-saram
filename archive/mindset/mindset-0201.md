@@ -1,0 +1,30 @@
+---
+id: mindset-0201
+domain: mindset
+claim: 윤자동은 컴퓨터로 하는 일은 거의 AI에게 맡기고, 그렇게 비운 시간에는 소중한 사람을 직접 만나 얼굴 보고 이야기하는 일만큼은 AI에게
+  넘기지 않고 직접 한다는 원칙을 지킨다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DfjsNbPE4vY
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-15'
+  quote: 소중한 분들 만나서 얼굴 보고 이야기하기 이것만큼은 AI에게 양보할 수가 없네요
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사장원칙
+- 시간관리
+- AI위임
+- 대면소통
+mentions: 1
+---
+화자는 요즘 컴퓨터로 하는 일은 거의 AI에게 맡긴다고 말합니다. 그렇게 확보한 시간에 사장이 직접 해야 할 일은 하나, 사람을 직접 만나 얼굴 보고 이야기하는 것이라고 봅니다. 실제로 수강생을 무료로 초대해 오피스아워를 열고, 2시간으로 잡은 자리에서 4시간 넘게 개인별 고민(카톡 챗봇, 리뷰 답글, 마케팅 세팅)을 함께 다뤘다고 합니다. AI로 줄인 시간을 무엇에 쓸지 미리 정해 두는 판단 기준으로 참고할 만합니다.

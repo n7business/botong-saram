@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-14'
   quote: 업계도 해외 기술규제로 인한 수출 애로 해소를 위해 정부의 TBT 협의 채 널을 적극 활용해 주길 바란다
   source: 산업통상부 보도자료
+- url: https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172403/view
+  author: 산업통상부 무역기술장벽협상과
+  seen: '2026-11-15'
+  quote: 업계도 해외 기술규제로 인한 수출 애로 해소를 위해 정부의 TBT 협의 채널을 적극 활용해 주길 바란다
+  source: 산업통상부 보도자료
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-14'
+last_confirmed: '2026-11-15'
 review_by: '2027-02-12'
 supersedes: null
 superseded_by: null

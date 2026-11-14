@@ -13,8 +13,13 @@ sources:
   seen: '2026-11-13'
   quote: 소부장 기업의 투자도 앵커기업 수준으로 지원한다
   source: 산업통상부 보도자료
+- url: https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172400/view
+  author: 산업통상부 지역경제진흥과
+  seen: '2026-11-15'
+  quote: 소부장기업의 투자도 앵커기업 수준으로 지원한다
+  source: 산업통상부 보도자료
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-15'
 review_by: '2027-02-11'
 supersedes: null
 superseded_by: null

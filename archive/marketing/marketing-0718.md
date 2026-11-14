@@ -1,0 +1,29 @@
+---
+id: marketing-0718
+domain: marketing
+claim: 숏폼 대본의 도입부는 다른 업종이라도 평소보다 조회수가 크게 튄 영상의 시작 방식(플롯)을 그대로 가져오고, 대상은 고객이 가게를 찾는
+  이유에서 정해야 한다는 것이 토니쌤의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=1x5apKXH4IY
+  author: 돈버는 기술, 마브사끼 (토니쌤 출연)
+  seen: '2026-11-15'
+  quote: 시작 방식은 레퍼런스에서 가져오는데, 꼭 같은 진료과가 아니어도 된다.
+  source: 돈버는 기술, 마브사끼
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 숏폼
+- 훅
+- 레퍼런스
+- 타깃설정
+---
+대상은 고객 입장에서 상상해서 정합니다. 예를 들어 치과라면 '이 시린 사람'처럼 방문 이유로 좁힙니다. 시작 방식은 레퍼런스에서 가져오는데, 꼭 같은 업종일 필요는 없습니다. 화자는 평소 3,000~4,000회가 나오던 피부과 계정에서 3.1만 회가 나온 영상을 골라, PD가 원장님께 말을 걸며 시작하는 구성을 그대로 가져오게 한다고 말합니다. 고정 프롬프트에 대상과 시작 방식 두 가지만 바꿔 넣는 방식입니다.

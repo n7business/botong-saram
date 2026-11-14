@@ -1,0 +1,30 @@
+---
+id: business-plan-0470
+domain: business-plan
+claim: 외국인 대표의 스타트업 코리아 특별비자 추천 신청은 접수 마감이 2026-12-30(수) 00:00이므로, 실제로는 2026-12-29
+  자정 전까지 온라인 신청을 끝내야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419
+  author: '중소벤처기업부(주관기관: 창업진흥원)'
+  seen: '2026-11-15'
+  quote: 2024.12.03(화) 18:00 ~ 2026.12.30(수) 00:00 까지
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-03-15'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스타트업코리아특별비자
+- 외국인창업
+- 마감일
+- 창업진흥원
+verified_by: 공식 출처
+---
+스타트업 코리아 특별비자 추천은 2024-12-03부터 수시로 온라인 접수하고 있습니다. 공고문의 마감 시각은 '2026.12.30(수) 00:00'입니다. 그래서 12월 30일 당일에는 접수할 수 없고 29일이 지나면 마감됩니다. '12월 30일까지'로 알고 30일에 내려고 하면 접수를 놓칩니다. 요건검토, 발표평가, 심의위원회를 거쳐야 하므로 서류는 이보다 훨씬 일찍 내는 것이 안전합니다.

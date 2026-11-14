@@ -1,0 +1,32 @@
+---
+id: factory-ax-0177
+domain: factory-ax
+claim: EU에 자동차·배터리·철강·원전 부품을 수출하거나 그런 기업에 납품하는 제조 사업자는 EU 산업가속화법(IAA)의 역내산 요건 때문에
+  한국산 제품이 공공조달·공공지원에서 불리해질 수 있으므로, 유럽의회 수정안 확정(12월 목표) 결과를 확인한 뒤 EU 납품 계획을 점검해야 한다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172404/view
+  author: 산업통상부 구주통상과
+  seen: '2026-11-15'
+  quote: 유럽의회 차원의 수정안이 12월 내 확정을 목표로 논의되고 있어
+  source: 산업통상부 보도자료
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-02-13'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- EU
+- 산업가속화법
+- IAA
+- 역내산요건
+- 자동차부품
+- 수출
+verified_by: 공식 출처
+---
+EU 산업가속화법(IAA)은 입법 논의가 진행 중이며, 유럽의회 수정안은 12월 확정을 목표로 하고 있습니다. 정부는 자동차 역내산 요건을 유연하게 적용해 달라고 요청했습니다. 한국산 철강·원전 기자재를 EU산으로 인정해 달라는 요청도 함께 했습니다. 아직 확정된 규정이 아니므로, 지금은 원청이나 수출 기업에 내 부품이 역내산 요건의 영향을 받는지 물어 두는 정도로 대비하세요. 최종안이 나오면 EU 수출 물량과 단가 계획을 다시 점검하세요.

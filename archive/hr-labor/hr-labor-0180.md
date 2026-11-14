@@ -13,7 +13,7 @@ sources:
   quote: 예술인과 사업주는 고용보험료의 80%를 최대 36개월간 지원받을 수 있다.
   source: 근로복지공단 보도자료·공지
 first_seen: '2026-11-10'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-15'
 review_by: '2027-05-09'
 supersedes: null
 superseded_by: null

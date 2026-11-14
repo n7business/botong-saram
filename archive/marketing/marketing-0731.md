@@ -1,0 +1,28 @@
+---
+id: marketing-0731
+domain: marketing
+claim: 대행사 제안서는 항목마다 만점 조건을 한 문장으로 정하고 0점·절반·만점 세 단계로만 채점하며, 평가자 3명이 따로 채점한 뒤 2점 이상
+  벌어진 항목만 조정하면 평가자 간 편차와 회의 시간이 줄어든다는 것이 GEO리드젠랩의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20987
+  author: GEO리드젠랩
+  seen: '2026-11-15'
+  quote: 항목별 점수는 0점·절반·만점 세 단계면 충분합니다
+  source: 오픈애즈
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- GEO
+- 대행사선정
+- 평가표
+---
+5단계 척도를 쓰면 평가자마다 중간 점수를 다르게 해석하기 쉽습니다. 만점 조건을 한 문장으로 정해 두고, 일부만 충족하면 절반, 모두 빠지면 0점을 줍니다. 평가자 3명이 먼저 각자 채점하고, 점수가 2점 이상 벌어진 항목만 함께 논의해 조정합니다. 작은 사업장에서 대행사를 고를 때도 이 방식을 그대로 쓸 수 있습니다.

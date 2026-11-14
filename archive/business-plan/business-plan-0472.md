@@ -1,0 +1,33 @@
+---
+id: business-plan-0472
+domain: business-plan
+claim: 중앙부처·지자체 창업지원사업 통합공고는 한 해 사업을 모아 보여 주는 안내일 뿐 신청 창구가 아니므로, 관심 사업을 찾으면 신청자격·서류·일정은
+  그 사업의 개별 모집공고문에서 다시 확인하고 거기에 따라 신청해야 한다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=175783
+  author: '중소벤처기업부장관(주관기관: 창업진흥원)'
+  seen: '2026-11-15'
+  quote: 상기 일정은 사업운영기관의 내부사정으로 변경될 수 있습니다.
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-03-15'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 중소기업창업 지원법
+  article: 제14조
+  effective: '2026-11-15'
+contributor: null
+tags:
+- 통합공고
+- 창업지원사업
+- K-Startup
+- 공고문확인
+verified_by: 공식 출처
+---
+2026년 통합공고는 중소기업창업 지원법 제14조(창업정책정보의 수집 및 제공)에 따라 중앙부처와 지자체의 창업지원사업을 한데 모아 알리는 공고입니다. 공고문에는 신청방법, 대상, 제외대상, 제출서류, 지원내용이 모두 '각 지원사업 모집 공고문 참고'로만 적혀 있습니다. 그러니 첨부된 안내책자로 1년 치 사업 목록과 대략의 시기를 먼저 훑어보세요. 실제 신청은 해당 사업의 개별 공고가 나왔을 때 그 공고문 기준으로 해야 합니다. 일정은 운영기관 사정에 따라 바뀔 수 있으므로 통합공고에 적힌 시기만 믿고 준비 일정을 잡으면 안 됩니다.

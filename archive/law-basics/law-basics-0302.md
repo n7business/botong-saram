@@ -1,0 +1,33 @@
+---
+id: law-basics-0302
+domain: law-basics
+claim: 취소·보류·거절돼 계약이 끝나지 않은 신청서나 주문서도 보관기간을 필요 최소한으로 정한 내부 기준을 두고, 기간이 지나거나 목적을 이루면
+  파기해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12647
+  author: 개인정보보호위원회
+  seen: '2026-11-15'
+  quote: 보관기간을 필요 최소한으로 정하는 내부 기준을 마련하도록 하였으며
+  source: 개인정보보호위원회
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-05-14'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 개인정보 보호법
+  article: 제3조, 제21조
+  effective: '2026-11-15'
+contributor: null
+tags:
+- 개인정보
+- 파기
+- 보유기간
+- 신청서
+verified_by: 공식 출처
+---
+개인정보위 조사에서 알뜰폰 사업자들은 개통되지 않은 신청서를 제각각 최소 5일에서 최대 1년까지 보관하고 있었다. 개인정보위는 개인정보 보호 원칙에 따라 보관기간을 필요 최소한으로 정하는 내부 기준을 마련하라고 했다. 보유기간이 지났거나 처리 목적을 이룬 개인정보를 파기하지 않은 사업자들에게는 과태료를 부과했다. 계약으로 이어지지 않은 상담·견적·신청 자료를 언제 지울지 기준을 문서로 정하고 실제로 지워야 한다.

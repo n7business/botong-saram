@@ -1,0 +1,30 @@
+---
+id: business-plan-0456
+domain: business-plan
+claim: 충북대 G테크벤처센터는 최장 5년까지 입주할 수 있지만 매년 평가를 받아야 연장되고, 팀장 면담 후 10일 안에 선정 결과를 개별 통지하므로,
+  입주 시기를 맞춰야 하는 사업자는 면담 일정부터 일찍 잡아야 한다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179786
+  author: 충북대학교 글로벌(G)테크벤처센터
+  seen: '2026-11-15'
+  quote: 'BI센터 : 최장 5년 (*매년 평가에 의해 연장)'
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: '2027-03-15'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 창업보육센터
+- 충북대
+- 입주
+- 충북
+verified_by: 공식 출처
+---
+충북대 글로벌(G)테크벤처센터의 입주기간은 최장 5년입니다. 다만 자동으로 5년이 보장되지는 않고 매년 평가를 거쳐 연장됩니다. 접수는 온라인 신청, 팀장 면담(서류 제출), 서류심사, 결과 통보 순서로 진행되며, 결과는 면담 후 10일 안에 개별로 알려 줍니다. 적격 기업이 없으면 아무도 선정하지 않을 수 있습니다. 이사 날짜나 기존 사무실 계약 종료일이 정해져 있다면 신청 접수 직후 107호 창업보육실과 면담 일정을 협의해야 합니다.

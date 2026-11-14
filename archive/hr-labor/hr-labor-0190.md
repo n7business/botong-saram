@@ -13,7 +13,7 @@ sources:
   quote: 예술인이 ‘중소기업사업주 산재보험’에 가입하면 업무 중 다치거나
   source: 근로복지공단 보도자료·공지
 first_seen: '2026-11-12'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-15'
 review_by: '2027-05-11'
 supersedes: null
 superseded_by: null

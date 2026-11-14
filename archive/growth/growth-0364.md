@@ -1,0 +1,29 @@
+---
+id: growth-0364
+domain: growth
+claim: AI가 큰일을 서브에이전트(보조 모델)로 나눠 처리할 때는 몇 개가 도는지 수시로 확인하고, 쉬운 일은 작은 모델로 띄우게 하며, 큰일이
+  끝나면 모델을 기본 모델로 돌려놓아야 사용 한도가 새지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/49094
+  author: Ai싱크클럽
+  seen: '2026-11-15'
+  quote: 서브에이전트가 몇 개나 도는지 수시로 보고, 큰일이 끝나면 모델을 오퍼스로 돌려놓으세요.
+  source: EO 플래닛
+first_seen: '2026-11-15'
+last_confirmed: '2026-11-15'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 클로드
+- 비용절감
+- 서브에이전트
+---
+서브에이전트는 AI가 큰일을 쪼개 나눠 맡기는 보조 모델이라, 많이 띄울수록 사용 한도도 그만큼 빨리 줄어듭니다. 서브에이전트 50개 때문에 주간 한도를 거의 다 썼다는 사용자 글도 있습니다. '서브에이전트는 꼭 필요할 때만, 작은 모델로 띄워 줘'처럼 미리 지시하고, 서브에이전트마다 난도에 맞는 모델을 쓰게 하세요. 추가 사용량(크레딧)을 켜 둔 경우 한도를 넘기면 쓴 만큼 돈이 나가니 특히 주의해야 합니다.

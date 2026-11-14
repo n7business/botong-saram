@@ -13,7 +13,7 @@ sources:
   quote: 연말 · 퇴직정산 시 , 2026 년 10 월 보험료까지는 기존 산식 반영
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-15'
 review_by: '2027-05-12'
 supersedes: null
 superseded_by: null
