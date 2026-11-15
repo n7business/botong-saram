@@ -3,7 +3,7 @@ id: marketing-0626
 domain: marketing
 claim: 홈페이지의 없는 페이지 안내는 「페이지가 없습니다」라는 문구만 띄우고 정상(200) 응답을 보내지 말고, 실제로 404 응답 코드를 돌려주게
   만들어야 한다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.85
 sources:
@@ -27,5 +27,6 @@ tags:
 - 오류페이지
 - HTTP
 verified_by: 공식 출처
+merged_into: marketing-0760
 ---
 네이버는 오류 페이지가 의미 있는 HTTP 응답 코드를 유지하도록 요구합니다. 없는 페이지는 404 Not Found, 권한 없는 페이지는 403, 서버 과부하는 503으로 응답해야 합니다. 「페이지가 없습니다」라는 내용만 보여 주고 200 OK를 돌려주거나, 오류 페이지로 이동(redirect)시키면 안 됩니다. 방문자에게 보이는 안내 화면은 사이트에 맞게 꾸며도 되지만, 응답 코드는 규약대로 유지해야 합니다. 직접 확인이 어렵다면 제작업체에 확인을 요청하세요.

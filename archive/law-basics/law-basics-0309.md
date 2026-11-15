@@ -14,7 +14,7 @@ sources:
     사항을 계약서 등 문서에 명시
   source: 국가법령정보센터
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: '2027-05-14'
 supersedes: null
 superseded_by: null

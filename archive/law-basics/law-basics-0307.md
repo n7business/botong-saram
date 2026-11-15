@@ -13,7 +13,7 @@ sources:
     파기합니다.
   source: 국가법령정보센터
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: null
 supersedes: null
 superseded_by: null

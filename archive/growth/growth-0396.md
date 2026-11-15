@@ -1,0 +1,29 @@
+---
+id: growth-0396
+domain: growth
+claim: 쇠퇴 상권의 매장은 팔려고 마음먹은 즉시 팔리지 않으므로 몇 달 앞서 매도 작업을 시작해야 한다. 다음 계획을 다 세운 뒤 나가려 하기보다,
+  기준가를 맞추는 매수자가 나타나면 먼저 계약해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=SR8UTrlvEh4
+  author: 장사 권프로
+  seen: '2026-11-16'
+  quote: 1월부터 천천히 작업을 하셔야 돼요.
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 매장매도
+- 권리금
+- 쇠퇴상권
+- 외식업
+---
+권프로에 따르면 쇠퇴 상권에서는 매장을 원하는 사람이 6개월에 한두 명꼴로 띄엄띄엄 오고, 이 흐름은 사장이 통제할 수 없어 내년에도 못 팔 수 있다. 그래서 빨리 팔기로 했다면 일찍부터 천천히 매도 작업을 시작하라고 권한다. 다음 계획을 다 세워 놓고 나가려 하지 말고, 기준가에 사겠다는 사람이 나타나면 빨리 계약하라고 한다. 한두 달 쉬게 되더라도 다음 계획은 그 뒤에 잡으면 된다는 것이다. 반대로 상권이 좋아 부동산에서 한 달에 한두 명씩 연락이 오는 매장은 권리금을 높게 불러 매수자끼리 경쟁을 붙이고 시간을 두고 팔아도 된다고 한다.

@@ -13,7 +13,7 @@ sources:
   quote: 신뢰가 쌓이기도 전에 커뮤니티의 규모부터 키우면 사람은 많아도 큰 의미가 없을 수 있다.
   source: 캡선생 김용석 (@kap_writing)
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: null
 supersedes: null
 superseded_by: null

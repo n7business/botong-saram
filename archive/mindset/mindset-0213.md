@@ -1,0 +1,28 @@
+---
+id: mindset-0213
+domain: mindset
+claim: '''100%'', ''무조건'', ''절대'', ''확실히''를 남발하는 사람은 믿을 만한 지식인으로 보지 않고, 자기 생각이 틀릴
+  수 있다는 가능성을 열어 두는 사람을 신뢰한다는 것이 캡선생 김용석의 판단 기준이다.'
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.threads.com/@kap_writing/post/DfwfFDwHxTK
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-16'
+  quote: '''100%'', ''무조건'', ''절대'', ''확실히''를 남발하는 사람에게서 리스펙할 만한 지식인의 모습을 찾기 어렵다.'
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 전문가선별
+- 판단기준
+- 확언
+---
+캡선생 김용석이 존중하는 지식인의 특징은 '주저함'입니다. 자기가 아는 것을 당연하게 여기지 않고 자기 생각이 틀릴 수 있다는 가능성을 열어 두는 태도를 말합니다. 그래서 '100%', '무조건', '절대', '확실히' 같은 말을 남발하는 사람에게서는 믿을 만한 전문가의 모습을 찾기 어렵다고 봅니다. 강의·컨설팅·대행사를 고를 때 단정하는 말을 얼마나 쓰는지를 거르는 기준으로 쓸 수 있습니다. 다만 그는 상황에 따라 수사적으로 확언할 필요는 있다고 단서를 달았습니다.

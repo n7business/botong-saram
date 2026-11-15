@@ -13,7 +13,7 @@ sources:
   quote: 별도의 공간으로 옮겨진 개인정보는 법률에 의한 경우가 아니고서는 다른 목적으로 이용되지 않습니다.
   source: 국가법령정보센터
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: '2027-05-14'
 supersedes: null
 superseded_by: null

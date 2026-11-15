@@ -1,0 +1,29 @@
+---
+id: growth-0382
+domain: growth
+claim: 앱을 만들어 구글 플레이에 올리려는 1인 개발자·소상공인은 출시 전에 테스터 12명이 14일 동안 써야 하는 조건을 채울 사람을 미리
+  모아 두어야 하며, 이 인원을 못 구해 출시가 멈춘 메이커가 여럿이라고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/49098
+  author: 이민재(베타단)
+  seen: '2026-11-16'
+  quote: 구글 플레이에 올리려면 테스터 12명이 14일을 써야 하는데
+  source: EO 플래닛
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 앱 출시
+- 구글 플레이
+- 테스터
+- 바이브코딩
+---
+AI 코딩 도구로 앱을 빨리 만들 수 있어도 구글 플레이 출시 단계에서 막힐 수 있습니다. 한 메이커에 따르면 구글 플레이에 올리려면 테스터 12명이 14일 동안 앱을 써야 하고, 이 12명을 못 구해 멈춘 사람이 여럿이었다고 합니다. 개발을 시작할 때 함께 테스트해 줄 사람 명단과 14일 일정을 출시 계획에 넣어 두는 것이 좋습니다. 적용 대상 계정 유형과 최신 인원·기간 조건은 Play Console 공식 안내에서 직접 확인해야 합니다. 이 글은 테스터 모집 서비스 홍보를 겸한 글입니다.

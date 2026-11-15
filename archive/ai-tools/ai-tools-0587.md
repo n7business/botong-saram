@@ -1,0 +1,31 @@
+---
+id: ai-tools-0587
+domain: ai-tools
+claim: 힉스필드 Seedance로 4K 영상을 만들 때는 처음부터 4K로 뽑지 말고 480p 같은 저화질로 먼저 생성해 구도와 전체 프레임을
+  확인한 뒤 화질만 바꿔 다시 생성해야 하는데, 화자 기준 10초 영상이 4K는 340크레딧, 480p는 30크레딧으로 10배 넘게 차이 났기 때문이다.
+status: verified
+evidence: observed
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=B_KB88UYUhM
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-16'
+  quote: 4K 영상 10초 가량 300 크레딧이 넘게 소요가 되거든요.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: '2026-12-16'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 힉스필드
+- Seedance
+- 크레딧절약
+- 해상도
+verified_by: 실무자 실측(단일 출처)
+---
+결과가 어떻게 나올지 확신이 없으면 저화질로 먼저 만들어 구조와 프레임만 확인합니다. 괜찮을 때만 같은 설정에서 화질을 4K로 바꿔 생성합니다. 화자 설명란 기준으로 10초 영상에 4K는 340크레딧, 480p는 30크레딧이 들었습니다. 크레딧 단가는 요금제와 시점에 따라 달라질 수 있으니 생성 화면에 표시되는 크레딧을 확인해야 합니다.

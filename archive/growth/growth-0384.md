@@ -1,0 +1,29 @@
+---
+id: growth-0384
+domain: growth
+claim: 고객이 오래 써 온 기존 제품을 새 기술로 바꾸게 하려면 '기존 것보다 낫다'고 맞서기보다 고객이 기존 제품에서 아쉬웠던 점을 새 제품으로
+  풀어 보자고 제안하고, 두 제품을 함께 쓰며 조금씩 바꿔 가게 해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://eopla.net/magazines/49090
+  author: David Kim (Mr. Footnote)
+  seen: '2026-11-16'
+  quote: 김 대표는 "RF보다 낫다"고 말하지 않는다고 했다.
+  source: EO 플래닛
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 영업
+- 신기술
+- 고객 전환
+- B2B
+---
+오래 써 온 제품을 버리는 일은 설명을 못 알아들어서가 아니라 위험을 지기 싫어서 미뤄집니다. 시장은 누군가 써 보고 좋다는 것이 증명되어야 움직인다고 합니다. 한 레이저 통신 스타트업 대표는 고객에게 '기존 전파 방식보다 낫다'고 말하지 않고, 예전에 아쉬웠던 점을 레이저로 풀어 보라는 식으로 접근한다고 합니다. 기존 제품을 한 번에 갈아 끼우게 하기보다, 기존 제품과 함께 쓰면서 특정 불편부터 대신하게 하는 방식으로 영업을 짜 볼 수 있습니다.

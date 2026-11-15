@@ -1,0 +1,29 @@
+---
+id: ai-tools-0581
+domain: ai-tools
+claim: 고객이 같은 질문을 자주 하는 AI 챗봇이라면 AI Gateway Settings에서 응답 캐시를 켜고 보관 시간을 정해야 하는데, 같은
+  질문이 다시 오면 AI 모델을 부르지 않고 저장된 답을 바로 돌려주므로 두 번째부터는 돈이 들지 않기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=f1quywzT-a8
+  author: 노마드 코더 Nomad Coders
+  seen: '2026-11-16'
+  quote: 같은 질문에 두 번 돈 내지 않기(두 번째 응답은 즉시·무료)
+  source: 노마드 코더 Nomad Coders
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- cloudflare
+- ai-gateway
+- 캐시
+- 레이트리밋
+---
+Settings의 cache responses를 켜고 1시간처럼 보관 시간을 정하면 됩니다. 보관 시간 안에 같은 요청이 오면 Cloudflare가 저장해 둔 응답을 즉시 돌려주고, AI 제공사로는 요청이 가지 않습니다. 같은 화면에서 레이트 리밋(예: 1분에 1,000건)을 켜면 스팸 요청으로 요금이 불어나는 일도 막을 수 있습니다. Retry requests를 켜면 호출이 실패했을 때 기본 3회까지 자동으로 다시 시도합니다. 다만 영업시간·재고처럼 답이 자주 바뀌는 질문은 보관 시간이 길면 낡은 답이 나갈 수 있으니 짧게 잡는 편이 좋습니다.

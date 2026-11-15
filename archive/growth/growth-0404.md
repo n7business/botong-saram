@@ -1,0 +1,31 @@
+---
+id: growth-0404
+domain: growth
+claim: 지역 단위 사업계획서나 지자체 지원사업 신청서에 우리 지역 소상공인 규모를 근거로 넣을 때는 중소벤처기업부 '지역별 기업수'의 2023년
+  수치를 단위(만 개)와 기준연도를 밝혀 써 볼 만하며, 2023년 소상공인은 전국 790.7만 개, 경기 211.0만 개, 서울 159.7만 개다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.mss.go.kr/site/smba/foffice/ex/statDB/AreaSubStat.do
+  author: 중소벤처기업부
+  seen: '2026-11-16'
+  quote: "지역별\t소상공인(만개)\t중소기업(만개)"
+  source: 중소벤처기업부 통계자료 (소상공인실태조사)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: '2027-02-14'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 통계
+- 지역
+- 소상공인
+- 사업계획서
+- 지원사업
+verified_by: 공식 출처
+---
+중소벤처기업부 통계자료의 '지역별 통계 > 지역별 기업수'는 중소기업기본통계를 바탕으로 시도별 소상공인과 중소기업 수를 만 개 단위로 보여 준다. 2023년 소상공인은 전국 790.7만 개이고 경기 211.0만, 서울 159.7만, 부산 47.6만, 경남 46.9만, 인천 43.0만, 제주 12.8만, 세종 4.6만 개다. 만 개 단위로 반올림한 값이므로 개 단위가 필요하면 전산업 기준(소상공인) 표의 7,906,861개 같은 원래 수치를 따로 확인한다. 출처에는 기준연도(2023년)와 통계출처(중소기업기본통계)를 함께 적는다.

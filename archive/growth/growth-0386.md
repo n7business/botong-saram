@@ -1,0 +1,29 @@
+---
+id: growth-0386
+domain: growth
+claim: 거래 은행에서 자금 조달을 거절당했다면 같은 설명을 반복하지 말고, 우리 업종의 경기 흐름을 이해하고 그 업종에 돈을 빌려주거나 투자해
+  본 금융기관·투자자로 상대를 바꾸고, 현금이 마르는 시기와 담보 가치를 숫자로 정리해 가 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://eopla.net/magazines/49107
+  author: David Kim (Mr. Footnote)
+  seen: '2026-11-16'
+  quote: 숫자로 풀어서 문서로 들고 갔다.
+  source: EO 플래닛
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 자금 조달
+- 대출
+- 투자유치
+- 현금흐름
+---
+업종을 잘 모르는 금융기관은 적자 규모만 보고 거절하기 쉽습니다. 이럴 때는 같은 업종에 대출하거나 투자해 본 기관을 찾아 만납니다. 만나기 전에 매출이 출렁이는 주기에서 현금이 부족해지는 구간, 장비·재고 같은 담보가 얼마나 가치를 지키는지, 예상되는 반박과 그에 대한 답을 문서로 정리해 갑니다. 한 투자은행가는 국내 은행에서 거절당한 반도체 회사를 위해, 반도체 산업 경험이 있는 해외 금융기관을 찾아다니며 이런 방식으로 장비 자금 수억 달러를 모았다고 합니다. 이 사례는 대기업 규모의 이야기이므로, 소규모 사업자는 원칙만 참고하면 됩니다.

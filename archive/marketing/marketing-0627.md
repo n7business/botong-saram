@@ -27,5 +27,6 @@ tags:
 - 개인정보
 - 수집차단
 verified_by: 공식 출처
+mentions: 1
 ---
 robots.txt는 사이트 루트(예: www.example.com/robots.txt)에 일반 텍스트 파일로 두어야 합니다. 「User-agent: * / Disallow: /」처럼 전체를 막으면 사이트의 어떤 페이지도 검색에 나오지 않으므로, 수집하면 안 되는 주소 패턴만 Disallow로 지정하세요. 다만 광고 정보 수집이나 링크 미리보기용 로봇처럼 robots.txt 규칙을 완벽하게 지키지 않는 로봇도 있습니다. 그래서 고객 개인정보처럼 밖에 나가면 안 되는 내용은 robots.txt에만 기대지 말고 로그인 기능 같은 다른 방법으로 막아야 합니다.

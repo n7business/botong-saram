@@ -1,0 +1,29 @@
+---
+id: marketing-0791
+domain: marketing
+claim: 퇴사 후 1인 사업 프로필에 전 직장 이름을 쓸 때는 그 회사 이름이 사람들에게 어떤 이미지를 떠올리게 하는지 먼저 따져 봐야 하며,
+  만들려는 브랜드 이미지와 맞지 않으면 회사명 대신 '억대연봉 금융권'처럼 한 단계 넓은 표현을 쓰라는 것이 커리어노마드의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@careernomad_/post/DfwEI50n60A
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-16'
+  quote: '''전 OO그룹'', ''OO 출신''이라는 프로필 한 줄은 양날의 검이다.'
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 퍼스널브랜딩
+- 프로필
+- 포지셔닝
+- 1인사업
+---
+고객은 프로필에 적힌 회사명을 이력서처럼 꼼꼼히 읽지 않습니다. 회사명 하나를 보고 머릿속에 있는 가장 흔한 이미지를 바로 덧씌웁니다. 그래서 회사 이름이 떠올리게 하는 이미지가 내가 만들려는 브랜드와 다르면, 회사명을 앞세우지 말고 '억대연봉 금융권', '여의도 증권맨 출신'처럼 한 단계 넓은 표현을 쓰라는 것이 화자의 방법입니다. 화자는 이것이 회사의 규모나 우열을 따지는 일이 아니라고 강조합니다. 화자는 증권사 출신 1인 사업자이고, 이 내용은 화자 혼자의 경험에서 나온 판단입니다.

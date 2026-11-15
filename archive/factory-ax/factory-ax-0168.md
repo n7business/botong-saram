@@ -18,7 +18,7 @@ sources:
   quote: 현재까지 한국표준협회 1개소가 검증기관으로 인정(11.5), 2개소 추가인정 추진중
   source: 산업통상부 보도자료
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: '2027-02-12'
 supersedes: null
 superseded_by: null

@@ -1,0 +1,29 @@
+---
+id: ai-tools-0588
+domain: ai-tools
+claim: AI 영상용 프리비즈를 만들 때는 모든 물체를 회색으로 두지 말고 물체마다 색을 다르게 칠해야 하는데, 회색만 쓰면 사람과 공간이 구분되지
+  않아 AI가 무엇이 무엇인지 알아보기 어렵기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=B_KB88UYUhM
+  author: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+  seen: '2026-11-16'
+  quote: 물체마다 색을 나눠 구분을 분명하게 전달한다.
+  source: 레인 | AI 바이브코딩 (@Vibe_RaiN)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 프리비즈
+- 블렌더
+- 프롬프트
+---
+화자가 처음 만든 회색 프리비즈는 움직임이 좋아진 뒤에도 사람과 공간이 구분되지 않았습니다. 음료 광고에서는 캔을 핑크, 과일을 주황, 얼음을 하늘색으로 칠했습니다. 영화 장면에서는 주인공을 청록, 총 쏘는 사람을 주황, 총알을 노란 막대로 정했습니다. 클로드에게 프리비즈를 맡길 때 물체별 색 지정까지 함께 요청하면 됩니다. 화자는 어떤 프리비즈를 고르느냐에 따라 결과물이 완전히 달라졌다고 말합니다.

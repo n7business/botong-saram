@@ -13,7 +13,7 @@ sources:
   quote: 개인정보의 정정 및 삭제 요구는 다른 법령에서 그 개인정보가 수집 대상으로 명시되어 있는 경우에는 그 삭제를 요구할 수 없습니다.
   source: 국가법령정보센터
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-16'
 review_by: null
 supersedes: null
 superseded_by: null

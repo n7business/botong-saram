@@ -1,0 +1,30 @@
+---
+id: marketing-0789
+domain: marketing
+claim: 홈페이지 제작을 맡길 때는 주소가 열리는지만 보고 검수를 끝내지 말고, 안내 내용이 빠짐없는지, 모바일에서 문의 방법을 찾을 수 있는지,
+  양식 접수가 작동하는지, 약속한 검색 점검 결과를 받았는지, 운영 계정과 수정 방법을 넘겨받았는지를 확인하기로 계약 전에 합의해야 한다는 것이
+  블링크애드의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.openads.co.kr/content/contentDetail?contsId=20892
+  author: 블링크애드
+  seen: '2026-11-16'
+  quote: 운영에 필요한 계정과 수정 방법을 인수했는지
+  source: 오픈애즈
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 홈페이지제작
+- 검수
+- AI검색
+- SEO
+---
+메뉴나 예약 양식을 바꿔야 한다는 사실을 오픈 직전에 알게 되면 일정과 비용을 다시 협의해야 할 수 있습니다. 원문이 전하는 Google 안내에 따르면 AI 검색에도 기존 SEO 기본 원칙이 그대로 적용됩니다. 검색 수집을 허용하고, 중요한 설명은 텍스트로 제공하고, 페이지끼리 링크로 연결하는 것입니다. 그러니 안내 내용이 이미지에만 들어 있다면 본문 텍스트도 작성해 주는지 물어봅니다. 'AI 최적화'를 해 준다고 하면 어떤 AI 서비스가 대상인지, 어떤 페이지를 고치고 무엇을 검수하는지 구체적으로 설명받아야 합니다. 공개 뒤에는 검색 등록 상태와 실제 AI 답변을 따로 확인합니다.

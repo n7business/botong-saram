@@ -1,0 +1,28 @@
+---
+id: mindset-0211
+domain: mindset
+claim: 사업에서 가장 중요한 판단은 '누구의 어떤 문제'에 집중할지 정하는 것이며, 이 고민의 깊이와 실행력이 콘텐츠·신뢰·커뮤니티 전략의 효과를
+  좌우한다는 것이 캡선생 김용석의 원칙이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@kap_writing/post/DftqXWJkahV
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-16'
+  quote: '''누구의 어떤 문제''에 집중할 것인가이다. 사실상 이게 거의 전부다.'
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-16'
+last_confirmed: '2026-11-16'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 타깃
+- 문제정의
+- 사업원칙
+---
+캡선생 김용석은 콘텐츠로 신뢰를 쌓고 커뮤니티를 만드는 전략보다 앞서야 할 것이 '누구의 어떤 문제'에 집중할지를 정하는 일이라고 봅니다. 그는 이것이 사실상 거의 전부라고 말합니다. 채널이나 형식을 고르기 전에 도울 고객과 풀어 줄 문제를 한 문장으로 적어 보고, 그 문제를 얼마나 깊이 고민하고 실제로 실행하는지에 따라 성과가 갈린다는 관점입니다.
