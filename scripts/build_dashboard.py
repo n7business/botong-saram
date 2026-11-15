@@ -7,8 +7,8 @@ import json
 from common import *
 from build_plugin import layout, SKILL_CAP, removed_guard, REPO
 
-GRADE_KO = {"dep": "⛔ 하지 말 것", "off": "🏛 공식·연구", "multi": "👥 여러 명", "single": "👤 한 사람", "hyp": "🧪 실험 중", "stale": "⚠️ 다시 확인"}
-KIND_KO = {"candidate": "새로 들어옴", "verified": "수치·교차 확인", "reconfirmed": "다시 언급됨", "merged": "같은 말로 합쳐짐", "expired": "마감 지나 빠짐", "stale": "다시 확인 필요", "deprecated": "하지 말 것으로 바뀜", "hypothesis": "실험 시작"}
+GRADE_KO = {"dep": "⛔ 이후 바뀜", "off": "🏛 공식·연구", "multi": "👥 출처 여러 곳", "single": "👤 출처 1곳", "hyp": "🧪 실험 중", "stale": "⚠️ 다시 확인"}
+KIND_KO = {"candidate": "새로 들어옴", "verified": "수치·교차 확인", "reconfirmed": "다시 언급됨", "merged": "같은 말로 합쳐짐", "expired": "마감 지나 빠짐", "stale": "다시 확인 필요", "deprecated": "이후 바뀜으로 표시", "hypothesis": "실험 시작"}
 
 def main():
     doms = domains(); idx = source_index(); allc = claims(); byid = {c["id"]: c for c in allc}
@@ -46,12 +46,20 @@ def update_readme(dstat, items, people):
     n7 = {}
     for r in items:
         if r[6] >= wk: n7[r[1]] = n7.get(r[1], 0) + 1
-    rows = ["| 영역 | 항목 | 🏛 공식 | 👥 여러 명 | 👤 한 사람 | 최근 7일 신규 |", "|---|--:|--:|--:|--:|--:|"]
+    rows = ["| 영역 | 항목 | 🏛 공식 | 👥 출처 여러 곳 | 👤 출처 1곳 | 최근 7일 신규 |", "|---|--:|--:|--:|--:|--:|"]
     for d in dstat:
         rows.append(f"| {d['ko']}{' ⚖️' if d['legal'] else ''} | {d['total']:,} | {d['n']['off']:,} | {d['n']['multi']:,} | {d['n']['single']:,} | {n7.get(d['key'], 0):,} |")
     tot = sum(d["total"] for d in dstat)
     block = "\n".join([a, f"{TODAY} 기준 **{tot:,}건** · 추적 출처 {people}곳 · 최근 7일 새로 들어온 항목 {sum(n7.values()):,}건 (매일 자동 갱신, ⚖️ 법령 영역)", ""] + rows + [b])
     s = s[:s.index(a)] + block + s[s.index(b) + len(b):]
+    a2, b2 = "<!-- sources:start -->", "<!-- sources:end -->"
+    if a2 in s and b2 in s:
+        from common import sources, domains as _doms
+        doms = _doms(); lines = []
+        for dom, lst in sources().items():
+            ind = [x for x in lst or [] if x.get("type") not in ("official", "book")]
+            if ind: lines.append(f"- **{doms.get(dom, {}).get('ko', dom)}** · " + " · ".join(f"[{x['name']}]({x['url']})" if x.get("url") else x["name"] for x in ind))
+        s = s[:s.index(a2)] + "\n".join([a2] + lines + [b2]) + s[s.index(b2) + len(b2):]
     p.write_text(s, encoding="utf-8")
 
 TEMPLATE = r'''<!doctype html>
@@ -173,7 +181,7 @@ footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--line);font-si
 
 <section>
   <h2>플러그인 지도</h2>
-  <p class="sub">영역 하나가 스킬 하나입니다. SKILL.md는 스킬을 부를 때 통째로 읽히는 요약(등급별 최근 것만), all.md는 공식·여러 명·주의 전체, people.md는 한 사람만 말한 것입니다. 줄을 누르면 아래 목록이 그 영역으로 좁혀집니다.</p>
+  <p class="sub">영역 하나가 스킬 하나입니다. SKILL.md는 스킬을 부를 때 통째로 읽히는 요약(등급별 최근 것만), all.md는 공식·여러 명·주의 전체, people.md는 출처 한 곳에서만 나온 것입니다. 줄을 누르면 아래 목록이 그 영역으로 좁혀집니다.</p>
   <div class="legend" id="legend"></div>
   <div class="scroll"><table><thead><tr><th>영역</th><th style="text-align:right">항목</th><th>등급 분포</th><th>파일 · 실린 수 · 크기</th><th style="text-align:right">7일 신규</th></tr></thead><tbody id="map"></tbody></table></div>
 </section>
@@ -297,7 +305,7 @@ function list(){
   const per = [["day", S.day ? md(S.day) + " 하루" : "", null], ["0","오늘"], ["7","7일"], ["30","30일"], ["all","전체"]].filter(o => o[1]);
   chips("fPeriod", per, "period");
   chips("fGrade", [["all","전체"], ...ORDER.map(g => [g, D.grades[g], g])], "grade");
-  $("fLoc").innerHTML = [["any","전체"],["skill","SKILL.md (요약)"],["allmd","all.md (전체 목록)"],["people","people.md (한 사람)"]].map(([v,l]) => `<button class="chip" aria-pressed="${(S.loc==="all"?"any":S.loc==="all.md"?"allmd":S.loc)===v}" data-v="${v}">${l}</button>`).join("");
+  $("fLoc").innerHTML = [["any","전체"],["skill","SKILL.md (요약)"],["allmd","all.md (전체 목록)"],["people","people.md (출처 1곳)"]].map(([v,l]) => `<button class="chip" aria-pressed="${(S.loc==="all"?"any":S.loc==="all.md"?"allmd":S.loc)===v}" data-v="${v}">${l}</button>`).join("");
   $("fLoc").querySelectorAll("button").forEach(b => b.addEventListener("click", () => { S.loc = b.dataset.v === "any" ? "all" : b.dataset.v === "allmd" ? "all.md" : b.dataset.v; S.shown = 60; renderAll(); }));
   const rows = filtered();
   const label = S.period === "day" ? `${S.day}에 들어온` : S.period === "0" ? "오늘 들어온" : S.period === "all" ? "전체" : `최근 ${S.period}일 동안 들어온`;

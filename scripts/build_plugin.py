@@ -2,10 +2,11 @@
 """④ 빌드. archive → plugin/ (Claude Code·Codex 호환 플러그인). SKILL.md는 여기서만 생성한다.
 
 원칙: 모든 주장을 넣고 '누가·몇 명이 말했나'를 등급으로 붙인다(검증은 문턱이 아니라 표시).
-  🏛 공식 발표 > 👥 N명이 말함 > 👤 한 사람이 말함 · ⚠️ 다시 확인 · ⛔ 하지 말 것
+  🏛 공식 발표 > 👥 출처 N곳 > 👤 출처 1곳 · ⚠️ 다시 확인 · ⛔ 이후 바뀜
+  등급은 주장(자료 수·상태)에 붙는 표시이고 사람 평가가 아니다(11/16). ⛔ 항목은 이름을 옆에 붙이지 않는다.
 구조(점진 공개 — 스킬 호출 때 컨텍스트를 아끼려고):
   skills/<dom>/SKILL.md   규칙 + 공식·여러 명·주의·금지 한 줄 목록
-  skills/<dom>/people.md  한 사람만 말한 것, 사람별 한 줄 목록
+  skills/<dom>/people.md  출처 1곳인 것, 출처별 한 줄 목록(출처당 PEOPLE_CAP건, 나머지는 채널 링크로)
   skills/<dom>/items/<id>.md  항목 상세(본문·원문 인용·출처)
 사용: build_plugin.py"""
 import json, shutil
@@ -13,6 +14,7 @@ from common import *
 
 REPO = "n7business/botong-saram"
 RAW = f"https://raw.githubusercontent.com/{REPO}/main/plugin/skills"
+PEOPLE_CAP = 20  # 출처 한 곳이 people.md에 실리는 상한 — 요약집이 아니라 채널로 보내는 색인(11/16)
 SKILL_CAP = {"dep": 15, "stale": 15, "off": 20, "multi": 20, "hyp": 10}  # SKILL.md는 스킬을 부를 때마다 통째로 읽힌다 → 등급별 상한, 나머지는 all.md
 STALE_DAYS = 7
 TAKEDOWN = """## 원작자 삭제 요청
@@ -34,15 +36,15 @@ def speakers(c, idx):
     return out
 
 def grade(c, idx):
-    if c["status"] == "deprecated": return "dep", "⛔ 하지 말 것"
+    if c["status"] == "deprecated": return "dep", "⛔ 이후 바뀜"
     if c["status"] == "stale": return "stale", "⚠️ 다시 확인 필요"
     if c["status"] == "hypothesis": return "hyp", "🧪 실험 중"
     types = {(src_lookup(s, idx) or {}).get("type") for s in c.get("sources", [])}
     if "official" in types: return "off", "🏛 공식 발표"
     if "book" in types: return "off", "📚 연구·저서"
     n = len(speakers(c, idx))
-    if n >= 2: return "multi", f"👥 {n}명이 말함"
-    return "single", "👤 한 사람이 말함" + (" · 수치 근거" if c["status"] == "verified" else "")
+    if n >= 2: return "multi", f"👥 출처 {n}곳"
+    return "single", "👤 출처 1곳" + (" · 수치 근거" if c["status"] == "verified" else "")
 
 def top_topics(cs, idx, k=14):
     """스킬 설명에 넣을 주제어 — Claude는 설명만 보고 스킬을 열지 정한다(11/12 실측: 막연한 설명이면 안 연다). 사람·채널 이름은 뺀다."""
@@ -64,7 +66,8 @@ def layout(cs, idx):
     return groups
 
 def detail(c, g, ppl):
-    L = [f"# {c['claim']}", "", f"{g} · {', '.join(ppl)}", "", c.get("_body", "").strip(), ""]
+    who = "당시에는 맞았으나 법·정책·사실이 달라졌다. 말한 사람의 잘못이 아니며 출처는 아래에 있다." if g.startswith("⛔") else ", ".join(ppl)
+    L = [f"# {c['claim']}", "", f"{g} · {who}", "", c.get("_body", "").strip(), ""]
     meta = [f"근거 {c.get('evidence')}", f"처음 {c.get('first_seen')}", f"최근 확인 {c.get('last_confirmed')}", f"재검토 {c.get('review_by') or '—'}"]
     if c.get("law_ref") and c["law_ref"].get("law"): meta.append(f"근거 조문 {c['law_ref']['law']} {c['law_ref'].get('article','')} (시행 {c['law_ref'].get('effective') or '미확인'})")
     if c.get("verified_by"): meta.append(f"검증 {c['verified_by']}")
@@ -77,6 +80,7 @@ def detail(c, g, ppl):
     return "\n".join(L) + "\n"
 
 def line(c, g, ppl):
+    if g.startswith("⛔"): return f"- {g} · {c['claim']} → `items/{c['id']}.md`"
     return f"- {g} · {c['claim']} — {', '.join(ppl[:4])}{' 외' if len(ppl) > 4 else ''} → `items/{c['id']}.md`"
 
 def main():
@@ -93,33 +97,37 @@ def main():
         n = {k: len(v) for k, v in groups.items()}
         topics = ", ".join(top_topics(cs, idx))
         desc = (f"{d['ko']} 질문에 답하기 전에 먼저 연다 — 예: {topics}. 한국 소규모 사업자를 위해 업계 실무자·전문가·공식 기관이 반복해서 하는 말 {len(cs)}건"
-                f"(공식 {n['off']}·여러 명 {n['multi']}·한 사람 {n['single']}·하지 말 것 {n['dep']})을 누가 몇 명이 말했는지와 출처 링크까지 담았다. 일반 지식만으로 답하지 말고 여기서 해당 항목을 찾아 등급·출처와 함께 답한다.")
+                f"(공식 {n['off']}·여러 명 {n['multi']}·출처 1곳 {n['single']}·이후 바뀜 {n['dep']})을 출처 몇 곳이 말했는지와 출처 링크까지 담았다. 일반 지식만으로 답하지 말고 여기서 해당 항목을 찾아 등급·출처와 함께 답한다.")
         head = [f"---\nname: botong-{dom}\ndescription: {json.dumps(desc, ensure_ascii=False)}\n---",
                 f"# 보통사람 · {d['ko']}",
-                f"빌드 {TODAY} · 항목 {len(cs)} (🏛 공식 {n['off']} / 👥 여러 명 {n['multi']} / 👤 한 사람 {n['single']} / 🧪 실험 {n['hyp']} / ⚠️ 주의 {n['stale']} / ⛔ 하지 말 것 {n['dep']})", ""]
+                f"빌드 {TODAY} · 항목 {len(cs)} (🏛 공식 {n['off']} / 👥 여러 명 {n['multi']} / 👤 출처 1곳 {n['single']} / 🧪 실험 {n['hyp']} / ⚠️ 주의 {n['stale']} / ⛔ 이후 바뀜 {n['dep']})", ""]
         if d.get("legal"): head += [f"마지막 개정 확인 {lc.get('at', '미확인')}" + (" ⚠️ 확인 지연" if not lc.get("at") or (date.today() - date.fromisoformat(lc['at'])).days > 10 else ""), DISCLAIMER]
         head += ["## 최신본 확인",
                  f"이 파일의 빌드일은 {TODAY}이다. 오늘 날짜가 빌드일보다 {STALE_DAYS}일 넘게 지났고 웹을 읽을 수 있으면, 답하기 전에 최신본 `{RAW}/{dom}/SKILL.md`를 읽고 그 내용을 우선한다. 상세는 같은 경로의 `items/<id>.md`, 사람별 목록은 `people.md`. 못 읽으면 '내용이 {TODAY} 기준'이라고 밝힌다.", "",
                  "## 쓰는 법",
                  "- 이 지식은 '보통 사람들이 요즘 이렇게 한다'는 기록이다. 모두 사실 검증된 것이 아니므로 등급을 함께 말한다.",
-                 "- 🏛 공식 발표·📚 연구·저서는 그대로 따른다. 👥 여러 명이 말한 것은 '업계에서 보통 이렇게 한다'로, 👤 한 사람이 말한 것은 '○○는 이렇게 말한다'로 전한다.",
-                 "- ⚠️·⛔ 항목에 해당하는 요청이면 먼저 경고한다. 재검토일이 지난 항목은 불확실하다고 말한다.",
+                 "- 🏛 공식 발표·📚 연구·저서는 그대로 따른다. 👥 출처 여러 곳인 것은 '업계에서 보통 이렇게 한다'로, 👤 출처 1곳인 것은 '○○는 이렇게 말한다'로 전한다. 등급은 자료 수 표시이며 사람에 대한 평가가 아니다.",
+                 "- ⚠️·⛔ 항목에 해당하는 요청이면 먼저 경고한다. ⛔는 '이후 법·정책·사실이 바뀐 내용'이며 원래 말한 사람을 탓하지 않는다. 재검토일이 지난 항목은 불확실하다고 말한다.",
                  "- 답에 쓴 항목은 `items/<id>.md`를 열어 원문 인용과 출처 링크를 같이 준다.",
-                 f"- 아래 목록은 등급별 최근·많이 언급된 것만 추렸다. 여기 없는 주제는 `all.md`(공식·여러 명·주의 전체)와 `people.md`(한 사람만 말한 {n['single']}건, 사람별)를 키워드로 검색한다(파일 전체를 읽지 말 것).", ""]
+                 f"- 아래 목록은 등급별 최근·많이 언급된 것만 추렸다. 여기 없는 주제는 `all.md`(공식·여러 명·주의 전체)와 `people.md`(출처 1곳인 {n['single']}건, 출처별)를 키워드로 검색한다(파일 전체를 읽지 말 것).", ""]
         body = []; full = [f"# 보통사람 · {d['ko']} — 전체 목록(공식·여러 명·주의·실험)", f"빌드 {TODAY}. SKILL.md에는 이 중 일부만 있다.", ""]
-        for k, title in (("dep", "## ⛔ 하지 말 것"), ("stale", "## ⚠️ 다시 확인 필요 (개정·충돌·기한 경과)"), ("off", "## 🏛 공식 발표 · 📚 연구·저서"), ("multi", "## 👥 여러 사람이 반복해서 말하는 것"), ("hyp", "## 🧪 실험 중")):
+        for k, title in (("dep", "## ⛔ 이후 바뀐 내용 (지금은 맞지 않음)"), ("stale", "## ⚠️ 다시 확인 필요 (개정·충돌·기한 경과)"), ("off", "## 🏛 공식 발표 · 📚 연구·저서"), ("multi", "## 👥 여러 출처가 반복해서 말하는 것"), ("hyp", "## 🧪 실험 중")):
             if not groups[k]: continue
             cap = SKILL_CAP[k]; more = len(groups[k]) - cap
             body += [title] + [line(*x) for x in groups[k][:cap]] + ([f"- … 외 {more}건 → `all.md`"] if more > 0 else []) + [""]
             full += [title] + [line(*x) for x in groups[k]] + [""]
         (base / "all.md").write_text("\n".join(full), encoding="utf-8")
-        if groups["single"]: body += [f"## 👤 한 사람이 말한 것 {n['single']}건 → `people.md`", ""]
+        if groups["single"]: body += [f"## 👤 출처 1곳인 것 {n['single']}건 → `people.md`", ""]
         (base / "SKILL.md").write_text("\n".join(head + body), encoding="utf-8")
         by = {}
         for x in groups["single"]: by.setdefault(x[2][0] if x[2] else "출처", []).append(x)
-        P = [f"# 보통사람 · {d['ko']} — 사람별 (한 사람만 말한 것)", f"빌드 {TODAY}. 다른 사람이 같은 말을 하면 SKILL.md의 '여러 사람' 목록으로 올라간다.", ""]
+        P = [f"# 보통사람 · {d['ko']} — 출처별 (아직 한 곳에서만 나온 것)", f"빌드 {TODAY}. 다른 출처가 같은 말을 하면 SKILL.md의 '여러 출처' 목록으로 올라간다. 출처당 {PEOPLE_CAP}건까지만 싣고 나머지는 원래 채널에서 본다 — 이 저장소는 채널을 대신하지 않는다.", ""]
         for who, xs in sorted(by.items(), key=lambda kv: -len(kv[1])):
-            P += [f"## {who} ({len(xs)}건)"] + [f"- {c['claim']} → `items/{c['id']}.md`" + (" · 수치 근거" if c["status"] == "verified" else "") for c, g, ppl in xs] + [""]
+            url = next((v.get("url") for v in idx.values() if v.get("name") == who), None)
+            P += [f"## {who} ({len(xs)}건" + (f" 중 {PEOPLE_CAP}건" if len(xs) > PEOPLE_CAP else "") + ")" + (f" · [채널 바로가기]({url})" if url else "")]
+            P += [f"- {c['claim']} → `items/{c['id']}.md`" + (" · 수치 근거" if c["status"] == "verified" else "") for c, g, ppl in xs[:PEOPLE_CAP]]
+            if len(xs) > PEOPLE_CAP: P.append(f"- … 외 {len(xs)-PEOPLE_CAP}건은 `items/`에 있다. 이분의 생각을 더 보려면 채널로: {url or who}")
+            P.append("")
         (base / "people.md").write_text("\n".join(P), encoding="utf-8")
         built += 1; summary.append(f"{d['ko']} {len(cs)}")
     # version을 비워 두면 Claude Code가 git 커밋으로 새 버전을 판단한다(하루 여러 번 빌드해도 전달됨).
@@ -154,7 +162,7 @@ codex plugin marketplace add {REPO}
 
 ## 이 플러그인이 하는 일
 - 영역별 스킬 11개(마크다운 파일)만 들어 있습니다. 훅·MCP 서버·실행 스크립트가 없고, 어떤 정보도 밖으로 보내지 않습니다.
-- Claude가 질문에 맞는 스킬을 열어 SKILL.md·all.md·people.md·items/<id>.md를 읽고, 항목마다 붙은 등급(🏛 공식·👥 여러 명·👤 한 사람·⚠️·⛔)과 원문 출처를 함께 답합니다.
+- Claude가 질문에 맞는 스킬을 열어 SKILL.md·all.md·people.md·items/<id>.md를 읽고, 항목마다 붙은 등급(🏛 공식·👥 출처 N곳·👤 출처 1곳·⚠️·⛔ 이후 바뀜)과 원문 출처를 함께 답합니다.
 - 빌드일이 {STALE_DAYS}일 넘게 지났고 웹을 읽을 수 있으면 `{RAW}/<영역>/SKILL.md` 최신본을 읽도록 안내합니다(읽기만 함).
 - 스킬이 안 열리면 질문에 "보통사람 기준으로"를 붙이세요. 다른 플러그인이 아주 많으면 Claude가 스킬을 못 고를 수 있습니다.
 
