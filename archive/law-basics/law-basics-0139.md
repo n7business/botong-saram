@@ -3,7 +3,7 @@ id: law-basics-0139
 domain: law-basics
 claim: 국가법령정보센터의 법령정보는 법적 효력이 없는 참고자료이므로, 법령의 정확한 문구와 효력이 중요한 경우에는 관보 등 공포된 내용까지 확인해야
   한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.95
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 법령정보의 관리 및 제공에 관한 법률
   article: 제8조
   effective: '2026-11-07'
+  revised_note: 2026-05-12 공포·2026-11-13 시행 개정
+  current_effective: '2026-11-13'
 contributor: null
 tags:
 - 법령정보

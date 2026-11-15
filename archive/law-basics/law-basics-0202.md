@@ -2,7 +2,7 @@
 id: law-basics-0202
 domain: law-basics
 claim: 개인정보를 파기할 때 전자 파일은 복구·재생할 수 없는 기술적 방법으로 지우고, 종이 서류는 분쇄하거나 소각해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.8
 sources:
@@ -21,6 +21,8 @@ law_ref:
   law: 개인정보 보호법 시행령
   article: 제16조
   effective: '2026-11-10'
+  revised_note: 2026-11-10 공포·시행 개정 등 기준일 이후 개정
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 개인정보

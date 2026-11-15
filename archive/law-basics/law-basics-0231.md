@@ -3,7 +3,7 @@ id: law-basics-0231
 domain: law-basics
 claim: 국가법령정보센터(law.go.kr)에서 본 법령정보에는 법적 효력이 없으므로, 분쟁이나 제출 서류에서 조문의 정확한 효력이 중요하면 관보
   등 공포된 원문으로 확인해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.9
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 법령정보의 관리 및 제공에 관한 법률
   article: 제8조
   effective: '2026-11-11'
+  revised_note: 2026-05-12 공포·2026-11-13 시행 개정
+  current_effective: '2026-11-13'
 contributor: null
 tags:
 - 법령검색

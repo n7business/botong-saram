@@ -3,7 +3,7 @@ id: hr-labor-0037
 domain: hr-labor
 claim: 근로자가 체불임금 확정판결 뒤 소액체당금(현 간이대지급금)을 청구할 수 있는 기한은 '판결등이 있는 날'부터 1년이며, 사업주가 상소를
   취하했거나 취하간주로 종결됐으면 그 취하일·종결일을 확정일로 보아 1년을 계산한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.55
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 임금채권보장법 시행령
   article: 제9조
   effective: '2026-11-03'
+  revised_note: 2026-11-10 공포·시행 개정
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 임금체불

@@ -4,7 +4,7 @@ domain: business-plan
 claim: 예비창업자나 창업기업(신산업은 10년 이내)은 2026-11-15 18:00까지 온라인으로 신청하면 11월 17일 서귀포 스타트업타운에서
   열리는 창업진흥원 스타트업 법률상담회에서 변호사 1:1 대면 상담(기업별 45분 이내)을 받을 수 있지만, 이미 생긴 분쟁·갈등 상담과 소송 문의는
   받지 않는다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

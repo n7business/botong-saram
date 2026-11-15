@@ -4,7 +4,7 @@ domain: law-basics
 claim: 배달앱이 가게배달 노출을 줄이고, 최소주문금액 설정권을 빼앗고, 가게배달 예상시간을 느리게 표시해 사실상 자체배달 요금제로 옮기도록 강제하는
   것은 공정위가 사업활동 방해이자 거래상지위 남용(불이익 제공)으로 판단한 행위이므로, 이런 전환 압박을 받는 업주는 변경 내역과 매출 변화를 기록해
   두어야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.7
 sources:
@@ -23,6 +23,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제5조(시장지배적지위의 남용금지), 제45조 제1항 제6호(거래상지위 남용)
   effective: '2021-12-30'
+  revised_note: 2021-12-30 이후 다수 개정, 현행은 2026-09-29 공포·10-02 시행본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 배달앱

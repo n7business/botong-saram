@@ -4,7 +4,7 @@ domain: business-plan
 claim: 로봇 핸드·휴머노이드·로봇 학습 데이터 분야 스타트업은 2026-11-15 23:59까지 온라인으로 신청하면 11월 16일 서울 강남
   팁스타운 S6에서 열리는 Human Dexterity Networking Day에 무료로 참가할 수 있고, 신청서에 '제품 소개 부스 참여'를
   표시하면 선착순 3팀 안에 들 경우 제품 시연·B2B 상담 부스를 무료로 운영할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.6
 sources:
@@ -20,7 +20,7 @@ sources:
   source: 이오플래닛 매거진
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-15'
 supersedes: null
 superseded_by: null
 experiment: null

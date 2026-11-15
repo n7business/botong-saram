@@ -3,7 +3,7 @@ id: factory-ax-0018
 domain: factory-ax
 claim: 시설농업 AI로봇 관련 기업은 2026-11-15까지 한국생산기술연구원에 이메일로 신청하면 기업부담금 없이 기술지도를 받을 수 있다(2개사
   내외, 수시 선정).
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-02-01'
+review_by: '2026-11-15'
 supersedes: null
 superseded_by: null
 experiment: null

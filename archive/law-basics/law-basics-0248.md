@@ -3,7 +3,7 @@ id: law-basics-0248
 domain: law-basics
 claim: 입찰에 참여하는 사업자는 투찰 가격을 직접 합의하지 않더라도 경쟁사와 투찰 가격 정보를 서로 주고받기만 해도 부당한 공동행위(정보교환
   담합)로 제재를 받을 수 있으므로, 입찰 전후에 경쟁사와 가격·물량 정보를 나누지 말아야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.75
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제40조 제1항 제9호
   effective: '2021-12-30'
+  revised_note: 2021-12-30 이후 다수 개정, 현행은 2026-09-29 공포·10-02 시행본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 담합

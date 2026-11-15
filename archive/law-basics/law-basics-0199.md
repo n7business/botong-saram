@@ -4,7 +4,7 @@ domain: law-basics
 claim: 배달앱이 메뉴가격·최소주문금액·할인 같은 거래조건을 다른 앱과 같거나 더 유리하게 맞추라고 요구하고(최혜대우 요구), 따르지 않으면 할인매장
   지위나 멤버십 혜택에서 빼는 것은 공정위가 시장지배적지위 남용이자 거래상지위 남용으로 판단한 행위이므로, 입점업체는 가격 결정권이 자신에게 있다는
   점을 알고 이런 요구를 받으면 증거를 남겨 공정위 신고를 검토해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.8
 sources:
@@ -23,6 +23,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제5조(시장지배적지위의 남용금지), 제45조 제1항 제6호(거래상지위 남용)
   effective: '2021-12-30'
+  revised_note: 2021-12-30 이후 다수 개정, 현행은 2026-09-29 공포·10-02 시행본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 배달앱

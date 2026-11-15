@@ -3,7 +3,7 @@ id: law-basics-0236
 domain: law-basics
 claim: 고객이나 직원이 서면·전자우편·팩스 등으로 자기 개인정보의 열람·정정·삭제·처리정지를 요구하면 요구한 사람이 본인인지 먼저 확인하고,
   대리인이면 위임장을 받아 권한을 확인한 뒤 처리해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.75
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 개인정보 보호법 시행령
   article: 제41조
   effective: '2026-11-11'
+  revised_note: 2026-11-10 공포·시행 개정 등 기준일 이후 개정
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 개인정보

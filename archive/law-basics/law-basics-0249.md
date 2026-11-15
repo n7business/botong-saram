@@ -3,7 +3,7 @@ id: law-basics-0249
 domain: law-basics
 claim: 공공 입찰에서 경쟁사와 투찰 가격이나 물량을 미리 맞추면 입찰담합으로 시정명령과 과징금을 받고 형사고발까지 당할 수 있으며, 공정위는
   공공 분야 입찰담합을 예외 없이 엄중히 집행하겠다고 밝혔다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.75
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제40조 제1항 제8호
   effective: '2021-12-30'
+  revised_note: 2021-12-30 이후 다수 개정, 현행은 2026-09-29 공포·10-02 시행본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 입찰담합
