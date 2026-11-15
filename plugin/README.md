@@ -1,4 +1,4 @@
-# 보통사람 플러그인 (빌드 2026-11-15)
+# 보통사람 플러그인 (빌드 2026-11-16)
 
 ## Claude Code
 ```
@@ -18,7 +18,7 @@ codex plugin marketplace add n7business/botong-saram
 
 ## 이 플러그인이 하는 일
 - 영역별 스킬 11개(마크다운 파일)만 들어 있습니다. 훅·MCP 서버·실행 스크립트가 없고, 어떤 정보도 밖으로 보내지 않습니다.
-- Claude가 질문에 맞는 스킬을 열어 SKILL.md·all.md·people.md·items/<id>.md를 읽고, 항목마다 붙은 등급(🏛 공식·👥 여러 명·👤 한 사람·⚠️·⛔)과 원문 출처를 함께 답합니다.
+- Claude가 질문에 맞는 스킬을 열어 SKILL.md·all.md·people.md·items/<id>.md를 읽고, 항목마다 붙은 등급(🏛 공식·👥 출처 N곳·👤 출처 1곳·⚠️·⛔ 이후 바뀜)과 원문 출처를 함께 답합니다.
 - 빌드일이 7일 넘게 지났고 웹을 읽을 수 있으면 `https://raw.githubusercontent.com/n7business/botong-saram/main/plugin/skills/<영역>/SKILL.md` 최신본을 읽도록 안내합니다(읽기만 함).
 - 스킬이 안 열리면 질문에 "보통사람 기준으로"를 붙이세요. 다른 플러그인이 아주 많으면 Claude가 스킬을 못 고를 수 있습니다.
 
