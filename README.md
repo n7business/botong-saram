@@ -39,7 +39,7 @@ codex plugin marketplace add n7business/botong-saram
 ## 들어 있는 것
 
 <!-- stats:start -->
-2026-11-16 기준 **3,457건** · 추적 출처 169곳 · 최근 7일 새로 들어온 항목 1,229건 (매일 자동 갱신, ⚖️ 법령 영역)
+2026-11-16 기준 **3,431건** · 추적 출처 168곳 · 최근 7일 새로 들어온 항목 1,221건 (매일 자동 갱신, ⚖️ 법령 영역)
 
 | 영역 | 항목 | 🏛 공식 | 👥 출처 여러 곳 | 👤 출처 1곳 | 최근 7일 신규 |
 |---|--:|--:|--:|--:|--:|
@@ -51,7 +51,7 @@ codex plugin marketplace add n7business/botong-saram
 | 사업계획서·정부지원 | 435 | 154 | 9 | 272 | 161 |
 | AI 도구·트렌드 | 548 | 114 | 18 | 416 | 171 |
 | 인사·노무 ⚖️ | 176 | 36 | 21 | 108 | 32 |
-| 세무 ⚖️ | 258 | 67 | 5 | 173 | 114 |
+| 세무 ⚖️ | 232 | 67 | 3 | 149 | 106 |
 | 기본법 ⚖️ | 312 | 158 | 2 | 142 | 127 |
 | 창업자 마인드·습관 | 182 | 0 | 1 | 181 | 57 |
 <!-- stats:end -->
@@ -101,7 +101,7 @@ flowchart LR
 - **사업계획서·정부지원** · [벤처스퀘어 지원사업 아카이브](https://www.venturesquare.net/announcement) · [스타트업레시피 뉴스레터](https://startuprecipe.co.kr/) · [더브이씨 지원사업(grants)](https://thevc.kr/grants) · [넥스트유니콘 인사이트(메이크덱)](https://www.nextunicorn.kr/insight) · [스프링워터 파트너스 예창패 가이드](https://www.swp.io.kr/guide/yebi-changup-package.html) · [하이아웃풋클럽 블로그](https://blog.highoutputclub.com/) · [이오플래닛 매거진](https://eopla.net/magazines) · [엠마쌤 (@emmassam)](https://www.youtube.com/@emmassam) · [창업주일. 창업주가 하는 일 (@창업주일)](https://www.youtube.com/@창업주일) · [민썸 MinSsum, 스타트업 크리에이터 (@MinSsum)](https://www.youtube.com/@MinSsum) · [퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)](https://www.instagram.com/qtum.be/) · [똑생똑사 김대표 | 제조업CEO (@ddoksang_kms)](https://www.instagram.com/ddoksang_kms/) · [사업계획서의 정석, 비즈니스 성공방정식 (@정석Biz)](https://www.youtube.com/@정석Biz)
 - **AI 도구·트렌드** · [조코딩 JoCoding](https://www.youtube.com/@jocoding) · [테디노트 TeddyNote](https://www.youtube.com/@teddynote) · [일잘러 장피엠](https://www.youtube.com/@jangpm) · [노마드 코더 Nomad Coders](https://www.youtube.com/@nomadcoders) · [지피터스 GPTers](https://www.gpters.org/) · [요즘IT](https://yozm.wishket.com/magazine/) · [GeekNews](https://news.hada.io/) · [윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)](https://www.threads.com/@yun_ja_dong) · [짐코딩 (@gymcoding)](https://www.youtube.com/@gymcoding) · [코드깎는노인](https://www.youtube.com/channel/UCRpOIr-NJpK9S483ge20Pgw) · [양실장의 바이브코딩대학 (@VibecodingUniversity)](https://www.youtube.com/@VibecodingUniversity) · [레인 | AI 바이브코딩 (@Vibe_RaiN)](https://www.youtube.com/@Vibe_RaiN) · [직장인 AI 업무 자동화 | 라핀](https://www.youtube.com/@라핀_AI_자동화) · [서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm)](https://www.youtube.com/@ProfHanBuhm) · [샘 호트만 : AI 엔지니어의 시선 (@ai.sam_hottman)](https://www.youtube.com/@ai.sam_hottman)
 - **인사·노무** · [왕노무사TV [노동법알려Dream]](https://www.youtube.com/@왕노무사TV) · [비법수다 (전효진 노무사)](https://www.youtube.com/@secretsuda) · [노무법인 명률 뉴스레터](https://mrnosa.stibee.com/) · [윤보름노무사 (Threads)](https://www.threads.com/@full_nomusa) · [박실로 노무사 블로그](https://silronomu.com/) · [사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)](https://www.youtube.com/@사업주직원관리방법) · [노무닥터 김기민 노무사 (@nomudoctor)](https://www.youtube.com/@nomudoctor) · [달리는 노무사 (@runnomu)](https://www.youtube.com/@runnomu) · [노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)](https://www.threads.com/@angela_cpla) · [다정한 노무사 이채경 (@chaenomu)](https://www.threads.com/@chaenomu) · [이인재 노무사 | 해고·산재 상담 (@lee.injae_nomusa)](https://www.threads.com/@lee.injae_nomusa)
-- **세무** · [국세청 아는형 (염지훈 세무사)](https://www.youtube.com/@ntstax) · [절세연구소 (김창휘 세무사)](https://www.youtube.com/@taxhelper2048) · [세금 줄여주는 회사 밖 경리 (서원욱 세무사)](https://www.youtube.com/@서원욱세무사) · [세무사 강효정 (Threads)](https://www.threads.com/@taxexpert_gng) · [용세무사 l 이용운 (Threads)](https://www.threads.com/@yong_tax_) · [릭택스 Taxnote (절세노트) 뉴스레터](https://rictax.stibee.com/) · [영세업자(곽영세무사) (@라온세무회계)](https://www.youtube.com/@라온세무회계) · [서경화 세무사 (@tax_dagyeom)](https://www.threads.com/@tax_dagyeom) · [송진명 세무사 (@taxnode_song)](https://www.threads.com/@taxnode_song) · ["그냥 따라해 이유 묻지마" 안재환 세무사 (@just_followtax)](https://www.threads.com/@just_followtax) · [이상화세무사의 모래세무 (@nicetax)](https://www.youtube.com/@nicetax) · [절세엔지니어 이동현 세무사 (@절세엔지니어이동현)](https://www.youtube.com/@절세엔지니어이동현)
+- **세무** · [절세연구소 (김창휘 세무사)](https://www.youtube.com/@taxhelper2048) · [세금 줄여주는 회사 밖 경리 (서원욱 세무사)](https://www.youtube.com/@서원욱세무사) · [세무사 강효정 (Threads)](https://www.threads.com/@taxexpert_gng) · [용세무사 l 이용운 (Threads)](https://www.threads.com/@yong_tax_) · [릭택스 Taxnote (절세노트) 뉴스레터](https://rictax.stibee.com/) · [영세업자(곽영세무사) (@라온세무회계)](https://www.youtube.com/@라온세무회계) · [서경화 세무사 (@tax_dagyeom)](https://www.threads.com/@tax_dagyeom) · [송진명 세무사 (@taxnode_song)](https://www.threads.com/@taxnode_song) · ["그냥 따라해 이유 묻지마" 안재환 세무사 (@just_followtax)](https://www.threads.com/@just_followtax) · [이상화세무사의 모래세무 (@nicetax)](https://www.youtube.com/@nicetax) · [절세엔지니어 이동현 세무사 (@절세엔지니어이동현)](https://www.youtube.com/@절세엔지니어이동현)
 - **기본법** · [법무사TV (대한법무사협회 공식)](https://www.youtube.com/@TV-ek2kx) · [권단 변호사 DKL | AI 스타트업 & 크리에이터 IP](https://www.youtube.com/@DKL_TV_Official) · [협상가 류재언변호사](https://www.youtube.com/@negobible) · [헬프미 법률사무소 블로그](https://www.help-me.kr/blog) · [허훈법무사의 법률솔루션](https://www.youtube.com/@huhhunlawtv) · [법무법인 별 (강혜미 변호사) (@star-law)](https://www.youtube.com/@star-law) · [전세준 변호사 (@전세준변호사)](https://www.youtube.com/@전세준변호사) · [컴변스 CLS (김정민 변호사·변리사) (@comlawstartup)](https://www.youtube.com/@comlawstartup) · [이경석 법무사 (@leekslaw)](https://www.threads.com/@leekslaw) · [법무사 정승제 (@__jjjjjeee)](https://www.threads.com/@__jjjjjeee)
 <!-- sources:end -->
 
