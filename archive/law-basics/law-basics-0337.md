@@ -2,7 +2,7 @@
 id: law-basics-0337
 domain: law-basics
 claim: 고객이나 직원이 개인정보 열람·정정·삭제·처리정지를 요구할 수 있도록 서면뿐 아니라 전자우편·팩스 같은 쉬운 방법도 열어 두어야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.6
 sources:
@@ -21,6 +21,8 @@ law_ref:
   law: 개인정보 보호법 시행령
   article: 제41조제1항
   effective: '2026-11-16'
+  revised_note: 2026-11-10 공포·시행 개정 등 기준일(2023-09-15) 이후 개정 다수
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 개인정보

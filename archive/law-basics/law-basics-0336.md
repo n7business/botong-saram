@@ -3,7 +3,7 @@ id: law-basics-0336
 domain: law-basics
 claim: 대표와 가족이 지분을 나눠 가진 여러 법인이 같은 입찰에 함께 들어가 한 곳을 낙찰자로 정하고 나머지를 들러리로 세우면, 실제로는 한
   회사처럼 운영하더라도 입찰담합으로 제재받을 수 있다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.7
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제40조 제1항 제8호
   effective: '2021-12-30'
+  revised_note: 기준일(2021-12-30) 이후 여러 차례 개정. 현행은 2026-09-29 공포본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 입찰담합

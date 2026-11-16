@@ -3,7 +3,7 @@ id: law-basics-0335
 domain: law-basics
 claim: 다른 업체가 낙찰받기로 하고 전자우편 등으로 보내 준 투찰가격대로 들러리 응찰만 해 주어도, 들러리 업체 역시 담합 참여자로 시정명령과
   과징금을 받는다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.85
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제40조 제1항 제8호
   effective: '2021-12-30'
+  revised_note: 기준일(2021-12-30) 이후 여러 차례 개정. 현행은 2026-09-29 공포본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 입찰담합

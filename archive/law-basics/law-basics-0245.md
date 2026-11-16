@@ -3,7 +3,7 @@ id: law-basics-0245
 domain: law-basics
 claim: 제품·기술로 여러 나라에서 특허를 받으려는 사업자는 PCT 국제출원을 한 번 해 두면, 국제조사 결과를 보고 특허 가능성이 있는 나라에만
   심사를 청구해 번역료·출원비용·대리인 선임료를 아낄 수 있다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.7
 sources:
@@ -22,6 +22,9 @@ law_ref:
   law: 특허협력조약(PCT)
   article: 제11조
   effective: '1978-01-24'
+  revised_note: 조약 DB에 기준일 이후 개정 있음(1984-08-10 국내 발효, 1985 개정, 2002 제22조 개정). 조약은
+    국내 법령처럼 시행일이 정리되지 않아 개정 발효일 기준으로 판단
+  current_effective: '2002-04-01'
 contributor: null
 tags:
 - 특허

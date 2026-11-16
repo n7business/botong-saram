@@ -3,7 +3,7 @@ id: law-basics-0334
 domain: law-basics
 claim: 공공기관 입찰에 혼자 응찰하면 유찰된 뒤 수의계약으로 바뀌어 계약금액이 낮아질까 봐 다른 업체를 들러리로 세우고 낙찰자나 투찰가격을 미리
   맞추면, 유찰을 막으려는 목적이었더라도 입찰담합으로 시정명령과 과징금을 받는다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.85
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 독점규제 및 공정거래에 관한 법률
   article: 제40조 제1항 제8호
   effective: '2021-12-30'
+  revised_note: 기준일(2021-12-30) 이후 여러 차례 개정. 현행은 2026-09-29 공포본
+  current_effective: '2026-10-02'
 contributor: null
 tags:
 - 입찰담합
