@@ -450,42 +450,6 @@
   "note": "고구마팜"
  },
  {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0007",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0008",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0009",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0010",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0011",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T10:30:25",
-  "kind": "candidate",
-  "id": "marketing-0012",
-  "note": "오픈애즈"
- },
- {
   "ts": "2026-11-03T10:31:14",
   "kind": "candidate",
   "id": "marketing-0013",
@@ -1034,30 +998,6 @@
  {
   "ts": "2026-11-03T11:12:45",
   "kind": "verified",
-  "id": "marketing-0007",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:45",
-  "kind": "verified",
-  "id": "marketing-0008",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:45",
-  "kind": "verified",
-  "id": "marketing-0009",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:45",
-  "kind": "verified",
-  "id": "marketing-0010",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:45",
-  "kind": "verified",
   "id": "marketing-0015",
   "note": "실무자 실측(단일 출처)"
  },
@@ -1125,30 +1065,6 @@
   "ts": "2026-11-03T11:12:54",
   "kind": "verified",
   "id": "growth-0006",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:54",
-  "kind": "verified",
-  "id": "marketing-0007",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:54",
-  "kind": "verified",
-  "id": "marketing-0008",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:54",
-  "kind": "verified",
-  "id": "marketing-0009",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T11:12:54",
-  "kind": "verified",
-  "id": "marketing-0010",
   "note": "실무자 실측(단일 출처)"
  },
  {
@@ -1312,18 +1228,6 @@
   "kind": "candidate",
   "id": "marketing-0028",
   "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
- },
- {
-  "ts": "2026-11-03T11:25:11",
-  "kind": "candidate",
-  "id": "marketing-0029",
-  "note": "오픈애즈"
- },
- {
-  "ts": "2026-11-03T11:25:11",
-  "kind": "candidate",
-  "id": "marketing-0030",
-  "note": "오픈애즈"
  },
  {
   "ts": "2026-11-03T11:25:50",
@@ -4926,54 +4830,6 @@
   "note": "이상화세무사의 모래세무 (@nicetax)"
  },
  {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0043",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0044",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0045",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0046",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0047",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0048",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0049",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T14:47:28",
-  "kind": "candidate",
-  "id": "metrics-0050",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
   "ts": "2026-11-03T14:49:04",
   "kind": "candidate",
   "id": "metrics-0051",
@@ -6732,42 +6588,6 @@
   "note": "이상화세무사의 모래세무 (@nicetax)"
  },
  {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "metrics-0073",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "metrics-0074",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "metrics-0075",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "metrics-0076",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "mindset-0042",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
-  "ts": "2026-11-03T15:32:18",
-  "kind": "candidate",
-  "id": "mindset-0043",
-  "note": "자영업 다이어리 (@startupdiary2)"
- },
- {
   "ts": "2026-11-03T15:33:23",
   "kind": "candidate",
   "id": "metrics-0077",
@@ -7536,12 +7356,6 @@
   "note": "+1"
  },
  {
-  "ts": "2026-11-03T15:34:51",
-  "kind": "merged",
-  "id": "marketing-0029",
-  "note": "+1"
- },
- {
   "ts": "2026-11-03T15:35:48",
   "kind": "merged",
   "id": "licensing-0033",
@@ -7845,24 +7659,6 @@
   "ts": "2026-11-03T15:39:21",
   "kind": "verified",
   "id": "metrics-0033",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T15:39:21",
-  "kind": "verified",
-  "id": "metrics-0044",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T15:39:21",
-  "kind": "verified",
-  "id": "metrics-0045",
-  "note": "실무자 실측(단일 출처)"
- },
- {
-  "ts": "2026-11-03T15:39:21",
-  "kind": "verified",
-  "id": "metrics-0046",
   "note": "실무자 실측(단일 출처)"
  },
  {

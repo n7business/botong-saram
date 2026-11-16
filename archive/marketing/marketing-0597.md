@@ -8,11 +8,6 @@ status: verified
 evidence: observed
 confidence: 0.75
 sources:
-- url: https://www.openads.co.kr/content/contentDetail?contsId=21178
-  author: 로켓A
-  seen: '2026-11-12'
-  quote: 인스타그램 이용률은 20대에서 82.6%지만 70대에서는 15.8%입니다.
-  source: 오픈애즈
 - url: https://www.soumu.go.jp/menu_news/s-news/01iicp01_02000130.html
   author: 일본 총무성 정보통신정책연구소
   seen: '2026-11-12'
