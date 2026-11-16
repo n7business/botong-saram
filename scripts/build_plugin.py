@@ -121,7 +121,7 @@ def main():
         (base / "SKILL.md").write_text("\n".join(head + body), encoding="utf-8")
         by = {}
         for x in groups["single"]: by.setdefault(x[2][0] if x[2] else "출처", []).append(x)
-        P = [f"# 보통사람 · {d['ko']} — 출처별 (아직 한 곳에서만 나온 것)", f"빌드 {TODAY}. 다른 출처가 같은 말을 하면 SKILL.md의 '여러 출처' 목록으로 올라간다. 출처당 {PEOPLE_CAP}건까지만 싣고 나머지는 원래 채널에서 본다 — 이 저장소는 채널을 대신하지 않는다.", ""]
+        P = [f"# 보통사람 · {d['ko']} — 출처별 (아직 한 곳에서만 나온 것)", f"빌드 {TODAY}. 다른 출처가 같은 말을 하면 SKILL.md의 '여러 출처' 목록으로 올라간다. 출처당 {PEOPLE_CAP}건까지만 싣고 나머지는 원래 채널에서 본다 — 이 저장소는 채널을 대신하지 않는다. 여기 실린 분·매체는 이 저장소의 협력사나 참여 매체가 아니며, 운영 주체(네스토리움·역삼836)와 무관하고 역삼836의 강의·서비스를 보증하지 않는다.", ""]
         for who, xs in sorted(by.items(), key=lambda kv: -len(kv[1])):
             url = next((v.get("url") for v in idx.values() if v.get("name") == who), None)
             P += [f"## {who} ({len(xs)}건" + (f" 중 {PEOPLE_CAP}건" if len(xs) > PEOPLE_CAP else "") + ")" + (f" · [채널 바로가기]({url})" if url else "")]
