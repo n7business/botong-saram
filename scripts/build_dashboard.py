@@ -59,6 +59,8 @@ def update_readme(dstat, items, people):
         for dom, lst in sources().items():
             ind = [x for x in lst or [] if x.get("type") not in ("official", "book")]
             if ind: lines.append(f"- **{doms.get(dom, {}).get('ko', dom)}** · " + " · ".join(f"[{x['name']}]({x['url']})" if x.get("url") else x["name"] for x in ind))
+            for x in ind:
+                if x.get("intro"): lines.append(f"  - {x['name']}: {x['intro'].strip()}")
         s = s[:s.index(a2)] + "\n".join([a2] + lines + [b2]) + s[s.index(b2) + len(b2):]
     p.write_text(s, encoding="utf-8")
 

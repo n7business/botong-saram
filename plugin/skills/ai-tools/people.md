@@ -117,6 +117,9 @@
 - … 외 11건은 `items/`에 있다. 이분의 생각을 더 보려면 채널로: https://www.youtube.com/channel/UCRpOIr-NJpK9S483ge20Pgw
 
 ## 지피터스 GPTers (29건 중 20건) · [채널 바로가기](https://www.gpters.org/)
+> 국내 최대 AI 커뮤니티 지피터스(GPTers). AI로 일하는 사람 5만 5천 명이 모여 업무 사례를 나누고, 기업에는 실제 업무에 AI를 도입하는 [AX 교육](https://b2b.gpters.org/?utm_source=partner&utm_medium=referral&utm_campaign=b2b-education-alwayson&utm_content=botong-saram-intro&utm_term=261116)으로 찾아갑니다!  
+> (출처가 직접 보내온 소개 문구)
+
 - ChatGPT 프로 API 크레딧은 구독 하나에 API 조직 하나만 연결되고 나중에 바꾸려면 지원팀을 거쳐야 하므로, 신청 전에 ChatGPT와 API에 같은 이메일을 쓰고 개인 조직에 붙일지 회사 조직에 붙일지 먼저 정한다. → `items/ai-tools-0056.md`
 - ChatGPT 프로 API 크레딧은 API 호출 비용에만 쓰이고 ChatGPT 화면이나 로그인형 코덱스의 사용 한도는 늘려 주지 않으며, 다 쓰면 요청이 429 오류로 실패하므로 그때는 유료 크레딧 구매나 자동 충전을 설정한다. → `items/ai-tools-0057.md`
 - 해외 거래처와 영어 회의를 구글 미트로 할 때 실시간 통역을 쓰려면 회의를 여는 사람이 Google AI Pro 또는 Workspace Business Standard 이상이어야 하고, 회의당 90분까지만 되며 녹화본·라이브 스트림에는 통역이 남지 않는다. → `items/ai-tools-0058.md`
