@@ -1,9 +1,9 @@
 ---
 id: marketing-0664
 domain: marketing
-claim: 비즈니스용 Meta Verified로 인증할 수 있는 자산은 같은 포트폴리오 안에서 최대 2개이고, Facebook 모바일 앱이나 컴퓨터의
-  Meta Business Suite에서 가입하면 최대 3개입니다. 자산을 묶어 인증하면 가격이 할인될 수 있지만 두 자산의 이름과 사진이 비슷해야
-  할 수 있습니다.
+claim: 비즈니스용 Meta Verified는 같은 포트폴리오 안의 자산을 최대 2개(Facebook 모바일 앱이나 컴퓨터의 Meta Business
+  Suite에서 가입하면 최대 3개)까지 인증할 수 있고, 묶음 할인을 받으려면 두 자산의 이름과 사진이 비슷해야 할 수 있으며, 심사는 영업일
+  기준 최대 3일이 걸린다.
 status: verified
 evidence: policy
 confidence: 0.8
@@ -27,5 +27,6 @@ tags:
 - 인스타그램
 - 요금제
 verified_by: 공식 출처
+mentions: 1
 ---
 Meta Verified를 받을 수 있는 자산은 Instagram 프로페셔널 비즈니스 프로필, Facebook 비즈니스 페이지, WhatsApp Business 프로필입니다. 같은 포트폴리오 안에서 기본적으로 최대 2개를 인증할 수 있습니다. Facebook 모바일 앱이나 컴퓨터의 Meta Business Suite 웹사이트에서 가입하면 최대 3개까지 가능합니다. 인스타그램과 페이스북을 묶어 인증하면 할인될 수 있지만, 두 자산의 이름과 사진이 비슷해야 할 수 있습니다. 가입 전에 채널별 이름과 프로필 사진을 통일해 두면 좋습니다. 릴스 내 링크(월 2~6개) 같은 혜택은 요금제마다 다르므로 필요한 혜택을 보고 요금제를 골라야 합니다.

@@ -3,7 +3,7 @@ id: business-plan-0321
 domain: business-plan
 claim: 서울에서 가죽·패션 사업을 하는 소상공인이나 창업예정자는 2026-11-16 23:59까지 이메일로 신청하면 강동가죽제조지원센터의 사업계획서
   작성법과 1:1 컨설팅 교육을 받을 수 있지만, 정원 6명을 선착순으로 뽑고 서류가 빠지면 제외될 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

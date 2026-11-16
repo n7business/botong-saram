@@ -3,7 +3,7 @@ id: business-plan-0240
 domain: business-plan
 claim: 대구 서구 대구염색가공특화단지 안에 본사나 공장이 있는 뿌리기업은 2026-11-16까지 뿌리산업특화단지 지원 사업에 신청할 수 있으며,
   이메일로 냈다면 접수 여부를 담당자에게 전화로 반드시 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.93
 sources:

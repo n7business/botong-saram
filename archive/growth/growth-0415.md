@@ -1,0 +1,29 @@
+---
+id: growth-0415
+domain: growth
+claim: 국민연금 사업장 가입현황으로 거래처의 입사·퇴사 인원이나 급여 수준을 가늠할 때는 수치를 실제 값으로 읽으면 안 됩니다. 취득·상실 인원은
+  고지 기준이라 실제 입사·퇴사와 다를 수 있고, 고지금액을 거꾸로 계산한 추정 급여는 기준소득월액 상한 때문에 실제보다 낮게 보일 수 있습니다.
+status: candidate
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://disquiet.io/products/444ef0a6-3f5d-4273-a99d-7e7b349767f7
+  author: 국민연금술사 메이커
+  seen: '2026-11-17'
+  quote: 취득·상실 인원은 고지 기준이라 실제 입사·퇴사와 다를 수 있습니다.
+  source: 디스콰이엇
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 거래처확인
+- 국민연금
+- 추정급여
+- 데이터한계
+---
+국민연금 고지 자료를 쓰면 거래처의 월별 입사·퇴사와 평균 급여를 추정할 수 있습니다. 하지만 취득·상실 인원은 고지 기준으로 잡히므로 실제 입사일·퇴사일과 다를 수 있습니다. 가입자 수도 회사가 밝힌 임직원 수와 다를 수 있습니다. 급여는 국민연금 기준소득월액 상한이 있어 고지금액으로 역산하면 실제보다 낮게 나올 수 있습니다. 거래 여부나 투자를 정할 때는 이 수치를 참고 자료로만 써야 합니다.

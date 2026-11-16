@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-09'
   quote: 모든 광고주는 결제를 완료하기 전까지 하나의 광고 계정 ID만 사용할 수 있습니다.
   source: Meta 비즈니스 지원 센터
+- url: https://www.facebook.com/business/help/407323696966570
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-14'
+  quote: 모든 광고주는 결제를 완료하기 전까지 하나의 광고 계정 ID만 사용할 수 있습니다.
+  source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-09'
+last_confirmed: '2026-11-14'
 review_by: '2027-01-08'
 supersedes: null
 superseded_by: null
@@ -26,5 +31,6 @@ tags:
 - 결제
 - 계정한도
 verified_by: 공식 출처
+mentions: 2
 ---
 Meta는 악용과 사기를 막기 위해 모든 광고주에게 결제를 완료하기 전까지 광고 계정 ID 하나만 허용합니다. 첫 결제가 정상 처리된 뒤에야 광고 계정을 더 만들 수 있습니다. 광고를 게재하려면 Facebook 페이지가 있거나 다른 사람 페이지의 관리자·편집자·광고주 역할을 갖고 있어야 하고, 올바른 결제 수단도 등록해야 합니다. 브랜드나 매장별로 계정을 나누고 싶다면 기본 계정으로 첫 결제를 끝낸 다음 비즈니스 포트폴리오에서 추가 계정을 만드세요.

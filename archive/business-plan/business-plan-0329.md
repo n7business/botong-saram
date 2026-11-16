@@ -3,7 +3,7 @@ id: business-plan-0329
 domain: business-plan
 claim: 디자인·공예·건축 등 문화예술 분야 전시를 기획·실행할 수 있는 기업이나 단체는 2026-11-16까지 이메일로 4차 DDP 민·관·산·학
   협력전시에 신청하면 DDP 전시공간과 DDP 온·오프라인 홍보물 게재를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

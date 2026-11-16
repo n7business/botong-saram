@@ -3,7 +3,7 @@ id: business-plan-0071
 domain: business-plan
 claim: 중기부 2027년 전통시장·상점가 활성화 지원사업(문화관광형시장 30곳·시장경영지원 400곳·안전관리패키지 300곳 등 5개)은 2026-11-16까지
   시장·상점가 단위로 모집하므로 개별 점포는 소속 상인회를 통해 참여를 챙겨야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.65
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: null
+review_by: '2026-11-16'
 supersedes: null
 superseded_by: null
 experiment: null

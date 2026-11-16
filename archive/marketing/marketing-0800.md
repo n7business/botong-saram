@@ -1,0 +1,31 @@
+---
+id: marketing-0800
+domain: marketing
+claim: 제휴(파트너스) 링크 글에 판매자의 제품 설명과 리뷰만 복사해 올리면 Google이 '빈약한 제휴 페이지'로 봅니다. 그러니 가격, 직접
+  써 본 리뷰와 테스트, 제품 비교 같은 내 정보를 더해야 합니다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://developers.google.com/search/docs/essentials/spam-policies?hl=ko
+  author: Google 검색 센터
+  seen: '2026-11-17'
+  quote: 원래 판매자로부터 직접 복사한 제품 설명 및 리뷰만 게시하는 관행
+  source: Google 검색 센터 문서 — 스팸 정책
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: '2027-01-16'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- google
+- seo
+- 제휴마케팅
+- 파트너스
+- 스팸정책
+verified_by: 공식 출처
+---
+Google은 제휴 링크가 든 글에 내 콘텐츠나 부가 가치 없이 원래 판매자의 제품 설명과 리뷰를 그대로 복사해 올리는 것을 빈약한 제휴 페이지라는 스팸으로 봅니다. 이런 글은 여러 사이트에 거의 같은 내용으로 찍혀 나와서 검색 이용자를 실망시킨다는 것이 이유입니다. 제휴 프로그램에 참여했다고 모두 문제가 되는 것은 아닙니다. 가격 정보, 독자적인 제품 리뷰, 엄격한 테스트와 평가, 제품 비교를 더한 페이지는 Google이 '우수한 제휴 페이지'의 예로 듭니다.

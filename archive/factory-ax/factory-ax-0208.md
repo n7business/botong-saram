@@ -1,0 +1,30 @@
+---
+id: factory-ax-0208
+domain: factory-ax
+claim: 포장재 구김, 병뚜껑 실링 불량, 인쇄 번짐, 투명 용기 속 이물처럼 모양이 일정하지 않은 결함을 고속 라인에서 잡아야 하는 소비재 제조
+  사업자는, 치수·좌표만 재는 규칙 기반 비전보다 양품·불량품 이미지로 학습시키는 AI 비전을 검토할 만하다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://www.hellot.net/news/article.html?no=116360
+  author: 헬로티 김진희 기자
+  seen: '2026-11-17'
+  quote: 포장재 재질 반사율, 자연스러운 제조 편차, 조명 난반사 등에 극도로 취약했다
+  source: 헬로티
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI비전
+- 머신비전
+- 육안검사
+- 소비재
+- 포장검사
+---
+라인 속도가 분당 수백 개로 빨라지면 육안 검사는 작업자 피로, 주의력 분산, 조명 변화 때문에 신뢰도가 떨어집니다. 교대조마다 불량 판정 기준이 조금씩 달라지는 문제도 생깁니다. 규칙 기반 비전은 치수나 고정 좌표로 판정하기 때문에 포장재 반사, 자연스러운 제조 편차, 조명 난반사에 약합니다. 반면 AI 비전은 양품과 불량품 이미지를 학습해 구김·실링·번짐·이물 같은 비정형 결함을 구분합니다. 다만 기사에 나온 '완벽 포착', '오차 없이'는 업계 쪽 표현일 뿐 검증된 수치가 아닙니다. 도입 전에 우리 제품 샘플로 실제 검출 성능을 꼭 확인해야 합니다.

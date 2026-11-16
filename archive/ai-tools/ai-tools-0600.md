@@ -1,0 +1,28 @@
+---
+id: ai-tools-0600
+domain: ai-tools
+claim: AI에게 개발이나 문서 작업을 반복해서 맡긴다면 요구사항을 매번 채팅으로 새로 설명하지 말고, 기획 내용을 AI가 읽는 마크다운 문서로
+  프로젝트 폴더에 저장해 두고 기획이 바뀔 때마다 그 문서도 함께 고쳐야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4040/
+  author: 김의중
+  seen: '2026-11-17'
+  quote: AI에 전달할 설명을 매번 새로 만들면 요구사항이 빠지거나 원래 의도와 달라질 수 있습니다.
+  source: 요즘IT
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI코딩
+- 기획문서
+- 프롬프트
+---
+AI에게 줄 설명을 매번 새로 쓰면 요구사항이 빠지거나 원래 의도와 달라지기 쉽습니다. 기획 내용은 마크다운 문서로 정리해 프로젝트 폴더에 두고, AI가 작업할 때마다 그 문서를 읽게 하세요. 사람끼리는 맥락으로 알아듣던 조건도 문서에 분명히 적어야 합니다. 필수 입력값이나 오류 안내 문구가 그런 예입니다. 기획이 바뀌었는데 문서를 고치지 않으면 구현과 검증이 서로 다른 기준을 따르게 됩니다.

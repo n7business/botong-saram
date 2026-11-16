@@ -3,7 +3,7 @@ id: marketing-0677
 domain: marketing
 claim: 홈페이지 점검·공사 등으로 잠시 다른 페이지를 보여 줄 때는 302 이동을 써야 하며, 그러지 않으면 네이버 검색로봇이 페이지가 삭제됐다고
   판단해 기존 검색 정보를 지울 수 있습니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.85
 sources:
@@ -29,5 +29,6 @@ tags:
 - 자바스크립트
 verified_by: 공식 출처
 mentions: 1
+merged_into: marketing-0461
 ---
 일시적인 장애나 잠깐의 페이지 변경 중에 로봇이 응답을 받지 못하면 그 페이지가 삭제된 것으로 잘못 판단할 수 있습니다. 공사 중 안내 페이지로 보낼 때는 서버에서 302(임시 이동) 응답으로 이동시켜야 기존에 수집된 정보가 유지됩니다. 반대로 주소를 영구히 바꿀 때는 301을 씁니다. 자바스크립트로 이동시키면 로봇이 이해하기 어렵고 스팸 문서처럼 낮게 평가될 수 있으므로, 이동은 서버의 HTTP redirect로 처리하세요.

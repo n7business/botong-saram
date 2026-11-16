@@ -9,3 +9,5 @@ business.facebook.com에서 비즈니스 포트폴리오를 만들 때 입력하
 ## 출처
 - Meta 비즈니스 지원 센터 · 2026-11-14 · https://www.facebook.com/business/help/1710077379203657
   > 개인적으로 최대 2개의 비즈니스 포트폴리오를 만들 수 있습니다.
+- Meta 비즈니스 지원 센터 · 2026-11-09 · https://www.facebook.com/business/help/1710077379203657?id=180505742745347
+  > 개인적으로 최대 2개의 비즈니스 포트폴리오를 만들 수 있습니다.

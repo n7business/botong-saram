@@ -3,7 +3,7 @@ id: business-plan-0354
 domain: business-plan
 claim: 충남 청양군에서 착한가격업소로 지정된 지 1년이 넘은 업소는 2026-11-16까지 청양군청 경제과 지역경제팀에 방문해 신청하면 소규모
   인테리어·간판 교체 비용을 업소당 최대 1,000만원까지 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

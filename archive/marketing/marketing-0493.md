@@ -3,7 +3,7 @@ id: marketing-0493
 domain: marketing
 claim: 홈페이지 주소를 바꾸며 이동(redirect)을 여러 번 이어 걸 때는 5회를 넘기지 말고, 거쳐 가는 주소와 최종 주소가 모두 수집
   가능한 정상 페이지인지 확인해야 한다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.87
 sources:
@@ -26,5 +26,6 @@ tags:
 - redirect
 - 사이트개편
 verified_by: 공식 출처
+merged_into: marketing-0630
 ---
 주소를 여러 번 개편하면서 A→B→C처럼 이동이 꼬리를 물면, 횟수가 검색로봇의 허용 범위를 넘어 수집되지 않을 수 있습니다. 네이버는 연속 이동을 최대 5회 안으로 줄이라고 권장합니다. 자기 자신으로 끝없이 이동하는 오류도 수집되지 않습니다. 처음과 마지막 주소가 정상이어도 중간 주소 하나가 robots.txt로 막혀 있으면 수집이 안 될 수 있습니다. 이동 경로는 눈으로 확인하기 어려우니 브라우저 개발자 도구를 쓰거나 제작업체와 함께 점검하세요.

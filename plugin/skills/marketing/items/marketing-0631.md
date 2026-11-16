@@ -11,3 +11,5 @@
   > 스레드는 초반 30분에서 거이 결정 됩니다.
 - 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/Dfrj0gZjq0c
   > 외부 댓글은 최소 30분 동안 10개 이상 남기세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/DfhbGhdnxSj
+  > 외부 댓글은 최소 30분 동안 10개 이상 남기세요.

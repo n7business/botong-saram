@@ -3,7 +3,7 @@ id: business-plan-0304
 domain: business-plan
 claim: 대구염색가공특화단지 안의 뿌리기업은 2026년 뿌리산업특화단지 지원 사업(2026-11-16 마감)에서 패키지형과 개방형 프로그램을 각
   프로그램의 지원한도 안에서 여러 개 함께 신청할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.75
 sources:

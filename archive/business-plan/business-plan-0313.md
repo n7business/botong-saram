@@ -3,7 +3,7 @@ id: business-plan-0313
 domain: business-plan
 claim: 대기업의 오픈이노베이션 수요기술을 직접 듣고 싶은 스타트업 대표는 2026-11-16 23:59까지 온라인으로 신청하면 11월 17일
   천안 충남 오픈이노베이션 포럼에서 세라젬의 수요기술 발표를 듣고 참석자 네트워킹에 무료로 참여할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.7
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-16'
 supersedes: null
 superseded_by: null
 experiment: null

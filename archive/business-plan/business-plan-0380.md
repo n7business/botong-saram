@@ -3,7 +3,7 @@ id: business-plan-0380
 domain: business-plan
 claim: 강원 홍천군의 내수면 어선어업인은 2026-11-16까지 홍천군청에 방문 신청하면 노후 선외기를 새로 살 때 마력당 16만원, 척당 100마력(1,600만원)
   한도로 구입비를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

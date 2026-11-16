@@ -1,0 +1,30 @@
+---
+id: growth-0406
+domain: growth
+claim: 남의 AI 모델을 빌려 서비스를 만들어 파는 사업자는 매출이 얼마나 늘었는지보다 매출 1원당 모델·클라우드 비용이 얼마인지, 쓰는 데이터에
+  권리가 있는지를 먼저 확인해야 하며, Perplexity는 2024년 매출 약 3,400만 달러를 올리면서 현금 약 6,500만 달러를 썼다고
+  보도됐다.
+status: candidate
+evidence: observed
+confidence: 0.75
+sources:
+- url: https://eopla.net/magazines/49113
+  author: 비주류VC
+  seen: '2026-11-17'
+  quote: 래퍼 회사는 매출이 늘어날수록 모델 공급사에 내는 청구서도 같이 커지는 구조
+  source: EO 플래닛
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI사업
+- 원가
+- 데이터권리
+- AI래퍼
+---
+다른 회사의 AI 모델 위에 내 상표만 붙여 파는 이른바 'AI 래퍼' 사업은 매출이 늘수록 모델 공급사에 내는 사용료도 함께 늘어납니다. 그래서 장사가 잘돼도 남는 돈이 적거나 오히려 적자가 커질 수 있습니다. 미국 IT 매체 The Information이 입수한 재무 자료에 따르면 Perplexity는 2024년에 매출의 약 1.9배를 현금으로 썼습니다. 그 돈은 주로 클라우드 서버와 AI 모델 사용료로 나갔습니다. 또 Reddit과 The New York Times에서 데이터를 허락 없이 가져다 썼다는 이유로 소송을 당했습니다. 이런 서비스를 시작하거나 확장하기 전에 건당 원가와 데이터 이용 권리부터 따져 보세요.

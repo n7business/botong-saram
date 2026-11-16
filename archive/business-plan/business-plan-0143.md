@@ -4,7 +4,7 @@ domain: business-plan
 claim: 타오바오·티몰·1688·라자다·알리바바닷컴·알리익스프레스에서 위조·모방품 피해가 걱정되는 K-푸드 수출기업은 2026-11-16까지 aT수출지원시스템으로
   신청하면 AI 모니터링과 침해제품 차단신고를 지원받을 수 있지만, 모니터링은 기업이 보유한 권리를 기준으로 이뤄지므로 신청 전에 자사 권리 현황부터
   확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-16'
 supersedes: null
 superseded_by: null
 experiment: null

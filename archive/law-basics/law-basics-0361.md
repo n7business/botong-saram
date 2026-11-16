@@ -1,0 +1,33 @@
+---
+id: law-basics-0361
+domain: law-basics
+claim: 해산간주된 법인을 그대로 두면 3년이 지난 때 청산이 끝난 것으로 보지만, 법인 명의 예금·보증금·부동산 같은 잔여재산이 있거나 채무를
+  정리해야 하면 3년을 기다리지 말고 청산인 선임과 채권신고 공고 등 정식 청산절차를 밟아 청산종결등기를 해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.help-me.kr/blog/article/dormant-corporation-dissolution-guide/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-17'
+  quote: 3년 경과 시 청산종결로 간주되나, 법인 명의 예금·보증금·부동산 등 잔여재산이 있거나
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-17'
+last_confirmed: '2026-11-17'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상법
+  article: 제520조의2 제4항, 제542조
+  effective: '2026-11-17'
+contributor: null
+tags:
+- 법인청산
+- 휴면법인
+- 청산종결등기
+- 잔여재산
+- 폐업
+---
+해산간주 후 3년 안에 회사를 계속하지 않으면 3년이 지난 때 청산이 종결된 것으로 봅니다. 하지만 법인 명의 예금·부동산·보증금 같은 잔여재산을 나눠야 하거나 세무상 폐업과 채권·채무 관계를 정리해야 한다면 상법상 정식 청산절차를 밟아야 합니다. 해산 뒤에도 회사는 청산 목적 범위 안에서 존속합니다. 정식 청산은 최소 2개월 이상 걸립니다. 남은 재산은 채무를 갚은 뒤 각 주주가 가진 주식 수에 따라 나누고, 결산보고서를 주주총회에서 승인받은 날부터 2주 안에 청산종결등기를 해야 합니다.
