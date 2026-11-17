@@ -39,11 +39,11 @@ codex plugin marketplace add n7business/botong-saram
 ## 들어 있는 것
 
 <!-- stats:start -->
-2026-11-17 기준 **3,430건** · 추적 출처 168곳 · 최근 7일 새로 들어온 항목 1,079건 (매일 자동 갱신, ⚖️ 법령 영역)
+2026-11-17 기준 **3,386건** · 추적 출처 167곳 · 최근 7일 새로 들어온 항목 1,064건 (매일 자동 갱신, ⚖️ 법령 영역)
 
 | 영역 | 항목 | 🏛 공식 | 👥 출처 여러 곳 | 👤 출처 1곳 | 최근 7일 신규 |
 |---|--:|--:|--:|--:|--:|
-| 마케팅·홍보·디자인 | 598 | 133 | 3 | 462 | 172 |
+| 마케팅·홍보·디자인 | 557 | 133 | 3 | 421 | 157 |
 | 사업화·매출 증대 | 398 | 60 | 3 | 335 | 154 |
 | 매출·경영 지표 | 137 | 13 | 1 | 122 | 5 |
 | 생산·현장 AX | 206 | 55 | 1 | 150 | 80 |
@@ -53,7 +53,7 @@ codex plugin marketplace add n7business/botong-saram
 | 인사·노무 ⚖️ | 176 | 36 | 21 | 108 | 29 |
 | 세무 ⚖️ | 230 | 64 | 5 | 145 | 99 |
 | 기본법 ⚖️ | 324 | 158 | 2 | 149 | 119 |
-| 창업자 마인드·습관 | 180 | 0 | 1 | 179 | 46 |
+| 창업자 마인드·습관 | 177 | 0 | 0 | 177 | 46 |
 <!-- stats:end -->
 
 ## 등급 — 검증은 문턱이 아니라 표시입니다
@@ -93,7 +93,7 @@ flowchart LR
 
 보통사람의 내용은 아래 분들이 공개적으로 나눈 지식에서 나왔습니다. 우리는 주장을 짧게 정리하고 출처 링크를 붙일 뿐이며, 자세한 설명과 맥락은 원래 채널에 있습니다. 좋은 내용이었다면 채널을 방문하고 구독해 주세요.
 <!-- sources:start -->
-- **마케팅·홍보·디자인** · [하이아웃풋클럽 블로그](https://blog.highoutputclub.com/) · [고구마팜](https://gogumafarm.kr/) · [돈버는 기술, 마브사끼](https://www.youtube.com/@mabsaki) · [깡대표](https://www.youtube.com/@Kkangceo) · [캐릿](https://www.careet.net/) · [아이보스](https://www.i-boss.co.kr/) · [커리어노마드 (@careernomad_)](https://www.threads.com/@careernomad_) · [장사맛집 오팀장 (@장사맛집오팀장)](https://www.youtube.com/@장사맛집오팀장) · [인스타언니 초이픽스 (@insta_unnei_choi)](https://www.youtube.com/@insta_unnei_choi) · [혜님 인스타그램마케팅 (@hyenimtv)](https://www.youtube.com/@hyenimtv) · [마케터은진 (@success_eunjin)](https://www.youtube.com/@success_eunjin) · [머니코치 최준호 (@moneycoach)](https://www.youtube.com/@moneycoach) · [이상한마케팅 (@isanghan_marketing)](https://www.youtube.com/@isanghan_marketing) · [새벽리더 블로그 강의 (@MorningLeader)](https://www.youtube.com/@MorningLeader) · [캡선생 김용석 (@kap_writing)](https://www.threads.com/@kap_writing) · [애드스트럭트 왕현 (@애드스트럭트)](https://www.youtube.com/@애드스트럭트) · [마케팅쉐어 이과장 (@마케팅쉐어)](https://www.youtube.com/@마케팅쉐어) · [광고 건너뛰려다 걸려 넘어진 (@w0rkhardpla2hard)](https://www.instagram.com/w0rkhardpla2hard/) · [빌리쌤 (@billy___ssam)](https://www.threads.com/@billy___ssam)
+- **마케팅·홍보·디자인** · [하이아웃풋클럽 블로그](https://blog.highoutputclub.com/) · [고구마팜](https://gogumafarm.kr/) · [돈버는 기술, 마브사끼](https://www.youtube.com/@mabsaki) · [깡대표](https://www.youtube.com/@Kkangceo) · [캐릿](https://www.careet.net/) · [아이보스](https://www.i-boss.co.kr/) · [커리어노마드 (@careernomad_)](https://www.threads.com/@careernomad_) · [장사맛집 오팀장 (@장사맛집오팀장)](https://www.youtube.com/@장사맛집오팀장) · [인스타언니 초이픽스 (@insta_unnei_choi)](https://www.youtube.com/@insta_unnei_choi) · [혜님 인스타그램마케팅 (@hyenimtv)](https://www.youtube.com/@hyenimtv) · [마케터은진 (@success_eunjin)](https://www.youtube.com/@success_eunjin) · [머니코치 최준호 (@moneycoach)](https://www.youtube.com/@moneycoach) · [새벽리더 블로그 강의 (@MorningLeader)](https://www.youtube.com/@MorningLeader) · [캡선생 김용석 (@kap_writing)](https://www.threads.com/@kap_writing) · [애드스트럭트 왕현 (@애드스트럭트)](https://www.youtube.com/@애드스트럭트) · [마케팅쉐어 이과장 (@마케팅쉐어)](https://www.youtube.com/@마케팅쉐어) · [광고 건너뛰려다 걸려 넘어진 (@w0rkhardpla2hard)](https://www.instagram.com/w0rkhardpla2hard/) · [빌리쌤 (@billy___ssam)](https://www.threads.com/@billy___ssam)
 - **사업화·매출 증대** · [하이아웃풋클럽 블로그 (오퍼·가격·DM)](https://blog.highoutputclub.com/) · [오픈서베이 블로그](https://blog.opensurvey.co.kr/) · [채널톡 블로그](https://channel.io/ko/blog) · [토스페이먼츠피드](https://www.tosspayments.com/blog) · [스티비 블로그](https://blog.stibee.com/) · [디스콰이엇](https://disquiet.io/) · [EO 플래닛](https://eopla.net/) · [장사 권프로 (@권프로)](https://www.youtube.com/@권프로) · [장사왕 임사부 (@장사왕임사부)](https://www.youtube.com/@장사왕임사부) · [안대장TV (@angyuho85)](https://www.youtube.com/@angyuho85) · [다점포왕TV (@dajumpo)](https://www.youtube.com/@dajumpo) · [슈퍼자영업자 조세이돈 (@슈퍼자영업자조세이돈)](https://www.youtube.com/@슈퍼자영업자조세이돈) · [무빙워터 (@무빙워터)](https://www.youtube.com/@무빙워터) · [태오의 실행비즈니스 (@teo_daily_business)](https://www.threads.com/@teo_daily_business) · [황민지 | 100만원으로 시작한 8년차 사장 (@nana___2.2)](https://www.instagram.com/nana___2.2/)
 - **매출·경영 지표** · [클로브 블로그](https://clobe.ai/blog) · [토스페이먼츠피드](https://www.tosspayments.com/blog) · [토스플레이스 사장님 스토리](https://tossplace.com/story) · [한국신용데이터 보도자료(소상공인 동향 리포트)](https://www.kcd.co.kr/news/?type=%EB%B3%B4%EB%8F%84%EC%9E%90%EB%A3%8C) · [아웃스탠딩](https://outstanding.kr/) · [Up Side(브런치) — 스타트업에 CFO로 간 회계사](https://brunch.co.kr/@upside) · [더나은삶TV](https://www.youtube.com/@thebetterlifetv) · [이상화세무사의 모래세무 (@nicetax)](https://www.youtube.com/@nicetax) · [오늘부터 회계사 (@오늘부터회계사)](https://www.youtube.com/@오늘부터회계사) · [장사는 김형철 (@장사는김형철)](https://www.youtube.com/@장사는김형철) · [사군카페인 (@sa_caffeine)](https://www.youtube.com/@sa_caffeine)
 - **생산·현장 AX** · [삼성전자 스마트공장 구축 지원](https://www.samsung.com/sec/sustainability/popup/popup_doc/AYStS66aC68AIyC3) · [마키나락스 뉴스](https://makinarocks.ai/news) · [인터엑스 AX 인사이트](https://www.interxlab.com/bbs/board.php?bo_table=case) · [헬로티](https://www.hellot.net/) · [산업일보](https://www.kidd.co.kr/) · [기계맨 CNC MCT (@GIGYEMAN)](https://www.youtube.com/@GIGYEMAN) · [Malco JACK — 베스트정공 대표 (@MalcoJack)](https://www.youtube.com/@MalcoJack) · [오군아 (@오군아)](https://www.youtube.com/@오군아) · [공학자의 자동화 실무 (@kwh-Astartech)](https://www.youtube.com/@kwh-Astartech) · [THE ENGINEER (@theengineerfajob)](https://www.youtube.com/@theengineerfajob)

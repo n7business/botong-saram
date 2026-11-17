@@ -7,11 +7,6 @@ status: verified
 evidence: consensus
 confidence: 0.55
 sources:
-- url: https://www.youtube.com/watch?v=fEa9hI7Ikn4
-  author: 김다빈 (이상한마케팅 아카데미 매니저)
-  seen: '2026-11-03'
-  quote: 직접 만들 줄은 몰라도 그 안목은 있어야 한다는 것입니다.
-  source: 이상한마케팅 (@isanghan_marketing)
 - url: https://www.youtube.com/watch?v=oTAh2iryDnQ
   author: 안대장(안규호)
   seen: '2026-11-03'

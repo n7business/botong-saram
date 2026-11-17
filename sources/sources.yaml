@@ -167,18 +167,6 @@ marketing:
   influencer: true
   also:
   - mindset
-- name: 이상한마케팅 (@isanghan_marketing)
-  type: youtube
-  url: https://www.youtube.com/@isanghan_marketing
-  author: 이상한마케팅
-  topic: seo
-  followers: 구독자 17.9만 (YouTube)
-  weight: 0.6
-  cadence: 주 1~2회
-  why: "플레이스 상위노출 로직·플레이스 광고 세팅·2027 네이버 노출 판도 변화를 총정리 형식으로 반복 공개. 2026-11-03 유튜브 확인(최근 업로드 6일 전)."
-  influencer: true
-  also:
-  - mindset
 - name: 새벽리더 블로그 강의 (@MorningLeader)
   type: youtube
   url: https://www.youtube.com/@MorningLeader
