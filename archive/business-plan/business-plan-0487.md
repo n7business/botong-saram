@@ -13,8 +13,13 @@ sources:
   seen: '2026-11-16'
   quote: 개발 과정에서 기술적 어려움을 겪고 있는 기업
   source: 스타트업레시피 뉴스레터
+- url: https://www.venturesquare.net/announcement/1129032
+  author: 와이앤아처(주)
+  seen: '2026-11-18'
+  quote: 2026.11.25(수) 19:00 까지
+  source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-16'
-last_confirmed: '2026-11-16'
+last_confirmed: '2026-11-18'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0176
 domain: business-plan
 claim: 안양시에 본사를 둔 유망 중소기업이 기술개발비를 최대 1,500만원까지 지원받으려면 SW·완제품·기타 중 한 분야만 골라 2026-11-16~11-17
   이틀 안에 이메일로 신청해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.94
 sources:

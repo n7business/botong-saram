@@ -27,5 +27,6 @@ tags:
 - www
 - https
 verified_by: 공식 출처
+mentions: 1
 ---
 네이버는 http://www.example.com/robots.txt의 규칙을 http://example.com이나 https://example.com에는 적용하지 않습니다. 그래서 한 주소에만 robots.txt를 고쳐 두면 다른 주소로는 의도와 다르게 수집되거나 막힐 수 있습니다. 실제로 쓰는 주소 조합마다 robots.txt가 정상으로 열리는지 확인합니다. 가장 깔끔한 방법은 대표 주소 하나를 정해 나머지 주소를 301로 보내는 것입니다. robots.txt를 고친 뒤에는 웹마스터도구의 robots.txt 도구에서 수집 요청을 눌러 네이버에 바로 알릴 수 있습니다.

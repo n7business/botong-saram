@@ -11,3 +11,5 @@
   > 스XX, 하뤼, 슽하링, Su하ri 하면 정지당해요.
 - 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtKMlmbYX
   > 스XX, 하뤼, 슽하링, Su하ri 하면 정지당해요.
+- 빌리쌤 (@billy___ssam) · 2026-11-06 · https://www.threads.com/@billy___ssam/post/DfUqKwkkeQV
+  > 스XX, 하뤼, 슽하링, Su하ri 하면 정지당해요.

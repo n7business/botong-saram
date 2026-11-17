@@ -1,5 +1,12 @@
 # 보통사람 변경 이력
 
+## 2026-11-18
+- **candidate** 48건: ai-tools-0604 (요즘IT), ai-tools-0605 (요즘IT), ai-tools-0606 (요즘IT), ai-tools-0607 (요즘IT), business-plan-0496 (벤처스퀘어 지원사업 아카이브), business-plan-0497 (벤처스퀘어 지원사업 아카이브), business-plan-0498 (벤처스퀘어 지원사업 아카이브), business-plan-0499 (벤처스퀘어 지원사업 아카이브), business-plan-0500 (벤처스퀘어 지원사업 아카이브), business-plan-0501 (벤처스퀘어 지원사업 아카이브), business-plan-0502 (스타트업레시피 뉴스레터), business-plan-0503 (스타트업레시피 뉴스레터), business-plan-0504 (스타트업레시피 뉴스레터), business-plan-0505 (스프링워터 파트너스 예창패 가이드), business-plan-0506 (스프링워터 파트너스 예창패 가이드)
+- **reconfirmed** 2건: ai-tools-0529 (요즘IT), business-plan-0487 (벤처스퀘어 지원사업 아카이브)
+- **merged** 42건: marketing-0462 (+1), marketing-0461 (+1), marketing-0345 (+2), marketing-0455 (+1), marketing-0467 (+1), marketing-0466 (+1), marketing-0464 (+1), marketing-0465 (+1), marketing-0686 (+2), marketing-0689 (+1), marketing-0723 (+1), marketing-0722 (+1), marketing-0725 (+1), marketing-0726 (+1), marketing-0727 (+1)
+- **expired** 4건: business-plan-0173 (마감 2026-11-17 지남), business-plan-0176 (마감 2026-11-17 지남), business-plan-0371 (마감 2026-11-17 지남), business-plan-0381 (마감 2026-11-17 지남)
+- **verified** 5건: factory-ax-0211 (공식 출처), law-basics-0365 (공식 출처), law-basics-0366 (공식 출처), mindset-0063 (독립 2곳 weight 1.2), mindset-0116 (독립 2곳 weight 1.5)
+
 ## 2026-11-17
 - **candidate** 49건: ai-tools-0599 (요즘IT), ai-tools-0600 (요즘IT), ai-tools-0601 (요즘IT), ai-tools-0602 (요즘IT), ai-tools-0603 (요즘IT), business-plan-0489 (벤처스퀘어 지원사업 아카이브), business-plan-0490 (벤처스퀘어 지원사업 아카이브), business-plan-0491 (벤처스퀘어 지원사업 아카이브), business-plan-0492 (벤처스퀘어 지원사업 아카이브), business-plan-0493 (벤처스퀘어 지원사업 아카이브), business-plan-0494 (벤처스퀘어 지원사업 아카이브), business-plan-0495 (벤처스퀘어 지원사업 아카이브), factory-ax-0206 (산업일보), factory-ax-0207 (산업통상부 보도자료), factory-ax-0208 (헬로티)
 - **reconfirmed** 1건: ai-tools-0564 (요즘IT)
@@ -77,9 +84,3 @@
 - **merged** 21건: marketing-0197 (+2), marketing-0223 (+1), growth-0031 (+1), growth-0056 (+1), ai-tools-0021 (+1), ai-tools-0024 (+1), ai-tools-0159 (+1), ai-tools-0176 (+1), hr-labor-0015 (+1), hr-labor-0027 (+1), hr-labor-0101 (+1), law-basics-0101 (+1), law-basics-0022 (+1), law-basics-0023 (+1), law-basics-0115 (+1)
 - **verified** 122건: ai-tools-0160 (공식 출처), ai-tools-0161 (공식 출처), ai-tools-0162 (공식 출처), ai-tools-0164 (공식 출처), ai-tools-0166 (공식 출처), ai-tools-0167 (공식 출처), ai-tools-0171 (실무자 실측(단일 출처)), ai-tools-0177 (실무자 실측(단일 출처)), ai-tools-0182 (실무자 실측(단일 출처)), ai-tools-0183 (실무자 실측(단일 출처)), ai-tools-0185 (실무자 실측(단일 출처)), ai-tools-0186 (실무자 실측(단일 출처)), ai-tools-0187 (실무자 실측(단일 출처)), ai-tools-0190 (실무자 실측(단일 출처)), ai-tools-0208 (실무자 실측(단일 출처))
 - **expired** 1건: business-plan-0036 (마감 2026-11-05 지남)
-
-## 2026-11-05
-- **candidate** 171건: ai-tools-0144 (요즘IT), ai-tools-0145 (요즘IT), ai-tools-0146 (요즘IT), ai-tools-0147 (요즘IT), ai-tools-0148 (요즘IT), ai-tools-0149 (요즘IT), ai-tools-0150 (요즘IT), ai-tools-0151 (요즘IT), ai-tools-0152 (지피터스 GPTers), ai-tools-0153 (지피터스 GPTers), ai-tools-0154 (지피터스 GPTers), ai-tools-0155 (지피터스 GPTers), ai-tools-0156 (지피터스 GPTers), ai-tools-0157 (지피터스 GPTers), ai-tools-0158 (지피터스 GPTers)
-- **reconfirmed** 31건: factory-ax-0013 (헬로티), hr-labor-0028 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0029 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0030 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0031 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0041 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0042 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0043 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0044 (노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)), hr-labor-0032 (윤보름노무사 (Threads)), hr-labor-0033 (윤보름노무사 (Threads)), hr-labor-0034 (윤보름노무사 (Threads)), licensing-0002 (고용허가제 EPS), licensing-0003 (고용허가제 EPS), licensing-0023 (고용허가제 EPS)
-- **merged** 7건: marketing-0196 (+1), marketing-0025 (+1), growth-0127 (+1), business-plan-0135 (+1), ai-tools-0159 (+1), hr-labor-0038 (+1), mindset-0024 (+1)
-- **verified** 84건: ai-tools-0144 (실무자 실측(단일 출처)), ai-tools-0145 (실무자 실측(단일 출처)), ai-tools-0146 (실무자 실측(단일 출처)), ai-tools-0147 (실무자 실측(단일 출처)), ai-tools-0148 (실무자 실측(단일 출처)), ai-tools-0149 (실무자 실측(단일 출처)), ai-tools-0150 (실무자 실측(단일 출처)), ai-tools-0152 (실무자 실측(단일 출처)), ai-tools-0153 (실무자 실측(단일 출처)), ai-tools-0154 (실무자 실측(단일 출처)), ai-tools-0155 (실무자 실측(단일 출처)), business-plan-0130 (공식 출처), business-plan-0131 (공식 출처), business-plan-0132 (공식 출처), business-plan-0133 (공식 출처)

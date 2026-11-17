@@ -15,3 +15,7 @@
   > 5천 미만 = 댓글, 5천 이상 = 브랜딩
 - 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo1WebDgLK
   > 5천 미만일 때엔 ‘댓글‘이 답이다.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
+  > 5천 미만 = 댓글, 5천 이상 = 브랜딩
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfhbb98Dbs_
+  > 5천 미만일 때엔 ‘댓글‘이 답이다.

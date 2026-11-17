@@ -13,8 +13,13 @@ sources:
   seen: '2026-11-13'
   quote: 그 회사가 ‘FDE에게 어떤 일을 맡긴다고 했는지’부터 살펴보는 것이 어떨까 합니다
   source: 요즘IT
+- url: https://yozm.wishket.com/magazine/detail/4046/
+  author: 요즘IT
+  seen: '2026-11-18'
+  quote: 같은 FDE라도 회사마다 기대하는 일이 다를 수 있습니다.
+  source: 요즘IT
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-13'
+last_confirmed: '2026-11-18'
 review_by: '2026-12-13'
 supersedes: null
 superseded_by: null

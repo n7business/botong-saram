@@ -1,0 +1,29 @@
+---
+id: growth-0420
+domain: growth
+claim: SNS나 블로그 댓글창에 '당신이 바라는 제품은?' 같은 질문을 던져 나온 답을 제품 기획에 써 보고, 댓글에는 자동 답변 티가 나지
+  않게 사람처럼 응대해 볼 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/49172
+  author: Alex(디지털로그 콘텐츠 마케터)
+  seen: '2026-11-18'
+  quote: “당신의 이상적인 클렌저는?”이라는 질문에 400개가 넘는 댓글이 달렸고
+  source: EO 플래닛
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- SNS
+- 댓글관리
+- 제품기획
+- 고객소통
+---
+고객이 모이는 댓글창에 원하는 제품을 묻는 질문을 올리고, 달린 답을 모아 제품 기획 자료로 씁니다. 그렇게 의견을 낸 사람들은 첫 고객이 되기도 합니다. 뷰티 브랜드 Glossier의 창업자는 블로그 댓글창을 회의실처럼 운영했는데, 이상적인 클렌저를 묻는 질문 하나에 댓글이 400개 넘게 달렸고 그 내용이 제품 기획으로 이어졌다고 합니다. 댓글 응대를 도구로 처리하더라도 답글이 AI처럼 보이거나 어색하게 번역되지 않도록 사람이 확인하는 반자동 방식을 원하는 브랜드가 많다고 관리 도구 개발자는 전합니다.

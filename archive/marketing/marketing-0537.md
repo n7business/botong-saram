@@ -2,7 +2,8 @@
 id: marketing-0537
 domain: marketing
 claim: 홈페이지를 네이버 서치어드바이저 웹마스터도구에 등록해 소유확인을 마친 뒤 '요청-사이트맵 제출'로 XML 사이트맵을, '요청-RSS 제출'로
-  최신글 본문 전체가 담긴 RSS를 내야 하며, 그 안의 링크가 상대 경로이거나 등록한 사이트와 호스트가 다르면 수집되지 않는다.
+  최신글 본문 전체가 담긴 RSS를 내고 robots.txt에도 사이트맵 위치를 적어 두어야 하며, 그 안의 링크가 상대 경로이거나 등록한 사이트와
+  호스트가 다르면 수집되지 않는다.
 status: verified
 evidence: policy
 confidence: 0.9

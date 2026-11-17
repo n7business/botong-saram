@@ -1,0 +1,29 @@
+---
+id: ai-tools-0604
+domain: ai-tools
+claim: 마케팅 계정 설정, SEO 초기 작업, 각종 서비스 가입·설정처럼 번거로운 초기 작업은 AI 브라우저 자동화에 맡겨야 합니다. 사람은
+  로그인이나 최종 제출처럼 직접 해야 하는 단계만 확인하면 됩니다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4041/
+  author: Un (요즘IT, Smooth AI 공동 창업자 Hansol 인터뷰)
+  seen: '2026-11-18'
+  quote: 사람이 직접 해야 하는 로그인이나 최종 제출 같은 단계만 확인하는 식이에요.
+  source: 요즘IT
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 브라우저자동화
+- AI에이전트
+- 초기창업
+- 업무위임
+---
+사업 초기에는 계정 설정이나 서비스 가입처럼 작지만 번거로운 일이 많아서, 시작하는 것 자체가 부담이 됩니다. AI의 브라우저 자동화 기능에 이런 일을 맡기면 그동안 다른 일을 할 수 있습니다. 다만 로그인이나 최종 제출처럼 계정·비용·외부 효력이 생기는 단계는 사람이 직접 확인해야 합니다. 2인 팀 Smooth AI 공동 창업자의 경험담이며, 이런 작은 업무가 쌓이면 꽤 큰 차이가 난다고 말합니다.

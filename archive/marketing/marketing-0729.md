@@ -22,6 +22,11 @@ sources:
   seen: '2026-11-15'
   quote: 일기장 그만쓰고, 타인의 시선으로 글 쓰기.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-10'
+  quote: 댓글이 달리도록 의도된 '틈' 만들기
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-15'
 last_confirmed: '2026-11-15'
 review_by: null
@@ -35,5 +40,6 @@ tags:
 - 글쓰기
 - 참여유도
 - 훅
+mentions: 4
 ---
 내 하루를 적는 일기 같은 글은 남이 반응할 이유가 적습니다. 빌리쌤은 읽는 사람 입장(2·3인칭)에서 그들에게 도움이 되는 글을 쓰라고 권합니다. 글 끝에 질문을 던지거나 생각을 일부러 다 말하지 않는 식으로 댓글을 달 틈을 남기라고도 합니다. 팔로워는 정보, 공감, 재미 순으로 잘 늘어나므로 글마다 셋 중 하나는 꼭 넣으라고 덧붙입니다.

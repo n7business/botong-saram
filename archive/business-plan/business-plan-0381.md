@@ -4,7 +4,7 @@ domain: business-plan
 claim: 서울에 있는 스타트업은 2026-11-17 23:59까지 서울창업허브 공덕 11월 허브아워(STARTUP STARRY NIGHT in
   Seoul 연계)에 구글폼으로 신청하면 투자사나 대기업과 1:1 밋업을 할 수 있지만, 참여 기업은 투자사와 대기업이 IR덱과 투자유치·협업 개요를
   보고 직접 고른다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-12'
 last_confirmed: '2026-11-12'
-review_by: null
+review_by: '2026-11-17'
 supersedes: null
 superseded_by: null
 experiment: null

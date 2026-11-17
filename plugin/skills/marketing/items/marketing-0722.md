@@ -17,3 +17,7 @@
   > 단문으로 조회수를, 장문으로 팔로워를 모았다.
 - 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo06S7DYcH
   > 단문=조회수, 장문=팔로워 전략적 성장하기.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/DfhbW4lDwrv
+  > 단문으로 조회수를, 장문으로 팔로워를 모았다.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha-8JDwLB
+  > 단문=조회수, 장문=팔로워 전략적 성장하기.

@@ -17,6 +17,11 @@ sources:
   seen: '2026-11-11'
   quote: 스XX, 하뤼, 슽하링, Su하ri 하면 정지당해요.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DfUqKwkkeQV
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-06'
+  quote: 스XX, 하뤼, 슽하링, Su하ri 하면 정지당해요.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-11'
 review_by: null
@@ -30,6 +35,6 @@ tags:
 - 계정정지
 - 품앗이
 - 금지행동
-mentions: 2
+mentions: 3
 ---
 화자는 하트·리포스트를 서로 눌러 주자는 '스하리'류의 품앗이 요청을 글자를 바꿔 쓰는 식으로 우회해도 계정이 정지될 수 있다고 경고합니다. 팔로워를 빨리 늘리려고 이런 문구를 쓰지 마세요. 대신 관심사가 같은 계정에 진짜 댓글을 달아 관계를 쌓는 쪽을 권합니다. 플랫폼 정책 문서를 근거로 든 것은 아니고 경험에서 나온 주장입니다.

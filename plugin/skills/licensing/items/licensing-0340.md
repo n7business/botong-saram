@@ -9,3 +9,5 @@
 ## 출처
 - 국민권익위원회 · 2026-11-16 · https://www.epeople.go.kr/nep/gdnc/SiteNtrcnContent.npaid
   > 국민신문고에 제출만 하시면 가장 적절한 기관으로 전달되어 One-Stop으로 처리됩니다.
+- 국민권익위원회 · 2026-11-07 · https://www.epeople.go.kr/nep/pttn/gnrlPttn/pttnNtrcnContent.npaid
+  > 민원 제출 시 선택한 기관이 적정 처리기관이 아닐 경우에는 해당기관으로 이송되어 처리됩니다.

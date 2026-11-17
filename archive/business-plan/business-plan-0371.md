@@ -3,7 +3,7 @@ id: business-plan-0371
 domain: business-plan
 claim: 첫 B2B 고객을 찾는 충남 지역 예비·초기창업자는 2026-11-17 10:00까지 온라인으로 신청하면 11월 18일 천안 충남창업마루나비에서
   열리는 B2B 영업 전략 특강을 무료로 들을 수 있지만, 선착순이라 빨리 신청해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

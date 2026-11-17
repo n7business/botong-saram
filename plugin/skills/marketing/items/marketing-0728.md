@@ -15,3 +15,7 @@
   > 같은 주제, 1등 계정을 알림신청하고 체크하기.
 - 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo1WebDgLK
   > 대형 계정 ‘알림‘신청하고 벤치마킹해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfhbb98Dbs_
+  > 대형 계정 ‘알림‘신청하고 벤치마킹해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha-8JDwLB
+  > 대형 계정은 성장하기 위한 '오픈 북'이다.

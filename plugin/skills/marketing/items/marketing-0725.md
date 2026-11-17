@@ -11,3 +11,5 @@
   > 2차인증 안해놨다간 계정이 날라갈 수 있어요.
 - 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo1LeSiRtd
   > 2차인증 안해놨다간 계정이 날라갈 수 있어요.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/DfhbRjFjUMf
+  > 2차인증 안해놨다간 계정이 날라갈 수 있어요.

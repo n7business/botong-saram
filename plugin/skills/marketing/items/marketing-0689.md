@@ -11,3 +11,11 @@
   > 게시글 5개, 댓글 30개는 매일 기본값
 - 빌리쌤 (@billy___ssam) · 2026-11-14 · https://www.threads.com/@billy___ssam/post/DfrkH4CDPAp
   > 내게시글 댓글은 ‘질문형’으로 대댓해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-09 · https://www.threads.com/@billy___ssam/post/DfehbWzFOYK
+  > 게시글 5개, 댓글 30개는 매일 기본값
+- 빌리쌤 (@billy___ssam) · 2026-11-09 · https://www.threads.com/@billy___ssam/post/Dfeh-T9FpTG
+  > 내게시글 댓글은 ‘질문형’으로 대댓해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtDWYGdRg
+  > 게시글 5개, 댓글 30개는 매일 기본값
+- 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtN8hGUfl
+  > 아침3개, 저녁3개 꾸준히 업로드해라.

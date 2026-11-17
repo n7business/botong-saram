@@ -13,3 +13,5 @@
   > 댓글이 달리도록 의도된 '틈' 만들기
 - 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrjnUvjyr2
   > 일기장 그만쓰고, 타인의 시선으로 글 쓰기.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
+  > 댓글이 달리도록 의도된 '틈' 만들기

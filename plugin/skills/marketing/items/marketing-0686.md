@@ -11,3 +11,7 @@
   > 조회수가 급 폭락하면 ’계정상태’ 확인하세요.
 - 빌리쌤 (@billy___ssam) · 2026-11-16 · https://www.threads.com/@billy___ssam/post/DfweHk2miDS
   > 인스타랑 따로 키울거면 '동기화' 해제하세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-09 · https://www.threads.com/@billy___ssam/post/DfehXSQljw_
+  > 인스타랑 따로 키울거면 ‘동기화’ 해제하세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtBRSmWR1
+  > 인스타랑 따로 키울거면 ‘동기화’ 해제하세요.

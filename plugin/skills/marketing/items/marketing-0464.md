@@ -19,3 +19,11 @@
   > 아침3개, 저녁3개 꾸준히 업로드해라.
 - 빌리쌤 (@billy___ssam) · 2026-11-12 · https://www.threads.com/@billy___ssam/post/DfjtMr4mR3L
   > 저녁(20~24시)는 2배 이상 집중 발행했다.
+- 빌리쌤 (@billy___ssam) · 2026-11-07 · https://www.threads.com/@billy___ssam/post/DfZyZFrnLCi
+  > 시간 없다면, '피크타임'만 올려 보세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-07 · https://www.threads.com/@billy___ssam/post/DfZyLzPEWEc
+  > 저녁(20~24시)는 2배 이상 집중 발행했다.
+- 빌리쌤 (@billy___ssam) · 2026-11-06 · https://www.threads.com/@billy___ssam/post/DfUqKwkkeQV
+  > 시간 없다면, '피크타임'만 올려 보세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-06 · https://www.threads.com/@billy___ssam/post/DfUqewEDbVY
+  > 아침3개, 저녁3개 꾸준히 업로드해라.

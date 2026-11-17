@@ -1,0 +1,29 @@
+---
+id: ai-tools-0606
+domain: ai-tools
+claim: AI가 실수할까 봐 내가 먼저 작업하고 나머지만 맡기는 방식 대신, 일단 AI에 먼저 맡기고 AI가 잘하지 못한 부분만 직접 처리하는
+  순서로 바꾸면 적은 인원으로 더 많은 일을 감당할 수 있습니다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4041/
+  author: Un (요즘IT, Smooth AI 공동 창업자 Hansol 인터뷰)
+  seen: '2026-11-18'
+  quote: 일단 AI에 맡겨보고, AI가 잘하지 못하는 부분을 제가 직접 처리합니다.
+  source: 요즘IT
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI업무위임
+- 소규모팀
+- 작업순서
+- 생산성
+---
+Smooth AI CTO는 예전에는 자신이 먼저 작업하고 나머지를 AI에 맡겼지만, 지금은 순서를 반대로 바꿨습니다. 자동화된 테스트나 반복 개발처럼 되풀이되는 일은 AI에 맡기고, 본인은 중요한 의사결정에 집중합니다. 이렇게 해서 iOS·안드로이드·맥·윈도우·웹·서버를 2인 팀이 관리하고 있습니다. 예전 같으면 엔지니어 여러 명이 필요했을 일이라고 합니다. 단일 경험담이므로, AI가 처리한 결과를 사람이 확인하는 단계는 그대로 두어야 합니다.

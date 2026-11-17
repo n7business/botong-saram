@@ -3,7 +3,7 @@ id: business-plan-0173
 domain: business-plan
 claim: 뷰티·패션·라이프·푸드 소비재를 수출하는 중소기업은 2026-11-17까지 참여기업 매칭 신청서를 첨부해 K-BUSINESS DAY 2026에
   신청하면 참가비 없이 해외바이어와 1:1 상담을 하고 샘플발송비를 100만원 한도로 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.93
 sources:

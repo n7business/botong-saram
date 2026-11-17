@@ -1,0 +1,29 @@
+---
+id: business-plan-0512
+domain: business-plan
+claim: 2027년 예산안 기준으로는 사업자등록 전이면 모두의창업을, 사업자등록 후 3년 이내면 초기창업패키지를 먼저 검토해야 한다. 기술개발과
+  투자 연계가 목표라면 TIPS를 따로 함께 검토한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.swp.io.kr/guide/yebi-changup-package.html
+  author: 스프링워터 파트너스
+  seen: '2026-11-18'
+  quote: 사업자등록 전이면 모두의창업, 등록 후 3년 이내면 초기창업패키지 가 기본 검토 대상입니다.
+  source: 스프링워터 파트너스 예창패 가이드
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 초기창업패키지
+- TIPS
+- 사업선택
+---
+2027년 예산안에서는 예비창업자를 위한 창구가 모두의창업 하나로 모입니다. 업력 3년 이내 창업기업은 초기창업패키지(469억 원), 도약 단계 기업은 창업도약패키지(585억 원)로 나뉩니다. 내 단계에 맞지 않는 사업을 준비하면 시간만 쓰게 되므로, 사업자등록 여부와 업력부터 확인하세요. 세부 자격과 금액은 사업마다 다를 수 있어 공고문에서 다시 확인해야 합니다. 초기창업패키지와 창업도약패키지는 예산이 줄어 선발 규모도 줄어들 수 있습니다.

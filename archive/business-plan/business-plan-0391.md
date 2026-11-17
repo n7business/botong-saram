@@ -3,7 +3,7 @@ id: business-plan-0391
 domain: business-plan
 claim: 지원금을 단계별로 받는 창업 지원사업에 신청할 때는 라운드별 지원금을 어디에 쓸지 비목 단위로 미리 정해 둬야 집행·정산 단계에서 막히지
   않는다.
-status: candidate
+status: merged
 evidence: consensus
 confidence: 0.55
 sources:
@@ -25,5 +25,6 @@ tags:
 - 정산
 - 비목
 - 모두의창업
+merged_into: business-plan-0273
 ---
 실행 계획과 함께 라운드별 지원금을 어떤 비목에 쓸지 미리 정리해 둡니다. 비목이 분명하지 않으면 돈을 쓰고 정산하는 단계에서 막힙니다. 모두의창업에서 실제로 쓸 수 있는 비목과 지급 방식(카드·현금 등)은 회차별 공고문에 나오므로, 공고가 나오면 미리 세운 계획을 공고 기준에 맞춰 고쳐야 합니다.

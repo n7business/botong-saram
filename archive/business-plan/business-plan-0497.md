@@ -1,0 +1,29 @@
+---
+id: business-plan-0497
+domain: business-plan
+claim: 강남구여성능력개발센터 1:1 창업 멘토링은 구글폼만 내서는 신청이 끝나지 않으므로, 사업계획서(이미 창업했다면 사업자등록증명원도)와 '창업
+  아이템 소개 및 멘토에게 하고 싶은 질문 3가지 이상'까지 함께 내야 최종 신청으로 인정된다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.venturesquare.net/announcement/1128734
+  author: 강남구여성능력개발센터
+  seen: '2026-11-18'
+  quote: 위에 추가 제출서류 까지 제출 되어야 최종 신청으로 인정됩니다.
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 멘토링
+- 신청서류
+- 강남구
+- 환불
+---
+이 멘토링은 구글폼만 제출하면 참여가 확정되지 않는다. 이미 창업한 사람은 사업자등록증명원과 사업계획서를, 창업 예정자는 사업계획서를 반드시 내야 한다. 정부지원사업에 선정된 적이 있으면 그 증빙 캡처본을 내면 우대받는다. 신청서에는 창업 아이템 소개와 멘토에게 묻고 싶은 질문을 3가지 이상 꼭 적어야 한다. 접수했다는 연락은 오지 않고, 선정된 사람에게만 12월 2일부터 개별로 연락하며, 일정 확인 전화가 오니 받아야 한다. 환불은 2026-12-08 11:00까지만 되고, 그 뒤에 취소하거나 연락 없이 빠지면 환불받을 수 없다.

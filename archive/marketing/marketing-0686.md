@@ -17,6 +17,16 @@ sources:
   seen: '2026-11-16'
   quote: 인스타랑 따로 키울거면 '동기화' 해제하세요.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DfehXSQljw_
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-09'
+  quote: 인스타랑 따로 키울거면 ‘동기화’ 해제하세요.
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DfjtBRSmWR1
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-11'
+  quote: 인스타랑 따로 키울거면 ‘동기화’ 해제하세요.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-14'
 last_confirmed: '2026-11-16'
 review_by: null
@@ -30,6 +40,6 @@ tags:
 - 계정상태
 - 조회수
 - 인스타그램동기화
-mentions: 2
+mentions: 4
 ---
 평소보다 조회수가 갑자기 크게 떨어지면 콘텐츠 탓만 하지 마세요. 먼저 스레드의 '계정 상태'에서 제한이나 위반 표시가 있는지 확인해야 합니다. 스레드와 인스타그램을 서로 다른 방향으로 운영할 계획이라면 두 계정의 동기화를 해제해 두는 것이 좋습니다.

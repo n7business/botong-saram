@@ -2,7 +2,7 @@
 id: marketing-0469
 domain: marketing
 claim: 스레드를 인스타그램과 따로 키울 생각이면 인스타그램과의 동기화를 꺼야 한다는 것이 화자의 주장이다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.45
 sources:
@@ -30,5 +30,6 @@ tags:
 - 동기화
 - 계정설정
 mentions: 2
+merged_into: marketing-0686
 ---
 스레드와 인스타그램은 연결되어 있어 설정에 따라 프로필이나 활동이 함께 움직입니다. 화자는 두 채널을 다른 방향으로 운영하려면 동기화를 해제하라고 말합니다. 예를 들어 인스타는 매장 사진 위주, 스레드는 사장의 생각이나 노하우 위주로 운영한다면 따로 관리하는 편이 낫습니다. 반대로 같은 손님층을 노린다면 동기화를 유지해도 됩니다.

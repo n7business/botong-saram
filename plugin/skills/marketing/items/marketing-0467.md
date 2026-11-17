@@ -9,3 +9,5 @@
 ## 출처
 - 빌리쌤 (@billy___ssam) · 2026-11-09 · https://www.threads.com/@billy___ssam/post/DfehjJunIG4
   > 30분 후 '마크업'으로 다시 한번 2차 활성화 하세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-06 · https://www.threads.com/@billy___ssam/post/DfUp70vD5o2
+  > 30분 후 '마크업'으로 다시 한번 2차 활성화 하세요.

@@ -11,3 +11,7 @@
   > 외부 링크 넣으면, 조회수 박살 납니다. 본문에 넣지 말고, 댓글에 넣으면 덜해요.
 - 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtKMlmbYX
   > 외부 링크 넣으면, 조회수 박살 납니다. 본문에 넣지 말고, 댓글에 넣으면 덜해요.
+- 빌리쌤 (@billy___ssam) · 2026-11-07 · https://www.threads.com/@billy___ssam/post/DfZyZFrnLCi
+  > 외부 링크 넣으면, 조회수 박살 납니다.
+- 빌리쌤 (@billy___ssam) · 2026-11-06 · https://www.threads.com/@billy___ssam/post/DfUqKwkkeQV
+  > 외부 링크 넣으면, 조회수 박살 납니다. 본문에 넣지 말고, 댓글에 넣으면 덜해요.

@@ -1,0 +1,30 @@
+---
+id: factory-ax-0217
+domain: factory-ax
+claim: AI CCTV로 안전모·안전조끼 같은 보호구 미착용, 위험구역 접근, 작업자 넘어짐을 감지하려는 제조 사업자는 알림이 오는 데서 끝나지
+  않도록, 알림을 누가 받고 현장을 어떻게 확인하고 조치할지를 함께 정해 두어야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.hellot.net/news/article.html?no=116400
+  author: 최재규 기자(헬로티)
+  seen: '2026-11-18'
+  quote: '"알림으로 끝나서는 안 돼"'
+  source: 헬로티
+first_seen: '2026-11-18'
+last_confirmed: '2026-11-18'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 산업안전
+- AI CCTV
+- 보호구
+- 위험구역
+- 낙상감지
+---
+AI 영상 분석으로 안전모·안전조끼·장갑·보안경 착용 여부, 출입 제한 구역에 들어온 사람이나 차량, 작업자가 넘어지는 상황을 감지해 담당자 휴대기기로 알림을 보낼 수 있습니다. 현장 스피커와 연동하면 접근자에게 음성 경고도 할 수 있습니다. 하지만 AI가 위험을 감지해도 결국 사람이 현장을 확인하고 후속 조치를 해야 합니다. 그래서 도입할 때는 감지 정확도만 보지 말고, 알림을 받을 담당자, 대응 절차, 사고 영상 자동 보관과 보고서 작성 기능까지 확인해 감지에서 실제 대응까지 걸리는 시간을 줄이는 데 초점을 둬야 합니다.

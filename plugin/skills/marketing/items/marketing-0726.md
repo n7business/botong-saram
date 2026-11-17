@@ -11,3 +11,5 @@
   > 오타 수정은 게시 후 15분안에 가능해요.
 - 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo0u_KFJ_q
   > 오타 수정은 게시 후 15분안에 가능해요.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha371l2tg
+  > 오타 수정은 게시 후 15분안에 가능해요.

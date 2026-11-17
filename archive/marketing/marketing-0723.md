@@ -27,6 +27,16 @@ sources:
   seen: '2026-11-13'
   quote: 5천 미만일 때엔 ‘댓글‘이 답이다.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-10'
+  quote: 5천 미만 = 댓글, 5천 이상 = 브랜딩
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Dfhbb98Dbs_
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-10'
+  quote: 5천 미만일 때엔 ‘댓글‘이 답이다.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-15'
 last_confirmed: '2026-11-15'
 review_by: null
@@ -40,6 +50,6 @@ tags:
 - 댓글
 - 브랜딩
 - 초기성장
-mentions: 4
+mentions: 6
 ---
 스레드 계정이 작을 때는 내 글만 올려서는 사람들 눈에 잘 띄지 않습니다. 팔로워 5천 명 전까지는 다른 계정에 댓글을 달며 관계를 넓히는 일이 성장의 핵심이라고 빌리쌤은 말합니다. 5천 명을 넘은 뒤에는 나만의 글체·이미지·시그니처로 브랜딩을 쌓는 쪽으로 무게를 옮기라고 합니다. 5천이라는 기준은 화자의 경험에서 나온 것이고 플랫폼이 정한 기준은 아닙니다.
