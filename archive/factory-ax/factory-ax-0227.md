@@ -1,0 +1,29 @@
+---
+id: factory-ax-0227
+domain: factory-ax
+claim: 검사 데이터로 관리도를 운영하는 제조 사업자는 모든 항목에 '평균±3σ' 공식을 똑같이 쓰지 말고, 데이터가 정규분포를 따르는지 먼저
+  확인한 뒤 분포에 맞는 방법으로 관리 한계를 정해야 정상 공정을 이상으로 판정하는 일을 막을 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.hellot.net/news/article.html?no=116417
+  author: 최재규 기자(헬로티)
+  seen: '2026-11-19'
+  quote: 공정이 안정적이고 관리가 잘 되고 있는데, 관리가 안 된다고 또 평가를 하는 것
+  source: 헬로티
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- SPC
+- 관리도
+- 관리한계
+- 품질통계
+---
+검사 데이터는 부품마다 분포가 다릅니다. 평균을 중심으로 대칭인 경우도 있지만 한쪽으로 치우치거나 극단값이 섞인 경우도 있습니다. 정규분포를 따르지 않는 데이터에 같은 3σ 공식을 쓰면 관리 한계가 실제 공정과 어긋나서, 안정된 공정을 이상으로 판정하거나 실제 이상을 놓칠 수 있습니다. 먼저 정규성을 검정하고, 정규분포가 아니면 박스·콕스 변환이나 존슨 변환, 분포 적합, 중앙값 기반의 강건 SPC 순서로 검토합니다. MES가 판정을 자동으로 해 주더라도 기준이 틀렸다면 잘못된 신호가 계속 반복됩니다.

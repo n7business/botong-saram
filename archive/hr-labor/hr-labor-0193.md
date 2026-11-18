@@ -13,7 +13,7 @@ sources:
   quote: 실직 시 최대 270일간 구직급여를, 출산 시 90일간 출산전후급여를 받을 수 있다.
   source: 근로복지공단 보도자료·공지
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-16'
+last_confirmed: '2026-11-19'
 review_by: '2027-05-13'
 supersedes: null
 superseded_by: null

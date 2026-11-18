@@ -1,0 +1,30 @@
+---
+id: business-plan-0527
+domain: business-plan
+claim: 2025년 AI 관련 연매출이 10억 원 이상이거나 2026년 10월까지 누적 투자 유치가 5억 원 이상인 업력 10년 미만 AI 스타트업은
+  2026-12-16 15:00까지 온라인으로 회사소개서와 협업제안서를 내면 서울창조경제혁신센터 소버린 AX 얼라이언스에 지원할 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.venturesquare.net/announcement/1129642
+  author: 서울창조경제혁신센터
+  seen: '2026-11-19'
+  quote: 2025년 AI 관련 연매출 10억 원 이상 or 2026년 10월까지 누적 투자유치 5억 원 이상
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI
+- 소버린AX
+- 서울창조경제혁신센터
+- 오픈이노베이션
+- 마감2026-12-16
+---
+서울창조경제혁신센터가 소버린 AX 얼라이언스에 참여할 스타트업을 2026-11-17 14:00부터 2026-12-16 15:00까지 온라인으로 모집한다. 업력 10년 미만이면서 AI 역량이 있는 국내 스타트업이 대상이다. 2025년 AI 관련 연매출 10억 원 이상이거나 2026년 10월까지 누적 투자 유치 5억 원 이상이어야 하고, LLM 같은 AI 추론 기반 솔루션을 개발 중이거나 이미 보유하고 있어야 한다. 협업제안서에는 함께 일하고 싶은 기관(퓨리오사AI, 업스테이지 또는 두 곳 모두), 협업 과제, 기대 효과를 적어야 한다. 업스테이지와 퓨리오사AI가 협업 역량을 검토해 20개사 안팎을 뽑으며, 선정되면 AI API·크레딧, 기술지원, 실증, 사업화·투자 연계를 지원받는다.

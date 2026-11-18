@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-17'
   quote: 화면을 만든 AI가 자신의 구현을 기준으로 검사하면, 처음에 잘못 이해한 요구사항을 그대로 놓칠 수 있습니다.
   source: 요즘IT
+- url: https://www.anthropic.com/research/harness-design-long-running-apps
+  author: Anthropic
+  seen: '2026-11-19'
+  quote: agents reliably skew positive when grading their own work.
+  source: Anthropic Engineering 블로그
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-17'
+last_confirmed: '2026-11-19'
 review_by: null
 supersedes: null
 superseded_by: null

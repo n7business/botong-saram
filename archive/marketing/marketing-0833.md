@@ -1,0 +1,34 @@
+---
+id: marketing-0833
+domain: marketing
+claim: 스레드에서 팔로워는 정보 글, 공감 글, 재미 글 순으로 잘 늘며, 글은 나 중심 1인칭보다 읽는 사람이 반응하게 2~3인칭으로 써야
+  한다는 것이 빌리쌤의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.45
+sources:
+- url: https://www.threads.com/@billy___ssam/post/Df1xrpXEn2c
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 7. 무조건 타인이 반응하는 글 쓰기(2~3인칭)
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df1xrpXEn2c
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 8. 정보>공감>재미 순으로 팔로워는 늘어남
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 글쓰기
+- 콘텐츠유형
+- 빌리쌤
+---
+팔로워를 늘리려면 정보 글을 가장 앞세우라는 주장입니다. 정보 다음이 공감, 그다음이 재미 순서라고 합니다. 글은 '나는 이랬다'는 1인칭보다 '당신은', '이런 사장님은'처럼 읽는 사람을 가리키는 2~3인칭으로 써야 반응이 온다고 봅니다. 공감 글도 막연한 공감보다 현실에서 겪는 상황을 짚는 '현실 공감'이 낫다고 합니다. 근거는 한 운영자의 경험입니다.

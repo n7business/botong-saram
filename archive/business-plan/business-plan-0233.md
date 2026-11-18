@@ -3,7 +3,7 @@ id: business-plan-0233
 domain: business-plan
 claim: 정부지원사업에 지원할 예정인 여성 (예비)창업자가 북부창업멘토링까지 받으려면 교육 신청과 별도로 2026-11-18까지 사업계획서를 이메일로
   내고 11월 25일 아카데미를 수료해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.93
 sources:

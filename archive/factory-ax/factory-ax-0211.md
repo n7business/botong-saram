@@ -14,7 +14,7 @@ sources:
   quote: 수출보험 ･ 보증 한도 우대 , 대출금리 우대 등도 받을 수 있다
   source: 산업통상부 보도자료
 first_seen: '2026-11-18'
-last_confirmed: '2026-11-18'
+last_confirmed: '2026-11-19'
 review_by: '2027-02-16'
 supersedes: null
 superseded_by: null

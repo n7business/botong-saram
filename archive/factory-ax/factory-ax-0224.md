@@ -1,0 +1,29 @@
+---
+id: factory-ax-0224
+domain: factory-ax
+claim: 불량이 나도 어떤 조건에서 만들어졌는지 추적이 안 되는 제조 사업자는 제품마다 식별번호(ID)를 붙이고, 그 번호를 기준으로 생산 조건과
+  검사 결과를 일대일로 연결해 두어야 불량 원인을 거꾸로 찾아갈 수 있다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://www.hellot.net/news/article.html?no=116428
+  author: 최재규 기자(헬로티)
+  seen: '2026-11-19'
+  quote: 제품 식별정보(ID)를 기준으로 생산 조건과 검사 결과를 일대일로 연결하고
+  source: 헬로티
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 불량추적
+- 이력관리
+- 품질
+- 데이터연결
+---
+설비 데이터가 쌓여 있어도 생산 조건과 개별 제품의 검사 결과가 연결돼 있지 않으면 불량 원인을 되짚어 찾기 어렵습니다. 제품 ID를 기준으로 그 제품의 생산 조건과 검사 결과를 묶어 두면, 불량이 났을 때 관련 생산 조건을 확인하고 설비 운전 데이터와 맞춰 볼 수 있습니다. 공급사가 발표한 자동차 부품 사출·조립 공장 사례에서는 이렇게 데이터를 연결한 뒤 AI로 운전 조건을 조정했고, 불량률이 0.26%에서 0.15%로 내려갔습니다. 이 수치는 공급사가 발표한 한 곳의 결과이므로 우리 공장에서도 같은 효과가 날 것으로 보면 안 됩니다.

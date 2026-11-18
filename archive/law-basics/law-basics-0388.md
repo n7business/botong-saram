@@ -1,0 +1,34 @@
+---
+id: law-basics-0388
+domain: law-basics
+claim: 개인정보를 다루는 사업자는 내부관리계획과 직원 교육 같은 관리적 조치, 접근권한 관리·접근통제·보안프로그램 같은 기술적 조치, 보관 장소
+  출입 통제 같은 물리적 조치로 안전성을 확보해야 한다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.law.go.kr/LSW/privacyPolicy.do
+  author: 법제처
+  seen: '2026-11-19'
+  quote: '관리적 조치 : 내부관리계획 수립·시행, 정기적 직원 교육'
+  source: 국가법령정보센터
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: '2027-05-11'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 개인정보 보호법
+  article: 제29조
+  effective: '2026-11-19'
+contributor: null
+tags:
+- 개인정보
+- 안전성확보조치
+- 보안
+- 직원교육
+verified_by: 공식 출처
+mentions: 1
+---
+개인정보 유출을 막기 위한 안전성 확보조치는 세 갈래로 나눠 준비합니다. 관리적 조치로는 내부관리계획을 세워 시행하고 직원을 정기적으로 교육합니다. 기술적 조치로는 개인정보를 다루는 시스템의 접근권한을 필요한 직원에게만 주고, 접근통제 장치와 백신 같은 보안프로그램을 설치합니다. 물리적 조치로는 서버실이나 서류 보관함의 출입을 통제합니다. 소규모 사업장이라도 고객 명부 파일의 비밀번호 설정과 퇴사자 계정 회수부터 챙겨야 합니다.

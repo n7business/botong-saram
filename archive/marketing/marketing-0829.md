@@ -1,0 +1,28 @@
+---
+id: marketing-0829
+domain: marketing
+claim: 내 스레드 게시글에 달린 댓글에는 질문형으로 답글을 달아 대화가 이어지게 해야 한다는 것이 빌리쌤의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.45
+sources:
+- url: https://www.threads.com/@billy___ssam/post/Df1xe_ckhk6
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 6. 내게시글 댓글은 ‘질문형’으로 대댓해라.
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 댓글
+- 참여유도
+- 빌리쌤
+---
+내 글에 댓글이 달리면 '감사합니다'로 끝내지 말고 질문을 던지는 답글을 달라는 주장입니다. 질문형으로 답하면 상대가 다시 답하게 되어 댓글 대화가 길어집니다. 그러면 글 반응도 늘고 손님과의 관계도 쌓입니다. 예를 들어 '혹시 어떤 상황이셨어요?'처럼 상대의 경험을 묻는 식입니다. 근거는 한 운영자의 노하우입니다.

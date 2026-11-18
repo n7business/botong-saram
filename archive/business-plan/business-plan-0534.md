@@ -1,0 +1,29 @@
+---
+id: business-plan-0534
+domain: business-plan
+claim: 서울창업허브 공덕·M+·창동·성수, 핀테크랩, 서울AI허브, 바이오허브 같은 서울시 7대 거점시설에 입주했던 기업은 서울창업허브 창동에
+  신청할 수 없고, 다른 공공 창업공간에 입주해 있는 기업은 입주개시일 전에 기존 입주를 끝내야 신청할 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.venturesquare.net/announcement/1129639
+  author: 서울창업허브 창동((주)오픈놀)
+  seen: '2026-11-19'
+  quote: 7대 거점시설 … 수혜(입주) 이력이 있는 경우(서울 캠퍼스타운 포함유의)
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 서울창업허브
+- 중복입주
+- 제외대상
+- 입주이력
+---
+서울창업허브 창동 공고는 서울시 7대 거점시설(창업허브 공덕·M+·창동·성수, 핀테크랩, 서울AI허브, 바이오허브)에 입주한 이력이 있는 기업을 제외한다. 공고는 서울 캠퍼스타운도 포함되니 유의하라고 안내한다. 국가·지자체·공공기관 창업공간에 지금 입주해 있는 기업도 제외되지만, 입주개시일 전에 수혜 기간이 끝나거나 중도 포기하면 신청할 수 있다. 선정되면 서울시나 자치구의 다른 창업지원시설에 본점과 지점 모두 중복으로 입주할 수 없다. 국세·지방세 체납 기업과 휴업 중인 기업도 신청할 수 없으니, 신청 전에 입주 이력과 납세 상태부터 확인해야 한다.

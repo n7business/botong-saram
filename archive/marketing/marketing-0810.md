@@ -1,0 +1,29 @@
+---
+id: marketing-0810
+domain: marketing
+claim: 썸네일을 테스트할 때는 배경, 텍스트 오버레이, 사물 배치를 서로 다르게 만들어 비교하세요. 썸네일 글자는 짧게 넣어야 스크롤하는 시청자가
+  읽을 수 있습니다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=ahkt_B40iO8
+  author: YouTube 크리에이터 (한국 공식 채널)
+  seen: '2026-11-19'
+  quote: 텍스트를 넣을 땐 짧아야 더 효과적이란 점을 기억하세요
+  source: YouTube 크리에이터 (한국 공식 채널)
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: '2027-01-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 유튜브
+- 썸네일
+- 디자인
+verified_by: 공식 출처
+---
+YouTube 공식 채널은 썸네일 후보를 만들 때 레이아웃 구성과 요소(배경, 텍스트 오버레이, 사물의 배치)를 바꿔 가며 테스트하라고 권합니다. 텍스트가 길면 시청자가 스크롤하면서 읽기 어렵기 때문에 짧게 넣는 것이 효과적입니다. 대비를 높여 피사체가 배경에서 돋보이게 하고, 얼굴이 나온다면 감정 표현을 살리세요. 썸네일은 클릭을 끄는 것 말고도 시청자가 영상 내용을 미리 짐작하게 해 주는 역할을 합니다. 그러니 내용과 다른 낚시성 썸네일은 피해야 합니다.

@@ -3,7 +3,7 @@ id: business-plan-0326
 domain: business-plan
 claim: 경북 성주군에 사업장을 둔 중소기업은 2026-11-16~11-18에 성주군 중소기업 운전자금 이차보전 잔액정리분을 신청하면 융자액에
   대해 1년간 3% 이자를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

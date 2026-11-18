@@ -1,0 +1,32 @@
+---
+id: licensing-0373
+domain: licensing
+claim: 국민신문고 질의민원은 법령의 설명·해석을 묻는 것이면 14일 안에, 법령 외 제도·절차를 묻는 것이면 7일 안에 처리되므로, 인허가 일정이
+  급한 사업자는 질의를 '법령 해석'과 '절차 안내'로 나눠 내고 답변 시점을 계산해 두어야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.epeople.go.kr/nep/pttn/gnrlPttn/pttnNtrcnContent.npaid
+  author: 국민권익위원회
+  seen: '2026-11-19'
+  quote: "법령에 관하여 설명이나 해석을 요구하는 질의민원\t14일 이내"
+  source: 국민신문고
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: '2027-05-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민원 처리에 관한 법률 시행령
+  article: 제14조
+  effective: '2026-11-19'
+contributor: null
+tags:
+- 국민신문고
+- 질의민원
+- 처리기간
+verified_by: 공식 출처
+---
+국민신문고 질의민원의 처리기간은 질의 성격에 따라 다릅니다. 법령에 관해 설명이나 해석을 요구하는 질의는 14일 이내, 제도·절차 등 법령 외 사항을 묻는 질의는 7일 이내입니다. 처리기간에는 토요일·공휴일이 들어가지 않으므로 실제 달력으로는 더 걸립니다. 부득이한 사유가 있으면 기관이 처리기간을 연장할 수 있습니다. 인허가 신청 일정이 정해져 있다면 질의를 일찍 내고, 절차만 확인하면 되는 내용은 법령 해석 질의와 분리해 내는 것이 좋습니다.

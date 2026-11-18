@@ -1,0 +1,29 @@
+---
+id: marketing-0835
+domain: marketing
+claim: SNS 글의 경쟁력은 후킹 문구가 아니라 내 경험과 고유한 관점에서 나오므로, 남의 표현을 빌리지 말고 나만 쓸 수 있는 글을 써야 한다는
+  것이 커리어노마드의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@careernomad_/post/Df4uQ7rH9OS
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-19'
+  quote: 글쓰기 경쟁력은 후킹이 아닌 삶에서 나온다.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 글쓰기
+- 퍼스널브랜딩
+- 관점
+- 커리어노마드
+---
+커리어노마드는 글을 1만 개 쓴 경험을 바탕으로, 글은 고유한 관점으로 기억되고 나만 쓸 수 있는 글이 강하다고 말합니다. 남의 언어를 빌릴수록 내 존재가 흐려지고, 글쓰기 경쟁력은 후킹이 아니라 삶에서 나온다는 것입니다. 경험이 같아도 해석이 다르면 다른 글이 되므로, 매일 쓰는 것보다 매일 관찰하는 습관이 더 중요하다고 강조합니다. 이는 한 사람의 경험에서 나온 원칙이며 실측 수치는 없습니다.

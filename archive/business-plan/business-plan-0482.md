@@ -3,7 +3,7 @@ id: business-plan-0482
 domain: business-plan
 claim: 전남 강진군의 일반음식점·휴게음식점·제과점은 입식식탁·경사로 설치 지원을 2026-11-18까지 군청 방문뿐 아니라 우편, 이메일(mahj0215@korea.kr),
   팩스(061-430-3359)로도 신청할 수 있으므로, 영업 때문에 자리를 비우기 어려우면 이메일이나 팩스로 내면 된다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

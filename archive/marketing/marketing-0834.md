@@ -1,0 +1,35 @@
+---
+id: marketing-0834
+domain: marketing
+claim: 스레드 글은 첫 줄에서 시선을 잡고, 본문에서 메시지 하나를 분명히 전하고, 마지막에 인사이트나 CTA를 넣는 3단 구성으로 써야 한다는
+  것이 빌리쌤의 주장이다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@billy___ssam/post/Df1x3V0EsCV
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 1. 시선을 잡는 첫 줄 구성(단어, 주제 등)
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df1x3V0EsCV
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 3. 하단부에 인사이트 혹은 CTA 구성
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스레드
+- 훅
+- CTA
+- 글구성
+- 빌리쌤
+---
+스레드 글 한 편을 세 부분으로 나눠 쓰라는 주장입니다. 첫 줄에는 스크롤을 멈추게 하는 단어나 주제를 넣습니다. 본문에서는 전하려는 메시지 하나를 분명하게 씁니다. 마지막에는 정리된 인사이트나 '댓글 남겨 주세요' 같은 행동 요청(CTA)으로 끝냅니다. 필요한 정보를 쉽게 설명하고, 글이나 이미지에 나만의 시그니처를 넣으면 기억되기 쉽다고도 합니다. 근거는 한 운영자의 노하우입니다.

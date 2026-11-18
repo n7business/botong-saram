@@ -3,7 +3,7 @@ id: business-plan-0436
 domain: business-plan
 claim: 전남 강진군의 일반음식점·휴게음식점·제과점은 2026-11-18까지 신청하면 입식식탁 설치비의 50%를 업소당 100만 원 이내에서,
   경사로 설치비는 업소당 80만 원 이내에서 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

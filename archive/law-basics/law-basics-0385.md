@@ -1,0 +1,33 @@
+---
+id: law-basics-0385
+domain: law-basics
+claim: 고객·직원 개인정보를 다른 업체에 넘기는 제3자 제공은 정보주체의 동의나 법률의 특별한 규정 등 개인정보 보호법 제17조·제18조가 정한
+  경우에만 할 수 있다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.law.go.kr/LSW/privacyPolicy.do
+  author: 법제처
+  seen: '2026-11-19'
+  quote: 「개인정보 보호법」제17조 및 제18조에 해당하는 경우에만 개인정보를 제3자에게 제공
+  source: 국가법령정보센터
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: '2027-05-11'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 개인정보 보호법
+  article: 제17조
+  effective: '2026-11-19'
+contributor: null
+tags:
+- 개인정보
+- 제3자제공
+- 동의
+verified_by: 공식 출처
+mentions: 1
+---
+제휴사나 거래처에 고객 명단을 넘기는 것은 처리 업무를 맡기는 '위탁'이 아니라 '제3자 제공'이 될 수 있습니다. 제3자 제공은 정보주체의 동의를 받았거나 법률에 특별한 규정이 있는 경우처럼 「개인정보 보호법」 제17조·제18조에 해당할 때만 허용됩니다. 그 밖의 경우에는 제공하면 안 됩니다. 넘기기 전에 동의를 받았는지, 근거 법률이 있는지부터 확인하세요.

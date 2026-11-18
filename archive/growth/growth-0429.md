@@ -1,0 +1,29 @@
+---
+id: growth-0429
+domain: growth
+claim: 시장 분석에 필요한 지표가 여러 통계표에 흩어져 있으면 KOSIS '복합통계표'로 한 표에 모아 볼 만하지만, 로그인이 필요하고 주기(월·분기·년)가
+  같은 통계표끼리만 묶을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.55
+sources:
+- url: https://kosis.kr/civilComplaint/kosisGuideIndex.do
+  author: 국가데이터처
+  seen: '2026-11-19'
+  quote: 선택한 통계표는 주기(월, 분기, 년 등)가 같은 경우에만 사용이 가능
+  source: KOSIS 국가통계포털
+first_seen: '2026-11-19'
+last_confirmed: '2026-11-19'
+review_by: '2027-02-17'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- KOSIS
+- 복합통계표
+- 시장조사
+verified_by: 공식 출처
+---
+복합통계표는 2개 이상의 통계표를 결합해 새 통계표를 만들고 '나의통계'에 스크랩해 관리하는 기능입니다. 로그인한 뒤 복합통계표 조회 아이콘을 누르고 단순형이나 고급형을 고른 다음, 통계표·항목·분류·시점을 선택합니다. 고급형은 분류와 항목을 맞추는 매핑 설정을 따로 해야 합니다. 월간 통계와 연간 통계처럼 주기가 다른 통계표는 묶을 수 없으므로, 주기를 먼저 맞춰서 고르세요.
