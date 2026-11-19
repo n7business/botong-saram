@@ -3,7 +3,7 @@ id: business-plan-0242
 domain: business-plan
 claim: 공급망안정품목이나 전략물자를 생산하는 국가첨단전략산업 소부장 중소·중견기업은 내 품목이 지원품목에 해당하는지 한국산업기술기획평가원 기술안보TF에
   먼저 확인한 뒤 2026-11-19까지 e나라도움으로 신청하면 지원품목과 밀접한 설비투자·입지 매입의 신규투자 비용을 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

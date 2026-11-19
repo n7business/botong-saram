@@ -1,0 +1,34 @@
+---
+id: marketing-0867
+domain: marketing
+claim: 애드포스트는 가입과 승인이 다르므로 가입 직후 '미디어 등록'(승인 신청)을 누르지 말고 한 달 동안 하루 1~2편씩 쓴 뒤 다음 달에
+  신청해야 하며, 그때 하루 방문자가 100명만 넘어도 대부분 승인된다는 것이 새벽리더의 경험이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=IHbwwAny8oA
+  author: 새벽리더
+  seen: '2026-11-20'
+  quote: 가입과 승인은 달라요.
+  source: 새벽리더 블로그 강의 (@MorningLeader)
+- url: https://www.youtube.com/watch?v=IHbwwAny8oA
+  author: 새벽리더
+  seen: '2026-11-20'
+  quote: 그때 하루 방문자 100명만 넘으면 대부분 승인이 납니다.
+  source: 새벽리더 블로그 강의 (@MorningLeader)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버블로그
+- 애드포스트
+- 승인
+- 수익화
+---
+애드포스트 가입이 끝나면 '미디어 등록' 버튼이 나오는데, 이것이 승인 신청이므로 바로 누르지 마세요. 블로그를 연 뒤 한 달 동안 하루 1~2편씩 꾸준히 쓰고 다음 달에 신청합니다. 새벽리더의 5·6번 계정은 10월 한 달 동안 하루 방문자 약 100명을 유지했고, 11월 2일에 둘 다 승인됐습니다. 지금은 두 계정 모두 하루 1,000명 가까이 들어온다고 합니다. 한 사람의 경험이므로 승인 기준이 보장되는 것은 아닙니다.

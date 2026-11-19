@@ -4,7 +4,7 @@ domain: business-plan
 claim: 투자자나 바이어를 만나고 싶은 기업은 2026-11-19 23:59까지 온라인으로 사전 신청하면 11월 20일 12~16시 광명시민체육관에서
   열리는 광명시 기업박람회(GM TECH EXPO 2026)에서 VC·AC 투자 상담·매칭, 국내외 바이어 매칭, 경영 애로 상담을 받을 수 있다.
   광명시 밖의 기업도 참가할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.65
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-17'
 last_confirmed: '2026-11-17'
-review_by: null
+review_by: '2026-11-19'
 supersedes: null
 superseded_by: null
 experiment: null

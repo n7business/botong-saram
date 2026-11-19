@@ -1,0 +1,32 @@
+---
+id: business-plan-0545
+domain: business-plan
+claim: 전남 강진군의 일반음식점·휴게음식점·제과점은 2026-11-19~27에 군청 방문, 우편, 이메일(mahj0215@korea.kr)로
+  신청하면 후드·덕트·환풍기 같은 주방시설과 냉·난방기 청소비의 50% 이내를 업소당 최대 25만 원까지 지원받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.88
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128036
+  author: 전남광주통합특별시 / 강진군
+  seen: '2026-11-20'
+  quote: 청소비 일부 지원(50% 이내) - 업소 당 최대 25만원 지원
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: '2027-03-20'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 강진군
+- 음식점
+- 위생
+- 청소비
+- 지자체지원
+- 마감임박
+verified_by: 공식 출처
+---
+강진군 관내 일반·휴게음식점과 제과점이 대상인 2026년 5차 음식점 주방시설 및 냉·난방기 청소 지원사업입니다. 청소비 전액이 아니라 50% 이내, 업소당 최대 25만 원까지만 지원하므로 나머지 청소비는 업소가 냅니다. 신청은 강진군청 관광체육국 축제마케팅추진단 식품위생팀(4층) 방문(09~18시), 우편(강진읍 탐진로 111), 이메일 중 하나로 할 수 있습니다. 영업 중이라 자리를 비우기 어렵다면 이메일로 내면 됩니다. 기업마당 공고의 문의처는 '고흥군 축제마케팅추진단'으로 적혀 있지만 신청처는 강진군청이므로, 문의할 때는 강진군 식품위생팀인지 확인하세요.

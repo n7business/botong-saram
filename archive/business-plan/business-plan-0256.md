@@ -3,7 +3,7 @@ id: business-plan-0256
 domain: business-plan
 claim: 화성시에 본사·공장·연구소가 있거나 2026년 12월까지 이전·설립할 예정인 중소기업과 창업예정자는 2026-11-19 18:00까지
   화성산업진흥원 성장자원 확보 패키지를 신청해 2027년 TIPS 연계(추천) 기회를 노릴 수 있지만, 세금 체납이나 신용 문제가 있으면 제외된다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-07'
 last_confirmed: '2026-11-07'
-review_by: null
+review_by: '2026-11-19'
 supersedes: null
 superseded_by: null
 experiment: null

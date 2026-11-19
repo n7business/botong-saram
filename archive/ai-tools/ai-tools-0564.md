@@ -22,8 +22,13 @@ sources:
   seen: '2026-11-19'
   quote: agents reliably skew positive when grading their own work.
   source: Anthropic Engineering 블로그
+- url: https://www.anthropic.com/research/building-strong-safety-evaluations
+  author: Anthropic
+  seen: '2026-11-20'
+  quote: Graders also favor longer responses and the first option they are shown
+  source: Anthropic Engineering 블로그
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-20'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0495
 domain: business-plan
 claim: 부산에서 창업이나 투자 네트워크를 넓히려는 사업자는 2026-11-19 23:59까지 구글폼으로 신청하면 별도 심사 없이 12월 1일
   농심호텔(부산 동래구)에서 열리는 제79회 단디벤처포럼 투자로드쇼에 일반참가자로 들어가 스타트업 4개사의 IR 피칭을 보고 네트워킹을 할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.6
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-17'
 last_confirmed: '2026-11-17'
-review_by: null
+review_by: '2026-11-19'
 supersedes: null
 superseded_by: null
 experiment: null

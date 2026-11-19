@@ -1,0 +1,28 @@
+---
+id: law-basics-0416
+domain: law-basics
+claim: 빌려준 돈의 원금 일부를 돌려받았거나 이자를 받은 내역은 대여 사실을 뒷받침하므로, 소액이라도 그 변제 내역을 반드시 보관해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=Y41ZTgbHMZ8
+  author: 허훈법무사의 법률솔루션
+  seen: '2026-11-20'
+  quote: 소액이라도 변제받은 내역이 있다면 자료를 반드시 보관하시기 바랍니다.
+  source: 허훈법무사의 법률솔루션
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 대여금
+- 일부변제
+- 이자
+- 증거확보
+---
+상대방이 원금 일부를 갚았거나 이자를 준 사실은 그 돈이 증여가 아니라 빌려준 돈이었다는 점을 보여 주는 자료가 됩니다. 금액이 작다고 무시하지 말고 입금 내역과 관련 메시지를 함께 보관해 두어야 합니다. 차용증이 없을 때는 이런 작은 자료가 모여 대여 사실을 입증하게 됩니다.

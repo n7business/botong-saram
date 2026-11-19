@@ -1,0 +1,29 @@
+---
+id: factory-ax-0247
+domain: factory-ax
+claim: 업무를 실제로 처리하는 AI 에이전트를 들이려는 사업자는 최종 답변만 보고 판단하지 말고, 우리 업무 상황으로 만든 시험 사례를 돌려
+  에이전트가 어떤 도구를 골라 어떤 순서로 처리했는지까지 확인해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.hellot.net/news/article.html?no=116446
+  author: 헬로티 최재규 기자 (한국마이크로소프트 임혁용 팀장 기조연설)
+  seen: '2026-11-20'
+  quote: 친절한데 친절하게 틀리는 직원이 저는 제일 겁나고 무섭다
+  source: 헬로티
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 검증
+- 평가
+- 실행오류
+---
+AI 에이전트는 답변이 그럴듯해도 처리 과정에서 틀릴 수 있고, 이런 오류는 최종 답변만 봐서는 잘 드러나지 않습니다. 예를 들어 같은 장애를 직원 100명이 신고했을 때 에이전트가 기존 접수 내역을 확인하지 않으면 중복 티켓 100개가 생길 수 있습니다. 실제로 투입하기 전에 우리 업무에서 자주 생기는 상황으로 시험 사례를 만들어 돌려 보세요. 그리고 도구 선택과 실행 과정을 기록으로 확인하고, 오류가 나면 원인을 진단해 고친 뒤 다시 시험하는 과정을 반복하세요.

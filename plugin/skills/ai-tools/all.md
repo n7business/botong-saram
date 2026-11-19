@@ -1,8 +1,20 @@
 # 보통사람 · AI 도구·트렌드 — 전체 목록(공식·여러 명·주의·실험)
-빌드 2026-11-19. SKILL.md에는 이 중 일부만 있다.
+빌드 2026-11-20. SKILL.md에는 이 중 일부만 있다.
 
 ## 🏛 공식 발표 · 📚 연구·저서
 - 🏛 공식 발표 · AI가 만든 결과의 통과 여부는 그 코드를 쓴 AI가 아니라 별도의 검토용 AI에게 판단하게 해야 하고, 검토용 AI에게는 직접 고치는 권한 없이 읽고 알리는 역할만 주어야 한다. 코드를 쓴 쪽은 자기가 만들려고 했던 것만 확인하기 때문이다. — 요즘IT, Anthropic Engineering 블로그 → `items/ai-tools-0564.md`
+- 🏛 공식 발표 · 고객 응대용 AI 챗봇을 시험할 때는 질문 하나씩만 던져 보지 말고 여러 번 주고받는 대화로 시험해야 한다. 첫 질문에는 제대로 답한 AI도 대화가 이어지면서 다섯 번째쯤에는 부적절하게 답할 수 있기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0622.md`
+- 🏛 공식 발표 · AI가 만든 답변이나 결과물의 채점을 다른 AI에게 맡길 때는 그 채점 결과를 바로 믿지 말고, 일부를 사람이 채점 결과를 보지 않은 채 따로 채점해 서로 얼마나 일치하는지부터 확인해야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0623.md`
+- 🏛 공식 발표 · AI에게 결과물을 채점하게 할 때는 '10점 만점에 몇 점'처럼 종합 점수를 받지 말고, '고객 이름을 정확히 썼나', '없는 할인을 약속했나'처럼 예/아니오로 답할 수 있는 좁은 항목 여러 개로 나눠 묻고, 애매한 경우는 무엇이 해당하지 않는지까지 미리 적어 두어야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0624.md`
+- 🏛 공식 발표 · API로 클로드 같은 AI를 붙여 자체 챗봇을 만들었다면 claude.ai에서 써 본 느낌대로 동작할 거라고 기대하지 말고, 하지 말아야 할 답을 시스템 프롬프트에 직접 적은 뒤 그 설정 그대로 다시 시험해야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0625.md`
+- 🏛 공식 발표 · AI 모델이나 프롬프트를 바꿀지 시험으로 정할 때는 질문 몇 개를 한 번씩만 돌려 보고 판단하지 말고, 같은 질문을 여러 번 돌려 결과가 얼마나 흔들리는지 함께 봐야 한다. 몇 %p 차이는 우연일 수 있기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0626.md`
+- 🏛 공식 발표 · 채용할 때 사전 과제를 낸다면 지원자에게 보내기 전에 최신 AI에게 같은 시간 제한으로 먼저 풀려 봐야 한다. AI가 그 시간 안에 풀어 버리는 과제로는 지원자 실력을 가려낼 수 없기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0627.md`
+- 🏛 공식 발표 · 클로드 코드 예약 작업으로 업무를 자동으로 돌리고 있다면 v2.1.329로 업데이트한 뒤 /tasks에서 예약 작업이 남아 있는지 확인하고 빠진 것은 다시 등록해야 한다. 이 버전부터는 이전 버전에서 저장한 예약 작업 대부분을 새로 로그인한 세션에서 다시 예약해야 하기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0628.md`
+- 🏛 공식 발표 · 클로드 코드에서 훅으로 위험한 작업을 막고 있다면 막아야 하는 훅마다 "onFailure": "block"을 넣어야 한다. v2.1.329부터 Code Mode에서는 오류가 난 PreToolUse 훅이 더 이상 작업을 거부하지 않기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0629.md`
+- 🏛 공식 발표 · 인터넷에서 받은 폴더를 클로드 코드로 열 때는 신뢰 확인창을 그냥 넘기지 말고, v2.1.329부터 표시되는 '이 폴더의 훅이 어디에 선언돼 있는지' 경고를 읽어야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0630.md`
+- 🏛 공식 발표 · MCP 서버나 웹사이트에서 받은 PDF·이미지·워드·엑셀 파일을 클로드 코드가 읽지 못하고 .bin 파일로 저장한다면 v2.1.329 이상으로 업데이트해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0631.md`
+- 🏛 공식 발표 · 클로드 코드의 /code-review는 v2.1.328부터 버그와 CLAUDE.md 규칙 위반만 알려 주므로, 중복 코드 정리나 단순화·효율 개선까지 점검받으려면 /simplify를 따로 실행해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0632.md`
+- 🏛 공식 발표 · 클로드 코드의 MCP 연결이나 설정이 갑자기 초기화된 적이 있다면 v2.1.329 이상으로 업데이트해야 한다. 이전 버전에서는 네트워크가 멈추거나 파일이 잠긴 상태에서 저장하면 ~/.claude.json이 기본값으로 초기화되는 문제가 있었기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0633.md`
 - 🏛 공식 발표 · 비개발자 직원이 클로드 코워크 같은 AI 에이전트를 쓰게 할 때는 확인창의 '허용' 버튼에 기대지 말고, 에이전트가 접근할 폴더와 권한을 처음부터 좁혀 두어야 한다. 앤트로픽 집계로는 사용자가 권한 확인창의 약 93%를 승인했고, 확인창을 많이 볼수록 하나하나를 덜 살폈기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0608.md`
 - 🏛 공식 발표 · 메일이나 메신저로 받은 '이 프롬프트 좀 실행해 줘' 같은 지시문은 클로드 코드 같은 AI 에이전트에 그대로 붙여 넣지 말고, 처음부터 끝까지 읽어 파일을 읽어 외부로 보내는 단계가 없는지 확인해야 한다. 앤트로픽 내부 모의 해킹에서 이런 프롬프트는 25번 중 24번 서버 접속 키를 밖으로 빼냈다. — Anthropic Engineering 블로그 → `items/ai-tools-0609.md`
 - 🏛 공식 발표 · 고객 원본 자료가 든 폴더를 클로드 코워크에 연결할 때는 읽기 전용이나 '읽기·쓰기·삭제 금지' 모드로 연결하고, 장부·DB도 읽기 전용 권한부터 주어야 한다. 에이전트가 잘못 움직여도 손상될 수 있는 범위가 그만큼 줄기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0610.md`
@@ -32,7 +44,7 @@
 - 🏛 공식 발표 · 클로드 코드 팀·엔터프라이즈 요금제에서 직원이 fast mode를 쓰면 그 비용은 조직의 사용 크레딧에서 나가므로, 오너가 fast mode를 켜 줄 때는 fastModePerSessionOptIn을 true로 설정해 세션마다 직원이 /fast로 직접 켜야만 쓰이게 해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0549.md`
 - 🏛 공식 발표 · 클로드 코드에서 Read(./.env)처럼 상대 경로로 적은 읽기 금지·확인 규칙에 기대고 있다면 v2.1.325 이상으로 업데이트해야 하는데, 이전 버전에서는 작업 중 폴더를 옮기면(cd) 이 규칙이 프로젝트에 더 이상 적용되지 않는 문제가 있었기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0550.md`
 - 🏛 공식 발표 · claude.ai 구독으로 로그인해 클로드 코드를 쓰면서 터미널 환경 변수에 API 키도 넣어 두었다면 v2.1.325 이상으로 업데이트해야 하는데, 이전 버전에서는 백그라운드 세션이 구독 대신 그 API 키로 요금을 청구하는 문제가 있었기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0551.md`
-- 🏛 공식 발표 · 클로드 코드를 API 키나 게이트웨이로 쓰다가 auto mode에서 '이 세션은 무료 분류기 요청 대상이 아니다'라는 안내가 뜨면 auto mode의 안전 검사 요청이 내 토큰 사용량으로 청구된다는 뜻이므로, /status에서 Auto mode server 줄을 확인하고 중간에 있는 게이트웨이나 프록시부터 점검해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0552.md`
+- 🏛 공식 발표 · 클로드 코드를 API 키·게이트웨이로 쓰거나 claude -p로 무인 실행하면서 auto mode를 켰을 때 '이 세션은 무료 분류기 요청 대상이 아니다'라는 안내가 뜨면(무인 실행에서는 stderr 로그에 찍힘) 작업은 멈추지 않지만 안전 검사 요청이 내 토큰 사용량으로 청구되므로, /status의 Auto mode server 줄을 보고 중간 게이트웨이나 프록시부터 점검해야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0552.md`
 - 🏛 공식 발표 · 클로드 코드 설정 파일에 outputStyle을 적을 때는 Concise·Explanatory처럼 대소문자를 정확히 맞춰야 하는데, explanatory처럼 이름이 정확히 맞지 않으면 오류 없이 기본(Default) 스타일로 실행되기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0553.md`
 - 🏛 공식 발표 · AI에게 기억 메모 폴더를 맡길 때는 '실패한 것만 적어라'처럼 무엇을 적을지 정해 주지 말고 메모 폴더가 무엇에 쓰이는지만 알려 줘야 하는데, 최신 모델은 고정 규칙을 주면 메모로 얻던 성능 향상을 상당 부분 잃었기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0511.md`
 - 🏛 공식 발표 · AI에게 메모를 남기게 할 때는 화면이나 시스템에서 언제든 다시 확인할 수 있는 현재 상태까지 적게 하지 말고, 직접 알아낸 전략·계획·검증한 규칙만 남기게 해야 하는데, 모든 것을 기록한 AI는 낡은 메모를 뒤지느라 정작 일을 하지 못했기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0512.md`
@@ -67,7 +79,6 @@
 - 🏛 공식 발표 · Claude Agent SDK로 만든 서비스를 고객에게 제공할 때는 claude.ai 로그인이나 구독 사용량을 연결하지 말고 API 키 인증을 써야 하는데, 사전 승인 없이는 Anthropic이 허용하지 않기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0456.md`
 - 🏛 공식 발표 · Claude Agent SDK로 만든 내 서비스 이름에 'Claude Code'를 넣거나 클로드 코드처럼 보이게 꾸미지 말고, 'OO Powered by Claude'처럼 표기해야 브랜딩 규정을 어기지 않는다. — Claude Code 공식 문서 → `items/ai-tools-0457.md`
 - 🏛 공식 발표 · 다른 AI 코딩 도구용 AGENTS.md가 이미 있는 프로젝트라면 같은 내용으로 CLAUDE.md를 따로 만들지 않아도 되는데, 클로드 코드가 CLAUDE.md 대신 AGENTS.md를 읽을 수 있기 때문이다. — Claude Code 공식 문서 → `items/ai-tools-0458.md`
-- 🏛 공식 발표 · 클로드 코드를 claude -p로 무인 자동 실행하면서 자동 모드를 쓴다면 stderr 로그에 '이 세션은 무료 분류기 요청 대상이 아니다' 안내가 찍혔는지 확인해야 하는데, 이 경우 작업은 멈추지 않고 그대로 이어지면서 분류기 요청이 토큰 사용량으로 과금되기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0459.md`
 - 🏛 공식 발표 · 클로드 코드 자동 모드에서 쓰는 LLM 게이트웨이가 서버 측 검사를 지원하지 못한다는 것을 이미 안다면 세션 시작 전에 CLAUDE_CODE_AUTO_MODE_SERVER=0을 설정해 매번 뜨는 안내를 없앨 수 있지만, 분류기 요청 비용은 그대로 나가고 이 설정은 나중 버전에서 없어질 수 있다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0460.md`
 - 🏛 공식 발표 · Microsoft Foundry(Azure)로 클로드 코드를 여러 사람에게 배포하기 전에는 배포마다 모델 버전을 고정하고 ANTHROPIC_DEFAULT_OPUS_MODEL 같은 변수를 지정해야 하는데, 그러지 않으면 기본값이 계정에 없는 모델을 가리켜 요청이 실패하거나 opus가 구버전(Opus 4.6)으로 잡히기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0461.md`
 - 🏛 공식 발표 · Microsoft Foundry에서 클로드 코드로 긴 문서를 다룰 때는 배포 이름을 claude-opus-4-8처럼 모델 ID로 짓거나 modelOverrides로 연결해야 하는데, 클로드 코드가 이름으로 모델을 알아보지 못하면 1M이 아니라 200K 컨텍스트로 가정하기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0462.md`
@@ -141,6 +152,7 @@
 - 👥 출처 2곳 · 챗GPT 프로·비즈니스 구독자가 월 최대 500달러 상당의 API 크레딧을 받으려면 구독 7일 뒤 오픈AI 설정의 빌링(결제) 화면에서 'API 크레딧 청구하기'를 직접 눌러 신청해야 하며, 안 쓴 크레딧은 결제 주기가 끝나면 사라진다. — 지피터스 GPTers, 조코딩 JoCoding → `items/ai-tools-0159.md`
 - 👥 출처 2곳 · AI에게 코드 수정을 맡기기 전과 한 작업 단위를 마칠 때마다 커밋해 두면, 일이 잘못됐을 때 원하는 시점을 골라 되돌릴 수 있다. — 레인 | AI 바이브코딩 (@Vibe_RaiN), 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0176.md`
 - 👥 출처 2곳 · AI 에이전트가 만든 코드는 테스트 통과나 봇의 승인만 보고 합치지 말고, 코드를 쓰지 않은 별도 에이전트가 사용자처럼 직접 실행해 본 판정을 받아야 한다. — 요즘IT, 짐코딩 (@gymcoding) → `items/ai-tools-0203.md`
+- 👥 출처 2곳 · AI에게 같은 지적을 두 번 하게 되면 기억이나 문서에 맡기지 말고, 구조·타입·린트·CI·테스트 중 가능한 가장 강제력 높은 곳에서 자동으로 막아야 한다. — 요즘IT, 노마드 코더 Nomad Coders → `items/ai-tools-0204.md`
 - 👥 출처 2곳 · 클로드 코드에서 위험한 명령 차단과 테스트 실행처럼 반드시 지켜야 할 규칙은 CLAUDE.md에 부탁하지 말고 퍼미션과 훅으로 강제해야 한다. — 짐코딩 (@gymcoding), 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0254.md`
 - 👥 출처 2곳 · AI가 사용자 대신 잘못된 가정을 하고 불필요한 코드까지 고치는 일을 줄이려면, 지시문에 모호하면 선택지를 드러내고 문제를 고치는 줄만 바꾸라는 규칙을 적어 둔다. — 노마드 코더 Nomad Coders, 서울대 한범 교수의 AI 바이브코딩 (@ProfHanBuhm) → `items/ai-tools-0295.md`
 - 👥 출처 2곳 · 새 프로젝트를 시작하면 AI에게 .gitignore부터 만들게 해야 API 키와 시크릿 키가 커밋되어 GitHub에 올라가는 일을 막을 수 있다. — 레인 | AI 바이브코딩 (@Vibe_RaiN), 양실장의 바이브코딩대학 (@VibecodingUniversity) → `items/ai-tools-0299.md`

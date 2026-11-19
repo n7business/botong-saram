@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-06'
   quote: 회사 부담금은 약 575만 원. 직원 부담분도 510만 원 정도 됩니다.
   source: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+- url: https://www.threads.com/@angela_cpla/post/DfvYbiDkyvy
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-20'
+  quote: 3.3으로 계약했다고 퇴직금 안줘도 되는건 아닙니다
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-07'
+last_confirmed: '2026-11-20'
 review_by: '2027-05-09'
 supersedes: null
 superseded_by: null

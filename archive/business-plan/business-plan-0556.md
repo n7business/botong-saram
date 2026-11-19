@@ -1,0 +1,31 @@
+---
+id: business-plan-0556
+domain: business-plan
+claim: 대학 창업보육센터는 도·소매업만 하는 기업이나 소음·진동·악취를 내는 업종을 받지 않는 경우가 많다. 예컨대 단국대(천안) 창업보육센터도
+  이런 기업을 제외 대상으로 두므로, 유통만 하는 사업자는 신청하기 전에 공고문의 제외대상부터 확인해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.venturesquare.net/announcement/1129631
+  author: 단국대학교천안캠퍼스산학협력단 / 벤처스퀘어
+  seen: '2026-11-20'
+  quote: ④ 도‧소매기업만 영위할 기업
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 창업보육센터
+- 단국대
+- 충남
+- 제외대상
+- 도소매
+- 입주모집
+---
+단국대학교(천안) 생명공학창업보육센터 '창조플러스존'은 창업 7년 이내 중소기업과 예비창업자를 받습니다. 다만 도·소매기업만 운영할 기업, 대학 기능을 해치는 공해유발 업종, 세금 체납자와 금융기관 신용불량 거래자, 유흥·사행 업종은 받지 않습니다. 이번 모집은 47.5㎡ 단독실 1곳으로, 월 383,800원(부가세 포함)에 3년 동안 입주하고 4년차부터 매년 연장심사를 거쳐 최대 5년까지 있을 수 있습니다. 접수는 2026-11-20 17:00에 이메일(biobi@dankook.ac.kr)로 마감됩니다. 3년 동안 사업 진행도를 점검하고 60점 미만이면 입주가 제한될 수 있습니다. 대학 보육센터는 산학협력을 전제로 하므로 산학협력과제 수행 희망서도 함께 내야 합니다.

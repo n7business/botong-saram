@@ -13,7 +13,7 @@ sources:
   quote: 등록증 앞면의 QR코드 및 외국인등록증 뒷면에 전체 성명이 표기되어 있으므로
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-20'
 review_by: null
 supersedes: null
 superseded_by: null

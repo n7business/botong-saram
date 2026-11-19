@@ -1,0 +1,29 @@
+---
+id: growth-0449
+domain: growth
+claim: 주말 매출이 크게 떨어지는 오피스 상권의 음식점은 점심 위주 메뉴만 두지 말고 술 판매와 저녁 메뉴를 기획해 점심과 저녁 매출을 5대5로
+  맞추는 목표를 세워 볼 만하며, 한 냉면 직영점 대표는 이렇게 해서 판교·성남 매장의 주말 매출을 평일의 약 1.5배로 만들었다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=b2TKrhGK-kM
+  author: 이도원 (냉면 직영점 7개 운영, 다점포왕TV 출연)
+  seen: '2026-11-20'
+  quote: 술 판매와 메뉴 기획으로 점심 대 저녁 5대5를 목표했고 실제로 5대5가 나온다.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 오피스상권
+- 주말매출
+- 저녁매출
+- 외식업
+---
+판교·성남은 주말 매출이 평일의 3분의 1까지 떨어지는 오피스 상권입니다. 냉면집은 보통 점심 매출이 약 70%를 차지합니다. 이도원 대표는 술 판매와 메뉴 기획으로 점심과 저녁 매출을 5대5로 맞추는 목표를 세웠고, 실제로 5대5가 나온다고 전합니다. 그 결과 주말 매출이 평일의 약 1.5배인 매장이 되었다고 합니다. 한 사람의 경험담이므로 우리 상권의 요일별·시간대별 매출부터 확인한 뒤 적용해야 합니다.

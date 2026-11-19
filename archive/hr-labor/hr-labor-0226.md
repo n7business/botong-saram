@@ -1,0 +1,33 @@
+---
+id: hr-labor-0226
+domain: hr-labor
+claim: 상시 5인 이상 사업장에서 단시간 알바가 대타로 약정한 근무시간보다 더 일하면, 하루 8시간·주 40시간을 넘지 않았더라도 초과한 시간에
+  시급의 1.5배를 줘야 하므로 대타 근무는 사전 승인을 받게 해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.youtube.com/watch?v=V5YwGl2M0vc
+  author: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+  seen: '2026-11-20'
+  quote: 대타 근무도 반드시 사전에 승인 받도록 관리하실 필요가 있습니다.
+  source: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 기간제 및 단시간근로자 보호 등에 관한 법률
+  article: 제6조 제3항
+  effective: '2014-09-19'
+contributor: null
+tags:
+- 대타
+- 단시간근로자
+- 가산수당
+- 초과근로
+- 5인이상
+---
+예를 들어 토·일 하루 8시간씩 일하기로 한 알바가 다른 직원 결근으로 금요일에 8시간을 더 일했다면, 5인 이상 사업장은 그 8시간에 시급의 1.5배를 줘야 합니다. 단시간근로자는 법정근로시간이 아니라 근로계약서에 약정한 소정근로시간을 넘는 순간부터 가산수당이 붙기 때문입니다. 직원끼리 알아서 바꾼 대타라도 원래 근무시간을 넘었다면 지급 의무가 생깁니다. 5인 미만 사업장은 이 규정이 적용되지 않아 일한 만큼 100%만 주면 됩니다. 대타는 반드시 사장 승인을 받게 하고 근무 기록을 남겨야 합니다.

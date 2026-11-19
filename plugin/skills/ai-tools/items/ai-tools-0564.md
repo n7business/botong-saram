@@ -4,7 +4,7 @@
 
 한 개발자는 PR이 열리면 별도 에이전트가 코드를 고치지 않고 읽기만 하면서, 원래 목적과 상관없는 변경이 섞였는지 알리게 했습니다. 지각 제출 판정만 바꾸기로 한 작업이었는데, 빌드와 테스트가 모두 통과한 상태에서 이 검토 에이전트가 순위 정렬 코드까지 바뀐 것을 잡아냈습니다. 그대로 머지했다면 참가자 순위가 아무도 모르게 바뀌었을 것입니다. 감시·검토 역할의 AI에게 실행 권한까지 주면 감시자가 오히려 위험해지므로 알리는 역할을 먼저 맡기세요. 최종 머지와 판단은 사람이 합니다.
 
-- 근거 anecdote · 처음 2026-11-14 · 최근 확인 2026-11-19 · 재검토 —
+- 근거 anecdote · 처음 2026-11-14 · 최근 확인 2026-11-20 · 재검토 —
 
 ## 출처
 - 요즘IT · 2026-11-14 · https://yozm.wishket.com/magazine/detail/4039/
@@ -13,3 +13,5 @@
   > 화면을 만든 AI가 자신의 구현을 기준으로 검사하면, 처음에 잘못 이해한 요구사항을 그대로 놓칠 수 있습니다.
 - Anthropic · 2026-11-19 · https://www.anthropic.com/research/harness-design-long-running-apps
   > agents reliably skew positive when grading their own work.
+- Anthropic · 2026-11-20 · https://www.anthropic.com/research/building-strong-safety-evaluations
+  > Graders also favor longer responses and the first option they are shown

@@ -1,0 +1,30 @@
+---
+id: factory-ax-0235
+domain: factory-ax
+claim: 미국 관세 영향을 받는 수출 제조 사업자는 관세율과 환율 변동을 조합한 시나리오별로 원가와 수익성이 어떻게 달라지는지 계산해 두어야 하며,
+  이런 반복 계산은 AI로 빠르게 돌릴 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.kidd.co.kr/news/248208
+  author: 산업일보 임지원 기자 (강문성 고려대 교수 발언)
+  seen: '2026-11-20'
+  quote: 관세와 환율 변동이 수익성에 미칠 영향을 시나리오별로 분석해야 한다
+  source: 산업일보
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 관세
+- 환율
+- 시나리오분석
+- 수익성
+- AI활용
+---
+미국은 상호관세 무효 판결 뒤에도 무역법 301조 관세와 철강·자동차 등에 대한 무역확장법 232조 품목별 관세를 적용하고 있습니다. 제조 중견기업의 70% 이상이 미국 관세의 직간접 영향권에 있다는 자료도 나왔습니다. 관세율과 환율이 오르내리는 여러 조합을 놓고 우리 제품의 원가와 마진이 어떻게 바뀌는지 미리 계산해 두면 가격과 물량 결정이 쉬워집니다. AI는 이런 계산을 빠르게 반복하는 데 쓸 수 있습니다. 담당자를 정해서 규제 노출 점검과 시나리오 분석을 정기 업무로 돌리세요.

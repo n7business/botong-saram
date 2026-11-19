@@ -1,0 +1,29 @@
+---
+id: licensing-0412
+domain: licensing
+claim: 국민신문고는 영어·중국어·일본어로도 민원을 받으므로, 한국어가 서툰 외국인 직원이나 외국인 대표가 행정 문제를 겪으면 번역을 기다리지
+  말고 외국어 민원으로 직접 내게 하면 된다.
+status: candidate
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.epeople.go.kr/nep/gdnc/SiteNtrcnContent.npaid
+  author: 국민권익위원회
+  seen: '2026-11-20'
+  quote: 영어, 중국어, 일본어로도 민원을 신청하실 수 있습니다
+  source: 국민신문고
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 국민신문고
+- 외국어민원
+- 외국인직원
+- 외국인대표
+---
+국민신문고는 한글을 모르는 사람도 영어, 중국어, 일본어로 민원을 신청할 수 있게 하고 있습니다. 메인 화면의 'For Foreigners' 메뉴에서 들어갈 수 있습니다. 외국인 직원이나 외국인 대표가 체류, 행정 절차, 기관 처리에 대해 묻거나 불편을 제기해야 할 때 활용할 수 있습니다. 다만 출입국 체류 업무의 세부 지침은 1345나 관할 출입국관서에서도 확인하는 것이 좋습니다.

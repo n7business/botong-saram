@@ -1,0 +1,33 @@
+---
+id: hr-labor-0223
+domain: hr-labor
+claim: 직원이 1명뿐인 가게라도 주 15시간 이상 일하기로 한 직원이 그 주 약정한 날에 모두 나왔다면 알바·시급제도 주휴수당을 줘야 하며,
+  금액은 '주 소정근로시간 ÷ 40 × 8시간'으로 비례 계산한다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.youtube.com/watch?v=V5YwGl2M0vc
+  author: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+  seen: '2026-11-20'
+  quote: 토·일 8시간씩 이틀 일하는 알바도 주 16시간이므로 지급 대상이다.
+  source: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 근로기준법
+  article: 제55조 제1항, 제18조 제3항
+  effective: '2026-11-20'
+contributor: null
+tags:
+- 주휴수당
+- 알바
+- 단시간근로자
+- 5인미만
+- 음식점
+---
+주휴수당은 5인 미만 사업장에도 적용되고, 노동청에 가장 많이 신고되는 항목입니다. 토·일 8시간씩 이틀 일하는 주말 알바도 주 16시간이어서 지급 대상입니다. 이 경우 주휴수당은 8시간분이 아니라 16 ÷ 40 × 8 = 3.2시간분이며, 2026년 최저임금(시급 10,320원)으로 계산하면 한 주에 33,024원입니다. 월급제 직원은 월급에 주휴수당이 이미 들어 있으므로 따로 한 번 더 줄 필요가 없습니다. 주 15시간 미만으로 일하기로 한 직원에게는 주휴수당 규정이 적용되지 않습니다.

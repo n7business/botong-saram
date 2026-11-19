@@ -3,7 +3,7 @@ id: business-plan-0382
 domain: business-plan
 claim: AI·핀테크·로봇·헬스케어 같은 미래산업 분야 창업가나 예비창업자는 2026-11-19 23:30까지 온라인으로 신청하면 11월 20일
   14~17시 디캠프 선릉에서 열리는 강남구 미래산업 기반 기업 활성화 지원사업 데모데이를 참관하고 네트워킹에 참여할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.7
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-12'
 last_confirmed: '2026-11-12'
-review_by: null
+review_by: '2026-11-19'
 supersedes: null
 superseded_by: null
 experiment: null

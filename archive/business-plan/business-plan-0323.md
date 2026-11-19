@@ -3,7 +3,7 @@ id: business-plan-0323
 domain: business-plan
 claim: 프리시드~시드 단계 투자를 원하는 스타트업은 2026-11-19 23:59까지 구글폼으로 신청하면 12월 1일 부산 단디벤처 투자로드쇼에서
   1:1 투자상담(12개사)이나 IR 피칭(4개사) 기회를 얻을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

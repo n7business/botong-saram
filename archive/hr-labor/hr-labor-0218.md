@@ -1,0 +1,33 @@
+---
+id: hr-labor-0218
+domain: hr-labor
+claim: 상시근로자 5인 이상 사업장에서 계약직을 2년 넘게 쓰면 기간 정함 없는 근로자(무기계약)로 보지만, 의사·약사·변호사·노무사·세무사·회계사·건축사·경영지도사
+  같은 법정 자격을 가진 직원이 그 자격으로 해당 분야 일을 하면 예외가 됩니다. 자격증만 있고 다른 업무를 하면 예외가 아닙니다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.threads.com/@angela_cpla/post/Df59Zg3k7cj
+  author: 노무사 박혜리 (@angela_cpla)
+  seen: '2026-11-20'
+  quote: 단, 자격증만 있다고 예외가 아니에요. 그 자격으로 그 분야 일을 하고 있어야 합니다.
+  source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 기간제 및 단시간근로자 보호 등에 관한 법률
+  article: 제4조
+  effective: '2026-11-20'
+contributor: null
+tags:
+- 기간제
+- 무기계약
+- 2년
+- 전문직 예외
+- 계약직
+---
+기간제 근로자를 2년 넘게 쓰면 원칙적으로 무기계약 근로자로 봅니다. 의사·치과의사·한의사·약사·수의사, 변호사·변리사·노무사·회계사·세무사·관세사·감정평가사, 건축사·경영지도사·기술지도사, 사업용·운송용 조종사 같은 자격을 가진 직원이 그 자격으로 해당 분야 일을 하면 2년 제한의 예외가 됩니다. 자격증만 있다고 예외가 되지는 않습니다. 노무사 자격증이 있는 직원이 영업사원으로 일하면 예외로 인정되지 않습니다. 해당 분야 박사학위 소지자, 기술사, 일정 소득 이상 전문직에도 예외가 있습니다. 2년을 넘겨 계속 쓰려면 직원의 자격과 실제 맡은 업무가 맞는지 먼저 확인해야 합니다.

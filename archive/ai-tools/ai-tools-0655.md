@@ -1,0 +1,30 @@
+---
+id: ai-tools-0655
+domain: ai-tools
+claim: AI 모델의 생각 깊이(추론 강도) 설정은 기본으로 가장 높은 단계에 두지 말아야 한다. 화자 계산으로 GPT 6.2 아스트라의 그림
+  한 장 값이 하이는 약 12센트, X하이는 약 18센트였지만 Max는 약 89센트로 크게 뛰었기 때문이다.
+status: verified
+evidence: observed
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=VJDXrpCpyv0
+  author: 코드깎는노인 (사이먼 윌리슨 실험 인용)
+  seen: '2026-11-20'
+  quote: 깊이 생각할수록 값이 크게 올라갔습니다.
+  source: 코드깎는노인
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: '2026-12-20'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 추론강도
+- 비용
+- GPT
+- 모델선택
+verified_by: 실무자 실측(단일 출처)
+---
+요즘 AI 모델은 같은 모델이라도 생각 깊이를 여러 단계로 고를 수 있고, 깊게 생각할수록 결과는 좋아질 수 있지만 비용이 빠르게 늘어난다. 사이먼 윌리슨의 펠리컨 그림 시험 기준으로 GPT 6.2 아스트라는 하이 약 12센트, X하이 약 18센트, Max 약 89센트로 Max가 하이의 7배 넘게 들었다. 반면 GPT 6 아스트라는 Max가 아니면 펠리컨 다리를 제대로 놓지 못했듯이, 정말 어려운 작업에서는 높은 단계가 필요할 수 있다. 평소에는 중간 단계로 쓰고, 결과가 부족한 어려운 작업에만 높은 단계를 쓰는 편이 낫다. 자동으로 반복 실행되는 작업이라면 단계별 비용 차이가 그대로 쌓이므로 특히 확인해야 한다.

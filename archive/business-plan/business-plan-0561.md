@@ -1,0 +1,29 @@
+---
+id: business-plan-0561
+domain: business-plan
+claim: B2B 스타트업의 IR 트랙션에서 가장 강한 근거는 첫 계약이 아니라 재계약이고, 재계약하면서 같은 고객 안에서 범위·좌석·금액이 늘었다면
+  그 한 줄을 장표 맨 앞에 둬야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/49276
+  author: Peter Shin (Outsome)
+  seen: '2026-11-20'
+  quote: 재계약은 써보고 나서 다시 내는 돈이다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- IR
+- 트랙션
+- 재계약
+- B2B
+---
+첫 계약은 고객의 기대나 영업력만으로도 따낼 수 있지만, 재계약은 고객이 직접 써 본 뒤 다시 내는 돈이다. 그래서 고객의 문제를 반복해서 풀어 준다는 증거가 된다. 파일럿이 2~3년짜리 정식 계약으로 넘어가 금액이 커졌다면, 담당자의 호감을 넘어 회사 예산이 움직였다는 신호다. 재계약하면서 다른 팀, 더 많은 좌석, 더 큰 금액으로 늘었다면 매우 드문 실적이므로 나머지 장표가 이를 뒷받침하도록 구성한다. 이 이야기를 꺼냈을 때 VC 반응이 미지근해도, 실제 투자 심사 단계에서는 결국 핵심 근거로 다뤄진다.

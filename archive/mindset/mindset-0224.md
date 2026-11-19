@@ -1,0 +1,30 @@
+---
+id: mindset-0224
+domain: mindset
+claim: 윤자동은 무언가를 만들기 전에 '그 불편을 내가 직접 겪었나, AI를 빼면 안 돌아가나, ChatGPT에 프롬프트 한 줄로 해결되진 않나,
+  없으면 아픈 진통제인가' 네 가지를 먼저 묻는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/Dfw-6hvmZW-
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-20'
+  quote: 비타민 말고 진통제를 만들어라.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사업아이디어
+- 문제정의
+- 체크리스트
+- 진통제
+- 서비스기획
+---
+윤자동은 AI 해커톤 20팀을 심사한 뒤 이 체크리스트를 정리했습니다. 점수가 높은 팀은 실력이 아니라 출발점이 달랐습니다. 대상 팀은 실제로 가게를 운영하며 겪은 불편에서 출발했습니다. 반면 '바쁜 현대인들은…'처럼 남의 문제로 시작한 팀은 점수가 낮았습니다. 그는 있으면 좋은 비타민은 아무도 매일 열지 않고, 없으면 아픈 진통제는 사람들이 알아서 찾아온다고 말합니다. AI 기능을 많이 붙이는 것보다 AI로 진짜 문제를 푸는 게 먼저라는 판단입니다. 실제로 1등은 서비스 안에 AI가 거의 없는 팀이었습니다.

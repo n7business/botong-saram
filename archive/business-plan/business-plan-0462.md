@@ -4,7 +4,7 @@ domain: business-plan
 claim: 투자처나 협업할 초기 스타트업을 찾는 창업관계자·투자자는 2026-11-19 23:59까지 온라인으로 사전 신청하면, 11월 19일 13:00~17:30
   동대문구 아르코 로즈홀에서 열리는 경희대 캠퍼스타운 제6회 데모데이에서 AI·BIO·소셜벤처 분야 Pre Seed~Series A 스타트업 8개사의
   IR을 보고 '발표 기업에 연락처 전달하기'로 밋업을 요청할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-15'
 last_confirmed: '2026-11-15'
-review_by: null
+review_by: '2026-11-19'
 supersedes: null
 superseded_by: null
 experiment: null

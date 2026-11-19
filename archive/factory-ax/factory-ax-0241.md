@@ -1,0 +1,29 @@
+---
+id: factory-ax-0241
+domain: factory-ax
+claim: 스마트공장을 처음 도입하는 소규모 제조 사업자는 처음부터 고도 수준을 목표로 하지 말고, 적은 비용으로 시작할 수 있는 기초 단계(실적
+  집계 자동화·자재 이력관리)부터 구축한 뒤 단계적으로 올려야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.smart-factory.kr/usr/pr/sf/ma/smrtFctryIntrcn
+  author: 중소기업기술정보진흥원(TIPA) 스마트공장 사업관리시스템
+  seen: '2026-11-20'
+  quote: 스마트공장 도입을 고민 중인 기업이라면, 첫 단계부터 고도 수준을 걱정할 필요는 없다.
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 단계적도입
+- 기초단계
+- lot-tracking
+---
+스마트공장의 스마트화 수준은 기초, 중간1, 중간2, 고도의 네 단계로 나뉩니다. 첫 단계부터 고도 수준을 걱정할 필요는 없습니다. 회사의 여력과 상황에 맞는 수준과 기능을 골라 거기에 집중하면 됩니다. 기초 단계만 갖춰도 실시간으로 생산되는 제품을 바로 집계해 관리할 수 있고, 자재 이력관리(lot-tracking)도 할 수 있습니다. 기초 단계를 먼저 갖춘 뒤 설비데이터 자동집계(중간1), 설비제어 자동화(중간2) 순서로 넓혀 가는 방식을 검토하세요.

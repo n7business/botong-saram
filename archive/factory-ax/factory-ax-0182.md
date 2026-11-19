@@ -14,7 +14,7 @@ sources:
     구축 등 다각적인 산업계 지원을 추진해 왔다.
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-20'
 review_by: '2027-02-13'
 supersedes: null
 superseded_by: null

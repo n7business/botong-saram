@@ -13,7 +13,7 @@ sources:
   quote: 정책을 위반했거나 의심스럽다고 확인되는 도메인은 60일 동안 차단되고, 60일이 지나면 차단이 해제됩니다.
   source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-16'
-last_confirmed: '2026-11-16'
+last_confirmed: '2026-11-20'
 review_by: null
 supersedes: null
 superseded_by: null

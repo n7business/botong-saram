@@ -1,0 +1,29 @@
+---
+id: ai-tools-0634
+domain: ai-tools
+claim: ChatGPT 같은 AI 답변에 내 브랜드가 나오게 하려고 글을 올릴 때는 '우리 게 좋다'는 홍보 글을 쓰지 말고, 수치와 증빙을 넣은
+  정보성 글을 중립적인 어조로 써야 한다. 화자에 따르면 홍보성 글은 AI 답변에 채택될 가능성이 낮다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=D0PH0MiuKQE
+  author: 이재홍 (GPTO 대표, 양실장의 바이브코딩대학 출연)
+  seen: '2026-11-20'
+  quote: 정보성으로, 중도적으로 써야 한다.
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-20'
+last_confirmed: '2026-11-20'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AEO
+- GEO
+- AI검색
+- 콘텐츠마케팅
+---
+AI 답변 최적화(AEO/GEO)용 글은 광고처럼 쓰면 AI가 잘 가져가지 않는다고 화자는 말한다. 정보 위주로 중립적인 어조를 지키고, 길게 이어지는 줄글은 줄여야 한다. 대신 '400개 이상의 강의 영상 제공 예정'처럼 수치로 된 근거와 증빙을 직접 넣어야 한다. 홈페이지에 이런 수치가 잘 정리돼 있으면 AI가 알아서 가져가지만, 없으면 따로 정리해 넣어야 한다. 다만 내세울 강점이 실제로 없으면 글로 전할 것도 없다. 화자는 AEO 서비스(GPTO)를 파는 회사 대표다.

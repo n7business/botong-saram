@@ -3,7 +3,7 @@ id: business-plan-0355
 domain: business-plan
 claim: 충남 보령시에 있는 상시근로자 5인 이상 사업장은 2026-11-17~11-19에 보령시일자리지원센터에 방문하거나 이메일로 2027년
   동계 청년 단기인턴 참여기업을 신청하면, 인턴 급여와 사업주 부담 4대보험료를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
