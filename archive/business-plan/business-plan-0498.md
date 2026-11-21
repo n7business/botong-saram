@@ -4,7 +4,7 @@ domain: business-plan
 claim: 정관이나 규약에 사회적 가치 실현을 명확히 적어 둔 법인 형태의 사회적경제조직은 2026-11-20 18:00까지 이메일(shb0312@sd.go.kr)로
   성동안심상가 소셜벤처 허브센터(성수동) 501호 좌석 입주를 신청할 수 있다. 좌석은 2개만 뽑고, 1석당 연 사용료는 990,620원(부가세·관리비
   별도)이며 최장 5년 쓸 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-18'
 last_confirmed: '2026-11-18'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

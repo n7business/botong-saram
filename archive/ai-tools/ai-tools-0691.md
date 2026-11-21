@@ -1,0 +1,29 @@
+---
+id: ai-tools-0691
+domain: ai-tools
+claim: AI로 서비스나 도구를 만들기 전에는 레딧 같은 커뮤니티에서 사람들이 실제로 불편해하는 문제부터 찾아야 한다. 화자 팀은 경쟁 우위 없이
+  6개월간 만든 프레임워크를 아무도 쓰지 않아 지쳤고, 실제 불편에서 출발한 다음 도구는 스타 5.2K를 모았기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=8nyxVwGavyg
+  author: 김병욱 (테디노트 TeddyNote, AutoRAG Community Meetup 2026)
+  seen: '2026-11-21'
+  quote: 사람들이 좀 쓸 만한 걸 만들어 봐야겠다라고 생각을 했습니다.
+  source: 테디노트 TeddyNote
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 수요검증
+- AI서비스
+- 창업
+- 레딧
+---
+화자 팀은 유행하던 RAG 프레임워크를 약 6개월 만들었지만 다른 도구보다 나은 점이 없었고, 쓰는 사람도 없었습니다. 그 뒤 레딧을 돌아다니며 '논문마다 최고라는데 내 경우엔 뭘 써야 하나'라는 실제 고민을 찾았습니다. 그 고민을 풀려고 RAG를 자동으로 평가·최적화하는 AutoRAG를 만들었습니다. 내가 만들고 싶은 것보다, 사람들이 이미 불편하다고 말하는 문제에서 출발해야 합니다.

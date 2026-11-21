@@ -13,7 +13,7 @@ sources:
   quote: '''동일수준''은 수준향상 없이(중간1→중간1, 중간2→중간2) 재신청하는 경우'
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-21'
 review_by: '2027-02-18'
 supersedes: null
 superseded_by: null

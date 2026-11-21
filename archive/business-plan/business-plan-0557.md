@@ -3,7 +3,7 @@ id: business-plan-0557
 domain: business-plan
 claim: 인천 지역 (예비)창업가와 모두의창업 1·2차 지원자는 2026-11-20 23:59까지 온라인 폼으로 신청하면 11월 21일(토) 13:00~16:30
   인천TP 스타트업파크 오픈스튜디오에서 열리는 「BoomUP AI 넥스트 웨이브」 특강을 선착순·무료로 들을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-20'
 last_confirmed: '2026-11-20'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

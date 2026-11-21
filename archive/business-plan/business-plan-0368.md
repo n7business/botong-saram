@@ -4,7 +4,7 @@ domain: business-plan
 claim: 해외 쇼핑몰 판매를 준비하는 소상공인은 2026 해외 온라인 플랫폼 판로지원사업에 2026-11-20 18:00까지 소상공인24로 신청할
   수 있습니다. 처음 입점하면 입점지원(국비 최대 450만 원), 이미 입점해 있으면 활용지원(최대 350만 원), 2025년에 수출 물류비가 들었으면
   물류지원(최대 600만 원) 중 내 상황에 맞는 유형을 골라야 합니다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.75
 sources:
@@ -17,7 +17,7 @@ sources:
   source: 퀀텀비 | 중소기업 사업성장 전략가 (@qtum.be)
 first_seen: '2026-11-11'
 last_confirmed: '2026-11-11'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

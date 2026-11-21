@@ -3,7 +3,7 @@ id: business-plan-0034
 domain: business-plan
 claim: 퇴직을 앞둔 중장년 예비창업자는 김해시중장년기술창업센터의 무료 맞춤형 창업과정(2026-11-20 18:00 마감, 선착순 10명 내외,
   11-27 5시간)에서 고객검증 실습으로 아이템을 사업모델로 구체화할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.55
 sources:
@@ -19,7 +19,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

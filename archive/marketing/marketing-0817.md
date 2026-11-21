@@ -13,7 +13,7 @@ sources:
   quote: '''우리병원 검색 키워드''에서 실제로 진료하는 항목을 최대 30개까지 선택할 수 있습니다.'
   source: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-21'
 review_by: '2027-01-18'
 supersedes: null
 superseded_by: null

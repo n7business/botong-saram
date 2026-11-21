@@ -3,7 +3,7 @@ id: business-plan-0037
 domain: business-plan
 claim: 서울시 청년 쿡 푸드테크 센터 참여 스타트업 모집(2026-11-20 마감)은 19~39세 대표의 제품·서비스 보유 기업이 대상이며,
   서울 밖 기업도 협약 후 2개월 내 서울로 본점·지점·연구소를 옮기는 조건으로 신청할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

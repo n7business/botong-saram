@@ -3,7 +3,7 @@ id: business-plan-0039
 domain: business-plan
 claim: IoT·물리보안 등 과기정통부 지정 정보보호 인증제품을 직접 생산하거나 국내 OEM으로 생산하는 창업·벤처·청년·사회적기업은 2026-11-20까지
   한국인터넷진흥원에 이메일 신청하면 조달청 벤처나라 등록을 위한 기관추천을 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

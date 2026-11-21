@@ -13,7 +13,7 @@ sources:
   quote: MAC OS에서는 AnySign을 공식 지원하지 않습니다.
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-16'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0249
 domain: business-plan
 claim: 정부·지자체·공공기관의 창업공간에 입주 중인 기업도 NEST G밸리 4기 입주일로부터 30일 이내에 퇴거할 예정이면 2026-11-20
   14:00까지 지원할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-07'
 last_confirmed: '2026-11-07'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

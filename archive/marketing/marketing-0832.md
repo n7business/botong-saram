@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-19'
   quote: 유일하게 주제 1개로, 2년동안 어필했으니까요.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df1xMQfEo1c
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-21'
+  quote: 알고리즘에서 유리한건 하나의 주제일 때에요.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

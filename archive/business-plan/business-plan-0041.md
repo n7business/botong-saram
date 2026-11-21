@@ -3,7 +3,7 @@ id: business-plan-0041
 domain: business-plan
 claim: 중동 수출 경험이 있는 국내 농식품 수출업체는 2026-11-20까지 aT에 이메일로 신청하면 냉장·냉동 농식품의 국내 집하와 LCL
   컨테이너 혼적, 목적항까지의 해외운송을 K-푸드 콜드풀링 시범사업으로 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

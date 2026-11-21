@@ -3,7 +3,7 @@ id: business-plan-0148
 domain: business-plan
 claim: 대표자가 만 39세를 넘긴 식품제조·푸드테크 스타트업이라도 제대군인이면 복무 기간에 따라 상한연령이 최대 3년 늘어날 수 있으므로, 2026-11-20
   23:59 마감 전에 2027년 서울시 청년쿡 센터 신청 자격을 확인해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

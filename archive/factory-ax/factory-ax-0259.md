@@ -1,0 +1,30 @@
+---
+id: factory-ax-0259
+domain: factory-ax
+claim: 탄소 배출 비용을 따져야 하는 제조 사업자는 원자재·부품 공급업체를 단가만으로 고르지 말고, 공급업체별 탄소 배출 비용까지 합친 전체
+  비용을 비교해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.kidd.co.kr/news/248219
+  author: 산업일보 김진성 기자 (SAP 현진완 매니저 발언)
+  seen: '2026-11-21'
+  quote: 가격이 조금 더 비싸더라도 탄소 배출 비용까지 고려했을 때 전체적으로 유리하다면 해당 제품을 구매해야 한다
+  source: 산업일보
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 탄소
+- 구매
+- 공급업체선정
+- CBAM
+- 지속가능성
+---
+EU 수출이나 대기업 납품 때문에 탄소 배출량을 관리해야 한다면 배출량 보고서만 만들고 끝내지 마세요. 그 데이터를 구매 판단에도 써야 합니다. 단가가 조금 비싸더라도 탄소 배출 비용까지 더했을 때 전체적으로 유리하면 그 공급업체를 고르는 편이 맞을 수 있습니다. 배출이 어디서 생기는지 추적해 두면 관련 비용을 누가 책임질지도 분명해집니다. 이 내용은 ERP 공급사 담당자의 의견입니다. 우리 회사에 실제로 탄소 비용이 생기는지(CBAM 대상인지, 고객사가 배출량 자료를 요구하는지)부터 먼저 확인하세요.

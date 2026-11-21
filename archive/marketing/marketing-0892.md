@@ -1,0 +1,28 @@
+---
+id: marketing-0892
+domain: marketing
+claim: 경쟁 매장들의 리뷰, 메뉴, 플레이스 정보란을 비교하면 그들이 쓰는 대표 키워드와 내 매장에 부족한 정보를 찾을 수 있다는 것이 깡대표의
+  주장입니다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=xSeUlnyhhnM
+  author: 깡대표
+  seen: '2026-11-21'
+  quote: 사실은 AI에 노출될 수 있는 방법이라는 게 존재합니다.
+  source: 깡대표
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버플레이스
+- 경쟁분석
+- 대표키워드
+---
+비교할 경쟁 매장을 몇 곳 정한 뒤 그 매장들의 대표 키워드, 리뷰에 자주 나오는 말, 메뉴 구성, 정보란과 오시는 길을 살펴보세요. 내 매장의 특징에 맞는 대표 키워드를 고르고 빠진 정보를 채우는 데 씁니다. 깡대표는 이 비교를 AI에 맡겼고, 정보를 이미 잘 써 둔 매장에도 수정안이 나왔다고 말합니다. 플레이스 정보란과 오시는 길을 자세히 써 두지 않은 매장이 많다는 것도 그의 관찰입니다.

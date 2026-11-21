@@ -3,7 +3,7 @@ id: business-plan-0400
 domain: business-plan
 claim: 경기 포천시 축산농가 중 2022~2025년 악취저감 컨설팅 사업에 참여한 농가는 2026-11-20까지 포천시 농업기술센터 축산과에
   방문해 신청하면, 컨설팅 결과보고서에서 개선이 필요하다고 나온 항목의 악취저감 시설을 개소당 최대 2억5천만원까지 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

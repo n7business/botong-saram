@@ -1,0 +1,29 @@
+---
+id: ai-tools-0676
+domain: ai-tools
+claim: 영어로 된 깃허브 도구를 설치하다 막히면 그 링크를 ChatGPT나 클로드에 붙여 넣고 '왕초보한테 설치 방법 알려줘'라고 물으면 된다.
+  다만 AI가 알려 준 명령은 무엇을 하는지 읽어 본 뒤에 실행해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DfzTjQBCY0_
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-21'
+  quote: 그 링크를 ChatGPT나 클로드에 붙여넣고 "왕초보한테 설치 방법 알려줘" 하면 돼요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 깃허브
+- 설치
+- 초보
+- 보안
+---
+깃허브 링크를 누르면 영어로 된 개발자 사이트가 나와서 처음에는 막막할 수 있습니다. 화자는 이럴 때 링크를 ChatGPT나 클로드에 붙여 넣고 왕초보용 설치 방법을 물어보라고 권합니다. AI 도우미에게 설치 자체를 맡기면 알아서 설치해 주는 도구도 있습니다. 다만 인터넷에서 받은 프로그램과 설치 명령은 내 컴퓨터의 파일에 접근할 수 있습니다. 그래서 고객 자료가 있는 컴퓨터라면 즐겨찾기 수 같은 평판을 먼저 보고, 명령을 하나씩 확인한 다음 실행하는 것이 안전합니다.

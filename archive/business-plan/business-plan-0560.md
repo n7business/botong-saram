@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-20'
   quote: 웃기더라도, 진심, $1 라도 받자.
   source: 이오플래닛 매거진
+- url: https://eopla.net/magazines/49308
+  author: Peter Shin (Outsome)
+  seen: '2026-11-21'
+  quote: 긴 인터뷰 50건보다 유료 파일럿 1건이 목표다.
+  source: 이오플래닛 매거진
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

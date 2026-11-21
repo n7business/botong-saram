@@ -1,0 +1,31 @@
+---
+id: licensing-0447
+domain: licensing
+claim: 중소벤처24 증명서 정보 API와 연계된 지원사업 사이트에서는 이노비즈·벤처기업·메인비즈 확인서를 따로 내지 않아도 자격을 확인받을 수
+  있으므로, 사업자는 신청하기 전에 그 사이트가 API로 자동 확인하는지부터 보고 중복 제출을 피하면 됩니다.
+status: candidate
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://portal.smes.go.kr/home/cs/opndata/UI_USR_L_210
+  author: 중소벤처기업부(중소벤처24)
+  seen: '2026-11-21'
+  quote: 신청기업이 증명(확인)서를 제출하지 않더라도 API를 통해 간단히 자격여부 확인이 가능합니다.
+  source: 중소벤처24
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 중소벤처24
+- OpenAPI
+- 이노비즈
+- 메인비즈
+- 벤처기업
+- 지원사업신청
+---
+중소벤처24는 이노비즈확인서(이노비즈협회), 벤처기업확인서(벤처기업협회), 메인비즈확인서(메인비즈협회) 정보를 API로 유관 시스템에 제공합니다. 지원사업 자격요건에 이런 확인서가 들어 있으면, 연계된 사이트는 신청기업이 확인서를 내지 않아도 API로 자격을 확인할 수 있습니다. 기업 기본 정보가 신청서에 자동으로 입력되기도 합니다. 다만 모든 지원 사이트가 연계된 것은 아닙니다. 공고문에 확인서 제출이 필수라고 적혀 있으면 따로 발급받아 내야 합니다.

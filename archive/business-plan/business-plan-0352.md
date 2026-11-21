@@ -3,7 +3,7 @@ id: business-plan-0352
 domain: business-plan
 claim: 2027년 경기도 R&D 지원사업을 노리는 스타트업이나 예비창업자는 2026-11-20 14:00까지 온라인으로 신청하면 11월 20일
   경기도경제과학진흥원 광교홀에서 열리는 경기도 R&D 성과공유회에 무료로 참석해 2027년 신규 R&D 지원사업을 미리 안내받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.65
 sources:

@@ -22,8 +22,13 @@ sources:
   seen: '2026-11-19'
   quote: 짧은 글은 반응을 만들고 긴 글은 사람을 남긴다.
   source: 커리어노마드 (@careernomad_)
+- url: https://www.threads.com/@billy___ssam/post/Df1xaAEEhVI
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-21'
+  quote: 단문으로 조회수를, 장문으로 팔로워를 모았다.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-21'
 review_by: '2027-01-18'
 supersedes: null
 superseded_by: null

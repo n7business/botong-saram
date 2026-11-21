@@ -1,0 +1,29 @@
+---
+id: ai-tools-0677
+domain: ai-tools
+claim: 고객이나 직원 얼굴이 나오는 영상을 AI로 숏폼 편집할 때는 영상을 인터넷에 올리지 않고 내 컴퓨터 안에서만 처리하는 도구를 골라야 원본이
+  외부 서버로 나가지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DfzTjQBCY0_
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-21'
+  quote: 영상을 인터넷에 올리지 않고 내 컴퓨터 안에서만 처리합니다.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 숏폼
+- 로컬처리
+- 개인정보
+- 영상편집
+---
+찍어 둔 영상을 주고 '말 없는 부분 잘라내고 세로로 바꿔 줘'라고 하면 숏폼용 영상을 만들어 주는 무료 도구가 있습니다. 화자가 소개한 이 도구는 노래방식 자막과 소리 크기 맞추기까지 해 주고, 영상을 인터넷에 올리지 않고 내 컴퓨터 안에서만 처리합니다. 매장 내부, 고객 상담, 직원 얼굴이 담긴 원본을 편집할 때는 이렇게 로컬에서 처리되는 도구가 유리합니다. 다만 도구를 클로드 코드 같은 AI 도우미에 붙여 쓰면 지시 내용은 그 AI 회사로 전송될 수 있습니다. 그러니 어떤 데이터가 밖으로 나가는지 설정에서 함께 확인해야 합니다.

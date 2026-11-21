@@ -3,7 +3,7 @@ id: business-plan-0310
 domain: business-plan
 claim: 노원사회적경제지원센터 기업사무실에 신청하려는 사회적경제기업은 유급근로자를 두고 최근 3개월 이상 매출이 있어야 하고, 유급근로자가 없으면
   1년 이상 매출이 있어야 하므로, 2026-11-20 18:00 마감 전에 이 요건부터 확인해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

@@ -1,0 +1,30 @@
+---
+id: growth-0482
+domain: growth
+claim: 중소벤처기업부 통계발표일정에서 다음공표일이 '2026-12-00'처럼 날짜가 '00'으로 적혀 있으면 공표할 달만 정해졌고 날짜는 아직
+  정해지지 않았다는 뜻이므로, 그 통계를 기다리는 사업계획서는 제출 일정을 그날에 맞추지 말고 그 달 안에 수시로 다시 확인해야 한다.
+status: verified
+evidence: observed
+confidence: 0.65
+sources:
+- url: https://www.mss.go.kr/site/smba/foffice/ex/statDB/ptScheduleList.do
+  author: 중소벤처기업부
+  seen: '2026-11-21'
+  quote: 소셜벤처실태조사 벤처정책과 매년 12월 2026-12-00
+  source: 중소벤처기업부 통계자료 (소상공인실태조사)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: '2027-02-19'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 통계
+- 공표일정
+- 사업계획서
+- 다음공표일
+verified_by: 실무자 실측(단일 출처)
+---
+통계발표일정 표에는 창업기업동향(2026-11-26)이나 중소기업실태조사(2026-12-31)처럼 날짜가 정해진 통계가 있습니다. 반면 소셜벤처실태조사·소모성자재납품업실태조사(2026-12-00), 소상공인실태조사(2027-03-00), 상가건물임대차실태조사(2028-03-00)는 일이 '00'으로 적혀 있습니다. 이런 통계는 그 달 언제 나올지 모르므로, 새 수치를 넣으려면 그 달 동안 바로가기 화면을 여러 번 확인해야 합니다. 마감 전까지 새 수치가 나오지 않으면 기존 기준연도를 밝혀 써야 합니다.

@@ -1,0 +1,32 @@
+---
+id: law-basics-0462
+domain: law-basics
+claim: 등기는 신청서와 첨부서류만으로 형식 심사되므로, 대표이사 선임기관이 정관과 다르거나 의사록의 날짜·출석주주·정족수·퇴임 사유가 신청서와
+  어긋나면 보정명령이나 각하를 받을 수 있다.
+status: candidate
+evidence: consensus
+confidence: 0.8
+sources:
+- url: https://www.help-me.kr/blog/article/2026-year-end-corporate-registration-checklist/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-21'
+  quote: 정관상 선임기관과 실제 의사록의 결의기관이 일치하는지 대조해야 합니다.
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상법
+  article: 제389조 제1항
+  effective: '2026-11-21'
+contributor: null
+tags:
+- 법인등기
+- 대표이사변경
+- 의사록
+- 보정명령
+---
+대표이사는 보통 이사회에서 뽑지만 정관에서 주주총회가 뽑도록 정한 회사도 있으므로, 변경등기 전에 정관상 선임기관과 의사록의 결의기관이 같은지 대조해야 합니다. 실제 개최일과 의사록 날짜, 출석 주주와 의사·의결정족수, 주총 의사록과 이사회 의사록의 임원 명칭, 퇴임 사유(임기만료·사임·해임)가 정확한지도 확인하십시오. 인감증명서·취임승낙서·주민등록 관련 서류의 유효기간이 지나지 않았는지도 함께 봐야 합니다.

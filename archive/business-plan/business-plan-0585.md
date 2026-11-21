@@ -1,0 +1,29 @@
+---
+id: business-plan-0585
+domain: business-plan
+claim: KDB NextONE 부산 6기는 부채비율이 1,000% 이상이거나 최근 결산 기준으로 자본이 전액 잠식된 기업을 받지 않지만, 창업
+  3년 미만 기업은 예외이고 결산일 이후 투자 유치로 그 사유를 해소한 기업은 투자계약서를 증빙으로 내면 지원할 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.88
+sources:
+- url: https://www.venturesquare.net/announcement/1129628
+  author: 한국산업은행(운영 (주)시리즈벤처스)
+  seen: '2026-11-21'
+  quote: 부채비율 1,000% 이상 또는 최근 결산기준 자본전액잠식
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- KDB NextONE
+- 자본잠식
+- 부채비율
+- 지원제외
+---
+국세·지방세 체납, 채무불이행, 휴·폐업, 회생절차 신청 기업과 함께 부채비율 1,000% 이상이거나 최근 결산 기준 자본전액잠식인 기업도 모집 제한 대상입니다. 다만 공고 마감일 기준 창업 3년 미만인 중소기업이거나, 결산일 이후 투자를 받아 그 사유를 해소했고 산업은행이 인정하면 예외입니다. 이 예외를 쓰려면 선택서류로 결산일 이후 투자유치 증빙(계약서)을 내야 합니다. 요건 위반이 나중에 드러나면 선발이 취소되므로, 재무 상태가 경계선에 있는 기업은 접수 전에 계산부터 다시 해 봐야 합니다.

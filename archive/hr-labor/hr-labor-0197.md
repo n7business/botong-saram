@@ -13,8 +13,13 @@ sources:
   seen: '2026-11-15'
   quote: 근로소득자는 5인 미만이나 사업소득자 합산 시 20인 이상 고용 사업장 중심
   source: 고용노동부 보도자료
+- url: https://www.youtube.com/watch?v=W5j2AVfGS1Y
+  author: 노무닥터 김기민 노무사 (@nomudoctor)
+  seen: '2026-11-21'
+  quote: 3.3으로 신고한 직원까지 세면 우리 가게가 5인 이상이 될 수 있어요.
+  source: 노무닥터 김기민 노무사 (@nomudoctor)
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-21'
 review_by: '2027-05-14'
 supersedes: null
 superseded_by: null

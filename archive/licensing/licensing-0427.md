@@ -13,7 +13,7 @@ sources:
   quote: 중소벤처24 서비스 이용 중 궁금한 사항이나 통합로그인 관련 문의에 답변해드립니다.
   source: 중소벤처24
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

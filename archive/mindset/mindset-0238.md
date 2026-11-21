@@ -1,0 +1,29 @@
+---
+id: mindset-0238
+domain: mindset
+claim: AI로 만들 서비스는 '좋은 아이디어'에서 출발해 제안서를 돌리지 말고, 내가 속한 업계 구조를 깊이 들여다보다가 보자마자 진짜 문제라고
+  느낀 것에서 골라야 한다. 고객에게 없는 니즈는 만들어 낼 수 없기 때문이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=9Bx9e0IwCWQ
+  author: 양실장 (양실장의 바이브코딩대학)
+  seen: '2026-11-21'
+  quote: 미용실 입장에서도 디자이너가 고객이어야 돼요.
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 도메인지식
+- 아이디어
+- 고객문제
+- 부업
+---
+화자는 '좋은 아이디어네, 만들어서 학원에 제안서 보내야지' 같은 방식은 잘 통하지 않는다고 말합니다. 업계 구조를 알아야 진짜 문제가 보입니다. 예를 들어 미용실은 매출의 약 40%를 디자이너가 가져가는 공생 구조라서, 디자이너가 매출의 벽에 막혀 떠나지 않도록 교육하는 것이 미용실의 과제입니다. 화자는 이런 구조를 알아야 그 미용실 전용 교육 자동화 같은 제안이 나온다고 봅니다. 아무 업종이나 하지 말고 내가 잘 아는 곳이어야 성공 확률이 높다고 합니다.

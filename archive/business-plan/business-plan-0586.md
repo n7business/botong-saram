@@ -1,0 +1,29 @@
+---
+id: business-plan-0586
+domain: business-plan
+claim: KDB NextONE 부산 6기 IR 자료는 기업 비전·창업팀, 문제인식·솔루션, 핵심기술·BM 경쟁력, 경쟁사와 대체재, 시장 규모·진출
+  전략, 수익모델·로드맵을 모두 담은 20쪽 안팎 PDF로 내야 하며, 이 자료가 그대로 2027-01-25 대표이사 구술심사 발표자료로 쓰인다.
+status: candidate
+evidence: policy
+confidence: 0.88
+sources:
+- url: https://www.venturesquare.net/announcement/1129628
+  author: 한국산업은행(운영 (주)시리즈벤처스)
+  seen: '2026-11-21'
+  quote: PDF 파일(20page 내외) 업로드, 제출자료는 구술심사시 발표자료로 활용
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- IR자료
+- KDB NextONE
+- 구술심사
+- 제출서류
+---
+IR 자료에는 필수 기재사항 6가지가 정해져 있습니다. 기업 비전과 창업팀, 문제인식·솔루션·제품, 핵심기술이나 BM의 경쟁력, 경쟁사와 대체재, 시장 규모와 진출 전략, 수익모델과 로드맵입니다. 20쪽 안팎 PDF로 올리면 되고, 제출한 파일을 구술심사 때 대표이사 PT 자료로 그대로 씁니다. 그러니 처음부터 발표를 염두에 두고 만들어야 합니다. 서류심사(12.23~1.12)에서는 선발 예정 규모의 2배수 안쪽만 남기고, 평가는 대표이사·기업 역량, BM 경쟁력, BM 시장성 세 가지로 합니다. 법인등기사항전부증명서는 신청일로부터 1개월 안에 발급한 것이어야 하고, 재무제표는 국세청 표준재무제표증명원(2023~2025년)으로 냅니다.

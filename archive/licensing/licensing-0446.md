@@ -1,0 +1,30 @@
+---
+id: licensing-0446
+domain: licensing
+claim: 중소기업(소상공인)확인서·벤처기업확인서·이노비즈확인서·메인비즈확인서·여성기업확인서·스마트공장수준확인서는 중소벤처24 한 곳에서 발급받을
+  수 있으므로, 지원사업이나 입찰 서류를 준비하는 사업자는 발급기관 사이트를 하나씩 찾아다니지 않아도 됩니다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://portal.smes.go.kr/home/cs/info/UI_USR_R_350
+  author: 중소벤처기업부(중소벤처24)
+  seen: '2026-11-21'
+  quote: 개별 시스템 방문 없이 한 곳에서 통합 조회, 발급할 수 있으며
+  source: 중소벤처24
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 중소벤처24
+- 중소기업확인서
+- 벤처기업확인서
+- 증명서발급
+- 진위확인
+---
+중소벤처24(portal.smes.go.kr)의 '증명서 발급' 메뉴에서 중소기업확인서, 벤처기업확인서, 직접생산증명서 등 경영에 필요한 증명서를 한 번에 조회하고 발급할 수 있습니다. 여기서 출력한 문서는 진위확인 서비스도 함께 제공되므로, 제출받는 기관은 이 서비스로 진위를 확인할 수 있습니다. 증명서를 신청했는데 '해당하지 않는 기업'으로 나오면 발급 요건(규모·독립성 기준 등)을 충족하지 못했을 수 있으니 먼저 요건을 확인하세요. 시스템 장애나 로그인 문제는 044-300-0990·0991로 문의하면 됩니다.

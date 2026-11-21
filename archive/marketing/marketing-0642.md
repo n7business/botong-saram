@@ -3,7 +3,7 @@ id: marketing-0642
 domain: marketing
 claim: 네이버 크리에이터샵 오픈 크루는 2026년 11월 20일까지 신청해야 하고, 선정되면 매달 미션 4가지(새 컬렉션 4개 이상, 등록 상품
   30개 이상 유지, SNS에 샵 링크 게시, 추천 콘텐츠 월 1회 이상)를 모두 해야 그달 활동비가 나온다는 것이 새벽리더의 안내다.
-status: candidate
+status: expired
 evidence: consensus
 confidence: 0.6
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 새벽리더 블로그 강의 (@MorningLeader)
 first_seen: '2026-11-13'
 last_confirmed: '2026-11-13'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

@@ -4,7 +4,7 @@ domain: business-plan
 claim: SM엔터테인먼트 오픈이노베이션 밋업 CultureTech Challenge(2026-11-20 18:00 마감)는 2023~2026년
   초기창업패키지 선정·졸업기업만 신청할 수 있고 K-Startup이 아니라 씨엔티테크 이메일(ac4@cntt.co.kr)로 접수하며 초기창업패키지
   협약 증명서를 함께 내야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -20,7 +20,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: null
+review_by: '2026-11-20'
 supersedes: business-plan-0009
 superseded_by: null
 experiment: null

@@ -3,7 +3,7 @@ id: business-plan-0140
 domain: business-plan
 claim: 신중년 근로자를 새로 고용한 이천시 제조 중소기업은 2026-11-20까지 추가 모집에 신청하면 작업공간 개보수와 적재대·작업대 구입
   등 작업환경 개선 사업비를 2,000만원 이내에서 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.88
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

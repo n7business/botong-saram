@@ -4,7 +4,7 @@ domain: business-plan
 claim: 대표자가 19~39세인 식품제조·푸드테크 스타트업은 2026-11-20 23:59까지 서울시 청년쿡 비즈니스·푸드테크 센터의 2027년
   모집(전체 37개사 중 22개사는 비입주기업 몫)에 신청할 수 있으므로, 입주가 어려우면 비입주로 지원하고 센터별 지원 내용(공유주방 영업신고·생산·포장·택배
   원스톱 vs 대기업 PoC·투자유치)을 비교해 골라야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:
@@ -20,7 +20,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

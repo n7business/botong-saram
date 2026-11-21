@@ -1,0 +1,34 @@
+---
+id: business-plan-0598
+domain: business-plan
+claim: 스타트업 코리아 특별비자 추천은 외국인 대표뿐 아니라 그 (예비)창업기업도 「중소기업창업 지원법」의 창업기업 요건을 갖춰야 받을 수 있습니다.
+  또 이 절차로 받는 것은 비자 자체가 아니라 중소벤처기업부의 추천서입니다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419
+  author: 창업진흥원
+  seen: '2026-11-21'
+  quote: must meet the eligibility criteria outlined in the Support for Small and
+    Medium Enterprise Establishment Act
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: '2027-03-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 중소기업창업 지원법
+  article: null
+  effective: '2026-11-21'
+contributor: null
+tags:
+- 스타트업코리아특별비자
+- 외국인창업
+- 창업기업요건
+- 추천서
+verified_by: 공식 출처
+---
+특별비자 추천의 신청 대상은 한국 국적이 아닌 (예비)창업기업 대표입니다. 이때 그 기업이 중소기업창업 지원법이 정한 자격 기준을 충족해야 합니다. 업력이 오래됐거나 창업으로 인정되지 않는 형태라면 대표가 외국인이라도 추천 대상이 되지 않을 수 있으니, 신청 전에 창업기업 요건부터 확인해야 합니다. 이 사업에서 지원하는 내용은 '스타트업 코리아 특별비자' 추천서 발급입니다. 비자는 그 추천을 근거로 따로 발급됩니다.

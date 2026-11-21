@@ -1,0 +1,32 @@
+---
+id: law-basics-0460
+domain: law-basics
+claim: 본점 이전등기는 결의일이 아니라 실제로 본점을 옮긴 날부터 2주 안에 옛 소재지와 새 소재지 모두에 해야 하므로, 사무실을 옮기고 사업자등록증
+  주소만 바꾼 채 두면 안 된다.
+status: candidate
+evidence: consensus
+confidence: 0.85
+sources:
+- url: https://www.help-me.kr/blog/article/2026-year-end-corporate-registration-checklist/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-21'
+  quote: 본점 이전등기 기간은 결의일이 아니라 실제로 본점을 이전한 날로부터 2주 이내 가 원칙입니다.
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상법
+  article: 제317조 제4항(제182조 준용)
+  effective: '2026-11-21'
+contributor: null
+tags:
+- 법인등기
+- 본점이전
+- 지점등기
+- 사업자등록
+---
+사무실을 옮기고 사업자등록증 주소만 고친 채 법인등기부를 그대로 두는 경우가 많습니다. 본점을 이전하면 실제 이전일부터 2주 안에 종전 소재지와 새 소재지에 각각 이전 사실과 날짜를 등기해야 합니다. 먼저 옮기고 나중에 이사회 결의를 했다면 결의일을 기준으로 진행할 수 있습니다. 정관에 도로명주소·번지까지 자세히 적혀 있다면 이전 결의와 함께 정관 변경도 필요하고, 관할 등기소가 바뀌는지와 사업자등록·인허가 주소가 맞는지도 확인해야 합니다. 지점을 설치·이전·폐지할 때도 같은 방식으로 등기 누락 여부를 점검하십시오.

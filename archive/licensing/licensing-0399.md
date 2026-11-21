@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-19'
   quote: 서울출입국·외국인청은 2026. 10. 19.(월)부터 신청사(서울특별시 송파구 정의로 55)로 이전
   source: 하이코리아 (출입국·비자)
+- url: https://www.hikorea.go.kr/board/BoardNtcDetailR.pt?BBS_GB_CD=BS10&BBS_SEQ=1&NTCCTT_SEQ=2006
+  author: 법무부 출입국·외국인정책본부(하이코리아)
+  seen: '2026-11-21'
+  quote: 청사 이전 후에는 기존 목동 청사(양천구 목동동로 151)에서 업무를 진행하지 않습니다.
+  source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

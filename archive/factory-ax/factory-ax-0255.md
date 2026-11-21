@@ -1,0 +1,30 @@
+---
+id: factory-ax-0255
+domain: factory-ax
+claim: 자동화 라인이나 사이클 타임이 중요한 가공 공정에서 공구 길이·지름을 측정하는 가공업체는 스핀들을 멈춰야 하는 접촉식 대신, 스핀들을
+  회전시킨 채로 런아웃까지 반영해 측정하는 레이저 공구 측정기를 검토할 만하다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=h0JSsTOeMk4
+  author: 레니쇼 관계자 (Malco JACK 영상)
+  seen: '2026-11-21'
+  quote: 레이저 빔으로 스핀들을 회전시킨 채 측정한다.
+  source: Malco JACK — 베스트정공 대표 (@MalcoJack)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 공구측정
+- 레이저툴세터
+- 런아웃
+- 사이클타임
+- 자동화
+---
+일반 접촉식 공구 측정은 스핀들을 멈춘 상태에서 해야 합니다. 레이저 방식(공급사 설명 예: NC4 블루)은 스핀들을 회전시킨 채 레이저 빔으로 측정하므로 런아웃(흔들림)까지 잡아 고점을 기준으로 좌표를 잡습니다. 공구 지름과 길이가 자동으로 입력되므로, 자동화나 사이클 타임에 민감한 사용자가 많이 고른다고 합니다. 이 내용은 공급사 설명이므로 실제 단축 시간은 내 라인에서 따로 재 봐야 합니다.

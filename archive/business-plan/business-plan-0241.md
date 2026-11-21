@@ -3,7 +3,7 @@ id: business-plan-0241
 domain: business-plan
 claim: 2026년 백년소상공인 유공 포상(2026-11-20 마감)에 이메일로 신청하는 업체는 신청 마감일 기준 환수·참여제한 등 제재 내역이
   없는지 먼저 확인하고, 동의서처럼 개인 서명이 있는 서류는 한글과 PDF 파일을 모두 제출해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

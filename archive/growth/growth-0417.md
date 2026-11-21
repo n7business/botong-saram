@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-18'
   quote: 단계마다 99% 맞는 AI도 50단계를 연달아 거치면 열 번 가운데 네 번은 어딘가에서 틀립니다.
   source: EO 플래닛
+- url: https://eopla.net/magazines/49263
+  author: 사티아 나델라 (조쉬의 뉴스레터 정리)
+  seen: '2026-11-21'
+  quote: 비평은 다른 모델 계열에 맡겨서
+  source: EO 플래닛
 first_seen: '2026-11-18'
-last_confirmed: '2026-11-18'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

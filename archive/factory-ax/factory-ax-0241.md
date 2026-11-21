@@ -13,7 +13,7 @@ sources:
   quote: 스마트공장 도입을 고민 중인 기업이라면, 첫 단계부터 고도 수준을 걱정할 필요는 없다.
   source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-21'
 review_by: null
 supersedes: null
 superseded_by: null

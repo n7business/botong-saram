@@ -1,0 +1,29 @@
+---
+id: growth-0468
+domain: growth
+claim: AI 모델을 고르거나 바꿀 때는 공개 순위표보다 우리 업무에서 꼭 나와야 할 결과를 잰 자체 채점표를 만들어 두고, 모델을 바꿔도 그
+  점수가 유지되거나 오르는지로 판단해 볼 만하다고 나델라는 말한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/49263
+  author: 사티아 나델라 (조쉬의 뉴스레터 정리)
+  seen: '2026-11-21'
+  quote: 회사마다 꼭 얻어야 할 결과를 재는 자체 평가가 더 중요합니다.
+  source: EO 플래닛
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 모델선택
+- 평가
+- 비용절감
+---
+공개 벤치마크도 참고할 만하지만, 회사마다 꼭 얻어야 할 결과를 재는 자체 평가가 더 중요하다는 것이 나델라의 설명입니다. 자주 맡기는 업무 10~20건과 각각의 모범 답을 모아 채점표를 만들어 두세요. 새 모델이 나오거나 서비스를 바꿀 때 같은 문제를 다시 풀려 점수를 비교하면 됩니다. 마이크로소프트 고객들도 처음엔 가장 앞선 모델로 시작하고, 일이 늘 같은 순서로 반복된다는 게 기록에서 보이면 더 작은 모델로 바꿔 비용을 줄인다고 합니다.

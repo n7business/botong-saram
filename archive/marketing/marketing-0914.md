@@ -1,0 +1,29 @@
+---
+id: marketing-0914
+domain: marketing
+claim: 똑같은 생맥주라도 '마스터 푸어 카스'처럼 이름을 따로 붙이고 얇은 유리잔에 내면 500원을 더 받을 수 있고, 메뉴 이름을 특별하게
+  지으면 같은 상품도 특별한 메뉴로 받아들여진다는 것이 장사맛집 오팀장의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=TAuEZ9TD4-8
+  author: 장사맛집 오팀장
+  seen: '2026-11-21'
+  quote: 그게 가격이 500원 더 비쌌단 말이에요.
+  source: 장사맛집 오팀장 (@장사맛집오팀장)
+first_seen: '2026-11-21'
+last_confirmed: '2026-11-21'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메뉴네이밍
+- 가격
+- 외식업
+- 객단가
+---
+예로 든 매장은 같은 카스 생맥주를 일반 생맥주와 '마스터 푸어 카스' 두 가지로 팔면서 후자를 500원 더 받았습니다. 비싼 쪽은 손만 대도 깨질 것 같은 얇은 유리잔에 내서 잔에서도 차이가 느껴지게 했습니다. 매장에 '부드럽다'고 적어 두니 손님도 실제로 부드럽다고 느꼈습니다. 소시지도 그냥 비엔나 소시지가 아니라 '산청 흑돼지 소시지'라고 이름 붙였습니다. 다만 이름과 설명이 실제 재료·원산지와 맞지 않으면 원산지·표시 문제가 생길 수 있습니다.

@@ -3,7 +3,7 @@ id: business-plan-0138
 domain: business-plan
 claim: 광양시에 본사나 공장이 있는 중소기업은 2025-11-01 이후 특허청에 등록한 산업재산권 비용과 국내외 박람회 참가비를 2026-11-20까지
   신청하면 항목별로 기업당 100만원 이내에서 일부 돌려받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

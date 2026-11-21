@@ -3,7 +3,7 @@ id: business-plan-0230
 domain: business-plan
 claim: 구로 NEST G밸리 4기 입주(2026-11-20 14:00 마감)를 노리는 창업 4년 이내 혁신 스타트업이나 예비창업자는 신보의 NEST
   Space·창업드림센터 입주 이력이나 현재 받는 공공 창업공간 지원이 있으면 제외될 수 있으므로 이 이력부터 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:

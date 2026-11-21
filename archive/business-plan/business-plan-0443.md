@@ -3,7 +3,7 @@ id: business-plan-0443
 domain: business-plan
 claim: 예비기술창업자나 창업 5년 미만 기업은 2026-11-20 18:00까지 방문하거나 이메일로 호서대학교 서울창업보육센터(서초구 양재)에
   입주를 신청할 수 있다. 다만 입주한 뒤에는 주사업장 소재지를 센터로 옮기는 것이 필수이고, 예비창업자는 3개월 안에 창업할 수 있어야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-14'
 last_confirmed: '2026-11-14'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null

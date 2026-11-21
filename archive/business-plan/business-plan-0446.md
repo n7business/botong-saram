@@ -3,7 +3,7 @@ id: business-plan-0446
 domain: business-plan
 claim: 예비·신입 청년 디자이너는 2026-11-20 14:00까지 마포청년나루 홈페이지에서 신청하면 「마포 디자인 크리에이터 스쿨」(11/24~12/3,
   4회)을 무료로 들을 수 있다. 다만 신청자가 정원을 넘으면 마포구에서 활동하는 19~39세 청년부터 뽑는다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.75
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-14'
 last_confirmed: '2026-11-14'
-review_by: null
+review_by: '2026-11-20'
 supersedes: null
 superseded_by: null
 experiment: null
