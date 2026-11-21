@@ -3,7 +3,7 @@ id: licensing-0370
 domain: licensing
 claim: E-9 외국인근로자가 취업교육을 받는 동안 사업주는 출국만기보험과 임금체불 보증보험에 가입해야 하므로, 처음 외국인을 고용하는 사업주는
   출국만기보험만 챙기고 보증보험을 빠뜨리면 안 됩니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.8
 sources:
@@ -29,5 +29,6 @@ tags:
 - 임금체불보증보험
 - 취업교육
 verified_by: 공식 출처
+merged_into: licensing-0457
 ---
 취업교육 기간에 근로자는 건강진단을 받습니다. 같은 기간에 사업주는 퇴직금을 대신하는 출국만기보험과 임금체불 보증보험에 가입합니다. 귀국비용보험과 상해보험은 외국인근로자 본인이 가입합니다. 출국만기보험은 상시 4인 이하 사업장에도 적용됩니다.

@@ -13,7 +13,7 @@ sources:
   quote: 근로자의 의사에 따른 동의가 있는 경우라 하더라도 퇴직급여의 공제 또는 상계는 제한되는 것이 타당할 것입니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

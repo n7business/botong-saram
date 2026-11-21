@@ -1,0 +1,34 @@
+---
+id: licensing-0452
+domain: licensing
+claim: 2026년 5회차 E-9 신규 배정은 11월 23일~27일에 접수하고 11월 30일 20시 기준으로 채점하며, 그때까지 고용허가서 발급신청이
+  처리 완료되어 있어야 하므로, 신청하려는 사업주는 내국인 구인노력 기간을 거꾸로 계산해 미리 구인신청을 해 두어야 한다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.eps.go.kr/eo/NotiR.eo?bbswSn=3871
+  author: 한국고용정보원 외국인고용서비스팀(윤지영)
+  seen: '2026-11-22'
+  quote: 반드시 **고용허가서발급신청**이 처리 완료되어야 합니다.
+  source: 고용허가제 EPS
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: '2027-05-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 외국인근로자의 고용 등에 관한 법률
+  article: 제8조
+  effective: '2026-11-22'
+contributor: null
+tags:
+- 외국인고용
+- E-9
+- 점수제
+- 배정
+- 마감
+verified_by: 공식 출처
+---
+2026년 5회차 신규 외국인력 배정의 접수 기간은 11월 23일(월)부터 27일(금)까지입니다. 전산 마감일은 11월 30일(월)이고 이날 20시를 기준으로 점수를 매깁니다. 채점 대상이 되려면 이 시각까지 고용허가서 발급신청이 처리 완료되어 있어야 합니다. 발급신청을 하려면 먼저 내국인 구인노력 기간(원칙 7일, 예외 3일)을 마쳐야 하므로, 사업주는 이 기간을 감안해 구인신청 날짜를 앞당겨 잡아야 합니다. 배정 규모는 제조업 4,510명, 농축산업 954명, 어업 897명, 건설업 198명, 서비스업 140명입니다.

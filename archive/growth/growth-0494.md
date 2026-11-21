@@ -1,0 +1,28 @@
+---
+id: growth-0494
+domain: growth
+claim: 나중에 투자를 받을 생각이 있다면 창업 첫 달부터 월별 재무 자료를 정리해 둬야 하며, 한 싱가포르 VC는 첫 달부터의 월별 재무를 내놓지
+  못하는 회사를 투자하지 않을 이유로 꼽는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/49322
+  author: 데이비드 (Mr. Footnote)
+  seen: '2026-11-22'
+  quote: 창업 첫 달부터 월별 재무를 내놓지 못하는 데이터룸.
+  source: EO 플래닛
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 투자유치
+- 재무관리
+- 실사
+---
+싱가포르 벤처캐피털 베타트론의 매니징 파트너는 실사를 투자할 이유가 아니라 투자하지 않을 이유를 찾는 일로 봅니다. 그가 꼽은 거절 사유 가운데 하나가 창업 첫 달부터의 월별 재무를 내놓지 못하는 데이터룸입니다. 매출·비용·현금 흐름을 달마다 정리해 두지 않았다면 나중에 한꺼번에 다시 만들기 어렵습니다. 투자를 받을 계획이 있다면 처음부터 장부를 달마다 마감해 두어야 합니다. 투자자 한 사람의 의견입니다.

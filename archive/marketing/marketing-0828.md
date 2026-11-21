@@ -27,8 +27,13 @@ sources:
   seen: '2026-11-21'
   quote: 단문으로 조회수를, 장문으로 팔로워를 모았다.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df7AMKUFJta
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-22'
+  quote: 9. 짧은 글은 바이럴, 긴 글로 전환을 만들기
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: '2027-01-18'
 supersedes: null
 superseded_by: null
@@ -41,5 +46,6 @@ tags:
 - 전환
 - 빌리쌤
 verified_by: 독립 2곳 weight 1.9
+mentions: 5
 ---
 스레드에서는 글 길이마다 맡는 역할이 다르다는 주장입니다. 짧은 글은 조회수가 잘 나와 퍼지기 쉽고, 긴 글은 읽은 사람이 문의하거나 구매하게 만드는 데 맞습니다. 그래서 평소에는 짧은 글로 노출을 쌓고, 상품·서비스 안내나 사례처럼 행동을 이끌어야 하는 내용은 긴 글로 쓰는 방식으로 나눠 운영하라고 합니다. 근거는 한 운영자의 경험입니다.

@@ -3,7 +3,7 @@ id: marketing-0848
 domain: marketing
 claim: 페이지의 meta 태그에 nofollow가 들어 있으면 네이버가 그 페이지 안의 링크를 따라가 수집하지 않으므로, 네이버 검색에 잡히는
   문서 수가 적다면 nofollow 설정부터 확인해 지워야 합니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.9
 sources:
@@ -26,5 +26,6 @@ tags:
 - nofollow
 - meta태그
 verified_by: 공식 출처
+merged_into: marketing-0936
 ---
 <meta name="robots" content="nofollow">가 들어간 페이지에서는 네이버 검색로봇이 페이지 안의 링크를 따라가지 않습니다. 그러면 메인 페이지는 검색에 나와도 그 안쪽 상품·게시글 페이지는 수집되지 않을 수 있습니다. 검색에 반영된 문서가 적다면 nofollow 설정과 함께 제출한 사이트맵·RSS의 링크가 전체 주소로 적혀 있는지도 확인하세요. noindex는 페이지 자체를 검색에서 빼는 설정이니 함께 점검하는 것이 좋습니다.

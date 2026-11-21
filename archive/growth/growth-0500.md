@@ -1,0 +1,30 @@
+---
+id: growth-0500
+domain: growth
+claim: 웨이팅이 생길 만한 음식점은 인테리어 단계에서 입구 앞뒤 간격을 최소 70cm쯤 확보해 나중에 대기용 의자를 놓을 수 있게 해 볼 만하며,
+  한 순대국 프랜차이즈 본사는 이렇게 설계한 소형 매장에서 이름을 적고 줄 선 손님을 보고 새 손님이 찾아온다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.4
+sources:
+- url: https://www.youtube.com/watch?v=8vRyJ88DxMw
+  author: 다점포왕TV (신주옥미 본사·의정부 송산역점 점주 인터뷰)
+  seen: '2026-11-22'
+  quote: 입구 앞뒤 간격을 최소 70cm 정도 넓게 확보해서 나중에 대기용 의자를 놓을 수 있게 했습니다.
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 음식점
+- 웨이팅
+- 인테리어
+- 입구설계
+- 홍보성원문
+---
+작은 매장에서 웨이팅이 생기면 손님이 기다릴 자리가 없어 그냥 돌아가기 쉽습니다. 한 순대국 프랜차이즈 본사는 입구 앞뒤 간격을 최소 70cm쯤 넓혀 두고 대기용 의자를 놓을 수 있게 했습니다. 입구에는 브랜드 대표 이미지를 붙이고, 안에는 브랜드의 실제 이야기를 액자로 걸었습니다. 점주는 손님이 이름을 적고 기다리는데, 밤에 줄 선 모습을 보고 새 손님이 계속 찾아온다고 말합니다. 다만 가맹점 모집 홍보 영상에 나온 한 매장의 경험담이므로, 줄이 정말 새 손님을 끌어오는지는 우리 매장에서 따로 확인해 보셔야 합니다.

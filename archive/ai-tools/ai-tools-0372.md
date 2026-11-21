@@ -3,7 +3,7 @@ id: ai-tools-0372
 domain: ai-tools
 claim: 클로드 코드의 되감기는 bash로 바꾼 파일과 직접 고친 파일을 되돌리지 못하므로, 잘된 상태마다 git 커밋을 해 두어야 작업이 반쯤만
   복구되는 일을 피할 수 있다.
-status: verified
+status: merged
 evidence: observed
 confidence: 0.85
 sources:
@@ -27,5 +27,6 @@ tags:
 - 커밋
 - 복구
 verified_by: 실무자 실측(단일 출처)
+merged_into: ai-tools-0259
 ---
 되감기는 update처럼 Claude 편집 기능으로 고친 파일만 되돌립니다. 화자가 통째로 되감았더니 대화와 index.html은 돌아왔지만 bash로 고친 파일 두 개는 그대로 남았습니다. 명령을 몰라도 '지금 상태를 저장해 두고 싶어. git 커밋 해 줘'라고 말하면 되고, 커밋은 내 컴퓨터에만 남으며 GitHub 업로드는 별도의 푸시입니다. 돌아갈 때는 '마지막 커밋 상태로 되돌려 줘'처럼 지점을 콕 집어 말합니다. 이 명령은 커밋 뒤 고친 내용을 지우는데 따로 경고가 없으니 권한 창을 읽고 누릅니다.

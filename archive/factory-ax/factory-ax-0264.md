@@ -13,7 +13,7 @@ sources:
   quote: 국가청정생산지원센터를 중심으로, 국내 기업의 탄소중립 전환과 규제 대응을 위한 기술 개발, 재생원료 인증
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: '2027-02-19'
 supersedes: null
 superseded_by: null

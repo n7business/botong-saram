@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-20'
   quote: 현장마다 설비 조건과 고객 요구가 다른 만큼 초기 설정과 검증에 시간이 필요하다
   source: 산업일보
+- url: https://www.kidd.co.kr/news/248227
+  author: 김진성 기자(산업일보)
+  seen: '2026-11-22'
+  quote: 물류 시스템 구축에 앞서 고객사의 생산 환경과 물류 동선을 분석하고, 시뮬레이션을 통해 적합한 설비와 시스템을 제안하는 방식
+  source: 산업일보
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

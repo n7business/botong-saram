@@ -13,7 +13,7 @@ sources:
   quote: 임금 삭감 없이 주 4.5일제를 도입하는 중소기업에 근로자 1인당 월 20~60만원을 최대 1년간 지원
   source: 박실로 노무사 블로그
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

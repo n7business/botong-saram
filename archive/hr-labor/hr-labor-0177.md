@@ -13,7 +13,7 @@ sources:
   quote: 12~13 시까지 방문 및 전화상담을 쉬어가오니
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-10'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

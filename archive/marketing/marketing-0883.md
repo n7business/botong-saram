@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-21'
   quote: 이 사용자가 유일한 연결된 사용자인 모든 광고 계정도 비활성화될 수 있습니다.
   source: Meta 비즈니스 지원 센터
+- url: https://www.facebook.com/business/help/975570072950669?id=434838534925385
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-22'
+  quote: 이 사용자가 유일한 연결된 사용자인 모든 광고 계정도 비활성화될 수 있습니다.
+  source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: '2027-01-20'
 supersedes: null
 superseded_by: null

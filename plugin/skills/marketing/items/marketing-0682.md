@@ -15,3 +15,5 @@
   > 저녁(20~24시)이 피크타임이니까 2배 발행!
 - 빌리쌤 (@billy___ssam) · 2026-11-16 · https://www.threads.com/@billy___ssam/post/Dfwd5OKm_Y7
   > 시간 없다면, '피크타임'만 올려 보세요.
+- 빌리쌤 (@billy___ssam) · 2026-11-12 · https://www.threads.com/@billy___ssam/post/DfjtUN4GYIQ
+  > 타겟의 활동 시간에 맞춰 '그 타이밍'에만 적극적으로 활동해도 충분히 성장할 수 있습니다.

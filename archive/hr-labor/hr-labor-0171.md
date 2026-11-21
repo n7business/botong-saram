@@ -28,7 +28,7 @@ sources:
   quote: 해고된 날부터 3개월 안에 노동위원회 구제신청
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-12'
+last_confirmed: '2026-11-22'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

@@ -13,7 +13,7 @@ sources:
   quote: 사업주 확인이 없어도 근로자가 직접 근로복지공단에 산재 요양급여를 신청할 수 있습니다
   source: 박실로 노무사 블로그
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

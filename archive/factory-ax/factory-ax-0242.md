@@ -13,7 +13,7 @@ sources:
   quote: 2027년 스마트 제조혁신 지원사업 통합공고
   source: 중소벤처기업부 사업공고
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: '2027-02-18'
 supersedes: null
 superseded_by: null

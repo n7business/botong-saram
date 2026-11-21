@@ -3,7 +3,7 @@ id: marketing-0575
 domain: marketing
 claim: 스레드에 쓸 시간이 부족하면 내 글이 닿아야 할 타겟이 접속하는 시간대를 정해 그때만 집중해서 활동해도 성장할 수 있다는 것이 화자의
   주장이다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.5
 sources:
@@ -24,5 +24,6 @@ tags:
 - threads
 - timing
 - time-management
+merged_into: marketing-0682
 ---
 하루 종일 스레드에 매달릴 수 없는 사업자라면 내 주제가 누구에게 닿아야 하는지부터 정한다. 그 사람들이 언제 접속하는지 파악한 뒤, 그 시간대에만 글쓰기와 댓글 활동을 몰아서 하면 된다. 화자는 저녁 8~10시에 활동한다고 밝혔다. 다만 그 시간대 활동은 매일 지키라는 단서를 붙였다.

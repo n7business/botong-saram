@@ -1,0 +1,29 @@
+---
+id: growth-0511
+domain: growth
+claim: 체험단을 쓸 때는 글을 마음대로 쓰게 두지 말고, AI가 잘 인용할 수 있게 '이런 식으로 써 주세요'라는 작성 가이드를 줘야 한다고
+  한 매장 운영자는 말한다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://www.youtube.com/watch?v=mkQLzE39t-E
+  author: 강규원 (장사 권프로 출연)
+  seen: '2026-11-22'
+  quote: 체험단을 쓸 때도 멋대로 쓰게 두지 말고
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 체험단
+- 블로그마케팅
+- AI인용
+- 작성가이드
+---
+체험단에게는 원가가 든 음식을 공짜로 주고 돈까지 주는 경우가 많습니다. 화자는 그렇게 받은 글을 허비하지 말라고 말합니다. 경험 기반으로 구조를 갖춰 쓴 블로그는 AI 답변에 인용될 가능성이 높아지고, 네이버 상위 노출에도 도움이 된다는 것이 화자의 주장입니다. 네이버가 경험 기반 데이터와 AI 인용 여부를 본다는 말은 화자의 판단이며, 네이버가 공식으로 확인한 내용은 아닙니다.

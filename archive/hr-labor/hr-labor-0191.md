@@ -13,7 +13,7 @@ sources:
   quote: ▶ 장기요양보험료 = 건강보험료 × 13.14%
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-13'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: '2027-05-12'
 supersedes: null
 superseded_by: null

@@ -13,7 +13,7 @@ sources:
   quote: 산재 심사·재심사 90일
   source: 박실로 노무사 블로그
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

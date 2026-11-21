@@ -13,7 +13,7 @@ sources:
   quote: 단, 자격증만 있다고 예외가 아니에요. 그 자격으로 그 분야 일을 하고 있어야 합니다.
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

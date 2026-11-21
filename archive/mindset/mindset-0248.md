@@ -1,0 +1,28 @@
+---
+id: mindset-0248
+domain: mindset
+claim: 매장 여러 곳과 프랜차이즈 브랜드 2개를 운영하는 강규원은 업무 전반에 AI를 쓰면서도 'AI 만능론'을 경계한다. AI 결과물을 그대로
+  쓰지 않고 사람이 검증하며 '휴먼 터치'를 더하는 것을 원칙으로 삼는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=mkQLzE39t-E
+  author: 강규원 (장사 권프로 출연)
+  seen: '2026-11-22'
+  quote: AI 만능론 이런 거는 굉장히 경계를 하는 사람 중에 하나거든요.
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용원칙
+- 검증
+- 휴먼터치
+---
+강규원은 플레이스 분석, 메뉴 사진 제작, AI 검색 노출까지 AI를 폭넓게 씁니다. 그래도 AI가 다 해 주니 결과물을 바로 쓰면 된다는 생각은 위험하다고 말합니다. AI 수준이 많이 올라왔지만 아직 사람이 검증해야 할 부분이 있다는 것이 그의 판단 기준입니다. AI가 만든 분석 보고서, 상세 설명, 사진은 사장이 직접 확인하고 다듬은 뒤에 써야 합니다.

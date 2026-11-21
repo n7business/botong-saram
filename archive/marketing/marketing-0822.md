@@ -1,8 +1,8 @@
 ---
 id: marketing-0822
 domain: marketing
-claim: robots.txt는 사이트 루트에 일반 텍스트 파일(text/plain)로 두어야 하며, HTML 문서로 응답하면 안의 규칙이 무시되고
-  '모두 허용'으로 해석될 수 있고 서버 오류(5xx)로 응답하면 '모두 허용하지 않음'으로 해석됩니다.
+claim: robots.txt는 사이트 루트에 일반 텍스트 파일(text/plain)로 두고 정상(2xx) 응답이 나오게 해야 하며, HTML 문서로
+  응답하면 규칙이 무시돼 '모두 허용'으로 해석될 수 있고 서버 오류(5xx)로 응답하면 네이버가 '모두 수집 금지'로 해석합니다.
 status: verified
 evidence: policy
 confidence: 0.85
@@ -26,5 +26,6 @@ tags:
 - SEO
 - robots.txt
 verified_by: 공식 출처
+mentions: 1
 ---
 robots.txt는 반드시 http://www.example.com/robots.txt처럼 사이트 루트에 두고, 일반 텍스트 파일로 열리게 하세요. 이 파일이 HTML 문서로 응답되면 안에 막아 둔 규칙이 있어도 파일이 없는 것처럼 '모두 허용'으로 해석될 수 있습니다. 반대로 서버 오류(5xx)가 나면 네이버 검색로봇은 '모두 허용하지 않음'으로 해석하므로, 사이트 전체가 수집되지 않을 수 있습니다. robots.txt 규칙은 같은 호스트·프로토콜에만 적용됩니다. 그래서 www 주소의 robots.txt는 www 없는 주소나 https 주소에는 적용되지 않는다는 점에 주의하세요. 파일을 고친 뒤에는 웹마스터도구의 robots.txt 도구에서 수집 요청을 눌러 네이버에 바로 알리세요.

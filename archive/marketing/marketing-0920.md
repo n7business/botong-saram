@@ -1,0 +1,30 @@
+---
+id: marketing-0920
+domain: marketing
+claim: Meta가 비즈니스 포트폴리오·광고 계정·페이지에서 비정상적인 활동을 발견하면, 조사하는 동안 지출 한도를 낮추고 관리자·파트너·사용자
+  추가와 새 광고 계정 만들기를 막을 수 있으므로, 행사나 신규 캠페인 직전에 계정 구성을 급하게 바꾸지 말고 미리 준비해 두어야 합니다.
+status: verified
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.facebook.com/business/help/975570072950669?id=434838534925385
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-22'
+  quote: 관리자나 파트너 또는 사용자를 추가할 수 있는 권한 상실
+  source: Meta 비즈니스 지원 센터
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: '2027-01-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- meta
+- 비정상활동
+- 광고제한
+- 비즈니스포트폴리오
+verified_by: 공식 출처
+---
+비정상적인 활동으로 받는 제한은 정책 위반이 확정되지 않았더라도 조사 기간 동안 적용됩니다. 지출 한도나 결제 기준액이 낮아지고, 일부 결제 기능과 관리자·파트너·사용자 추가 권한, 새 광고 계정을 만드는 권한을 잃을 수 있습니다. 대행사 연결, 직원 추가, 광고 계정 신설처럼 꼭 필요한 일은 성수기 캠페인보다 한참 앞서 끝내 두세요. 제한이 걸리면 비즈니스 지원 홈에서 해결 방법을 확인하고, 해킹이 의심되면 계정 보호 절차부터 밟아야 합니다.

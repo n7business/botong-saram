@@ -17,8 +17,13 @@ sources:
   seen: '2026-11-19'
   quote: 3. 하단부에 인사이트 혹은 CTA 구성
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df7CvZdAAk2
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-22'
+  quote: 3. 하단부에 인사이트 혹은 CTA 구성
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null
@@ -31,5 +36,6 @@ tags:
 - CTA
 - 글구성
 - 빌리쌤
+mentions: 3
 ---
 스레드 글 한 편을 세 부분으로 나눠 쓰라는 주장입니다. 첫 줄에는 스크롤을 멈추게 하는 단어나 주제를 넣습니다. 본문에서는 전하려는 메시지 하나를 분명하게 씁니다. 마지막에는 정리된 인사이트나 '댓글 남겨 주세요' 같은 행동 요청(CTA)으로 끝냅니다. 필요한 정보를 쉽게 설명하고, 글이나 이미지에 나만의 시그니처를 넣으면 기억되기 쉽다고도 합니다. 근거는 한 운영자의 노하우입니다.

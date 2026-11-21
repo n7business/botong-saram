@@ -27,5 +27,6 @@ tags:
 - 소유확인
 - 홈페이지
 verified_by: 공식 출처
+mentions: 1
 ---
 네이버 서치어드바이저 웹마스터도구에 사이트를 등록하려면 소유 확인을 해야 합니다. 방법은 HTML meta 태그를 넣거나 HTML 파일을 올리는 것입니다. 메인 페이지가 자바스크립트나 meta refresh로 다른 주소로 넘어가면 소유 확인이 지원되지 않으니 HTTP redirect로 바꿔야 합니다. 확인용 태그를 frame 태그 안에 넣어도 실패하므로 frame 바깥에 넣으세요. 사이트 등록은 www.mysite.com처럼 호스트 단위로만 되고 www.mysite.com/myid 같은 하위 경로는 등록할 수 없습니다. HTML을 고칠 권한이 없으면 제작업체에 요청하세요.

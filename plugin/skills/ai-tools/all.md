@@ -1,5 +1,5 @@
 # 보통사람 · AI 도구·트렌드 — 전체 목록(공식·여러 명·주의·실험)
-빌드 2026-11-21. SKILL.md에는 이 중 일부만 있다.
+빌드 2026-11-22. SKILL.md에는 이 중 일부만 있다.
 
 ## 🏛 공식 발표 · 📚 연구·저서
 - 🏛 공식 발표 · 클로드 코드 예약 작업이나 /loop로 반복 업무를 돌리고 있다면 v2.1.330으로 업데이트한 뒤 예전에 만든 반복 작업을 다시 등록해야 한다. 이 버전부터 반복 작업은 최대 30일까지 돌지만, 업데이트 전에 만든 작업은 계속 7일 뒤에 끝나기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0658.md`
@@ -96,8 +96,8 @@
 - 🏛 공식 발표 · 클로드 코드 자동 모드나 권한 우회 모드에서는 클로드가 만든 mod가 묻지 않고 켜지고 mod의 도구 호출도 권한 창을 띄우지 않으므로, 꼭 막아야 할 작업은 ask 규칙이 아니라 deny 규칙으로 걸어 두어야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0422.md`
 - 🏛 공식 발표 · claude remote-control에 --settings로 설정 파일을 지정해 쓰다가 그 파일을 고쳤다면 claude remote-control을 다시 시작해야 하는데, 재시작 전까지는 새 세션이 시작되지 않기 때문이다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0423.md`
 - 🏛 공식 발표 · claude -p로 자동 작업을 돌릴 때 백그라운드 명령은 10분이 지나면 중지되므로, 그보다 오래 걸리는 수집·빌드 작업은 백그라운드로 맡기지 말고 따로 실행하거나 단계를 나눠야 한다. — Claude Code 릴리스 노트 (CHANGELOG) → `items/ai-tools-0424.md`
+- 🏛 공식 발표 · AI 코드 리뷰는 계열이 다른 모델 여러 개에 같은 변경과 평가 기준을 보내고, 지적을 자동 반영하지 말고 분류해 처리해야 한다. — 요즘IT, Anthropic Engineering 블로그 → `items/ai-tools-0207.md`
 - 🏛 공식 발표 · AI에게 코드를 맡길 때 사람은 시스템의 핵심 제약과 설계 판단을 쥐고 있다가, AI가 그 제약을 어기는 방식으로 문제를 풀면 '안 된다'고 막아야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0379.md`
-- 🏛 공식 발표 · AI끼리 서로 검토시키는 적대적 리뷰 결과를 그대로 반영하지 말고, 일어날지 모를 걱정에 대응하느라 검증과 복잡도만 늘어나는 수정은 사람이 걸러야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0380.md`
 - 🏛 공식 발표 · AI가 쓴 코드가 너무 많아 한 줄씩 읽을 수 없다면 그 변경이 무엇을 하려는 것인지, 의도가 맞는지를 중심으로 검토하되 검토 자체는 빼먹지 말아야 한다. — Anthropic Engineering 블로그 → `items/ai-tools-0381.md`
 - 🏛 공식 발표 · 운영 중인 시스템을 AI로 감시하려면 하나의 AI에게 여러 시스템을 맡기지 말고, 시스템마다 전담 AI를 두어 로그와 지표를 계속 보게 해야 일반 알림이 놓치는 미묘한 이상을 잡아낼 수 있다. — Anthropic Engineering 블로그 → `items/ai-tools-0382.md`
 - 🏛 공식 발표 · AI로 코드를 많이 만드는 소규모 팀이라도 Anthropic이 자체 버전 관리 시스템으로 옮겼다는 이유로 git을 버리지 말아야 하는데, 그런 시스템은 초대형 모노레포에서나 의미가 있기 때문이다. — Anthropic Engineering 블로그 → `items/ai-tools-0383.md`

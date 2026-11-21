@@ -1,0 +1,29 @@
+---
+id: ai-tools-0693
+domain: ai-tools
+claim: 100쪽이 넘는 PDF를 클로드에 요약시킬 때는 통째로 올리지 말고 챕터별로 나눠 올려야 한다. 화자에 따르면 클로드는 100쪽까지만
+  그림과 도표를 읽고, 101쪽부터는 글자만 읽는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/Df3YeeJCZ_q
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-22'
+  quote: 클로드는 100쪽까지는 그림과 도표도 읽지만, 101쪽부터는 글자만 읽어요.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 클로드
+- PDF
+- 요약
+- 인쇄
+---
+긴 강의 교안이나 보고서를 요약하려면 챕터 단위로 나눠 한 번에 100쪽이 넘지 않게 올리세요. 요청할 때는 '교안에 없는 내용은 덧붙이지 마'처럼 원문 밖 내용을 넣지 말라는 조건을 함께 적으면 좋습니다. 그림이 많은 쪽은 요약하지 말고 그대로 인쇄하고, 받은 요약은 원본과 한 번 대조하세요. 인쇄 분량만 줄이려는 거라면 AI를 쓸 필요가 없습니다. PDF 인쇄 창에서 한 장에 6쪽씩 찍도록 설정하고 양면·흑백으로 찍으면 100쪽이 종이 9장쯤 됩니다.

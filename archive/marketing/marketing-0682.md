@@ -27,6 +27,11 @@ sources:
   seen: '2026-11-16'
   quote: 시간 없다면, '피크타임'만 올려 보세요.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DfjtUN4GYIQ
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-12'
+  quote: 타겟의 활동 시간에 맞춰 '그 타이밍'에만 적극적으로 활동해도 충분히 성장할 수 있습니다.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-14'
 last_confirmed: '2026-11-16'
 review_by: null
@@ -40,6 +45,6 @@ tags:
 - 게시시간
 - 피크타임
 - 발행빈도
-mentions: 4
+mentions: 5
 ---
 스레드도 하루 중 반응이 몰리는 피크타임이 있습니다. 빌리쌤은 아침 6~9시, 저녁 9~12시를 피크타임으로 봅니다. 다른 글에서는 저녁을 20~24시로 적었습니다. 매일 아침글을 쓰고, 저녁에는 아침보다 2배 이상 집중해서 올렸다고 합니다. 시간이 부족한 사장님이라면 피크타임에만 올리는 것부터 시작하면 됩니다. 이 시간대는 화자의 경험이고 플랫폼이 공식으로 밝힌 수치는 아닙니다.

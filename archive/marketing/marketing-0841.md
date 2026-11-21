@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-20'
   quote: 모든 광고주는 Facebook 페이지가 있어야 광고할 수 있습니다.
   source: Meta 비즈니스 지원 센터
+- url: https://www.facebook.com/business/help/975570072950669?id=434838534925385
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-22'
+  quote: 모든 광고주는 Facebook 페이지가 있어야 광고할 수 있습니다.
+  source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: '2027-01-19'
 supersedes: null
 superseded_by: null

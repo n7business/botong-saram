@@ -13,7 +13,7 @@ sources:
   quote: ※ 반드시 제어판에서 제거 후 재설치하셔야 합니다!
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-09'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

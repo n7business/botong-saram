@@ -13,7 +13,7 @@ sources:
   quote: 센서마다 데이터가 들어오는 시점이 조금만 어긋나도 관절 움직임과 발이 딛는 힘의 관계가 틀어지기 때문이다.
   source: 한국생산기술연구원 보도자료
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

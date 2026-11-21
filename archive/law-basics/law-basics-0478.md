@@ -1,0 +1,28 @@
+---
+id: law-basics-0478
+domain: law-basics
+claim: 돌려받을 금액이 1천만 원을 넘거나 신청인이 직접 소송을 하기 어려운 사건은 대한법률구조공단이 소송서류 작성에 그치지 않고 소송대리까지
+  맡아 줄 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.klac.or.kr/legalstruct/outlineOfLitigationStruct.do
+  author: 대한법률구조공단
+  seen: '2026-11-22'
+  quote: 천만원이 넘거나 신청인이 소송수행을 하기 어려운 사건에 대하여는 공단에서 소송대리 등
+  source: 대한법률구조공단
+first_seen: '2026-11-22'
+last_confirmed: '2026-11-22'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 법률구조
+- 소송대리
+- 중위소득
+---
+공단은 소송가액이 1천만 원 이하이고 사안이 명백하고 단순한 사건이면 소장 같은 서류를 무료로 써 줍니다. 1천만 원을 넘거나 신청인이 소송을 직접 하기 어려운 사건은 공단이 소송대리 등 법률 문제 전부를 맡아 처리합니다. 다만 소속변호사의 소송대리는 법률구조대상자에게만 제공됩니다. 원칙적으로 기준 중위소득 125% 이하가 대상이니 먼저 대상자인지 확인해야 합니다.

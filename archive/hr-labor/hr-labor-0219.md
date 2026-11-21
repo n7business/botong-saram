@@ -13,7 +13,7 @@ sources:
   quote: '고용보험: 의무 아님 (본인이 신청하는 경우에만 가입)'
   source: 노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null

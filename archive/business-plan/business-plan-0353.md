@@ -1,9 +1,9 @@
 ---
 id: business-plan-0353
 domain: business-plan
-claim: 전문분야 실무 경력 10년 이상이거나 경영지도사·세무사·노무사 같은 자격을 가진 사업자는 2026-12-11 18:00까지 창업진흥원
-  신산업 분야·시장전문가 예비위원단에 신청할 수 있으며, 수당 받을 통장은 사업자통장이 아닌 본인 개인명의 통장이어야 하고 재직증명서는 공고일 기준
-  3개월 안에 발급한 것이어야 한다.
+claim: 세무사·노무사·경영지도사·변호사·변리사 같은 전문자격사나 전문분야 실무 경력 10년 이상인 사업자는 2026-12-11 18:00까지
+  온라인으로 창업진흥원 신산업 분야·시장전문가 예비위원단에 신청해 창업지원사업 평가와 심의·의결에 참여할 수 있으며, 수당 받을 통장은 개인·법인
+  사업자통장이 아닌 본인 개인명의 통장이어야 하고 재직증명서는 공고일 기준 3개월 안에 발급한 것이어야 한다.
 status: verified
 evidence: policy
 confidence: 0.6
@@ -19,7 +19,10 @@ review_by: '2026-12-11'
 supersedes: null
 superseded_by: null
 experiment: null
-law_ref: null
+law_ref:
+  law: 중소기업창업 지원법
+  article: 제63조
+  effective: '2026-11-14'
 contributor: null
 tags:
 - 평가위원

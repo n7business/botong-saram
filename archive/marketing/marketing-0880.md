@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-21'
   quote: 이 기간이 지나면 계정을 복구할 수 없습니다.
   source: Meta 비즈니스 지원 센터
+- url: https://www.facebook.com/business/help/975570072950669?id=434838534925385
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-22'
+  quote: 이 기간이 지나면 계정을 복구할 수 없습니다.
+  source: Meta 비즈니스 지원 센터
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-22'
 review_by: '2027-01-20'
 supersedes: null
 superseded_by: null

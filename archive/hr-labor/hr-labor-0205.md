@@ -13,7 +13,7 @@ sources:
   quote: 2024년 1월 27일부터 상시근로자 5인 이상 50인 미만 사업장에도 중대재해처벌법의 중대산업재해 규정이 적용됩니다.
   source: 박실로 노무사 블로그
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-22'
 review_by: null
 supersedes: null
 superseded_by: null
