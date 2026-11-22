@@ -2,7 +2,7 @@
 id: law-basics-0401
 domain: law-basics
 claim: 국가연구개발사업 과제로 만든 소프트웨어를 저작권 등록할 때는 일반 등록이 아니라 NTIS 과제고유번호를 연계해 신청해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.7
 sources:
@@ -21,6 +21,8 @@ law_ref:
   law: 국가연구개발사업의 관리 등에 관한 규정
   article: null
   effective: '2026-11-19'
+  revised_note: 폐지됨(타법폐지, 마지막 시행 2021-01-01). 국가연구개발혁신법 체계로 대체되어 근거를 바꿔야 함
+  current_effective: '2021-01-01'
 contributor: null
 tags:
 - 저작권등록

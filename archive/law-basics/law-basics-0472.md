@@ -3,7 +3,7 @@ id: law-basics-0472
 domain: law-basics
 claim: 고객이나 직원이 개인정보 열람·정정·삭제·처리정지를 요구할 때는 서면뿐 아니라 이메일·팩스 같은 방법으로도 접수할 수 있게 해 두고,
   받은 요구는 지체 없이 처리해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.7
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 개인정보 보호법 시행령
   article: 제41조
   effective: '2026-11-22'
+  revised_note: 2026-11-10 개정 시행(기준일 2023-09-15 이후 개정 누적)
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 개인정보

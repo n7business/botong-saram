@@ -2,7 +2,7 @@
 id: law-basics-0378
 domain: law-basics
 claim: 해킹처럼 외부의 불법 접근으로 개인정보가 유출되었다면 유출된 사람 수가 1천 명이 안 되더라도 72시간 안에 유출신고를 해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.9
 sources:
@@ -21,6 +21,8 @@ law_ref:
   law: 개인정보 보호법 시행령
   article: 제40조
   effective: '2026-11-19'
+  revised_note: 2026-11-10 개정 시행(기준일 2023-09-15 이후 개정 누적)
+  current_effective: '2026-11-10'
 contributor: null
 tags:
 - 개인정보

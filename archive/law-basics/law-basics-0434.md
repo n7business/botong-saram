@@ -3,7 +3,7 @@ id: law-basics-0434
 domain: law-basics
 claim: 국가법령정보센터에서 본 법령정보에는 법적 효력이 없으므로, 관청이나 법원에 내거나 계약 분쟁에서 근거로 삼을 조문은 관보에 공포된 내용으로
   다시 확인해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.85
 sources:
@@ -22,6 +22,8 @@ law_ref:
   law: 법령정보의 관리 및 제공에 관한 법률
   article: 제8조
   effective: '2026-11-21'
+  revised_note: 2026-05-12 공포 개정이 2026-11-13 시행됨(기준일 2026-11-07 이후)
+  current_effective: '2026-11-13'
 contributor: null
 tags:
 - 법령검색

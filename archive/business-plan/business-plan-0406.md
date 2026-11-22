@@ -4,7 +4,7 @@ domain: business-plan
 claim: 해외 진출을 준비하는 경기도 예비창업자나 스타트업 임직원은 2026-11-22 18:00까지 구글폼으로 신청하면 11월 24일 11:00~12:30
   부천BIG센터 3층 미디어홀에서 열리는 경기창업혁신공간 서부권 「스담스담」 4회차(글로벌 진출 전문가 강연·브라운백 네트워킹)에 무료로 참석할
   수 있지만, 신청서를 낸 순서대로 참가자가 정해진다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-13'
 last_confirmed: '2026-11-13'
-review_by: null
+review_by: '2026-11-22'
 supersedes: null
 superseded_by: null
 experiment: null
