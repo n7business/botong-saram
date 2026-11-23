@@ -13,7 +13,7 @@ sources:
   quote: KS 기술심의회 절차를 거쳐 내년 상반기 내로 제정을 완료할 계획이다
   source: 산업통상부 보도자료
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-23'
 review_by: '2027-02-19'
 supersedes: null
 superseded_by: null

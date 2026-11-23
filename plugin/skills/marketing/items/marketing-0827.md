@@ -1,4 +1,4 @@
-# 팔로워가 5천 명이 안 되는 스레드 계정은 글보다 댓글 활동을 늘리는 데 힘을 써야 하며, 스레드를 잘하는 사람들은 하루 최소 30개 이상 댓글을 단다는 것이 빌리쌤의 주장이다.
+# 스레드 팔로워가 5천 명이 안 될 때는 글보다 남의 글에 댓글을 다는 활동에 집중해 하루 최소 30개 이상 댓글을 달고, 5천 명을 넘으면 브랜딩에 힘을 쏟아야 한다는 것이 빌리쌤의 주장이다.
 
 👤 출처 1곳 · 빌리쌤 (@billy___ssam)
 
@@ -13,3 +13,15 @@
   > 2. 댓글의 수가 최소 일 30개 이상이다.
 - 빌리쌤 (@billy___ssam) · 2026-11-22 · https://www.threads.com/@billy___ssam/post/Df6_lZXIEt4
   > 5. 90%는 메인주제 10%는 인간미를 보인다.
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrjhQfD2qN
+  > 5천 미만 = 댓글, 5천 이상 = 브랜딩
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrkH4CDPAp
+  > 5천 미만일 때엔 ‘댓글‘이 답이다.
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo02uBDPsg
+  > 5천 미만 = 댓글, 5천 이상 = 브랜딩
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo1WebDgLK
+  > 5천 미만일 때엔 ‘댓글‘이 답이다.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
+  > 5천 미만 = 댓글, 5천 이상 = 브랜딩
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfhbb98Dbs_
+  > 5천 미만일 때엔 ‘댓글‘이 답이다.

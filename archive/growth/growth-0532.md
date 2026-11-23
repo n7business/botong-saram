@@ -1,0 +1,31 @@
+---
+id: growth-0532
+domain: growth
+claim: 중소벤처기업부 '중소기업위상'의 중소기업 수는 2015년에 중소기업 기준이 종사자 수에서 매출액으로 바뀌었으므로, 사업계획서에서 2015년
+  이전과 이후 수치를 한 추세 그래프나 증가율로 이어 붙이면 안 된다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.mss.go.kr/site/smba/foffice/ex/statDB/MainSubStat.do
+  author: 중소벤처기업부
+  seen: '2026-11-23'
+  quote: ※ 2015년부터 중소기업 기준변경(종사자 → 매출액)
+  source: 중소벤처기업부 통계자료 (소상공인실태조사)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-02-17'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 통계
+- 사업계획서
+- 중소기업기본통계
+- 시계열
+verified_by: 공식 출처
+mentions: 1
+---
+중소기업위상 화면의 모든 표 아래에는 2015년부터 중소기업 기준이 종사자에서 매출액으로 바뀌었다는 주석이 붙어 있습니다. 기준이 바뀌면 같은 회사도 중소기업에 들어가거나 빠질 수 있으므로, 2015년 전후 수치를 이어서 '10년간 몇 % 늘었다'고 쓰면 실제 변화와 기준 변경 효과가 섞입니다. 장기 추세가 필요하면 2015년 이후 수치만 쓰고, 그 앞 수치를 함께 쓸 때는 기준이 다르다는 점을 표 아래에 밝혀 적으세요. 화면에서 바로 볼 수 있는 연도별 표는 2020~2023년이라 이 범위 안에서는 기준이 같습니다.

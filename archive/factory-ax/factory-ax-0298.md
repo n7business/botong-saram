@@ -1,0 +1,31 @@
+---
+id: factory-ax-0298
+domain: factory-ax
+claim: EU에 제품을 수출하거나 수출 기업에 납품하는 제조 사업자는 포장(PPWR)·폐자동차(ELVR) 규정만 볼 것이 아니라, 생기원이 'EU
+  4대 규제'로 꼽은 에코디자인 규정과 배터리 규정까지 우리 제품에 해당하는지 함께 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.kitech.re.kr/pages/61?id=14426&menuMode=READ&q=
+  author: 한국생산기술연구원
+  seen: '2026-11-23'
+  quote: EU 4대 규제*의 최신 동향과 기업 대응 방안을 소개한다.
+  source: 한국생산기술연구원 보도자료
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-02-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- EU규제
+- 에코디자인
+- 배터리규정
+- 수출
+- 공급망
+verified_by: 공식 출처
+---
+생기원은 EU 4대 환경규제로 에코디자인, 배터리, ELVR, PPWR을 꼽고, 기업들이 대응할 방법을 논의하고 있습니다. 포장재나 자동차 부품이 아니더라도 전기·전자제품이나 배터리가 들어간 제품을 EU로 보낸다면 에코디자인 규정이나 배터리 규정을 적용받을 수 있습니다. 우리 회사의 수출 품목과 납품처의 최종 제품이 4개 규정 중 어디에 해당하는지부터 정리해야 합니다. 각 규정의 적용 대상과 시행 시점은 보도자료에 나와 있지 않으므로 EU 원문이나 전문 기관에서 확인해야 합니다.

@@ -1,0 +1,34 @@
+---
+id: licensing-0487
+domain: licensing
+claim: 공장등록증명(자가공장·임대공장)은 정부24 어디서나민원으로 신청해 온라인으로 발급받거나 가까운 행정기관에서 받을 수 있으므로, 대출·입찰·지원사업
+  서류로 공장등록증명이 필요한 제조업자는 관할 시·군·구청까지 가지 않아도 된다.
+status: verified
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://plus.gov.kr/portal/custcntr/utztngd/anywherecvlcpt
+  author: 행정안전부 (정부24)
+  seen: '2026-11-23'
+  quote: 공장등록증명(자가공장·임대공장)
+  source: 정부24
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-05-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민원 처리에 관한 법률
+  article: 제14조
+  effective: '2026-11-23'
+contributor: null
+tags:
+- 어디서나민원
+- 공장등록증명
+- 제조업
+- 정부24
+verified_by: 공식 출처
+mentions: 1
+---
+정부24 어디서나민원 목록에는 공장등록증명(자가공장·임대공장)이 들어 있습니다. 정부24로 신청하면 온라인발급과 방문수령 중 하나를 고를 수 있습니다. 우편수령은 안 됩니다. 정책자금 대출, 입찰, 지원사업 신청에 공장등록증명이 필요한 제조업자는 공장 소재지 관청에 가기 전에 정부24에서 온라인발급을 먼저 해 보세요. 방문수령을 고르면 직접 정한 가까운 행정기관에서 받습니다.

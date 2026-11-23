@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-15'
   quote: 따뜻한 옷, 따뜻한 쉼터(휴식), 따뜻한 물, 작업시간대 조정, 119 신고
   source: 고용노동부 보도자료
+- url: https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20287
+  author: 고용노동부
+  seen: '2026-11-23'
+  quote: 고령자·기저질환자 등 한랭질환에 취약한 노동자에게 적절한 휴식과 보호조치
+  source: 고용노동부 보도자료
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-15'
+last_confirmed: '2026-11-23'
 review_by: '2027-03-15'
 supersedes: null
 superseded_by: null

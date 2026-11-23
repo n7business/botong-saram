@@ -13,7 +13,7 @@ sources:
   quote: 서비스를 통하여 얻은 자료로 인한 손해에 관하여 책임을 지지 않으며
   source: KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-02-20'
 supersedes: null
 superseded_by: null

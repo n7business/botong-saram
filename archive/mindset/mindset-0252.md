@@ -1,0 +1,28 @@
+---
+id: mindset-0252
+domain: mindset
+claim: 전장 배선 실무자 공학자의 자동화 실무(@kwh-Astartech)는 전선 피복을 벗기기 전에 넘버링 튜브를 먼저 끼우는 것을 습관으로
+  들여야 한다고 강조한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=L2yrwv0uAao
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-23'
+  quote: 스트리핑 전에 튜브를 먼저 넣으라고 그랬죠. 습관이 돼야 돼요.
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 작업습관
+- 넘버링튜브
+- 전장배선
+---
+피복을 벗기고 터미널을 압착한 뒤에는 튜브를 끼울 수 없습니다. 그래서 스트리핑 전에 튜브부터 끼우는 순서를 손에 익혀야 다시 작업하는 일이 생기지 않습니다. 이 화자는 전선 스트리핑만 잘해도 배선 속도가 많이 빨라진다며 꾸준히 연습하라고도 말합니다.

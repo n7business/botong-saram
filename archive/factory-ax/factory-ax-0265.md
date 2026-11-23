@@ -13,7 +13,7 @@ sources:
   quote: 기타통신 데이터의 손실이 있을 경우에 당 제조플랫폼은 관련 책임을 지지 아니합니다.
   source: KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-02-20'
 supersedes: null
 superseded_by: null

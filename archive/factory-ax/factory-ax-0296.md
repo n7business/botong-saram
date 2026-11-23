@@ -1,0 +1,30 @@
+---
+id: factory-ax-0296
+domain: factory-ax
+claim: 도면에 T6 계열 알루미늄(60계열) 판재가 지정된 주문을 받은 가공업체는 대개 방산 주문이고 소재 성적서를 내야 하므로, 성적서를 함께
+  주는 공급처에서 소재를 사야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=nKRNgTi5f_8
+  author: 오군아
+  seen: '2026-11-23'
+  quote: 방산이 아니고서는 60 소재를 쓸 이유가 크게 없어요. 왜 그러냐면 이제 성적서 때문이죠.
+  source: 오군아 (@오군아)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- CNC가공
+- 알루미늄
+- 소재성적서
+- 방산
+- MCT
+---
+도면에 60계열(T6) 알루미늄이 지정된 주문은 방산 쪽일 가능성이 높습니다. 이런 주문에서 이 소재를 쓰는 이유는 소재 성적서입니다. 따라서 성적서를 붙여 주는 비철 공급처에서 소재를 받아야 합니다. 방산 주문이 아니면 일반 소재보다 조금 비싼 이 소재를 굳이 쓸 이유가 크지 않다는 것이 화자의 판단입니다. 한 가공업체 대표의 경험이므로, 소재와 성적서 요건은 도면과 발주처 요구사항으로 확인해야 합니다.

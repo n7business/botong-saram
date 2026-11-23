@@ -1,0 +1,35 @@
+---
+id: licensing-0489
+domain: licensing
+claim: 비산먼지발생사업 (변경)신고, 소독업 휴업·재개업·폐업 신고, 자동차관리사업 휴업·재개업·폐업 신고는 정부24 어디서나민원으로 신청할
+  수 있지만 결과는 행정기관에 가서 받아야 하므로, 이 업종 사업자는 온라인으로 낸 뒤 가까운 행정기관을 수령처로 정해야 한다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://plus.gov.kr/portal/custcntr/utztngd/anywherecvlcpt
+  author: 행정안전부 (정부24)
+  seen: '2026-11-23'
+  quote: 비산먼지발생사업 등(변경)신고
+  source: 정부24
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-05-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 민원 처리에 관한 법률
+  article: 제14조
+  effective: '2026-11-23'
+contributor: null
+tags:
+- 어디서나민원
+- 비산먼지
+- 소독업
+- 자동차관리사업
+- 휴폐업신고
+verified_by: 공식 출처
+mentions: 1
+---
+정부24 어디서나민원 목록에서 비산먼지발생사업 등(변경)신고, 소독업 휴업·재개업·폐업 신고, 자동차관리사업 신고(휴업·재개업·폐업)는 정부24로 신청할 수 있습니다. 하지만 수령 방법은 방문만 표시되어 있습니다. 공사 현장이나 사업장이 관할 관청과 멀다면 신청할 때 가까운 행정기관을 수령처로 고르세요. 그러면 관할 관청까지 가지 않아도 됩니다. 온라인발급이나 우편으로는 받을 수 없으니, 결과물을 받으러 갈 일정을 따로 잡아 두세요.

@@ -13,7 +13,7 @@ sources:
   quote: 법원으로부터 집행문을 부여받아 강제집행을 할 수 있는 강력한 효력이 있습니다.
   source: 개인정보보호위원회
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-05-21'
 supersedes: null
 superseded_by: null

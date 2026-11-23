@@ -3,7 +3,7 @@ id: hr-labor-0201
 domain: hr-labor
 claim: 한파 취약사업장은 2026년 11월 17일부터 30일까지 휴게시설 설치·관리기준과 한랭질환 위험요인을 스스로 점검하는 기간이므로, 12월부터
   시작되는 정부 점검 전에 휴게시설과 난방 상태를 미리 정비해야 한다.
-status: verified
+status: stale
 evidence: policy
 confidence: 0.8
 sources:
@@ -16,7 +16,7 @@ first_seen: '2026-11-15'
 last_confirmed: '2026-11-15'
 review_by: '2027-05-14'
 supersedes: null
-superseded_by: null
+superseded_by: hr-labor-0243
 experiment: null
 law_ref:
   law: 산업안전보건법

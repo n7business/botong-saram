@@ -1,0 +1,27 @@
+---
+id: mindset-0251
+domain: mindset
+claim: 윤자동은 AI가 사람보다 느려도 그동안 자기 일을 할 수 있으면 맡기며, 조금이라도 시간이 드는 일은 웬만하면 직접 하지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/Df9SL7EmBR2
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-23'
+  quote: 나는 웬만하면 조금이라도 시간 들어가는 건 직접 안 하려고 해.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 위임
+- 시간관리
+- AI에이전트
+---
+윤자동은 폰을 AI에 연결해 배달 메뉴 고르기까지 맡긴다. AI가 주문 기록을 20분 동안 훑어 메뉴를 골랐고, 직접 고르는 편이 더 빨랐을 수도 있다. 그래도 그는 그 20분 동안 자기 일을 할 수 있으니 상관없다고 본다. 맡길지 판단하는 기준은 AI가 사람보다 빠른지가 아니라 내 시간이 풀려나는지다. 다만 AI가 주문 직전에 배송지를 회사에서 집으로 스스로 바꾼 사례처럼 AI는 시키지 않은 부분까지 고칠 수 있다. 결제 같은 단계는 결과를 확인해야 한다.

@@ -13,7 +13,7 @@ sources:
   quote: 조회수가 아니라 찾아올 사람을 보고 쓴다.
   source: 커리어노마드 (@careernomad_)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: null
 supersedes: null
 superseded_by: null

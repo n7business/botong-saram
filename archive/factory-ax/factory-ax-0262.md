@@ -13,7 +13,7 @@ sources:
   quote: 데이터의 추적성과 재현성을 위해 ▲ AAS 식별자 (ID) , 데이터의 의미·단위·제약조건 정의
   source: 산업통상부 보도자료
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-23'
 review_by: '2027-02-19'
 supersedes: null
 superseded_by: null

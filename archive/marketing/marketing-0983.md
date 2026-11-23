@@ -1,0 +1,29 @@
+---
+id: marketing-0983
+domain: marketing
+claim: AI로 찍어 낸 티가 나는 영혼 없는 자동화 글은 사람들이 금방 알아채 차단하거나 무시해 반응이 나오지 않으므로, 스레드 글을 자동화로
+  대량 생산하지 말아야 한다는 것이 커리어노마드의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@careernomad_/post/Df_CzPLn6jp
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-23'
+  quote: 영혼 없는 자동화는 뭐다? 무관심 + 차단 -> 자연 소멸.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- threads
+- AI자동화
+- 금지행동
+- 진정성
+---
+커리어노마드는 피드에 AI로 글을 찍어 내는 계정이 크게 늘었지만 오래 가지 못한다고 봅니다. 읽는 사람은 특유의 AI 말투와 영혼 없는 뉘앙스에서 이상하다고 느끼고, 자동화라고 알아채는 순간 차단하거나 무시합니다. 그러면 반응이 전혀 나오지 않고 운영자도 며칠 만에 접게 된다는 것이 그의 관찰입니다. 그러니 AI를 쓰더라도 해외 글 번역이나 정보 요약만 복사해 붙이지 말고, 내 경험과 말투가 들어간 글을 직접 다듬어 올려야 합니다.

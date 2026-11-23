@@ -1,0 +1,28 @@
+---
+id: factory-ax-0287
+domain: factory-ax
+claim: SMPS 1차측에는 일반 터미널이 아니라 핀 터미널을 써야 하고, 핀 단자로 된 노이즈 필터에는 납땜을 하거나 평단자 터미널을 써야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=L2yrwv0uAao
+  author: 공학자의 자동화 실무 (@kwh-Astartech)
+  seen: '2026-11-23'
+  quote: SMPS 1차측에는 일반 터미널이 아니라 핀 터미널을 써야 합니다.
+  source: 공학자의 자동화 실무 (@kwh-Astartech)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- SMPS
+- 노이즈필터
+- 압착단자
+- 전장배선
+---
+기기마다 맞는 단자 형태가 정해져 있습니다. SMPS 1차측은 핀 터미널을 써서 덕트 구멍과 일직선이 되게 넣고 조입니다. 노이즈 필터처럼 핀 단자로 된 기기는 납땜으로 잇거나 평단자 터미널을 씁니다. 배선 전에 제조사 단자 배치도로 단자 형태를 먼저 확인하세요.

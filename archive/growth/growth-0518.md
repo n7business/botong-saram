@@ -13,7 +13,7 @@ sources:
   quote: 제일 비싼 AI만 쓰면 오히려 손해더라... 나는 기본 sonnet, 무거운 것만 opus
   source: 태오의 실행비즈니스 (@teo_daily_business)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: null
 supersedes: null
 superseded_by: null

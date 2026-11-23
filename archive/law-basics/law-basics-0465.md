@@ -13,7 +13,7 @@ sources:
   quote: 3천만원 이하의 과태료가 부과되오니 72시간 이내 신고하여 주시기 바랍니다.
   source: 개인정보보호위원회
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-05-21'
 supersedes: null
 superseded_by: null

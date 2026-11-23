@@ -1,0 +1,33 @@
+---
+id: hr-labor-0247
+domain: hr-labor
+claim: 국가기술자격증 불법 대여 자진신고는 2026년 11월 30일까지 한국산업인력공단에 팩스·우편·이메일로 낼 수 있고 형사처벌 때 선처를
+  요청받을 수 있지만, 자격취소 처분은 줄어들지 않는다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20286
+  author: 고용노동부
+  seen: '2026-11-23'
+  quote: 다만, 자진신고를 하더라도 자격취소 등 행정처분은 감경되지 않는다.
+  source: 고용노동부 보도자료
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2026-11-30'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 국가기술자격법
+  article: 제16조 제1항
+  effective: '2026-11-23'
+contributor: null
+tags:
+- 국가기술자격증
+- 자진신고
+- 자격취소
+- 한국산업인력공단
+verified_by: 공식 출처
+---
+정부는 합동단속에 앞서 2026년 11월 16일부터 30일까지 15일 동안 자진신고 기간을 운영합니다. 자진신고하려면 한국산업인력공단에 자진신고서를 작성해 팩스, 우편, 이메일 등으로 내면 됩니다. 기간 안에 스스로 신고한 사람은 자진신고와 반성 등의 사정을 형사처벌 과정에서 고려해 달라고 정부가 사법당국에 요청합니다. 다만 자격증을 빌려준 사람은 국가기술자격법 제16조 제1항에 따른 자격취소 대상이라 자진신고를 해도 행정처분은 감경되지 않습니다. 자진신고한다고 모든 불이익이 없어지는 것은 아니므로 등록 요건을 어떻게 다시 채울지도 함께 준비해야 합니다.

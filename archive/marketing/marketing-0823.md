@@ -3,7 +3,7 @@ id: marketing-0823
 domain: marketing
 claim: 웹마스터도구에 사이트맵과 RSS를 제출할 때 링크를 상대 경로로 적거나 등록한 사이트와 다른 호스트 주소를 넣으면 네이버가 수집하지 않으므로,
   전체 주소(절대 경로)로 적어야 합니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.85
 sources:
@@ -28,5 +28,6 @@ tags:
 - RSS
 verified_by: 공식 출처
 mentions: 1
+merged_into: marketing-0537
 ---
 웹마스터도구의 '요청-사이트맵 제출' 메뉴에서 사이트 안 페이지 목록을 담은 XML 사이트맵을 제출하세요. 최신 글은 '요청-RSS 제출' 메뉴에서 본문 전체를 담은 RSS로 제출하세요. 사이트맵과 RSS 안의 링크를 '/page1'처럼 상대 경로로 적거나 등록한 사이트와 다른 호스트로 적으면 네이버가 그 링크를 수집하지 않습니다. 링크는 'http://www.mysite.com/page1'처럼 등록한 주소로 시작하는 전체 주소로 적으세요. robots.txt에 'Sitemap: http://www.example.com/sitemap.xml' 줄을 넣어 사이트맵 위치를 알려 줄 수도 있습니다.

@@ -1,0 +1,30 @@
+---
+id: factory-ax-0294
+domain: factory-ax
+claim: 스마트공장 수준을 단계적으로 올리려는 제조 사업자는 사람·설비·자재·작업방법·환경(4M+1E) 각각의 상태를 실시간 디지털 값으로 측정하고
+  통신으로 주고받을 수 있게 만드는 것부터 계획해야 하며, 정부는 이를 스마트공장 5대 요건의 첫째로 둔다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.smart-factory.kr/usr/pr/sf/ma/smrtFctryIntrcn
+  author: 중소기업기술정보진흥원(TIPA) 스마트제조혁신추진단
+  seen: '2026-11-23'
+  quote: 실시간으로 디지털 값을 인지하고, 측정 가능한 정보를 제공해야 하며, 통신을 통해 대화가 가능해야 함
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-02-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 4M1E
+- 데이터수집
+- 수준향상
+verified_by: 공식 출처
+---
+스마트제조혁신추진단은 스마트공장을 만들고 수준을 올리는 데 꼭 필요한 다섯 가지 조건을 제시하고, 그 첫째로 4M+1E의 디지털화를 꼽습니다. 4M+1E는 사람(Man), 설비(Machinery), 자재(Material), 작업방법(Method), 환경(Environment)입니다. 이 다섯 요소의 상태를 실시간 디지털 값으로 읽고 측정할 수 있어야 하며, 통신으로 주고받을 수도 있어야 합니다. AI 분석(지능화)이나 시스템 통합 같은 나머지 요건은 이 데이터가 갖춰져 있어야 진행할 수 있습니다. 따라서 솔루션을 고르기 전에 우리 공장에서 아직 수작업으로 기록하는 요소가 무엇인지부터 점검하는 것이 순서입니다.

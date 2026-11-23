@@ -13,7 +13,7 @@ sources:
   quote: 3 개 등급 (AAA~A) 으로 지정 , 특례 ( 포괄수출허가 등 ) 부여
   source: 산업통상부 보도자료
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-02-20'
 supersedes: null
 superseded_by: null

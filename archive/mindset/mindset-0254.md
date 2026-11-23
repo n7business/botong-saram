@@ -1,0 +1,29 @@
+---
+id: mindset-0254
+domain: mindset
+claim: AI의 먼 미래에 대한 전문가 전망은 나중에 틀릴 가능성이 높으니, 결론을 믿기보다 그 답에 이르는 사고 과정을 참고하려고 들어야 한다는
+  것이 캡선생 김용석의 원칙이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@kap_writing/post/Df3NvzmH5sh
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-23'
+  quote: 그 답에 도달하기까지의 사고 과정을 참고하기 위해서다.
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI
+- 판단기준
+- 전문가의견
+- 사고방식
+---
+캡선생 김용석은 AI의 먼 미래를 내다보는 전문가 대부분의 말이 훗날 틀린 것으로 드러날 확률이 높다고 본다. 그래도 그는 그들의 말을 듣는다. 결론을 그대로 받아들이려는 게 아니라 그 결론에 이르기까지 어떻게 생각했는지를 참고하기 위해서다. 사장이 AI 도입이나 사업 방향을 판단할 때도 전문가의 예측 숫자나 단정을 그대로 따르지 말고, 어떤 근거로 어떻게 추론했는지를 뜯어보고 자기 판단에 쓰는 편이 낫다. 다만 이것은 한 사람이 밝힌 개인 원칙이고, 효과를 수치로 보여 준 것은 아니다.

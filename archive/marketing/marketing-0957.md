@@ -1,0 +1,31 @@
+---
+id: marketing-0957
+domain: marketing
+claim: YouTube 스튜디오에 물어보기에는 한 번에 이미지를 최대 10개까지 올릴 수 있으므로, 썸네일 시안 여러 개를 함께 올려 나란히 비교하고
+  콘셉트를 다듬을 때 쓸 수 있습니다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://support.google.com/youtube/thread/477817574
+  author: Myounggeun - TeamYouTube
+  seen: '2026-11-23'
+  quote: 한 번에 최대 10개의 이미지를 업로드할 수 있어
+  source: YouTube 크리에이터 (한국 공식 채널)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-01-22'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- youtube
+- 스튜디오
+- 썸네일
+- AI도구
+- 모바일
+verified_by: 공식 출처
+---
+YouTube 스튜디오에 물어보기는 이제 Android·iPhone용 YouTube 스튜디오 모바일 앱에서도 쓸 수 있습니다. 대상은 자격 요건을 갖춘 크리에이터입니다. 한 번에 이미지를 최대 10개까지 올릴 수 있어서, 썸네일 시안 여러 개를 함께 넣고 비교하거나 참고 그래픽을 보여 주고 세트·그래픽 오버레이 아이디어를 얻을 수 있습니다. 디자이너 없이 썸네일을 직접 만드는 사장이라면, 올리기 전에 시안을 몇 개 만들어 비교해 보는 데 쓰면 됩니다. 최종 결정은 실제 성과 데이터와 함께 판단해야 합니다.

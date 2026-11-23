@@ -13,7 +13,7 @@ sources:
   quote: 채널의 일반적인 평균보다 훨씬 높은 실적을 보이는 동영상을 살펴보고
   source: YouTube 크리에이터 (한국 공식 채널)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-01-21'
 supersedes: null
 superseded_by: null

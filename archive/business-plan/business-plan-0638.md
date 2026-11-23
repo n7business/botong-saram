@@ -1,0 +1,29 @@
+---
+id: business-plan-0638
+domain: business-plan
+claim: 경쟁사가 허위 정보로 공격할 때는 오래 참지 말고 곧바로 적법한 법적 조치와 정확한 정보 제공으로 대응해야 하지만, '무조건 경쟁사보다
+  싸게' 같은 감정적 맞대응은 피하고 가격·마케팅은 자기 회사 이익을 기준으로 정해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://eopla.net/magazines/49331
+  author: 서진원
+  seen: '2026-11-23'
+  quote: 허위 정보에는 적법한 법적 조치로 대응해야 합니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 경쟁대응
+- 가격전략
+- 허위정보
+- 사업전략
+---
+부당한 공격을 그냥 두면 상대가 공격을 되풀이하고 피해도 커집니다. 사례의 회사는 1년쯤 대응을 미루다 시장점유율 1위를 잠시 내주었습니다. 그 뒤에는 경쟁사보다 무조건 싸게 팔고 광고비를 크게 늘리는 감정적 대응에 나서 스스로 피해를 키울 위험에 빠졌습니다. 허위 정보에는 법적 조치로, 소비자의 오해에는 정확한 정보로 대응해야 합니다. 가격과 마케팅은 이익을 기준으로 따로 판단해야 합니다. 이기는 것과 이익을 얻는 것은 다릅니다.

@@ -1,0 +1,33 @@
+---
+id: growth-0530
+domain: growth
+claim: 영업 메일 대상을 모으려고 소상공인365 같은 공공기관 사이트에 올라온 담당자 이메일 주소를 크롤러 같은 프로그램으로 긁어 모으면 안
+  되며, 사이트가 무단 수집을 거부한다고 밝혀 두었으므로 형사처벌을 받을 수 있다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://bigdata.sbiz.or.kr/#/conts/148087511491522560
+  author: 소상공인시장진흥공단
+  seen: '2026-11-23'
+  quote: 이메일 주소 수집 프로그램이나 그 밖의 기술적 장치를 사용하여 무단으로 수집되는 것을 거부
+  source: 소상공인365 (소진공 빅데이터 플랫폼)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: '2027-02-21'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 정보통신망 이용촉진 및 정보보호 등에 관한 법률
+  article: 제50조의2
+  effective: '2026-11-23'
+contributor: null
+tags:
+- 이메일수집
+- 영업메일
+- 정보통신망법
+- B2B마케팅
+verified_by: 공식 출처
+---
+소상공인365는 게시된 이메일 주소를 수집 프로그램이나 그 밖의 기술적 장치로 무단 수집하는 것을 거부한다고 공지합니다. 이를 어기면 정보통신망법에 따라 형사처벌을 받을 수 있습니다. 지원사업 공고에 담당자 이메일이 많이 실려 있어도 이를 모아 B2B 홍보 메일 목록으로 쓰면 안 됩니다. 문의할 일이 있으면 공고에 적힌 연락처로 한 건씩 연락해야 합니다.

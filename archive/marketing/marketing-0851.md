@@ -27,5 +27,6 @@ tags:
 - robots.txt
 - 웹마스터도구
 verified_by: 공식 출처
+mentions: 1
 ---
 http://www.example.com/robots.txt에 적은 규칙은 http://example.com/이나 https://example.com/에는 적용되지 않습니다. 그래서 한쪽에만 차단이나 허용 규칙을 걸면 다른 주소에서는 의도와 다르게 수집될 수 있습니다. robots.txt 파일이 없거나 4xx로 응답하면 네이버는 모든 페이지를 수집해도 되는 것으로 봅니다. 수정한 뒤에는 웹마스터도구 robots.txt 도구에서 수집 요청을 누르고, 페이지별 수집 가능 여부도 테스트해 보세요.

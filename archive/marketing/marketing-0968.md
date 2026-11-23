@@ -1,0 +1,30 @@
+---
+id: marketing-0968
+domain: marketing
+claim: 인스타그램 광고는 광고처럼 보이는 일반 프로필로 내보내기보다 '누구누구와 함께합니다' 형태의 파트너십 광고 프로필로 내보내야 클릭률이
+  더 오른다는 것이 마케팅쉐어 이과장의 주장입니다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=G20TtWkZRBs
+  author: 마케팅쉐어 이과장
+  seen: '2026-11-23'
+  quote: 누구와 함께합니다. 이런 식으로 광고 프로필을 나가야 돼요.
+  source: 마케팅쉐어 이과장 (@마케팅쉐어)
+first_seen: '2026-11-23'
+last_confirmed: '2026-11-23'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 메타광고
+- 인스타그램광고
+- 파트너십광고
+- 광고프로필
+- 클릭률
+---
+이과장은 예전에는 인스타 연동 없이 '뷰티 꿀팁', '언니들의 노하우'처럼 눈길을 끄는 한글 페이스북 페이지 이름으로 인스타 광고를 내보내라고 안내했습니다. 지금은 인플루언서와 함께하는 파트너십 광고 프로필로 내보내라고 권합니다. 이유는 너무 광고처럼 보이는 것보다 자연스럽게 보이는 광고가 클릭을 더 많이 이끌기 때문이라고 합니다. 다만 이는 한 대행사의 운영 경험이며 클릭률 수치를 공개하지는 않았습니다.

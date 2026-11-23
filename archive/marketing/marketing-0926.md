@@ -24,7 +24,7 @@ sources:
   quote: 이번 변경사항은 공개 조회수만 업데이트합니다. 수익, 광고 수익 배분, YouTube 파트너 프로그램(YPP) 요건은 변경되지 않습니다.
   source: YouTube 크리에이터 (한국 공식 채널)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-23'
 review_by: '2027-01-19'
 supersedes: null
 superseded_by: null
