@@ -13,7 +13,7 @@ sources:
   quote: 국세·지방세를 체납하였거나 신용불량 거래자인 경우
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-23'
-last_confirmed: '2026-11-23'
+last_confirmed: '2026-11-24'
 review_by: '2027-03-23'
 supersedes: null
 superseded_by: null

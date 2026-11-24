@@ -1,0 +1,32 @@
+---
+id: business-plan-0653
+domain: business-plan
+claim: 인제군 소재 중소 제조·유통기업이 해외 특판행사 체제비(항공권·숙박, 1명 250만 원 한도)를 받으려면 2026년 1월 1일 이후 수출
+  실적이 있어야 하고, 회사 관계자가 직접 출장을 가야 하며, 현지에 머문 기간의 50% 이상을 특판행사에 참가해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.bizinfo.go.kr/sii/siia/selectSIIA200Detail.do?pblancId=PBLN_000000000128082
+  author: 강원특별자치도·강원특별자치도경제진흥원
+  seen: '2026-11-24'
+  quote: 현지 국가 체류기간 중 특판행사 참가 기간이 50% 이상인 경우
+  source: 기업마당 지원사업 공고
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2027-03-24'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 강원
+- 인제군
+- 수출
+- 해외특판
+- 체제비
+- 예산소진시마감
+verified_by: 공식 출처
+---
+강원 인제군의 「2026년 개별기업 해외 특판행사 참가 지원사업」은 인제군에 있는 중소 제조·유통기업이 대상이다. 세 가지를 모두 갖춰야 하는데, 2026-01-01 이후 해외 수출 실적이 있을 것, 회사 관계자가 직접 출장 가서 특판행사에 참여할 것, 현지 체류기간 가운데 특판행사 참가 기간이 50% 이상일 것이다. 특판행사 앞뒤로 다른 일정을 길게 붙이면 50% 요건에 걸릴 수 있으니 출장 일정을 짤 때부터 맞춰야 한다. 지원은 기업당 1명분 항공권·숙박비로 250만 원까지다. 접수는 강원특별자치도경제진흥원 이메일(dslee@gwep.or.kr)로 받고, 예산이 떨어지면 마감된다.

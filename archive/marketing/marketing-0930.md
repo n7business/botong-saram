@@ -13,7 +13,7 @@ sources:
   quote: '''야간 두드러기 병원''을 검색하면 ''피부·탈모'' 분야 안에서 두드러기가 선택되고, ''야간/휴일'' 조건도 함께 적용됩니다.'
   source: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-24'
 review_by: '2027-01-21'
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0501
 domain: business-plan
 claim: 펨테크 분야 창업자나 투자처를 찾는 투자자는 2026-11-23 18:00까지 온라인으로 사전 등록하면 11월 24일 서울 강남구 팁스홀에서
   열리는 2026 펨테크 산업 육성사업 데모데이에서 선발 스타트업들의 IR 발표를 선착순으로 무료 참관할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.75
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-18'
 last_confirmed: '2026-11-18'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

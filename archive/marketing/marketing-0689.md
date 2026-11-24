@@ -37,8 +37,13 @@ sources:
   seen: '2026-11-11'
   quote: 아침3개, 저녁3개 꾸준히 업로드해라.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df1xe_ckhk6
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-19'
+  quote: 6. 내게시글 댓글은 ‘질문형’으로 대댓해라.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-14'
-last_confirmed: '2026-11-14'
+last_confirmed: '2026-11-19'
 review_by: null
 supersedes: null
 superseded_by: null
@@ -50,6 +55,6 @@ tags:
 - 발행빈도
 - 댓글
 - 대댓글
-mentions: 6
+mentions: 7
 ---
 빌리쌤은 하루 게시글 5개, 댓글 30개를 매일의 기본값으로 제시합니다. 스레드를 잘하는 사람들은 하루에 다는 댓글도 최소 30개 이상이라고 합니다. 내 글에 댓글이 달리면 질문으로 끝나는 대댓글을 다세요. 그래야 대화가 이어지고 반응이 쌓입니다. 글을 쓸 때부터 댓글이 달릴 만한 '틈'을 일부러 남겨 두라고도 권합니다. 화자 한 사람의 경험에서 나온 기준이므로, 생업이 우선이라는 화자 본인의 단서처럼 자기 형편에 맞게 조절해야 합니다.

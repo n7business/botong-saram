@@ -1,0 +1,28 @@
+---
+id: ai-tools-0775
+domain: ai-tools
+claim: 숏드라마에 내 상품이나 제휴 상품을 넣을 때는 상품을 화면에 보여 주는 데서 그치지 말고, 그 상품이 이야기 속에서 주인공의 문제를 해결하게
+  써야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=oaZd3Oa3Uoo
+  author: 코드깎는노인
+  seen: '2026-11-24'
+  quote: 이야기 속에서 그 상품이 주인공의 문제를 해결하게 만듭니다.
+  source: 코드깎는노인
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 숏드라마
+- PPL
+- 제휴마케팅
+---
+숏드라마로 돈을 버는 방법 중 하나는 드라마 안에 상품을 넣는 것입니다. 이때 상품은 주인공의 문제를 푸는 열쇠가 되어야 합니다. 예시 영상에서는 잠 못 자는 남자에게 양들이 베개를 가져다주고, 그 베개가 문제를 해결합니다. 다른 회사 상품이라면 설명란에 제휴 링크를 달아 두면 됩니다. 누가 그 링크로 살 때마다 판매 회사가 수수료를 줍니다. 어떤 방법이든 수입이 보장되지는 않습니다.

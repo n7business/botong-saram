@@ -3,7 +3,7 @@ id: business-plan-0599
 domain: business-plan
 claim: 창업·투자·기술경영 분야 경력이 2년 이상인 창업기업 대표나 투자심사역은 2026-11-23 16:00까지 온라인으로 신청하면 「올해의
   K-스타트업 2026」 왕중왕전 청중평가단에 뽑힐 수 있지만, 12월 10일 발표평가 전체 일정에 본인이 직접 참석해야 하고 대리 참석은 안 된다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

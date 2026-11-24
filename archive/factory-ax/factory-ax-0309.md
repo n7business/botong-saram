@@ -1,0 +1,32 @@
+---
+id: factory-ax-0309
+domain: factory-ax
+claim: 정부일반형 스마트공장 구축 지원은 정부지원금이 사업비의 50% 이내(수준을 올리는 고도화 과제는 최대 9개월·2억 원 한도)이므로, 신청하려는
+  제조 사업자는 받을 지원금과 같은 금액 이상을 자부담할 자금을 신청 전에 마련해 두어야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.smart-factory.kr/usr/bg/si/ma/sprtBizItdc
+  author: 중소기업기술정보진흥원(TIPA) 인공지능혁신추진단
+  seen: '2026-11-24'
+  quote: "고도화\t최대 9개월, 2억원\t50% 이내"
+  source: 스마트공장 사업관리시스템(스마트제조혁신추진단)
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2027-02-18'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 정부지원
+- 고도화
+- 자부담
+- 지원한도
+verified_by: 공식 출처
+mentions: 1
+---
+정부일반형 스마트공장 사업에서 수준을 올리는 고도화 과제는 최대 9개월 동안 2억 원까지 지원됩니다. 수준을 올리지 않는 동일수준 재신청은 6개월·0.5억 원까지만 지원됩니다. 어느 쪽이든 정부지원금은 사업비의 50% 이내입니다. 따라서 2억 원을 다 받으려면 총사업비가 4억 원 이상이어야 하고, 나머지 2억 원 이상은 회사가 부담해야 합니다. 지원과제가 265개 안팎으로 정해져 있으니 신청 전에 자부담 자금과 9개월 안에 끝낼 수 있는 일정을 함께 확보해 두세요.

@@ -1,0 +1,30 @@
+---
+id: ai-tools-0756
+domain: ai-tools
+claim: 업무 시스템을 AI로 바꾸기 전에는 지난 1년간 손으로 입력하는 데 든 시간과 시스템 밖에서 따로 처리한 건수를 먼저 세어 두어야 한다.
+  그래야 나중에 개선 효과를 비교할 수 있다.
+status: verified
+evidence: observed
+confidence: 0.6
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4052/
+  author: 오윤성 (위시켓 AIDP FDE)
+  seen: '2026-11-24'
+  quote: 지난 12개월 동안 손으로 입력하는 데 든 시간을 세어 보니 약 2,843시간
+  source: 요즘IT
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2026-12-24'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 성과측정
+- 기준선
+- ERP
+- 수기입력
+verified_by: 실무자 실측(단일 출처)
+---
+이 회사는 지난 12개월 수기 입력 시간을 세어 보니 약 2,843시간이었습니다. 직원 1.4명이 1년 내내 입력만 한 셈입니다. 딸린 사업장에서는 세금계산서 82장(3주)을 홈택스에서 손으로 발행했습니다. 현금영수증도 27일 동안 591건을 ERP 밖에서 따로 발행했습니다. 화자는 이 값을 프로젝트 시작 때 재 두었고, 유지보수를 넘긴 뒤 다시 재서 비교할 계획입니다. 이렇게 시작 전 숫자가 있어야 도입 효과를 감이 아니라 숫자로 판단할 수 있습니다.

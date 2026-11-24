@@ -4,7 +4,7 @@ domain: business-plan
 claim: 전남광주 북구에 있는 공공임대주택 상가 청년창업공간은 만 19~35세 예비창업자나 창업 3년 이내 청년창업기업이 2026-12-04 18:00까지
   북구청 방문이나 이메일(espoirbr@korea.kr)로 신청하면 약 15평 개별 사무실을 월세·보증금 없이 2년(1회 2년 연장 가능) 쓸
   수 있지만, 5개사만 뽑고 전기료 같은 사용료는 따로 낸다.
-status: candidate
+status: verified
 evidence: policy
 confidence: 0.85
 sources:
@@ -13,9 +13,14 @@ sources:
   seen: '2026-11-20'
   quote: 개별 사무실 무상 제공 (월세 및 보증금 무료, 전기료 등 사용료는 별도)
   source: 벤처스퀘어 지원사업 아카이브
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179773
+  author: 전남광주통합특별시 북구청
+  seen: '2026-11-24'
+  quote: 개별 사무실 무상 제공 (월세 및 보증금 무료, 전기료 등 사용료는 별도)
+  source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-20'
-review_by: null
+last_confirmed: '2026-11-24'
+review_by: '2026-12-04'
 supersedes: null
 superseded_by: null
 experiment: null
@@ -28,5 +33,7 @@ tags:
 - 창업공간
 - 입주모집
 - 2026-12
+mentions: 2
+verified_by: 공식 출처
 ---
 공고일(2026-11-09) 기준으로 1990-11-10부터 2007-11-09 사이에 태어나야 하고, 이미 창업했다면 2023-11-10 이후 등록한 개인·법인사업자여야 합니다. 예비창업자는 선정된 뒤 6개월 안에 창업해야 합니다. 사무실은 북구 군왕로207번길 16(각화 주공 상가 지하)에 있습니다. 입주 계약 후 3개월 안에 들어가야 하며, 월세와 보증금은 없지만 전기료 같은 사용료는 직접 냅니다. 1차 서류심사 결과는 12월 10일에 나오고, 합격자는 3분 안팎 발표로 2차 대면심사를 받습니다. 문의는 북구 청년일자리팀(062-410-8225)으로 하면 됩니다.

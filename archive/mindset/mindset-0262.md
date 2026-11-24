@@ -1,0 +1,28 @@
+---
+id: mindset-0262
+domain: mindset
+claim: 안대장TV는 '어떻게 하면 돈을 더 벌까'가 아니라 '저 사람이 나에게 돈을 쓰고 나면 무엇이 좋아지지?'를 먼저 묻는 것을 자기 사업의
+  핵심 원칙으로 삼는다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=uff1i1LlHUM
+  author: 안대장TV (@angyuho85)
+  seen: '2026-11-24'
+  quote: 질문을 먼저 바꾸셔야 돼요.
+  source: 안대장TV (@angyuho85)
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 사장의원칙
+- 고객관점
+- 창업준비
+---
+화자는 같은 시간 일해도 고객을 쫓아다니는 사람과 고객이 먼저 찾아오는 사람이 갈리는 이유로 '내가 고객에게 무엇을 주고 있는가'를 꼽는다. 이를 실천하는 방법으로 세 문장을 적어 보라고 권한다. 나는 어떤 사람을 도울 수 있는가, 어떤 상황에 공감할 수 있는가, 그 사람들이 지금 가장 답답해하는 것은 무엇인가. 아이템을 고르기 전에 이 세 문장부터 적어 보는 것이 그가 말하는 출발점이다.

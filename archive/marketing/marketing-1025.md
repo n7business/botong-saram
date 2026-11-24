@@ -1,0 +1,29 @@
+---
+id: marketing-1025
+domain: marketing
+claim: 스레드에서는 글 한 편을 며칠씩 다듬지 말고 매일 날것의 생각을 여러 번 올려 시장 반응을 시험하는 '압도적인 타석 수'가 판을 뒤집는다는
+  것이 스레드에 글 약 9,300개를 쓴 커리어노마드의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@careernomad_/post/DgCIci_H2-8
+  author: 커리어노마드 (@careernomad_)
+  seen: '2026-11-24'
+  quote: 판을 뒤집는 건 [압도적인 타석 수]더라.
+  source: 커리어노마드 (@careernomad_)
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- threads
+- 게시빈도
+- 알고리즘
+- 테스트
+---
+커리어노마드는 스레드에 글을 9,300개쯤 써 보니 결과를 바꾼 것은 글 한 편의 완성도가 아니라 많이 올린 횟수였다고 말합니다. 글 하나를 잘 쓰려고 며칠씩 붙잡고 있으면 알고리즘을 타기 어렵다고 합니다. 매일 다듬지 않은 생각을 가볍게 올리고, 반응을 보며 자기만의 색을 찾아가라고 권합니다. 매일 꾸준히 쓰라는 marketing-0942·marketing-0980과 같은 방향의 조언입니다. 다만 AI로 대량 생산한 글은 반응이 없다는 marketing-0983을 함께 고려해, 양을 늘리더라도 직접 쓴 생각이어야 합니다.

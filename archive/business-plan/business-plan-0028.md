@@ -3,7 +3,7 @@ id: business-plan-0028
 domain: business-plan
 claim: 2026-11-23 마감인 '2027년도 초기창업·창업도약 패키지 신규 주관기관 모집'은 창업기업을 뽑는 공고가 아니라 사업을 운영할
   대학·공공기관·민간기관을 뽑는 공고이므로 창업자는 여기에 신청하지 말고 2027년 1분기 창업기업 모집 공고를 기다려야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -19,7 +19,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-03'
 last_confirmed: '2026-11-03'
-review_by: '2027-03-03'
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

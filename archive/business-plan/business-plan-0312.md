@@ -3,7 +3,7 @@ id: business-plan-0312
 domain: business-plan
 claim: 5년 이상 중·장기복무 제대(예정) 군인이나 전역 3년 이내의 일부 의무복무 제대군인은 2026-11-23 23:59까지 신청하면 11월
   24일 부산지방보훈청에서 정부지원사업 종류와 사업계획서 작성법 강의를 무료로 들을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

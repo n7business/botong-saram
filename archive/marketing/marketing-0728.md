@@ -3,7 +3,7 @@ id: marketing-0728
 domain: marketing
 claim: 스레드에서는 내 주제의 상위 계정(최상위 10명 또는 1등 계정)을 팔로우하고 알림 신청을 해 두고 매일 글을 보며 벤치마킹해야 한다는
   것이 빌리쌤의 주장이다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.5
 sources:
@@ -51,5 +51,6 @@ tags:
 - 대형계정
 - 알림신청
 mentions: 6
+merged_into: marketing-0830
 ---
 같은 주제에서 가장 잘하는 계정 10명 정도를 찾아 팔로우하고 알림 신청을 해 두세요. 그들의 글을 매일 보며 후킹, 글 형식, 올리는 시간을 따라 배우고 댓글로 가까워지라고 빌리쌤은 권합니다. 빌리쌤은 대형 계정을 성장의 '오픈 북'이라 부르며, 잘하는 사람의 패턴을 옆에서 배우면 시행착오를 줄일 수 있다고 말합니다.

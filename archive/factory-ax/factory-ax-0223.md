@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-19'
   quote: 해결할 업무를 먼저 정하도록 권고했다
   source: 헬로티
+- url: https://www.kidd.co.kr/news/248237
+  author: 산업일보 김진성 기자
+  seen: '2026-11-24'
+  quote: 데이터 관리 체계가 마련되지 않은 상태에서 AI를 먼저 도입하면 결과의 신뢰성과 활용성을 확보하기 어렵기 때문이다.
+  source: 산업일보
 first_seen: '2026-11-19'
-last_confirmed: '2026-11-19'
+last_confirmed: '2026-11-24'
 review_by: null
 supersedes: null
 superseded_by: null

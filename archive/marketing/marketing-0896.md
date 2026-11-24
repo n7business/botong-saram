@@ -3,7 +3,7 @@ id: marketing-0896
 domain: marketing
 claim: 서버 부담 등으로 네이버 검색로봇을 잠시 막아야 한다면 robots.txt로 차단하지 말고 웹마스터도구 수집 설정에서 트래픽 제한량을
   최소로 지정해야 하며, robots.txt로 막으면 그동안 수집된 문서가 네이버 검색에서 빠질 수 있습니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.85
 sources:
@@ -26,5 +26,6 @@ tags:
 - robots.txt
 - 트래픽제한
 verified_by: 공식 출처
+merged_into: marketing-0999
 ---
 사이트 성능 문제나 내부 사정으로 네이버 검색로봇의 방문을 잠시 줄이거나 막고 싶을 때가 있습니다. 이때는 웹마스터도구 수집 설정에서 트래픽 제한량을 최소로 지정하는 방법이 권장됩니다. robots.txt로 막을 수도 있지만, 그러면 차단 기간 동안 이미 수집된 사이트 문서가 네이버 검색 결과에서 제외될 수 있습니다. 일시적인 조치에는 robots.txt를 쓰지 말고 트래픽 제한을 쓰세요.

@@ -3,7 +3,7 @@ id: business-plan-0621
 domain: business-plan
 claim: 2027년에는 모두의창업 플랫폼 운영업체를 다시 지정할 예정이라는 국회 발언이 있었으므로, 예비창업자는 기업마당과 K-Startup에
   '모두의창업' 키워드 알림을 걸어 두고, 실제 접수는 기존 사이트 주소가 아니라 공고문에 적힌 접수 링크로 해야 한다.
-status: candidate
+status: merged
 evidence: consensus
 confidence: 0.6
 sources:
@@ -27,5 +27,6 @@ tags:
 - 알림
 - 접수채널
 mentions: 1
+merged_into: business-plan-0510
 ---
 모두의창업은 지금까지 modoo.or.kr 플랫폼에서 온라인으로 접수했습니다. 하지만 2027년에는 플랫폼 운영업체를 다시 지정할 예정이라는 국회 발언(2026-10-08 보도)이 있어 접수 채널이 바뀔 수 있습니다. 기업마당(bizinfo.go.kr)과 K-Startup(k-startup.go.kr)에 '모두의창업' 키워드 알림을 등록해 두면 공고가 올라오는 시점을 놓치지 않습니다. 접수할 때는 최신 공고문의 접수 링크를 기준으로 하세요.

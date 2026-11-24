@@ -17,3 +17,15 @@
   > 대형 계정을 통해 노출과 관계를 동시에 얻어라.
 - 빌리쌤 (@billy___ssam) · 2026-11-23 · https://www.threads.com/@billy___ssam/post/Df6_a3Okdwd
   > 일부러 대형계정과 친해지며 곁에서 배웠다.
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/Dfrlf4PjxPW
+  > 자신의 주제의 최상위 10명 팔로우 하기
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrjnUvjyr2
+  > 같은 주제, 1등 계정을 알림신청하고 체크하기.
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo06S7DYcH
+  > 같은 주제, 1등 계정을 알림신청하고 체크하기.
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo1WebDgLK
+  > 대형 계정 ‘알림‘신청하고 벤치마킹해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfhbb98Dbs_
+  > 대형 계정 ‘알림‘신청하고 벤치마킹해라.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha-8JDwLB
+  > 대형 계정은 성장하기 위한 '오픈 북'이다.

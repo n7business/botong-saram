@@ -17,3 +17,5 @@
   > 1. 프로필은 자기소개가 아니라 '팔로우할 이유'를 담자.
 - 빌리쌤 (@billy___ssam) · 2026-11-22 · https://www.threads.com/@billy___ssam/post/Df7AMKUFJta
   > 2. 고정 게시글은 <확실한 근거>남기기
+- 빌리쌤 (@billy___ssam) · 2026-11-14 · https://www.threads.com/@billy___ssam/post/Dfrlf4PjxPW
+  > 고정 게시글은 <확실한 근거>남기기

@@ -23,7 +23,7 @@ sources:
   quote: 청사 이전 후에는 기존 목동 청사(양천구 목동동로 151)에서 업무를 진행하지 않습니다.
   source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-23'
-last_confirmed: '2026-11-23'
+last_confirmed: '2026-11-24'
 review_by: null
 supersedes: null
 superseded_by: null

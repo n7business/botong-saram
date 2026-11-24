@@ -1,0 +1,29 @@
+---
+id: growth-0561
+domain: growth
+claim: 토스페이먼츠 지급대행에서 권한 분리를 켰다면 승인자를 1명만 두지 말고 최대 3명까지 지정해 두어야 한다. 승인 기한이 지난 요청은 자동으로
+  만료되어 다시 요청해야 하고, 지급은 영업일에만 이체되므로 셀러 정산일이 밀릴 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.tosspayments.com/blog/articles/55407
+  author: 토스페이먼츠
+  seen: '2026-11-24'
+  quote: 승인 기한이 지나면 요청은 자동으로 만료돼요.
+  source: 토스페이먼츠피드
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 지급대행
+- 토스페이먼츠
+- 정산일정
+- 승인자
+---
+권한 분리를 켜면 승인자가 승인해야만 지급이 실행된다. 승인 기한이 지나면 요청은 자동으로 만료되고, 만료된 건은 지급요청서를 처음부터 다시 내야 한다. 바로지급과 예약지급 모두 주말·공휴일을 뺀 영업일에만 이체된다. 승인자를 여러 명 지정해 두면 그중 한 명만 승인해도 되므로 담당자가 자리를 비워도 지급이 멈추지 않는다. 승인 대기 건을 모아 한 번에 승인하면 본인인증도 한 번으로 끝난다. 셀러와 약속한 정산일이 있다면 승인에 걸리는 시간까지 넣어 요청 일정을 잡아야 한다.

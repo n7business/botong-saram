@@ -3,7 +3,7 @@ id: business-plan-0268
 domain: business-plan
 claim: 2026-11-06 기준 2027 예비창업패키지 참여자 모집 공고는 아직 게시되지 않았고 2027 초기창업·창업도약 패키지 공고(접수
   2026-10-30~11-23)는 운영할 주관기관을 뽑는 공고이므로, 예비창업자나 창업기업은 이 공고로 신청하려 해서는 안 된다.
-status: candidate
+status: expired
 evidence: observed
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 스프링워터 파트너스 예창패 가이드
 first_seen: '2026-11-07'
 last_confirmed: '2026-11-07'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

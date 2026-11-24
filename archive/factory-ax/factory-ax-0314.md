@@ -1,0 +1,30 @@
+---
+id: factory-ax-0314
+domain: factory-ax
+claim: 업무 계정에 2단계 인증을 거는 사업자는 문자나 일회용 코드 방식보다, 가짜 사이트에 속아도 로그인이 되지 않는 패스키(FIDO2) 방식을
+  검토할 만하다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.hellot.net/news/article.html?no=116513
+  author: 헬로티 구서경 기자 (옥타코리아 황규언 대표 발언)
+  seen: '2026-11-24'
+  quote: 기기가 접속한 사이트 주소를 직접 확인하기 때문에 사용자가 가짜 사이트에 속더라도 로그인이 이뤄지지 않는 구조다.
+  source: 헬로티
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 보안
+- 패스키
+- FIDO2
+- 피싱
+- 2단계인증
+---
+문자 인증이나 일회용 코드는 사용자가 진짜 사이트인지 스스로 판단해야 해서, 피싱 사이트에 코드를 입력하면 그대로 뚫립니다. 패스키(FIDO2)는 기기가 접속한 사이트 주소를 직접 확인합니다. 그래서 사용자가 가짜 사이트에 속더라도 로그인이 이뤄지지 않습니다. 메일·클라우드·ERP 같은 핵심 업무 계정부터 패스키를 지원하는지 확인하고 적용해 보세요. 이 주장은 보안 솔루션 업체의 권고입니다.

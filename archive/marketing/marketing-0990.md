@@ -1,0 +1,31 @@
+---
+id: marketing-0990
+domain: marketing
+claim: 비즈니스용 Meta Verified는 취소할 때까지 매달 같은 날짜에 자동 결제되는 유료 구독이고, 가입하려면 포트폴리오에 심화 보호
+  프로그램을 켜야 하며 구독이 활성화되면 이 기능을 끌 수 없습니다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.facebook.com/business/help/308979828303560?id=579726174359330
+  author: Meta 비즈니스 지원 센터
+  seen: '2026-11-24'
+  quote: 구독이 활성화되면 이 보안 기능을 비활성화할 수 없습니다.
+  source: Meta 비즈니스 지원 센터
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2027-01-23'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- meta
+- meta-verified
+- 인증배지
+- 구독
+- 보안
+verified_by: 공식 출처
+---
+비즈니스용 Meta Verified는 인증 배지, 사칭 방지, 향상된 지원 등을 주는 유료 구독입니다. 취소하지 않으면 처음 산 날짜에 맞춰 계속 자동으로 결제됩니다. 인증받을 자산이 든 비즈니스 포트폴리오에는 심화 보호 프로그램을 켜야 하고, 구독이 활성화된 뒤에는 이 보안 기능을 끌 수 없습니다. 인증 과정에서 허위 정보를 내거나 대표 권한이 없는 비즈니스를 인증하려 하면 인증이 거부되거나 삭제될 수 있습니다. 가입 전에 요금제별 혜택(릴스 내 링크 개수, 직원 사칭 방지 인원 등)이 내게 필요한지 따져 보세요.

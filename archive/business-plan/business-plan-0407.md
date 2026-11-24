@@ -4,7 +4,7 @@ domain: business-plan
 claim: IPO를 검토하는 창업·성장기업은 2026-11-23 18:00까지 구글폼으로 신청하면 11월 24일 13:00~18:00 부산 BIFC2
   22층에서 열리는 부산기술창업투자원 IPO 상장지원 인사이트데이에 신청자 전원 참석할 수 있고, 현장에서 증권사·회계법인·기술평가기관 컨설팅까지
   받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

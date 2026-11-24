@@ -3,7 +3,7 @@ id: business-plan-0171
 domain: business-plan
 claim: 5년 이상 복무한 제대(예정) 군인 등 대상자는 2026-11-23까지 신청하면 11월 24일 부산 제대군인 창업 워크숍에서 정부지원사업
   종류와 사업계획서 작성법을 무료로 배울 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.95
 sources:

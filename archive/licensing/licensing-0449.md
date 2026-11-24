@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-21'
   quote: 회화지도 강사(E-2)의 마약검사 항목이 기존 4종에서 6종으로 확대되었음을 알려드리니
   source: 하이코리아 (출입국·비자)
+- url: https://www.hikorea.go.kr/board/BoardNtcDetailR.pt?BBS_GB_CD=BS10&BBS_SEQ=1&NTCCTT_SEQ=2024&page=1
+  author: HIKOREA(법무부 출입국·외국인정책본부)
+  seen: '2026-11-24'
+  quote: 회화지도 강사(E-2)의 마약검사 항목이 기존 4종에서 6종으로 확대되었음을 알려드리니
+  source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-24'
 review_by: '2027-05-20'
 supersedes: null
 superseded_by: null

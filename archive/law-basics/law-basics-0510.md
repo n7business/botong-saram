@@ -1,0 +1,35 @@
+---
+id: law-basics-0510
+domain: law-basics
+claim: 개인정보 유출을 신고하더라도 개인정보위는 유출 경위와 함께 안전조치 의무, 유출 통지·신고 의무를 지켰는지 조사하고 위반이 있으면 처분하므로,
+  신고만으로 책임이 끝난다고 보면 안 된다.
+status: verified
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12664
+  author: 개인정보보호위원회 조사총괄과
+  seen: '2026-11-24'
+  quote: 안전조치 의무 및 유출 통지·신고 의무 등 「개인정보 보호법」 준수 여부를 조사 후, 법 위반사항 발견 시 관련 법령에 따라 엄정히
+    처분할 예정이다.
+  source: 개인정보보호위원회
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2027-05-23'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 개인정보 보호법
+  article: 제29조, 제34조
+  effective: '2026-11-24'
+contributor: null
+tags:
+- 개인정보
+- 유출신고
+- 안전조치
+- 조사
+- 처분
+verified_by: 공식 출처
+---
+유출신고를 하면 개인정보위가 현장 조사와 자료제출 요구로 유출 경위와 피해 규모를 확인합니다. 이때 안전성 확보조치 의무와 유출 통지·신고 의무를 지켰는지도 함께 조사합니다. 법 위반이 확인되면 관련 법령에 따라 처분을 받으므로, 신고했다고 해서 제재가 면제되지는 않습니다. 접근권한 관리, 접근통제, 내부관리계획 같은 안전조치를 평소에 갖추고 그 이행 기록을 남겨 두어야 조사에 대응할 수 있습니다. 유출을 알게 된 시점과 정보주체 통지 일자도 기록해 두어야 합니다.

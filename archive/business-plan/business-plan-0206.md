@@ -3,7 +3,7 @@ id: business-plan-0206
 domain: business-plan
 claim: 상암동 DMC 입주를 검토하는 DMC 전략산업 중소기업은 올해 마지막 접수인 2026-11-23 마감 전에 서울경제진흥원에 신청해야 주변
   시세 약 60% 임대료로 최장 10년 입주할 기회를 얻을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.7
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 스타트업레시피 뉴스레터
 first_seen: '2026-11-06'
 last_confirmed: '2026-11-06'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

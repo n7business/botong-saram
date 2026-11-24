@@ -4,7 +4,7 @@ domain: business-plan
 claim: 아산시에 있는 예비창업자·초기창업자·창업기업은 2026-11-23 18:00까지 tally 신청 링크로 신청서를 내면 호서대 앵커사업단
   「2026 벤처브릿지 오픈이노베이션」 1회차(AI·미래 모빌리티)에 지원할 수 있지만, 지금 아산시에 사업장이 없으면 후속 지원이 확정될 때 본점·공장·연구소
   중 하나를 아산시로 옮겨야 하므로 신청 전에 이전이 가능한지부터 따져 봐야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 이오플래닛 매거진
 first_seen: '2026-11-13'
 last_confirmed: '2026-11-13'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

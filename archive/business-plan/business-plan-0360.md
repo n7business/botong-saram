@@ -4,7 +4,7 @@ domain: business-plan
 claim: 2027년 정부지원사업에 도전하려는 예비창업자나 기창업자는 2026-11-23 14:00까지 온라인으로 신청하면 강동구 청년해냄센터의
   '성공 창업 스쿨'을 무료로 들을 수 있지만, 정원이 24명이고 선정 결과는 11월 24일에 개별로 연락되므로 12월 1·2·7·8일 오후 네
   번의 교육 일정을 미리 비워 둬야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-11'
 last_confirmed: '2026-11-11'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

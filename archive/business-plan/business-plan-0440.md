@@ -3,7 +3,7 @@ id: business-plan-0440
 domain: business-plan
 claim: 전북 기능성식품 규제자유특구 사업자는 2026-11-23까지 이메일로 신청하면 시험·분석, 기술지도, 디자인 개발, 홍보물 제작, 전시·박람회
   참가 등을 기업별 최대 5천만 원까지 지원받을 수 있으며, 한도 안에서 여러 프로그램을 함께 신청할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:

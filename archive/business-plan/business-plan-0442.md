@@ -4,7 +4,7 @@ domain: business-plan
 claim: 투자를 받고 싶은 서울 소재 게임개발사(법인·개인사업자)는 2026-11-23 15:00까지 서울경제진흥원에 온라인으로 신청할 수 있다.
   서면심사를 통과하면 전문가 1:1 IR 컨설팅을 2회 이상 받고, 12월 18일 SETEC에서 열리는 프라이빗 IR에서 게임 전문 투자자 5명
   안팎 앞에서 발표할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-14'
 last_confirmed: '2026-11-14'
-review_by: null
+review_by: '2026-11-23'
 supersedes: null
 superseded_by: null
 experiment: null

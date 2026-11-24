@@ -1,0 +1,30 @@
+---
+id: marketing-0993
+domain: marketing
+claim: 수능 같은 시즌 이벤트 때는 새 상품을 만들기보다 오래 팔아 온 대표 상품의 이름과 포장을 시즌에 맞게 잠깐 바꾸면, 익숙한 상품에 다시
+  눈길이 가고 살 이유가 생긴다는 것이 고구마팜의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://gogumafarm.kr/2026-%ec%88%98%eb%8a%a5-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%b4%9d%ec%a0%95%eb%a6%ac-%eb%b8%8c%eb%9e%9c%eb%93%9c%eb%b3%84-%ec%9d%b4%ec%83%89-%ec%9d%91%ec%9b%90-%ec%ba%a0%ed%8e%98%ec%9d%b8-%ec%82%ac/
+  author: 고구마팜(고구마말랭이)
+  seen: '2026-11-24'
+  quote: 익숙한 장수 제품을 새롭게 주목하고 구매할 이유 를 만들어 주죠.
+  source: 고구마팜
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 시즌마케팅
+- 수능
+- 네이밍
+- 패키지
+- 스테디셀러
+---
+시즌 이벤트를 할 때 꼭 신메뉴나 신상품을 만들 필요는 없습니다. 해태제과는 수능 때 허니버터칩을 '허니버텨칩'으로, 홈런볼을 '만점을 응원하는 만루 홈런볼'로 이름과 패키지를 바꿨습니다. 맛동산에는 끈을 풀어 먹는 특징을 살려 '찬찬히 보면 잘 풀 수 있어'라는 문구를 붙였습니다. 이렇게 상품의 생김새나 먹는 방식을 시즌 메시지와 이어 주면 오래 팔아 온 상품에도 다시 살 이유가 생긴다는 것이 고구마팜 에디터의 해석입니다. 작은 가게라면 대표 메뉴 이름이나 포장 스티커만 기간 한정으로 바꾸는 식으로 적은 비용으로 해 볼 수 있습니다. 다만 이 글은 사례를 소개한 것이고, 매출이 얼마나 늘었는지 같은 수치는 나오지 않습니다.

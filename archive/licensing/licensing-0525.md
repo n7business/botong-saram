@@ -1,0 +1,34 @@
+---
+id: licensing-0525
+domain: licensing
+claim: 법무부지정 의료기관은 기관마다 검진항목이 다르고 발급 서류는 밀봉한 상태로 출입국사무소에 내야 하므로, 외국인 직원에게 건강검진서를 받게
+  하는 사업주는 방문 전에 의료기관에 전화해 필요한 서류를 발급할 수 있는지 확인하고, 받은 서류를 뜯지 말고 그대로 제출하라고 안내해야 한다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.hikorea.go.kr/board/BoardNtcDetailR.pt?BBS_SEQ=1&BBS_GB_CD=BS10&NTCCTT_SEQ=365&page=1
+  author: HIKOREA(법무부 출입국·외국인정책본부)
+  seen: '2026-11-24'
+  quote: 의료기관에서 발급한 서류는 밀봉상태로 출입국사무소에 제출하여야 합니다.
+  source: 하이코리아 (출입국·비자)
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: '2027-05-23'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 법무부지정 의료기관의 요건 및 지정절차(법무부고시 제2026-374호)
+  article: null
+  effective: '2026-11-24'
+contributor: null
+tags:
+- 외국인고용
+- 건강검진
+- 법무부지정의료기관
+- E-2
+- 체류민원
+verified_by: 공식 출처
+---
+외국인 직원의 비자·체류 신청에 쓰는 건강검진서와 채용신체검사서는 법무부지정 의료기관에서만 받을 수 있습니다. 다만 지정 의료기관이라도 기관마다 할 수 있는 검진항목이 다르므로, 방문하기 전에 전화로 필요한 서류를 발급할 수 있는지 확인해야 합니다. 의료기관이 발급한 서류는 밀봉한 상태 그대로 출입국사무소에 내야 합니다. 사업주가 내용을 확인하려고 봉투를 열거나 사본을 내면 접수에 문제가 생길 수 있습니다. 지정 의료기관 목록은 하이코리아 공지와 '법무부지정 의료기관 조회' 메뉴에서 볼 수 있습니다.

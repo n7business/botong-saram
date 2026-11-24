@@ -3,7 +3,7 @@ id: business-plan-0372
 domain: business-plan
 claim: 전북에 사는 만 20~39세 청년 예비창업자는 2026-11-23 15:00까지 구글폼으로 신청하면 전북콘텐츠코리아랩의 2일 AI 활용
   캐릭터 아이디어 발굴 캠프에 참여해 캐릭터 설정 문서와 사업계획서까지 만들어 볼 수 있지만, 정원은 15명이고 서류심사로 뽑는다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

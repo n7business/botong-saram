@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-22'
   quote: 제일 비싼 AI만 쓰면 오히려 손해더라... 나는 기본 sonnet, 무거운 것만 opus
   source: 태오의 실행비즈니스 (@teo_daily_business)
+- url: https://eopla.net/magazines/49303
+  author: 조쉬의 뉴스레터(램프 공동 CEO 에릭 글라이먼 대담)
+  seen: '2026-11-24'
+  quote: 처리가 10% 더 걸리더라도 값이 절반이 되는 쪽
+  source: EO 플래닛
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-23'
+last_confirmed: '2026-11-24'
 review_by: null
 supersedes: null
 superseded_by: null

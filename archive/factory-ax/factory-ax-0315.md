@@ -1,0 +1,30 @@
+---
+id: factory-ax-0315
+domain: factory-ax
+claim: 업무에 AI 에이전트를 여러 개 쓰는 사업자는 에이전트마다 별도 계정을 만들어 필요한 최소 권한만 주고, 어떤 에이전트가 어디서 무엇을
+  할 수 있는지 목록으로 관리하며, 안 쓰는 에이전트는 정기적으로 정리해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://www.hellot.net/news/article.html?no=116513
+  author: 헬로티 구서경 기자 (옥타코리아 황규언 대표·고지형 엔지니어 발언)
+  seen: '2026-11-24'
+  quote: 에이전트 하나를 하나의 계정으로 등록하고 사람에게 주는 것과 같은 방식으로 권한을 관리한다
+  source: 헬로티
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI에이전트
+- 보안
+- 권한관리
+- 최소권한
+- 비용
+---
+옥타코리아는 AI 에이전트를 사람 직원처럼 하나의 계정으로 등록하고, 사람에게 주는 것과 같은 방식으로 권한을 관리해야 한다고 권합니다. 많은 기업이 에이전트가 어디서 몇 개 돌아가는지, 무엇을 할 수 있는지, 문제가 생기면 어떻게 멈출지 답하지 못한다고 합니다. 에이전트 목록(레지스트리)을 만들고, 쓰지 않는 에이전트는 정기적으로 다시 확인해 정리하세요. 사용자별로 최소 권한만 주면 중복 라이선스와 불필요한 AI 사용료도 줄일 수 있습니다. 문제가 생긴 에이전트의 접근을 바로 끊는 방법도 미리 정해 두어야 합니다. 이 주장은 보안 솔루션 업체의 의견입니다.

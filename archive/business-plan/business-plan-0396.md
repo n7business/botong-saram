@@ -3,7 +3,7 @@ id: business-plan-0396
 domain: business-plan
 claim: 서울 소재 예비·초기창업자가 11월 26일 서울창업허브 M+ IP창업클럽에서 창업·지식재산 전문가 1:1 멘토링을 받으려면 2026-11-23
   18:00까지 구글폼으로 참가 신청을 하면서 멘토링도 따로 사전 신청해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

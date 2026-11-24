@@ -1,0 +1,28 @@
+---
+id: growth-0541
+domain: growth
+claim: 직원의 AI 구독료에 모두 같은 상한을 걸지 말고 그 돈으로 어떤 결과를 냈는지와 이어서 판단해야 하며, 램프 공동 CEO 에릭 글라이먼은
+  5달러를 들인 새 랜딩 페이지로 전환율이 3% 올라 한 달에 5,000달러를 더 버는 경우를 예로 든다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/49303
+  author: 조쉬의 뉴스레터(램프 공동 CEO 에릭 글라이먼 대담)
+  seen: '2026-11-24'
+  quote: 쓴 돈은 늘 이렇게 그 결과와 이어서 봐야 합니다.
+  source: EO 플래닛
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI비용
+- ROI
+- 예산관리
+---
+AI 비용은 얼마를 썼는지만 보면 반쪽만 보는 셈이다. 직원이나 업무마다 AI에 쓴 돈과 그 돈으로 늘어난 매출, 줄어든 시간을 함께 기록한다. 쓴 돈보다 훨씬 큰 성과를 내는 쪽에는 예산을 더 주고, 매주 반복하는 준비 작업에만 쓰고 얻는 게 없는 지출은 멈춘다. 글라이먼은 1,000달러로 1만 달러를 버는 사람에게는 돈을 더 몰아주고 싶다고 말한다. 랜딩 페이지 수치는 설명을 위한 가정이므로 우리 회사에서 직접 측정해야 한다.

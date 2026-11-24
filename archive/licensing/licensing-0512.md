@@ -1,0 +1,31 @@
+---
+id: licensing-0512
+domain: licensing
+claim: 정부24 민원수수료와 우편료를 합한 금액이 3,090원 이상이면 전자결제 부가수수료가 그 금액의 4%이지만 페이코로 내면 2.6%만 붙으므로,
+  수수료가 큰 민원을 자주 신청하는 사업자는 페이코 결제를 쓰면 부가수수료를 줄일 수 있다.
+status: candidate
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://plus.gov.kr/portal/custcntr/utztngd/elstlmgd
+  author: 행정안전부 정부24
+  seen: '2026-11-24'
+  quote: 그 금액의 4%(결제수단이 페이코인 경우 그 금액의 2.6%)
+  source: 정부24
+first_seen: '2026-11-24'
+last_confirmed: '2026-11-24'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 정부24
+- 민원수수료
+- 부가수수료
+- 페이코
+- 전자결제
+mentions: 1
+---
+정부24에서 민원을 신청하면 민원수수료와 우편료에 더해 전자결제 부가수수료가 붙습니다. 민원수수료와 우편료를 합한 금액이 550원 미만이면 50원, 3,090원 미만이면 90원이 붙습니다. 3,090원 이상이면 그 금액의 4%가 붙지만, 결제수단이 페이코이면 2.6%만 붙습니다. 수수료가 큰 민원이나 여러 부를 우편으로 받는 신청이 잦은 사업자는 페이코 결제를 등록해 두면 부가수수료를 줄일 수 있습니다. 결제수단을 바꾸면 결제취소 가능기간도 달라지므로(페이코 카드결제는 180일) 함께 확인하십시오.

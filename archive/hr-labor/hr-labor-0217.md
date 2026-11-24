@@ -14,7 +14,7 @@ sources:
     해당되지 않는다고 판단됩니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-24'
 review_by: '2027-05-02'
 supersedes: null
 superseded_by: null

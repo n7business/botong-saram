@@ -15,7 +15,7 @@ sources:
     고려해 추천합니다.
   source: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
 first_seen: '2026-11-23'
-last_confirmed: '2026-11-23'
+last_confirmed: '2026-11-24'
 review_by: '2027-01-19'
 supersedes: null
 superseded_by: null

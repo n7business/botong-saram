@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-21'
   quote: 전자입국신고 수수료는 무료입니다. 결제정보 입력을 요구하는 사이트는 공식 서비스가 아닙니다.
   source: 하이코리아 (출입국·비자)
+- url: https://www.hikorea.go.kr/board/BoardNtcDetailR.pt?BBS_SEQ_GB_CD=&BBS_SEQ=1&BBS_GB_CD=BS10&NTCCTT_SEQ=1928&page=1
+  author: HIKOREA(법무부 출입국·외국인정책본부)
+  seen: '2026-11-24'
+  quote: 결제정보 입력을 요구하는 사이트는 공식 서비스가 아닙니다.
+  source: 하이코리아 (출입국·비자)
 first_seen: '2026-11-21'
-last_confirmed: '2026-11-21'
+last_confirmed: '2026-11-24'
 review_by: null
 supersedes: null
 superseded_by: null

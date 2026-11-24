@@ -13,7 +13,7 @@ sources:
   quote: 검색어를 그대로 반복하는 대신, 여러 경험 글에 공통으로 담긴 주제를 소제목으로 묶어 보여드립니다.
   source: 네이버 Search & Tech 블로그 (서치어드바이저 공식)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-24'
 review_by: '2027-01-21'
 supersedes: null
 superseded_by: null

@@ -3,7 +3,7 @@ id: business-plan-0378
 domain: business-plan
 claim: 충북 보은군에서 점포를 빌려 영업하는 만 18~45세 청년 소상공인은 사업자등록 5년 미만이고 직전연도 국세·지방세 납부액 합계가 300만원
   이하라면, 2026-11-23까지 신청해 점포 임차료를 월 최대 30만원까지 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
