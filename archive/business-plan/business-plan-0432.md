@@ -4,7 +4,7 @@ domain: business-plan
 claim: 공공입찰에 나가려는 예비창업자나 창업기업 대표·임직원은 2026-11-24 15:00까지 구글폼으로 신청하면 11월 25일 14~16시
   경기스타트업브릿지 4층 브릿지홀에서 열리는 경과원×나이스디앤비 '스타트업 공공입찰 및 기업평가 실무 특강'을 무료로 들을 수 있지만, 검토 후
   선착순으로 뽑는다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

@@ -1,0 +1,34 @@
+---
+id: metrics-0200
+domain: metrics
+claim: 위탁기업에 물건을 납품하는 소규모 제조·공급업체는 2026년 12월 3일부터 납품대금 연동에 에너지경비가 도입될 예정이므로, 전기·가스
+  같은 에너지 비용 비중이 큰 품목은 연동 대상에 넣을 수 있는지 계약 갱신 전에 확인한다.
+status: verified
+evidence: policy
+confidence: 0.55
+sources:
+- url: https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1072674&parentSeq=1072674
+  author: 중소벤처기업부 불공정 담당
+  seen: '2026-11-25'
+  quote: 12월 3일 에너지경비 도입을 앞두고 11월 25일(수) 설명회 개최 예정
+  source: 중소벤처기업부 보도자료
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-05-24'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 대·중소기업 상생협력 촉진에 관한 법률
+  article: null
+  effective: '2026-12-03'
+contributor: null
+tags:
+- 납품대금연동제
+- 에너지경비
+- 원가
+- 위수탁거래
+- '2026-12-03'
+verified_by: 공식 출처
+---
+중소벤처기업부는 2026년 12월 3일 납품대금 연동에 에너지경비를 도입하겠다고 예고했고, 이를 앞두고 11월 25일 설명회를 연다. 지금까지는 원재료 가격이 오르면 납품대금에 반영할 수 있었다. 앞으로 에너지경비까지 연동되면 전기·가스 요금이 오를 때 그 부담을 혼자 떠안지 않을 여지가 생긴다. 납품 품목별 원가에서 에너지 비용이 차지하는 비율을 미리 계산해 두고, 다음 약정서를 갱신할 때 연동 항목과 기준 지표에 넣을 수 있는지 위탁기업과 협의한다. 적용 범위와 세부 요건은 보도자료와 설명회 자료로 확인해야 하며, 이 원문에는 나와 있지 않다.

@@ -1,0 +1,31 @@
+---
+id: business-plan-0704
+domain: business-plan
+claim: 스타트업 코리아 특별비자 추천은 정해진 모집 기간 없이 2027-12-31까지 수시로 신청할 수 있으므로, 외국인 창업자는 다음 공고를
+  기다릴 필요 없이 사업 준비가 끝나는 대로 신청하면 된다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=171419
+  author: '중소벤처기업부(주관기관: 창업진흥원)'
+  seen: '2026-11-25'
+  quote: applications for recommendations for the "Startup Korea Special Visa" will
+    be accepted on a rolling basis
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-03-25'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스타트업코리아특별비자
+- 외국인창업
+- 수시접수
+- 창업진흥원
+verified_by: 공식 출처
+---
+중소벤처기업부는 「스타트업 코리아 특별비자」 추천 신청을 수시(rolling basis)로 받고 있으며, 접수 기간은 2024-12-03부터 2027-12-31 23:59까지입니다. 비자는 창업기업의 사업 실현 가능성과 혁신성을 평가한 뒤 중소벤처기업부가 추천해야 발급됩니다. 따라서 신청 시기보다 실현 가능성과 혁신성을 보여 줄 자료를 갖추는 일이 더 중요합니다. 문의처는 창업진흥원 글로벌진출팀(02-3440-7348)입니다.

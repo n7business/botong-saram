@@ -3,7 +3,7 @@ id: marketing-0962
 domain: marketing
 claim: 홈페이지 대표 주소(도메인)를 자주 바꾸면 네이버의 사이트 품질 평가에 영향을 주므로, 사이트 이전은 브랜드 변경처럼 꼭 필요할 때만
   해야 합니다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.85
 sources:
@@ -25,5 +25,6 @@ tags:
 - 도메인이전
 - 사이트품질
 verified_by: 공식 출처
+merged_into: marketing-1052
 ---
 도메인이 바뀌면 구 사이트가 받은 품질 지수가 새 사이트로 넘어가기까지 시간이 걸립니다. 그동안 검색 결과가 달라질 수 있습니다. 변경된 도메인을 검색로봇이 인식하는 데만 최소 2~3일이 걸릴 수 있습니다. 이전할 때는 새 사이트의 모든 페이지에 canonical 주소를 지정하고, 웹마스터도구에 새 사이트를 등록해 사이트맵을 제출해야 합니다. 규모가 작은 사이트는 모든 URL을 한 번에 옮기는 것이 권장됩니다.

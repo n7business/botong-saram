@@ -1,0 +1,29 @@
+---
+id: law-basics-0556
+domain: law-basics
+claim: 외국인은 한국에 입국하지 않고도 공증·아포스티유를 받은 위임장으로 국내 대리인을 통해 법인설립등기까지 진행할 수 있지만, 정식 법인 입출금
+  계좌를 열 때는 원칙적으로 대표자 본인이 국내 은행 지점에 가야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.help-me.kr/blog/article/foreigner-company-registration-korea/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-25'
+  quote: 대표자 본인의 국내 지점 방문이 원칙적으로 요구됩니다.
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 비대면설립
+- 법인계좌
+- 위임장
+- 외국인법인설립
+---
+해외에 있는 외국인 창업자는 본국에서 위임장과 취임승낙서에 공증과 아포스티유(또는 영사확인)를 받아 한국으로 보내면 됩니다. 그러면 국내 대리인이 사전 신고부터 법인설립등기까지 비대면으로 처리할 수 있습니다. 외국인은 국내 공동인증서를 받기 어려워 등기는 원본 서류를 내는 서면 방식으로 진행됩니다. 해외 서류 발송 기간을 빼면 국내 절차에는 보통 2~4주가 걸립니다. 다만 설립 후 정식 법인계좌를 열 때는 은행 규정상 대표자 본인이 국내 지점에 직접 가는 것이 원칙이므로, 입국 일정을 따로 잡아야 합니다.

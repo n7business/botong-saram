@@ -13,7 +13,7 @@ sources:
   quote: 다른 법률에 특별한 규정이 있는 경우를 제외하고는, 민원 처리에 관한 법률(민원처리법)에 따릅니다.
   source: 국민신문고
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-18'
 supersedes: null
 superseded_by: null

@@ -12,7 +12,7 @@ sources:
   quote: 그 지급 사유가 발생한 지 14일 이내에 별도의 안내 없이 지급할 수 있습니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-21'
 supersedes: null
 superseded_by: null

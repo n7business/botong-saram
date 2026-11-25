@@ -1,0 +1,29 @@
+---
+id: growth-0566
+domain: growth
+claim: 온라인 강좌를 운영한다면 수강생에게 AI 챗봇만 주고 알아서 배우게 하기보다, 실습 화면에서 사람 강사와 10분쯤 대화할 기회를 주는
+  것을 검토해 볼 만하다. 스탠퍼드 무료 코딩 강좌 '코드 인 플레이스'에서는 이 대화를 선택한 수강생의 완주 확률이 10%p 높았다.
+status: candidate
+evidence: observed
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/49287
+  author: 'EO팀(글: 서용삼)'
+  seen: '2026-11-25'
+  quote: 강좌를 끝까지 마칠 확률이 10%p 올라갑니다.
+  source: EO 플래닛
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 온라인강의
+- 완주율
+- AI튜터
+- 교육사업
+---
+스탠퍼드 크리스 피치 교수가 6년째 운영하는 온라인 강좌에서는 수강생에게 챗봇만 주고 알아서 배우게 하자 의욕을 잃고 중간에 그만두는 사람이 많았다. 반대로 실습 화면에 뜬 팝업에서 강사와 10분 대화하기를 누른 수강생은 강좌를 끝까지 마칠 확률이 10%p 높았다. 입문 수준에서는 AI의 답도 정확했으므로, 차이는 정답의 질이 아니라 사람이 주는 동기부여에서 나왔다고 교수는 본다. 다만 대화를 스스로 고른 수강생이 원래 의욕이 더 높았을 수도 있으므로, 우리 강좌에서는 일부 수강생에게만 먼저 적용해 완주율을 비교해 보는 것이 좋다.

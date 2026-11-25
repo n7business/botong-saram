@@ -13,7 +13,7 @@ sources:
   quote: 국가법령정보센터에서 제공되는 법령정보는 법적 효력이 없으므로, 참고자료로 활용하시기 바랍니다.
   source: 국가법령정보센터
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

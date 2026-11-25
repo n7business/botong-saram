@@ -1,0 +1,29 @@
+---
+id: ai-tools-0793
+domain: ai-tools
+claim: AI 코딩 도구로 프로그램을 만들 때는 기획 내용만 보고 테스트 케이스를 먼저 쓰게 한 뒤 만들고 시험해야 한다. AI가 먼저 다 만들면
+  자기 코드를 알고 있어서 자기가 통과할 수 있는 테스트만 써 버그를 제대로 잡지 못한다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.youtube.com/watch?v=5KAZJCEl7Hs
+  author: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+  seen: '2026-11-25'
+  quote: 기획 내용만 보고 테스트 케이스를 먼저 쓰고, 그다음 구축하고, 마지막에 테스트하는 순서
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 바이브코딩
+- 테스트
+- TDD
+- 검증
+---
+화자는 바이브코딩에도 테스트 주도 개발 순서를 적용하라고 권합니다. 에이전트가 먼저 구축을 끝내면 자기가 짠 코드에 맞춰 통과할 수 있는 테스트만 쓰게 됩니다. 그러면 예외 상황과 버그를 잡는다는 테스트 본래 목적을 이루지 못합니다. 그래서 기획서만 보고 테스트 케이스를 먼저 쓰고, 그다음 구축하고, 마지막에 그 테스트로 검사하는 순서로 진행해야 합니다. 화자는 '슈퍼파워즈' 방법론을 이 방식의 예로 듭니다.

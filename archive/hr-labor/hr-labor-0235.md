@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-22'
   quote: '''청년일자리도약장려금''은 지원 인원을 확대(10.5만명→ 13만명)하고, 청년 지원금을 높여 근속 지원을 강화할 계획이다.'
   source: 고용노동부 보도자료
+- url: https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=20297
+  author: 고용노동부
+  seen: '2026-11-25'
+  quote: 지원 인원 확대(10.5만명→13만명), 청년 지원금 확대 2,116억(+1,222억)
+  source: 고용노동부 보도자료
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

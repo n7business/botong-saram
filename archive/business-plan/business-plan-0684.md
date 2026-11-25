@@ -1,0 +1,31 @@
+---
+id: business-plan-0684
+domain: business-plan
+claim: 스마트공장을 도입하려는 제조 중소기업은 2027-01-06까지 중소벤처기업부 「2027년 스마트공장 구축지원사업」에 신청할 수 있으며,
+  지원 한도는 디지털·AI를 얼마나 적용하는지와 사업 유형에 따라 최대 2억 원에서 12억 원까지 달라진다.
+status: candidate
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://startuprecipe.co.kr/archives/invest-newsletter/5842282
+  author: 주승호 기자(스타트업레시피)
+  seen: '2026-11-25'
+  quote: 사업별 최대 2억원에서 12억원까지 차등 지원한다는 계획이다.
+  source: 스타트업레시피 뉴스레터
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 스마트공장
+- 중소벤처기업부
+- 제조
+- AI
+- '2027'
+- 마감임박
+---
+중소벤처기업부가 2027년 스마트공장 구축지원사업 참여기업을 2027년 1월 6일까지 모집합니다. 사업은 정부일반형(428개사), 제조AI특화(500개사), 자율형공장(30개사), 대중소상생형 AX선도모델(63개사) 네 가지이고, 모두 합쳐 1,021개사에 2,696억 원을 지원합니다. 기업별 지원 한도는 디지털·AI 적용 수준과 사업 유형에 따라 최대 2억~12억 원으로 다르므로, 신청하기 전에 자기 공장의 디지털화 수준에 맞는 유형부터 골라야 합니다. 지원 내용에는 AI·ICT 스마트공장 솔루션, 자동화장비·센서 구축, 수출·판로·기술·인증 서비스, 피지컬AI 진단·자문·교육이 들어갑니다. 기업 부담금 비율과 세부 자격요건은 기사에 나오지 않으므로 공고문 원문에서 꼭 확인해야 합니다.

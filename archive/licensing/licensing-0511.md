@@ -13,7 +13,7 @@ sources:
   quote: 생활법령을 활용 및 제공하면서 자료의 출처를 표기하지 않거나 법제처 이외의 기관으로 명기하여 제공하는 행위
   source: 법제처 생활법령정보
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-23'
 supersedes: null
 superseded_by: null

@@ -1,0 +1,30 @@
+---
+id: ai-tools-0796
+domain: ai-tools
+claim: 홈페이지 화면 수정을 개발자나 AI 코딩 도구에 요청할 때는 캡처에 화살표를 그려 보내지 말고, Design Mode 같은 브라우저 확장
+  프로그램에서 실제 요소를 골라 값을 바꿔 본 뒤 그 변경 목록을 넘기면 된다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4049/
+  author: 요즘IT
+  seen: '2026-11-25'
+  quote: 실제로 선택한 요소를 기준으로 피드백을 남길 수 있다는 점에서 무엇보다 편리한 방법이라고 생각합니다.
+  source: 요즘IT
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 홈페이지
+- 디자인
+- DesignMode
+- AI코딩
+- 피드백
+---
+'이 부분 조금 왼쪽으로', '글자 줄여 주세요'처럼 말로 하면 개발자는 어느 요소인지 다시 확인해야 합니다. 오픈소스 확장 프로그램 Design Mode는 크롬·파이어폭스·사파리의 실제 페이지에서 요소를 클릭해 글자 크기·색·간격을 바로 바꿔 보게 해 줍니다. 바꾼 내용은 Changes 탭에 'fontSize: 16px → 20px'처럼 기록되고, JSON·CSS로 내보내거나 'Copy as Prompt'로 복사해 AI 코딩 도구에 붙여 넣을 수 있습니다. Copy as Prompt 버튼은 변경을 하나 이상 만들어야 활성화됩니다.

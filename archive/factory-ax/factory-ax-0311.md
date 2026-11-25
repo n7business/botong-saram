@@ -13,7 +13,7 @@ sources:
   quote: 2027년도 스마트공장 구축지원사업 모집공고를 붙임과 같이 게시합니다.
   source: 중소벤처기업부 사업공고
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: '2027-02-22'
 supersedes: null
 superseded_by: null

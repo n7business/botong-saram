@@ -1,0 +1,28 @@
+---
+id: growth-0582
+domain: growth
+claim: 고객 피드백을 받으려고 쿠폰 같은 보상부터 걸기보다 메일에서 보내는 사람이 솔직한 이야기로 먼저 말을 거는 방식을 시도해 볼 만하며,
+  한 구독 서비스 팀장은 쿠폰을 준다 해도 오지 않던 피드백이 말을 걸기 시작한 뒤 들어오기 시작했다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://blog.stibee.com/stibee-interview-folin/
+  author: 스티비 블로그(폴인 채진솔 팀장 인터뷰)
+  seen: '2026-11-25'
+  quote: 피드백을 남기면 쿠폰을 드린다고 해도 오지 않았는데
+  source: 스티비 블로그
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 뉴스레터
+- 고객피드백
+- 고객관계
+---
+설문이나 의견을 부탁해도 답이 없다면 보상을 키우기 전에 메일의 말투부터 돌아볼 만합니다. 폴인은 피드백을 남기면 쿠폰을 준다고 해도 의견이 들어오지 않았는데, 팀원들이 자기 일 이야기와 고민을 솔직하게 쓰며 구독자에게 말을 걸기 시작하자 조금씩 피드백이 들어왔다고 합니다. 팀장이 협업했던 사람들에게 매달 보내는 메일에도 늘 답장이 온다고 전합니다. 다만 공개 채널이니 회사 사정을 어디까지 밝힐지는 미리 정해 두어야 합니다.

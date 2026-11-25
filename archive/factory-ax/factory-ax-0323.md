@@ -1,0 +1,31 @@
+---
+id: factory-ax-0323
+domain: factory-ax
+claim: 장기 메모리나 외부 플러그인·커넥터(MCP 등)를 붙여 AI 에이전트를 쓰는 사업자는 메모리(벡터 데이터베이스)와 연결된 플러그인까지
+  보안 관리 대상에 넣어야 하며, 메모리가 변조되면 그 영향이 이후 업무에도 계속 남는다.
+status: candidate
+evidence: consensus
+confidence: 0.6
+sources:
+- url: https://www.kidd.co.kr/news/248256
+  author: 산업일보 임지원 기자(포티넷 다니엘 퀑 CISO 발언)
+  seen: '2026-11-25'
+  quote: 외부 플러그인과 커넥터가 공격의 진입점이 될 수 있으며
+  source: 산업일보
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI보안
+- AI에이전트
+- 메모리
+- MCP
+- 플러그인
+- 공급망
+---
+AI 에이전트의 장기 메모리에는 이전 대화, 업무 정보, 중요 데이터, 프로그래밍 코드가 쌓일 수 있습니다. 포티넷은 이 메모리를 내년 주요 공격 대상으로 지목했습니다. 메모리가 한 번 변조되면 그 영향이 이후 업무 처리에도 계속 이어진다는 이유입니다. 외부 플러그인과 커넥터도 공격의 진입점이 될 수 있습니다. 여러 AI 모델, API, MCP를 함께 묶어 쓰는 과정에서는 보안 공백이나 정책 불일치가 생길 수 있습니다. 출처가 불분명한 플러그인·커넥터는 설치하지 마시고, 연결된 목록과 메모리에 저장되는 내용을 주기적으로 점검하십시오.

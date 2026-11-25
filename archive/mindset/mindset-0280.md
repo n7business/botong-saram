@@ -1,0 +1,29 @@
+---
+id: mindset-0280
+domain: mindset
+claim: AI로 아이디어와 결과물을 늘리기보다 하나를 끝까지 실행하고, 자동화로 생긴 시간에 일을 더 채우지 말고 해야 할 일과 하지 않을 일을
+  먼저 나눠야 한다고 태오(태오의 실행비즈니스)는 말한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@teo_daily_business/post/DgG-PWqk_Nz
+  author: 태오의 실행비즈니스 (@teo_daily_business)
+  seen: '2026-11-25'
+  quote: 아이디어를 계속 늘리는 대신 하나를 끝까지 실행하고
+  source: 태오의 실행비즈니스 (@teo_daily_business)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 우선순위
+- 실행
+- 자동화
+---
+AI를 쓰면 콘텐츠 주제·사업 아이템·새 프로젝트가 계속 나오고 전부 좋아 보여서, 이것저것 시작만 하다 방향이 흐려진다고 태오는 말한다. 또 하루에 글 하나 쓰던 사람이 열 개를 만들 수 있게 되면, 시간이 생기는 게 아니라 그 자리에 일이 더 채워진다고 한다. 그는 AI가 방향을 정해 주지 않으므로 어떤 사람을 돕고 싶은지, 무엇을 오래 하고 싶은지를 먼저 정해야 한다고 본다. 자동화를 도입한 뒤에는 늘어난 일 가운데 중요하지 않은 일을 덜어 내고 하지 않을 일 목록을 정해 볼 만하다.

@@ -1,0 +1,28 @@
+---
+id: ai-tools-0810
+domain: ai-tools
+claim: 고객이나 참여자가 쓴 글로 AI 영상을 만들게 할 때는 최소 글자 수를 정해 두어야 한다. 화자 사례에서는 글이 짧으면 영상이 거의 비어
+  버려서 200자 이상을 받았다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.gpters.org/media/post/영상으로-하는-말-전달-놀이를-만들었습니다-사람이-쓰고-ai가-영상으로-만들고-열-번-반복-mwuc7v4j
+  author: 조조75
+  seen: '2026-11-25'
+  quote: 글이 짧으면 영상이 거의 비어 버립니다. 그래서 200자 이상을 받습니다.
+  source: 지피터스 GPTers
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 입력설계
+- Seedance
+---
+글을 영상으로 바꾸는 기능은 입력 글의 양에 크게 좌우됩니다. 화자 팀은 글이 짧으면 영상이 거의 비어 버리는 문제를 겪었습니다. 그래서 30초 영상 한 편에 200자 이상의 글을 받도록 정했습니다. 이벤트나 서비스에서 고객 글로 영상을 만들어 준다면 입력란에 최소 글자 수를 걸어 두세요.

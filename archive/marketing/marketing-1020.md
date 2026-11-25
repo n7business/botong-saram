@@ -13,7 +13,7 @@ sources:
   quote: 나를 섭외한 담당자가 뿌듯하게 보고할 수 있는 성과를 만들어줘라.
   source: 캡선생 김용석 (@kap_writing)
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

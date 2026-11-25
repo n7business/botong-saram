@@ -1,0 +1,29 @@
+---
+id: growth-0577
+domain: growth
+claim: 뉴스레터 제목을 '이거 써 보세요' 같은 광고 문구 대신 보내는 사람이 자기 이름을 걸고 말을 거는 문장으로 바꿔 볼 만하며, 한 유료
+  콘텐츠 구독 서비스 팀장은 '안녕하세요, ○○○ 에디터입니다' 같은 제목으로 바꾼 뒤 오픈율과 클릭률이 크게 달라졌다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://blog.stibee.com/stibee-interview-folin/
+  author: 스티비 블로그(폴인 채진솔 팀장 인터뷰)
+  seen: '2026-11-25'
+  quote: 기존 광고성 제목에서 갑자기 달라져서 괜찮을까 했는데, 독자 반응이 정말 좋았어요.
+  source: 스티비 블로그
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 뉴스레터
+- 이메일마케팅
+- 제목
+- 오픈율
+---
+고객에게 보내는 뉴스레터나 안내 메일 제목을 할인·구매 권유 같은 광고 문구로만 채우고 있다면, 보내는 사람의 이름과 지금 하는 고민을 담은 말 거는 문장으로 바꿔 볼 만합니다. 유료 콘텐츠 구독 서비스 폴인은 광고성 제목을 쓰다가 '안녕하세요, 폴인 김혜림 에디터입니다', '낡고 지친 김다희 에디터입니다. 저만 힘든가요?' 같은 제목으로 바꿨고, 팀장은 오픈율과 클릭률이 완전히 달라졌다고 전합니다. 다만 한 회사의 경험이고 구독자 약 6만 명 규모의 사례라서, 우리 고객 명단에서도 그런지는 제목만 바꿔 몇 번 보내 보고 오픈율을 비교해 확인해야 합니다.

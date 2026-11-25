@@ -1,0 +1,30 @@
+---
+id: business-plan-0698
+domain: business-plan
+claim: 2027년 정부 예산안에서 청년창업사관학교 예산이 빠지고 재도전성공학교(595억 원)가 새로 잡혔지만, 중기부 장관이 청창사의 명맥을
+  유지할 방안을 찾겠다고 했으므로, 청창사를 노리는 청년 창업자는 '폐지 확정'으로 보고 포기하지 말고 이름이나 대상이 바뀐 공고가 나오는지 지켜봐야
+  한다.
+status: candidate
+evidence: consensus
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=ZTCOssXHowo
+  author: 창업주일
+  seen: '2026-11-25'
+  quote: 하지만 중요한 거는 이름이 아니라고 생각합니다.
+  source: 창업주일. 창업주가 하는 일 (@창업주일)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 청년창업사관학교
+- 재도전성공학교
+- 2027예산
+- 정부지원사업
+---
+2026년 청창사 예산은 1,025억 원이었지만 2027년 정부 예산안에는 따로 잡혀 있지 않습니다. 대신 청창사의 입주형 방식을 재창업 지원에 적용하는 재도전성공학교에 595억 원이 새로 잡혔습니다. 2026년 10월 초 중기부 장관은 청창사 명맥을 유지할 방안을 찾겠다고 말했습니다. 화자는 청년·재창업·여성·시니어 트랙을 둔 '창업사관학교'로 바뀔 수 있다고 보지만 이는 정부 발표가 아닌 개인 전망입니다. 이름이 아니라 선발·교육·공간·사업화 지원이라는 기능을 기준으로 새 공고를 찾아야 합니다. 근거는 자동생성 자막이므로 수치는 원자료로 다시 확인해야 합니다.

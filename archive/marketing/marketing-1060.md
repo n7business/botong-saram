@@ -1,0 +1,33 @@
+---
+id: marketing-1060
+domain: marketing
+claim: 스레드 프로필은 자기소개가 아니라 '팔로우할 이유'를 담아야 하고, 프로필명·소개글·고정 게시글이 같은 방향을 가리키게 맞추되 고정 게시글에는
+  확실한 근거를 남겨야 한다는 것이 빌리쌤의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.threads.com/@billy___ssam/post/DgFR986jtx5
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-25'
+  quote: 프로필은 자기소개가 아니라 '팔로우할 이유'를 담자.
+  source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/DgFR2NCHYck
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-25'
+  quote: 2. 고정 게시글은 <확실한 근거>남기기
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- threads
+- 프로필
+- 고정게시글
+---
+프로필 소개글은 나를 설명하는 데서 끝내지 말고, 방문자가 이 계정을 팔로우해야 할 이유를 적습니다. 프로필명, 자기소개, 고정 게시글은 같은 주제와 약속을 보여 주도록 맞춥니다. 고정 게시글에는 실적, 결과물, 수치처럼 내 말을 믿을 수 있는 확실한 근거를 올려 둡니다. 프로필 사진과 소개글 4줄을 갖추라는 기존 항목에 이어, 내용을 어떻게 채울지에 대한 기준입니다.

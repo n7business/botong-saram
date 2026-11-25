@@ -13,7 +13,7 @@ sources:
   quote: 법 시행일인 ’22. 4. 14. 이후 퇴직한 근로자부터 퇴직금 전액을 IRP계정으로이전하는 방식으로 지급해야 합니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-20'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-19'
 supersedes: null
 superseded_by: null

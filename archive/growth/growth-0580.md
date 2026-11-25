@@ -1,0 +1,29 @@
+---
+id: growth-0580
+domain: growth
+claim: 유료 콘텐츠나 멤버십을 파는 사업자는 뉴스레터에 본 콘텐츠를 많이 풀어 주기보다 일부만 보여 주고 전문은 구독해야 볼 수 있게 해 볼
+  만하며, 한 콘텐츠 구독 서비스는 개편 때 레터에 싣는 콘텐츠 분량을 크게 줄여 레터를 본 서비스 구독으로 이어지게 했다.
+status: candidate
+evidence: anecdote
+confidence: 0.45
+sources:
+- url: https://blog.stibee.com/stibee-interview-folin/
+  author: 스티비 블로그(폴인 채진솔 팀장 인터뷰)
+  seen: '2026-11-25'
+  quote: 폴인 채널을 구독해야 콘텐츠 전문을 볼 수 있도록 변화를 줬어요.
+  source: 스티비 블로그
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 뉴스레터
+- 유료구독
+- 구독전환
+- 콘텐츠판매
+---
+뉴스레터만 받고 유료 서비스는 구독하지 않는 사람이 많다면, 레터에서 본 콘텐츠를 너무 많이 무료로 보여 주고 있지 않은지 점검해 볼 만합니다. 폴인은 구독자 약 6만 명 중 레터만 받아 보는 사람이 있다는 점을 보고, 개편하면서 레터 본문에 넣는 콘텐츠 분량을 크게 줄이고 전문은 폴인을 구독해야 볼 수 있게 했습니다. 개편 뒤 오픈율·클릭률과 구독 전환이 함께 늘었다고 하지만, 제목과 형식도 같이 바꿨기 때문에 분량 조정만의 효과로 단정할 수는 없습니다.

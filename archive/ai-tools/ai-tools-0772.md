@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-24'
   quote: 소리는 들을 수 없으니 대사는 직접 들어보고 확인해 달라고
   source: 코드깎는노인
+- url: https://www.youtube.com/watch?v=j4bGOvvVxJI
+  author: 코드깎는노인
+  seen: '2026-11-25'
+  quote: 그래서 음악은 꼭 사람이 한번 들어 봐야 합니다.
+  source: 코드깎는노인
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

@@ -1,0 +1,29 @@
+---
+id: mindset-0281
+domain: mindset
+claim: 실력(인적자본)을 쌓기 전에 인맥(사회자본)부터 넓히려 하면 잘 잡히지도 않고 탈이 나기도 하므로, 먼저 시간을 들여 실력을 키우고 내가
+  만나고 싶은 사람보다 나를 만나고 싶어 하는 사람을 늘리는 데 집중해야 한다는 것이 캡선생 김용석의 원칙이다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@kap_writing/post/DgIAA8qn6kR
+  author: 캡선생 김용석 (@kap_writing)
+  seen: '2026-11-25'
+  quote: 나를 만나고 싶어 하는 사람을 늘리는 데 집중하자.
+  source: 캡선생 김용석 (@kap_writing)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 인맥
+- 실력
+- 네트워킹
+- 자본전환
+---
+김용석은 야마구치 슈의 자본 전환 순서를 근거로 듭니다. 시간자본이 인적자본(실력)이 되고, 인적자본이 사회자본(인맥)이 되며, 그다음에 금융자본(돈)이 됩니다. 실력을 건너뛰고 인맥부터 얻으려 하면 인맥이 잘 생기지 않고 문제가 생기기도 합니다. 그래서 먼저 시간을 들여 실력을 쌓으라고 말합니다. 만나고 싶은 사람을 찾아다니기보다 나를 만나고 싶어 하는 사람이 늘어나게 하는 것이 그의 기준입니다.

@@ -1,0 +1,28 @@
+---
+id: mindset-0274
+domain: mindset
+claim: 엠마쌤은 근로소득을 사업 자금으로 쓰지 않고, 필요한 돈은 지원금이나 투자 유치로 알맞게 조달하는 것을 창업자의 제1 덕목으로 꼽는다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=7xZceNXtD2c
+  author: 엠마쌤 (@emmassam)
+  seen: '2026-11-25'
+  quote: 지원금이나 투자 유치로 필요한 자금을 적정하게 조달하는 것이 창업자의 제1 덕목이다.
+  source: 엠마쌤 (@emmassam)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 자금조달
+- 투자유치
+- 정부지원금
+- 창업자원칙
+---
+화자는 13년 넘게 사업하면서 자금을 잘 끌어오는 것이 창업자의 가장 큰 역량이라고 느꼈다고 말합니다. 직장에서 번 근로소득을 사업 자금으로 쓰는 것은 아깝다고 봅니다. 그래서 정부 지원금과 투자 유치로 필요한 만큼의 자금을 마련하는 것을 원칙으로 삼습니다. 이 원칙을 따르려면 지원사업 공고 일정과 투자 유치 경로를 평소에 챙겨 두어야 합니다.

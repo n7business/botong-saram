@@ -13,7 +13,7 @@ sources:
   quote: 4대사회보험 포털사이트에서 근복에 대한 신고서, 증명서는 해당 기간 동안 중지됩니다.
   source: 4대사회보험 정보연계센터 기관별 공지사항
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

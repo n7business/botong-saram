@@ -1,0 +1,30 @@
+---
+id: growth-0573
+domain: growth
+claim: 첫 투자를 받으려는 회사는 덩치 큰 메가펀드에 맞춰 IR 자료를 고치기보다, 첫 투자에서 수익을 내는 초기 투자자를 찾아야 한다고 한
+  버티컬 AI 전문 VC는 말한다. 100억 달러 규모의 펀드는 몇백만 달러짜리 첫 투자를 검토할 시간이 없다는 것이다.
+status: candidate
+evidence: consensus
+confidence: 0.45
+sources:
+- url: https://eopla.net/magazines/49447
+  author: 원대로 (Euclid Ventures 'All Your Allocation Are Belong to Us' 인용)
+  seen: '2026-11-25'
+  quote: 첫 투자에서 돈 버는 투자자를 찾자.
+  source: EO 플래닛
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 투자유치
+- VC
+- 시드
+- IR덱
+- 지분희석
+---
+버티컬 AI 전문 VC인 Euclid는 대형 펀드가 운용 수수료 2%로 성과와 상관없이 수익을 내기 때문에 점점 커지고, 그래서 몇백만 달러 규모의 첫 투자는 들여다볼 시간이 없다고 분석한다. 이 VC는 메가펀드 입맛에 맞춰 IR 덱을 고치는 것은 지난주 시세표를 보고 주식을 사는 것과 같다고 말한다. 대신 내 지분 가치가 떨어지면 같이 손해를 보는, 첫 투자에서 돈을 버는 투자자를 찾으라고 권한다. 기업가치는 성적표가 아니라 지분이 얼마나 희석되는지 보여 주는 계산서로 봐야 한다고도 한다. 미국 시장을 근거로 한 분석이므로 국내 초기 투자 환경에는 그대로 옮기지 말고 참고만 하는 것이 좋다.

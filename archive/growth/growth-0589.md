@@ -1,0 +1,30 @@
+---
+id: growth-0589
+domain: growth
+claim: 소상공인 체감경기 흐름을 매달 확인하려면 중소벤처기업부 '소상공인시장경기동향조사'를 보면 된다. 이 조사는 매달 월말에 공표되며, 2026년
+  11월분 다음 공표일은 11월 30일이다.
+status: verified
+evidence: policy
+confidence: 0.6
+sources:
+- url: https://www.mss.go.kr/site/smba/foffice/ex/statDB/ptScheduleList.do
+  author: 중소벤처기업부
+  seen: '2026-11-25'
+  quote: 소상공인시장경기동향조사 소상공인정책과 1개월 월말 2026-11-30
+  source: 중소벤처기업부 통계자료 (소상공인실태조사)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-02-23'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 통계
+- 경기동향
+- 소상공인
+- 통계발표일정
+verified_by: 공식 출처
+---
+중소벤처기업부 통계발표일정상 소상공인시장경기동향조사는 작성주기가 1개월이고 공표시기는 월말이다. 조사보고서 목록에는 2026년 10월분이 10월 30일에, 9월분이 10월 1일에 올라와 있어 월말이나 다음 달 초에 확인하면 된다. 매년 한 번 나오는 소상공인실태조사(다음 공표 2027년 3월)를 기다리기보다 이 월간 조사로 최근 경기 흐름을 잡아 볼 만하다. 사업계획서나 영업 자료에 인용할 때는 조사 대상 월을 함께 적어야 한다.

@@ -1,0 +1,34 @@
+---
+id: metrics-0201
+domain: metrics
+claim: 가게 홍보물·포장재·굿즈에 지폐 도안을 인쇄해 쓰려면 실제 지폐 크기의 150% 이상이나 75% 이하로 만들고 '보기' 또는 'SPECIMEN'을
+  표기해야 하며, 두 조건 중 하나라도 빠지면 한국은행 기준 위반이다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.bok.or.kr/portal/main/contents.do?menuNo=201753
+  author: 한국은행
+  seen: '2026-11-25'
+  quote: ① 은행권 규격의 150% 이상 또는 75% 이하 규격을 사용 ② ‘보기’ 또는 ‘SPECIMEN’ 표기
+  source: 한국은행 기업경영분석
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-05-24'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 한국은행권 및 주화의 도안 이용기준
+  article: 제4조제1항
+  effective: 2024-09
+contributor: null
+tags:
+- 화폐도안
+- 홍보물
+- 인쇄물
+- 한국은행
+- 상업적이용
+verified_by: 공식 출처
+---
+한국은행은 2024년 9월부터 「화폐도안 이용기준」을 지키는 범위에서 화폐도안을 상업적으로 쓰는 것을 제한적으로 허용하고 있다. 은행권 도안을 전단·포장지·현수막 같은 인쇄물에 쓰거나 전자매체용 이미지를 인쇄할 때는 크기와 표기 두 조건을 모두 지켜야 한다. 크기는 실제 지폐 규격의 150% 이상이나 75% 이하여야 하고, '보기' 또는 'SPECIMEN' 표기가 들어가야 한다. 지폐 한 장 모양으로 낱장 인쇄물을 만들면 화폐모조품으로 취급되어 더 엄격한 기준이 적용된다. 동전 도안을 인쇄물에 쓸 때는 이 크기·표기 기준이 적용되지 않는다. 한국은행은 지폐 이미지를 따로 제공하지 않으므로, 디자인 업체에 맡기기 전에 이 조건을 발주서에 적어 둔다.

@@ -1,0 +1,28 @@
+---
+id: business-plan-0690
+domain: business-plan
+claim: AI 도구 도입 전 시연에서는 '1년 뒤 이 도구 안에 무엇이 남는가'를 물어야 하며, 대화 내역만 남는다면 회사의 업무 기록·승인 흔적이
+  남는 도구보다 오래 쓸 가치가 낮다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/49450
+  author: 방동걸(웨이스 CEO)
+  seen: '2026-11-25'
+  quote: 남는 것이 대화 내역뿐이라면 그 도구는 화면 하나에 가깝습니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI도입
+- 업무기록
+- 도구선정
+---
+모델은 경쟁사도 같은 값에 살 수 있으므로, AI 도구의 차이는 그 도구가 무엇 위에서 일하느냐에서 생깁니다. 시연 때 1년 뒤 도구 안에 무엇이 쌓이는지 묻고, 직원이 붙여 넣은 글과 대화 내역만 남는지, 아니면 누가 어떤 자료를 보고 무엇을 정했고 누가 승인했는지가 업무 순서대로 남는지 확인합니다. 회사 데이터가 있다는 것만으로는 부족하고, 그 데이터가 매일 업무에 쓰이고 갱신돼야 값이 유지됩니다. 권한대로 회사 자료를 읽고, 결재·발송·기록까지 끝내는 도구가 모델이 바뀌어도 회사 자산으로 남습니다.

@@ -12,8 +12,13 @@ sources:
   seen: '2026-11-07'
   quote: 가장 큰 거래처가 현금을 가장 많이 묶어 두는 거래처가 됩니다.
   source: 이상화세무사의 모래세무 (@nicetax)
+- url: https://outstanding.kr/fassto20261124
+  author: 아웃스탠딩
+  seen: '2026-11-25'
+  quote: 매출이 늘어도 적자가 쌓이는 상황이었죠.
+  source: 아웃스탠딩
 first_seen: '2026-11-07'
-last_confirmed: '2026-11-07'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

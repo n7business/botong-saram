@@ -4,7 +4,7 @@ domain: business-plan
 claim: 대전 지역 창업기업은 2026-11-24 18:00까지 모아폼으로 사전 신청하면 11월 25일 16~18시 대전 팁스타운 팁스홀에서 열리는
   팁스아카데미에서 오픈이노베이션 사례와 창업진흥원 민관협력 오픈이노베이션 지원사업 안내를 무료로 들을 수 있다. 다만 선착순으로 마감될 수 있고
   주차권은 지원되지 않는다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

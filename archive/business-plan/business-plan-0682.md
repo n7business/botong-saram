@@ -1,0 +1,29 @@
+---
+id: business-plan-0682
+domain: business-plan
+claim: 서부 경기문화창조허브 입주 서류심사는 지원동기·사업내용·사업추진계획에 각각 30점을 주고 기업현황에는 5점만 주므로, 신청서는 회사 규모보다
+  왜 이 공간이 필요한지와 앞으로의 추진계획을 쓰는 데 힘을 실어야 한다.
+status: candidate
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.venturesquare.net/announcement/1131019
+  author: 경기콘텐츠진흥원
+  seen: '2026-11-25'
+  quote: 지원동기(30) 사업내용(30) 사업추진계획(30) 기업현황(5) 가점(5)
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 경기문화창조허브
+- 평가배점
+- 사업계획서작성
+- 발표심사
+---
+서류심사 배점은 지원동기 30점, 사업내용 30점, 사업추진계획 30점, 기업현황 5점, 가점 5점이다. 발표심사는 사업역량 30점, 성장가능성 30점, 대표자 의지·역량 20점, 공간지원의 적정성 20점으로 매긴다. 서류와 발표 모두에서 공간이 왜 필요한지가 평가되므로, 입주하면 무엇을 할 수 있는지를 구체적으로 써야 한다. 업력이 짧거나 매출이 작은 기업도 기업현황 배점이 낮아 크게 불리하지 않다.

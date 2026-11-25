@@ -13,7 +13,7 @@ sources:
   quote: 압류 대상 적격이 없어 압류 명령은 무효이며 전액 압류가 금지됩니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-21'
 supersedes: null
 superseded_by: null

@@ -1,0 +1,29 @@
+---
+id: marketing-1057
+domain: marketing
+claim: 여러 컷을 따로 만들어 이어 붙이는 쇼핑 쇼츠는 손·소매·박스 등이 컷마다 자연스럽게 이어져 한 사람이 찍은 것처럼 보여야 하고, 상품
+  크기·색 변화 같은 실제 특성도 그대로 살려야 어색하지 않다는 것이 마브사끼의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=HFbQhr5co50
+  author: 돈버는 기술, 마브사끼
+  seen: '2026-11-25'
+  quote: 따로 만든 컷인데 한 사람이 찍은 것처럼 보이는 게 중요하다.
+  source: 돈버는 기술, 마브사끼
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI영상
+- 컷연속성
+- 쇼핑쇼츠
+- 상품표현
+---
+AI로 컷을 생성하면 컷마다 손 모양이 달라지거나 블루베리가 자두만큼 커지는 식의 어색함이 생기기 쉽다고 화자는 말합니다. 컷이 바뀌어도 손·소매·박스가 이어지고, 자막·문구·소리를 일관되게 맞춰야 한 사람이 찍은 영상처럼 보입니다. 껍질을 벗기면 하얗고 찌면 노랗게 변하는 것처럼 상품의 실제 특성도 그대로 반영해야 합니다. 실제와 다른 크기나 모습으로 보이게 하면 소비자를 속이는 과장 광고가 될 수 있으니 주의해야 합니다.

@@ -13,7 +13,7 @@ sources:
   quote: 대통령령으로 정하는 사유와 요건을 갖추어 퇴직연금 급여를 담보로 대출받은 금액 등을 상환하는 경우에 가능합니다.
   source: 고용노동부 행정해석(질의회시)
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-25'
 review_by: '2027-05-21'
 supersedes: null
 superseded_by: null

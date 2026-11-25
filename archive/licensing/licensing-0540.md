@@ -1,0 +1,33 @@
+---
+id: licensing-0540
+domain: licensing
+claim: 찾기 쉬운 생활법령에 실린 자료라도 제3자가 저작권을 가진 저작물은 영리 이용 자유 대상이 아니고 그 저작자의 정책과 저작권법을 따르므로,
+  생활법령 페이지의 그림·서식·인용 자료를 영업용 자료에 넣으려는 사업자는 제3자 저작물인지 먼저 확인해야 한다.
+status: verified
+evidence: policy
+confidence: 0.75
+sources:
+- url: https://www.easylaw.go.kr/CSP/csp0/introPolicy/getCopyright.do?lang=ko
+  author: 법제처 (찾기 쉬운 생활법령정보)
+  seen: '2026-11-25'
+  quote: 제3자가 저작권을 갖는 저작물의 경우, 저작자의 저작권 정책 및 「저작권법」에 따릅니다.
+  source: 법제처 생활법령정보
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-05-24'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 저작권법
+  article: 제136조
+  effective: '2026-11-25'
+contributor: null
+tags:
+- 저작권
+- 생활법령
+- 제3자저작물
+- 영리이용
+verified_by: 공식 출처
+---
+법제처는 생활법령을 영리 목적까지 포함해 자유롭게 쓸 수 있게 열어 두었지만, 제3자가 저작권을 가진 저작물에는 그 저작자의 저작권 정책과 「저작권법」이 적용된다고 예외를 두고 있습니다. 생활법령에 포함된 제3자의 저작권을 침해하는 경우는 형사처벌 대상으로도 안내됩니다. 생활법령 페이지에 있다는 이유만으로 모든 그림·도표·외부 인용 자료를 자유롭게 쓸 수 있다고 보면 안 됩니다. 영업용 안내문이나 유료 자료에 넣기 전에 해당 부분이 법제처 작성물인지 외부 저작물인지 확인하고, 외부 저작물이면 원저작자의 이용 조건을 따로 확인하세요.

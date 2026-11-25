@@ -12,7 +12,7 @@ sources:
   quote: 제공된 법령정보는 영리 목적의 이용을 포함하여 자유로운 활용이 보장됩니다.
   source: 국가법령정보센터
 first_seen: '2026-11-24'
-last_confirmed: '2026-11-24'
+last_confirmed: '2026-11-25'
 review_by: null
 supersedes: null
 superseded_by: null

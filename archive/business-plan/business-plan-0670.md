@@ -1,0 +1,37 @@
+---
+id: business-plan-0670
+domain: business-plan
+claim: KICXUP 서울(가산 현대아울렛 5·7층) 입주 사무실은 4인실이 월 60만 원, 6인실이 월 90만 원이고, 입주할 때 월 임대료의
+  3배를 보증금으로 한 번 내야 하므로, 4인실도 처음에 최소 240만 원(첫 달 임대료 60만 원과 보증금 180만 원)이 든다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=179852
+  author: 씨엔티테크(주)·한국산업단지공단
+  seen: '2026-11-25'
+  quote: 입주 시 1회 보증금 (월임대료3배 납부필요)
+  source: K-Startup 사업공고(모집중)
+- url: https://www.venturesquare.net/announcement/1131013
+  author: 한국산업단지공단·씨엔티테크
+  seen: '2026-11-25'
+  quote: 입주 시 1회 보증금 (월임대료3배 납부필요)
+  source: 벤처스퀘어 지원사업 아카이브
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: '2027-03-25'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- KICXUP
+- 입주공간
+- 임대료
+- 보증금
+- 한국산업단지공단
+- 신용보증기금
+verified_by: 공식 출처
+---
+한국산업단지공단과 씨엔티테크가 운영하는 KICXUP 서울은 이번에 5층 6인실(약 4.83평) 1개와 7층 4인실(약 3평) 2개, 모두 3개실만 모집한다. 입주비용은 4인실 월 60만 원, 6인실 월 90만 원이고, 입주할 때 월 임대료 3배를 보증금으로 한 번 낸다. 입주기간은 기본 1년이고 심사를 거쳐 최대 1년 더 연장할 수 있다. 입주하면 대중견기업 오픈이노베이션 매칭, 신용보증기금 보증·투자 연계, 컨설팅·IR 지원을 받을 수 있다. 신청 전에 보증금과 월 임대료를 감당할 수 있는지 계산해 봐야 한다.

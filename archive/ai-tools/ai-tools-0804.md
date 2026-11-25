@@ -1,0 +1,29 @@
+---
+id: ai-tools-0804
+domain: ai-tools
+claim: 스캔한 서류나 손글씨를 글자로 뽑는 무료 OCR 프로그램(datalab)을 회사 업무에 크게 쓰려면 라이선스 조건부터 확인해야 한다.
+  화자에 따르면 개인 사용은 무료지만 회사의 대규모 사용에는 별도 조건이 붙는다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DgH56WBiS2b
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-25'
+  quote: 개인 사용은 무료지만 회사에서 크게 쓰려면 조건을 확인해야 합니다.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- OCR
+- 라이선스
+- 종이서류디지털화
+- 오픈소스
+---
+화자가 소개한 datalab의 OCR 도구는 스캔한 신문, 관공서 서류, 손글씨 편지 사진에서 글자를 뽑는다. 표는 표 모양 그대로 살려 주고 90개 넘는 언어를 읽는다. 다만 화자에 따르면 개인 사용만 무료이고 회사에서 크게 쓰려면 조건을 확인해야 한다. 깃허브의 '무료'가 회사 업무 사용까지 무료라는 뜻은 아니므로, 도입하기 전에 저장소의 라이선스 문서를 읽어 봐야 한다.

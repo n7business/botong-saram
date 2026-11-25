@@ -1,0 +1,29 @@
+---
+id: growth-0578
+domain: growth
+claim: 뉴스레터를 자주 보내 콘텐츠를 많이 노출하면 효과가 있을 거라 짐작하지 말고 오픈율과 홈페이지 유입 수치를 직접 확인해야 하며, 한 구독
+  서비스는 주 3회 정보성 레터를 2년 넘게 보내다 데이터를 보고 오픈율과 홈페이지 유입이 너무 낮다는 것을 알고 주 2회로 줄였다고 전한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://blog.stibee.com/stibee-interview-folin/
+  author: 스티비 블로그(폴인 채진솔 팀장 인터뷰)
+  seen: '2026-11-25'
+  quote: 막상 데이터를 살펴보니 오픈율이 너무 낮았어요.
+  source: 스티비 블로그
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 뉴스레터
+- 발송주기
+- 오픈율
+- 데이터점검
+---
+콘텐츠를 최대한 많이 보여 주려고 메일을 자주 보내는 것은 받는 사람 입장이 아니라 보내는 쪽 생각일 수 있습니다. 폴인은 월·수·금 정보성 뉴스레터를 2년 넘게 보내다가, 개편하면서 데이터를 보니 오픈율과 메일에서 홈페이지로 넘어오는 비율이 모두 너무 낮았다고 합니다. 그래서 수·금 레터를 없애고 월·목 주 2회로 바꿨습니다. 정기 메일을 보내고 있다면 발송 횟수를 늘리기 전에 회차별 오픈율과 링크 클릭(우리 사이트 유입) 수치부터 확인해 보는 것이 좋습니다.

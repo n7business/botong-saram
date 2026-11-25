@@ -1,0 +1,2456 @@
+[
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0778",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0779",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0780",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0781",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0782",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:28",
+  "kind": "candidate",
+  "id": "ai-tools-0783",
+  "note": "Anthropic Engineering 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0784",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0785",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0786",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0787",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0788",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:20:57",
+  "kind": "candidate",
+  "id": "ai-tools-0789",
+  "note": "Claude Code 공식 문서"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "ai-tools-0790",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "mindset-0269",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "mindset-0270",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "ai-tools-0791",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "mindset-0271",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "mindset-0272",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "ai-tools-0792",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:15",
+  "kind": "candidate",
+  "id": "ai-tools-0793",
+  "note": "양실장의 바이브코딩대학 (@VibecodingUniversity)"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0794",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0795",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0796",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0797",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0798",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:24:55",
+  "kind": "candidate",
+  "id": "ai-tools-0799",
+  "note": "요즘IT"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "mindset-0273",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "ai-tools-0800",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "ai-tools-0801",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "ai-tools-0802",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "ai-tools-0803",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:25:37",
+  "kind": "candidate",
+  "id": "ai-tools-0804",
+  "note": "윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0805",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0806",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0807",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0808",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0809",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0810",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:26:23",
+  "kind": "candidate",
+  "id": "ai-tools-0811",
+  "note": "지피터스 GPTers"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0812",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0813",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0814",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0815",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0816",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0817",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "reconfirmed",
+  "id": "ai-tools-0772",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:27:09",
+  "kind": "candidate",
+  "id": "ai-tools-0818",
+  "note": "코드깎는노인"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0819",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0820",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0821",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0822",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0823",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0824",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0825",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:28:15",
+  "kind": "candidate",
+  "id": "ai-tools-0826",
+  "note": "테디노트 TeddyNote"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0664",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0665",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0666",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0667",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0668",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0669",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0670",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:09",
+  "kind": "candidate",
+  "id": "business-plan-0671",
+  "note": "K-Startup 사업공고(모집중)"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0672",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0673",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0674",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0675",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0676",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:29:46",
+  "kind": "candidate",
+  "id": "business-plan-0677",
+  "note": "기업마당 지원사업 공고"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0678",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0679",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0680",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0681",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0682",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "candidate",
+  "id": "business-plan-0683",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "reconfirmed",
+  "id": "business-plan-0670",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:26",
+  "kind": "reconfirmed",
+  "id": "business-plan-0669",
+  "note": "벤처스퀘어 지원사업 아카이브"
+ },
+ {
+  "ts": "2026-11-25T08:30:45",
+  "kind": "candidate",
+  "id": "business-plan-0684",
+  "note": "스타트업레시피 뉴스레터"
+ },
+ {
+  "ts": "2026-11-25T08:30:45",
+  "kind": "candidate",
+  "id": "business-plan-0685",
+  "note": "스타트업레시피 뉴스레터"
+ },
+ {
+  "ts": "2026-11-25T08:31:19",
+  "kind": "candidate",
+  "id": "business-plan-0686",
+  "note": "엠마쌤 (@emmassam)"
+ },
+ {
+  "ts": "2026-11-25T08:31:19",
+  "kind": "candidate",
+  "id": "business-plan-0687",
+  "note": "엠마쌤 (@emmassam)"
+ },
+ {
+  "ts": "2026-11-25T08:31:19",
+  "kind": "candidate",
+  "id": "mindset-0274",
+  "note": "엠마쌤 (@emmassam)"
+ },
+ {
+  "ts": "2026-11-25T08:31:19",
+  "kind": "candidate",
+  "id": "mindset-0275",
+  "note": "엠마쌤 (@emmassam)"
+ },
+ {
+  "ts": "2026-11-25T08:31:19",
+  "kind": "candidate",
+  "id": "business-plan-0688",
+  "note": "엠마쌤 (@emmassam)"
+ },
+ {
+  "ts": "2026-11-25T08:32:10",
+  "kind": "candidate",
+  "id": "business-plan-0689",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:10",
+  "kind": "candidate",
+  "id": "business-plan-0690",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:10",
+  "kind": "candidate",
+  "id": "business-plan-0691",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:11",
+  "kind": "candidate",
+  "id": "business-plan-0692",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:11",
+  "kind": "candidate",
+  "id": "business-plan-0693",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:11",
+  "kind": "candidate",
+  "id": "business-plan-0694",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:11",
+  "kind": "candidate",
+  "id": "business-plan-0695",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:32:11",
+  "kind": "candidate",
+  "id": "business-plan-0696",
+  "note": "이오플래닛 매거진"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0697",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0698",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0699",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0700",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0701",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0702",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "business-plan-0703",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:01",
+  "kind": "candidate",
+  "id": "mindset-0276",
+  "note": "창업주일. 창업주가 하는 일 (@창업주일)"
+ },
+ {
+  "ts": "2026-11-25T08:33:23",
+  "kind": "candidate",
+  "id": "business-plan-0704",
+  "note": "창업진흥원 사업공고"
+ },
+ {
+  "ts": "2026-11-25T08:33:23",
+  "kind": "candidate",
+  "id": "business-plan-0705",
+  "note": "창업진흥원 사업공고"
+ },
+ {
+  "ts": "2026-11-25T08:33:23",
+  "kind": "candidate",
+  "id": "business-plan-0706",
+  "note": "창업진흥원 사업공고"
+ },
+ {
+  "ts": "2026-11-25T08:33:56",
+  "kind": "candidate",
+  "id": "factory-ax-0316",
+  "note": "KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례"
+ },
+ {
+  "ts": "2026-11-25T08:33:56",
+  "kind": "candidate",
+  "id": "factory-ax-0317",
+  "note": "KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례"
+ },
+ {
+  "ts": "2026-11-25T08:33:56",
+  "kind": "candidate",
+  "id": "factory-ax-0318",
+  "note": "KAMP 인공지능 제조 플랫폼 — 제조AI 적용 우수사례"
+ },
+ {
+  "ts": "2026-11-25T08:34:09",
+  "kind": "candidate",
+  "id": "factory-ax-0319",
+  "note": "THE ENGINEER (@theengineerfajob)"
+ },
+ {
+  "ts": "2026-11-25T08:34:38",
+  "kind": "candidate",
+  "id": "factory-ax-0320",
+  "note": "산업일보"
+ },
+ {
+  "ts": "2026-11-25T08:34:38",
+  "kind": "candidate",
+  "id": "factory-ax-0321",
+  "note": "산업일보"
+ },
+ {
+  "ts": "2026-11-25T08:34:38",
+  "kind": "candidate",
+  "id": "factory-ax-0322",
+  "note": "산업일보"
+ },
+ {
+  "ts": "2026-11-25T08:34:38",
+  "kind": "candidate",
+  "id": "factory-ax-0323",
+  "note": "산업일보"
+ },
+ {
+  "ts": "2026-11-25T08:34:52",
+  "kind": "candidate",
+  "id": "factory-ax-0324",
+  "note": "산업통상부 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:35:13",
+  "kind": "candidate",
+  "id": "factory-ax-0325",
+  "note": "스마트공장 사업관리시스템(스마트제조혁신추진단)"
+ },
+ {
+  "ts": "2026-11-25T08:35:13",
+  "kind": "candidate",
+  "id": "factory-ax-0326",
+  "note": "스마트공장 사업관리시스템(스마트제조혁신추진단)"
+ },
+ {
+  "ts": "2026-11-25T08:35:28",
+  "kind": "reconfirmed",
+  "id": "factory-ax-0311",
+  "note": "중소벤처기업부 사업공고"
+ },
+ {
+  "ts": "2026-11-25T08:36:11",
+  "kind": "candidate",
+  "id": "factory-ax-0327",
+  "note": "한국생산기술연구원 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:36:11",
+  "kind": "candidate",
+  "id": "factory-ax-0328",
+  "note": "한국생산기술연구원 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:36:11",
+  "kind": "candidate",
+  "id": "factory-ax-0329",
+  "note": "한국생산기술연구원 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:36:11",
+  "kind": "reconfirmed",
+  "id": "factory-ax-0274",
+  "note": "한국생산기술연구원 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:36:11",
+  "kind": "candidate",
+  "id": "factory-ax-0330",
+  "note": "한국생산기술연구원 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:36:54",
+  "kind": "candidate",
+  "id": "factory-ax-0331",
+  "note": "헬로티"
+ },
+ {
+  "ts": "2026-11-25T08:36:54",
+  "kind": "candidate",
+  "id": "factory-ax-0332",
+  "note": "헬로티"
+ },
+ {
+  "ts": "2026-11-25T08:36:54",
+  "kind": "candidate",
+  "id": "factory-ax-0333",
+  "note": "헬로티"
+ },
+ {
+  "ts": "2026-11-25T08:36:54",
+  "kind": "candidate",
+  "id": "factory-ax-0334",
+  "note": "헬로티"
+ },
+ {
+  "ts": "2026-11-25T08:36:54",
+  "kind": "candidate",
+  "id": "factory-ax-0335",
+  "note": "헬로티"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0566",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0567",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0568",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0569",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0570",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0571",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0572",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:37:55",
+  "kind": "candidate",
+  "id": "growth-0573",
+  "note": "EO 플래닛"
+ },
+ {
+  "ts": "2026-11-25T08:38:27",
+  "kind": "candidate",
+  "id": "growth-0574",
+  "note": "디스콰이엇"
+ },
+ {
+  "ts": "2026-11-25T08:38:27",
+  "kind": "candidate",
+  "id": "growth-0575",
+  "note": "디스콰이엇"
+ },
+ {
+  "ts": "2026-11-25T08:38:27",
+  "kind": "candidate",
+  "id": "growth-0576",
+  "note": "디스콰이엇"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0577",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0578",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0579",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0580",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0581",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0582",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:08",
+  "kind": "candidate",
+  "id": "growth-0583",
+  "note": "스티비 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:40:35",
+  "kind": "candidate",
+  "id": "growth-0584",
+  "note": "장사 권프로 (@권프로)"
+ },
+ {
+  "ts": "2026-11-25T08:40:35",
+  "kind": "candidate",
+  "id": "growth-0585",
+  "note": "장사 권프로 (@권프로)"
+ },
+ {
+  "ts": "2026-11-25T08:41:17",
+  "kind": "candidate",
+  "id": "growth-0586",
+  "note": "중소벤처기업부 통계자료 (소상공인실태조사)"
+ },
+ {
+  "ts": "2026-11-25T08:41:17",
+  "kind": "candidate",
+  "id": "growth-0587",
+  "note": "중소벤처기업부 통계자료 (소상공인실태조사)"
+ },
+ {
+  "ts": "2026-11-25T08:41:17",
+  "kind": "candidate",
+  "id": "growth-0588",
+  "note": "중소벤처기업부 통계자료 (소상공인실태조사)"
+ },
+ {
+  "ts": "2026-11-25T08:41:17",
+  "kind": "candidate",
+  "id": "growth-0589",
+  "note": "중소벤처기업부 통계자료 (소상공인실태조사)"
+ },
+ {
+  "ts": "2026-11-25T08:41:49",
+  "kind": "candidate",
+  "id": "mindset-0277",
+  "note": "태오의 실행비즈니스 (@teo_daily_business)"
+ },
+ {
+  "ts": "2026-11-25T08:41:49",
+  "kind": "candidate",
+  "id": "mindset-0278",
+  "note": "태오의 실행비즈니스 (@teo_daily_business)"
+ },
+ {
+  "ts": "2026-11-25T08:41:49",
+  "kind": "candidate",
+  "id": "mindset-0279",
+  "note": "태오의 실행비즈니스 (@teo_daily_business)"
+ },
+ {
+  "ts": "2026-11-25T08:41:49",
+  "kind": "candidate",
+  "id": "mindset-0280",
+  "note": "태오의 실행비즈니스 (@teo_daily_business)"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0191",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0192",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0249",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0242",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0177",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0188",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:28",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0211",
+  "note": "4대사회보험 정보연계센터 기관별 공지사항"
+ },
+ {
+  "ts": "2026-11-25T08:42:52",
+  "kind": "candidate",
+  "id": "hr-labor-0252",
+  "note": "고용노동부 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:42:52",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0235",
+  "note": "고용노동부 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:42:52",
+  "kind": "candidate",
+  "id": "hr-labor-0253",
+  "note": "고용노동부 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "candidate",
+  "id": "hr-labor-0254",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0216",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0215",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0236",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0237",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0238",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:36",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0217",
+  "note": "고용노동부 행정해석(질의회시)"
+ },
+ {
+  "ts": "2026-11-25T08:43:55",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0218",
+  "note": "노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)"
+ },
+ {
+  "ts": "2026-11-25T08:43:56",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0239",
+  "note": "노무사 박혜리 | 혜리로운 노무생활 (@angela_cpla)"
+ },
+ {
+  "ts": "2026-11-25T08:44:08",
+  "kind": "candidate",
+  "id": "hr-labor-0255",
+  "note": "박실로 노무사 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:44:23",
+  "kind": "candidate",
+  "id": "hr-labor-0256",
+  "note": "윤보름노무사 (Threads)"
+ },
+ {
+  "ts": "2026-11-25T08:44:35",
+  "kind": "reconfirmed",
+  "id": "hr-labor-0248",
+  "note": "최저임금위원회 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:45:00",
+  "kind": "candidate",
+  "id": "law-basics-0536",
+  "note": "개인정보보호위원회"
+ },
+ {
+  "ts": "2026-11-25T08:45:00",
+  "kind": "candidate",
+  "id": "law-basics-0537",
+  "note": "개인정보보호위원회"
+ },
+ {
+  "ts": "2026-11-25T08:45:00",
+  "kind": "candidate",
+  "id": "law-basics-0538",
+  "note": "개인정보보호위원회"
+ },
+ {
+  "ts": "2026-11-25T08:45:28",
+  "kind": "candidate",
+  "id": "law-basics-0539",
+  "note": "공정거래위원회 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:45:28",
+  "kind": "candidate",
+  "id": "law-basics-0540",
+  "note": "공정거래위원회 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:45:28",
+  "kind": "candidate",
+  "id": "law-basics-0541",
+  "note": "공정거래위원회 보도자료"
+ },
+ {
+  "ts": "2026-11-25T08:46:03",
+  "kind": "candidate",
+  "id": "law-basics-0542",
+  "note": "국가법령정보센터"
+ },
+ {
+  "ts": "2026-11-25T08:46:03",
+  "kind": "candidate",
+  "id": "law-basics-0543",
+  "note": "국가법령정보센터"
+ },
+ {
+  "ts": "2026-11-25T08:46:03",
+  "kind": "candidate",
+  "id": "law-basics-0544",
+  "note": "국가법령정보센터"
+ },
+ {
+  "ts": "2026-11-25T08:46:03",
+  "kind": "reconfirmed",
+  "id": "law-basics-0522",
+  "note": "국가법령정보센터"
+ },
+ {
+  "ts": "2026-11-25T08:46:03",
+  "kind": "reconfirmed",
+  "id": "law-basics-0523",
+  "note": "국가법령정보센터"
+ },
+ {
+  "ts": "2026-11-25T08:46:59",
+  "kind": "candidate",
+  "id": "law-basics-0545",
+  "note": "대한법률구조공단"
+ },
+ {
+  "ts": "2026-11-25T08:46:59",
+  "kind": "candidate",
+  "id": "law-basics-0546",
+  "note": "대한법률구조공단"
+ },
+ {
+  "ts": "2026-11-25T08:46:59",
+  "kind": "candidate",
+  "id": "law-basics-0547",
+  "note": "대한법률구조공단"
+ },
+ {
+  "ts": "2026-11-25T08:46:59",
+  "kind": "candidate",
+  "id": "law-basics-0548",
+  "note": "대한법률구조공단"
+ },
+ {
+  "ts": "2026-11-25T08:47:12",
+  "kind": "candidate",
+  "id": "law-basics-0549",
+  "note": "법무사 정승제 (@__jjjjjeee)"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0550",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0551",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0552",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0553",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0554",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0555",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0556",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:48:13",
+  "kind": "candidate",
+  "id": "law-basics-0557",
+  "note": "헬프미 법률사무소 블로그"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0530",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0531",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0532",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0533",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0534",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0535",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0536",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:04",
+  "kind": "candidate",
+  "id": "licensing-0537",
+  "note": "고용허가제 EPS"
+ },
+ {
+  "ts": "2026-11-25T08:49:32",
+  "kind": "candidate",
+  "id": "licensing-0538",
+  "note": "국민신문고"
+ },
+ {
+  "ts": "2026-11-25T08:49:32",
+  "kind": "candidate",
+  "id": "licensing-0539",
+  "note": "국민신문고"
+ },
+ {
+  "ts": "2026-11-25T08:49:32",
+  "kind": "reconfirmed",
+  "id": "licensing-0460",
+  "note": "국민신문고"
+ },
+ {
+  "ts": "2026-11-25T08:49:51",
+  "kind": "reconfirmed",
+  "id": "licensing-0511",
+  "note": "법제처 생활법령정보"
+ },
+ {
+  "ts": "2026-11-25T08:49:51",
+  "kind": "candidate",
+  "id": "licensing-0540",
+  "note": "법제처 생활법령정보"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0541",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0542",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0543",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0544",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0545",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0546",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:50:44",
+  "kind": "candidate",
+  "id": "licensing-0547",
+  "note": "정부24"
+ },
+ {
+  "ts": "2026-11-25T08:51:15",
+  "kind": "candidate",
+  "id": "licensing-0548",
+  "note": "중소벤처24"
+ },
+ {
+  "ts": "2026-11-25T08:51:15",
+  "kind": "candidate",
+  "id": "licensing-0549",
+  "note": "중소벤처24"
+ },
+ {
+  "ts": "2026-11-25T08:51:15",
+  "kind": "candidate",
+  "id": "licensing-0550",
+  "note": "중소벤처24"
+ },
+ {
+  "ts": "2026-11-25T08:51:15",
+  "kind": "candidate",
+  "id": "licensing-0551",
+  "note": "중소벤처24"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0552",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0553",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0554",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0555",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0556",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:52:09",
+  "kind": "candidate",
+  "id": "licensing-0557",
+  "note": "하이코리아 (출입국·비자)"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1026",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1027",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1028",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1029",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1030",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1031",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1032",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:05",
+  "kind": "candidate",
+  "id": "marketing-1033",
+  "note": "Meta 비즈니스 지원 센터"
+ },
+ {
+  "ts": "2026-11-25T08:53:52",
+  "kind": "candidate",
+  "id": "marketing-1034",
+  "note": "YouTube 크리에이터 (한국 공식 채널)"
+ },
+ {
+  "ts": "2026-11-25T08:53:52",
+  "kind": "candidate",
+  "id": "marketing-1035",
+  "note": "YouTube 크리에이터 (한국 공식 채널)"
+ },
+ {
+  "ts": "2026-11-25T08:53:52",
+  "kind": "candidate",
+  "id": "marketing-1036",
+  "note": "YouTube 크리에이터 (한국 공식 채널)"
+ },
+ {
+  "ts": "2026-11-25T08:53:52",
+  "kind": "candidate",
+  "id": "marketing-1037",
+  "note": "YouTube 크리에이터 (한국 공식 채널)"
+ },
+ {
+  "ts": "2026-11-25T08:53:52",
+  "kind": "candidate",
+  "id": "marketing-1038",
+  "note": "YouTube 크리에이터 (한국 공식 채널)"
+ },
+ {
+  "ts": "2026-11-25T08:54:13",
+  "kind": "candidate",
+  "id": "marketing-1039",
+  "note": "고구마팜"
+ },
+ {
+  "ts": "2026-11-25T08:54:13",
+  "kind": "candidate",
+  "id": "marketing-1040",
+  "note": "고구마팜"
+ },
+ {
+  "ts": "2026-11-25T08:54:31",
+  "kind": "candidate",
+  "id": "marketing-1041",
+  "note": "깡대표"
+ },
+ {
+  "ts": "2026-11-25T08:54:50",
+  "kind": "candidate",
+  "id": "marketing-1042",
+  "note": "네이버 Search & Tech 블로그 (서치어드바이저 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:54:50",
+  "kind": "candidate",
+  "id": "marketing-1043",
+  "note": "네이버 Search & Tech 블로그 (서치어드바이저 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:54:50",
+  "kind": "candidate",
+  "id": "marketing-1044",
+  "note": "네이버 Search & Tech 블로그 (서치어드바이저 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1045",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1046",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1047",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1048",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1049",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1050",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1051",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:55:40",
+  "kind": "candidate",
+  "id": "marketing-1052",
+  "note": "네이버 서치어드바이저 가이드 (SEO 공식)"
+ },
+ {
+  "ts": "2026-11-25T08:56:17",
+  "kind": "candidate",
+  "id": "marketing-1053",
+  "note": "돈버는 기술, 마브사끼"
+ },
+ {
+  "ts": "2026-11-25T08:56:17",
+  "kind": "candidate",
+  "id": "marketing-1054",
+  "note": "돈버는 기술, 마브사끼"
+ },
+ {
+  "ts": "2026-11-25T08:56:17",
+  "kind": "candidate",
+  "id": "marketing-1055",
+  "note": "돈버는 기술, 마브사끼"
+ },
+ {
+  "ts": "2026-11-25T08:56:17",
+  "kind": "candidate",
+  "id": "marketing-1056",
+  "note": "돈버는 기술, 마브사끼"
+ },
+ {
+  "ts": "2026-11-25T08:56:17",
+  "kind": "candidate",
+  "id": "marketing-1057",
+  "note": "돈버는 기술, 마브사끼"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1058",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1059",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1060",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1061",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1062",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1063",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1064",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:00",
+  "kind": "candidate",
+  "id": "marketing-1065",
+  "note": "빌리쌤 (@billy___ssam)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1066",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1067",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1068",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1069",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1070",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1071",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1072",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:57:47",
+  "kind": "candidate",
+  "id": "marketing-1073",
+  "note": "새벽리더 블로그 강의 (@MorningLeader)"
+ },
+ {
+  "ts": "2026-11-25T08:58:22",
+  "kind": "reconfirmed",
+  "id": "marketing-1020",
+  "note": "캡선생 김용석 (@kap_writing)"
+ },
+ {
+  "ts": "2026-11-25T08:58:22",
+  "kind": "candidate",
+  "id": "mindset-0281",
+  "note": "캡선생 김용석 (@kap_writing)"
+ },
+ {
+  "ts": "2026-11-25T08:58:22",
+  "kind": "candidate",
+  "id": "mindset-0282",
+  "note": "캡선생 김용석 (@kap_writing)"
+ },
+ {
+  "ts": "2026-11-25T08:58:22",
+  "kind": "candidate",
+  "id": "mindset-0283",
+  "note": "캡선생 김용석 (@kap_writing)"
+ },
+ {
+  "ts": "2026-11-25T08:58:22",
+  "kind": "candidate",
+  "id": "mindset-0284",
+  "note": "캡선생 김용석 (@kap_writing)"
+ },
+ {
+  "ts": "2026-11-25T08:58:53",
+  "kind": "candidate",
+  "id": "marketing-1074",
+  "note": "커리어노마드 (@careernomad_)"
+ },
+ {
+  "ts": "2026-11-25T08:58:53",
+  "kind": "candidate",
+  "id": "marketing-1075",
+  "note": "커리어노마드 (@careernomad_)"
+ },
+ {
+  "ts": "2026-11-25T08:58:53",
+  "kind": "candidate",
+  "id": "marketing-1076",
+  "note": "커리어노마드 (@careernomad_)"
+ },
+ {
+  "ts": "2026-11-25T08:58:53",
+  "kind": "candidate",
+  "id": "mindset-0285",
+  "note": "커리어노마드 (@careernomad_)"
+ },
+ {
+  "ts": "2026-11-25T08:58:53",
+  "kind": "candidate",
+  "id": "mindset-0286",
+  "note": "커리어노마드 (@careernomad_)"
+ },
+ {
+  "ts": "2026-11-25T08:59:10",
+  "kind": "reconfirmed",
+  "id": "metrics-0143",
+  "note": "아웃스탠딩"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0192",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0193",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0194",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0195",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0196",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0197",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0198",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:07",
+  "kind": "candidate",
+  "id": "metrics-0199",
+  "note": "이상화세무사의 모래세무 (@nicetax)"
+ },
+ {
+  "ts": "2026-11-25T09:00:25",
+  "kind": "candidate",
+  "id": "metrics-0200",
+  "note": "중소벤처기업부 보도자료"
+ },
+ {
+  "ts": "2026-11-25T09:00:59",
+  "kind": "candidate",
+  "id": "metrics-0201",
+  "note": "한국은행 기업경영분석"
+ },
+ {
+  "ts": "2026-11-25T09:00:59",
+  "kind": "candidate",
+  "id": "metrics-0202",
+  "note": "한국은행 기업경영분석"
+ },
+ {
+  "ts": "2026-11-25T09:00:59",
+  "kind": "candidate",
+  "id": "metrics-0203",
+  "note": "한국은행 기업경영분석"
+ },
+ {
+  "ts": "2026-11-25T09:02:48",
+  "kind": "candidate",
+  "id": "tax-0346",
+  "note": "국세상담센터 공지사항·FAQ"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0347",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0348",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0349",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0350",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0351",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:03:39",
+  "kind": "candidate",
+  "id": "tax-0352",
+  "note": "서경화 세무사 (@tax_dagyeom)"
+ },
+ {
+  "ts": "2026-11-25T09:04:18",
+  "kind": "candidate",
+  "id": "tax-0353",
+  "note": "송진명 세무사 (@taxnode_song)"
+ },
+ {
+  "ts": "2026-11-25T09:04:18",
+  "kind": "candidate",
+  "id": "tax-0354",
+  "note": "송진명 세무사 (@taxnode_song)"
+ },
+ {
+  "ts": "2026-11-25T09:04:18",
+  "kind": "reconfirmed",
+  "id": "tax-0276",
+  "note": "송진명 세무사 (@taxnode_song)"
+ },
+ {
+  "ts": "2026-11-25T09:04:18",
+  "kind": "reconfirmed",
+  "id": "tax-0304",
+  "note": "송진명 세무사 (@taxnode_song)"
+ },
+ {
+  "ts": "2026-11-25T09:04:18",
+  "kind": "reconfirmed",
+  "id": "tax-0342",
+  "note": "송진명 세무사 (@taxnode_song)"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0880",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0879",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0884",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1029",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1030",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1032",
+  "note": "+2"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1031",
+  "note": "+2"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1034",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0923",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1036",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0934",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0936",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1048",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-0933",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1050",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:05:30",
+  "kind": "merged",
+  "id": "marketing-1052",
+  "note": "+1"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0784",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0785",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0786",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0787",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0788",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0789",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0809",
+  "note": "실무자 실측(단일 출처)"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "ai-tools-0816",
+  "note": "실무자 실측(단일 출처)"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "expired",
+  "id": "business-plan-0432",
+  "note": "마감 2026-11-24 지남"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "expired",
+  "id": "business-plan-0528",
+  "note": "마감 2026-11-24 지남"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0664",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0665",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0666",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0667",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0668",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0669",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0670",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0671",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0672",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0673",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0674",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0675",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0676",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0677",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0704",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0705",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "business-plan-0706",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0316",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0317",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0318",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0324",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0325",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0326",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0327",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0328",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "factory-ax-0329",
+  "note": "실무자 실측(단일 출처)"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "growth-0586",
+  "note": "실무자 실측(단일 출처)"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "growth-0587",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "growth-0588",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "growth-0589",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "hr-labor-0254",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0536",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0539",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0540",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0541",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0542",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0543",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "law-basics-0544",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0530",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0531",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0532",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0533",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0535",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0536",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0537",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0538",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0540",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0544",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0545",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0546",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0547",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0548",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0549",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0550",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0551",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0555",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0556",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "licensing-0557",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1033",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1037",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1038",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1042",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1043",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1044",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1047",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "marketing-1051",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "metrics-0200",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "metrics-0201",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "metrics-0202",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "metrics-0203",
+  "note": "공식 출처"
+ },
+ {
+  "ts": "2026-11-25T09:06:38",
+  "kind": "verified",
+  "id": "tax-0346",
+  "note": "공식 출처"
+ }
+]

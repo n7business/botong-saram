@@ -1,0 +1,30 @@
+---
+id: marketing-1040
+domain: marketing
+claim: 콘텐츠 제목이나 혜택 안내에 '오늘 밤 ○○를 54000개 먹을 거야' 밈을 쓰면 핵심 내용을 한 마디로 과장해 강조하거나 혜택을 그만큼
+  넉넉하게 준비했다는 느낌을 줄 수 있다는 것이 고구마팜의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.35
+sources:
+- url: https://gogumafarm.kr/%ec%9c%a0%ed%96%89-%eb%b0%88-%ec%86%8c%ea%b0%9c-%e2%86%90-%ec%9d%b4-%eb%b6%80%eb%b6%84-%ec%a7%84%ec%a7%9c-%ea%b0%90%eb%8f%99-2026%eb%85%84-11%ec%9b%94-%ec%b5%9c%ec%8b%a0-%eb%b0%88-%eb%aa%a8%ec%9d%8c/
+  author: 고구마팜(고구마말랭이)
+  seen: '2026-11-25'
+  quote: 브랜드 혜택을 소개할 때 사용하면, 그만큼 풍성하게 준비했다는 맥락을 전달할 수도 있을 거예요.
+  source: 고구마팜
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 밈
+- 제목
+- 혜택안내
+- 카피
+- 2026-11
+---
+'54000개' 밈은 무언가를 엄청 많이 먹거나 하겠다는 말을 터무니없이 큰 숫자로 부풀리는 표현입니다. 디글은 유튜브 콘텐츠 제목에 '오늘 밤 가래떡을 54,000개 먹을 거야'처럼 이 밈을 넣어 핵심 내용을 재치 있게 강조했습니다. 고구마팜은 이 밈을 브랜드 혜택 소개에 쓰면 그만큼 넉넉하게 준비했다는 느낌을 줄 수 있다고 봅니다. 다만 실제 수량이나 혜택으로 오해받을 수 있는 자리에서는 과장 광고 시비가 생기지 않도록 농담인 것이 분명하게 써야 합니다. 이 밈도 2026년 11월에 유행한 것이라 유행이 지나면 효과가 떨어집니다.

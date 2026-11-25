@@ -1,0 +1,29 @@
+---
+id: ai-tools-0802
+domain: ai-tools
+claim: 회의 녹음이나 PDF·워드·엑셀·이메일 같은 회사 기밀 문서를 AI가 읽을 수 있는 글로 바꿀 때는 docling처럼 내 컴퓨터 안에서만
+  돌아가는 무료 변환 도구를 쓰면 문서가 외부로 나가지 않는다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@yun_ja_dong/post/DgH56WBiS2b
+  author: 윤자동 (@yun_ja_dong)
+  seen: '2026-11-25'
+  quote: 내 컴퓨터 안에서만 돌릴 수 있어서 회사 기밀 문서도 밖으로 안 나갑니다.
+  source: 윤자동 | AI자동화로 세상을 돕는중 (@yun_ja_dong)
+first_seen: '2026-11-25'
+last_confirmed: '2026-11-25'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 문서변환
+- 로컬AI
+- 기밀보호
+- docling
+---
+화자가 소개한 docling은 회의 녹음이나 영상을 넣으면 말한 내용을 글 문서로 정리해 준다. PDF, 워드, 엑셀, 파워포인트, 이메일, 전자책도 깔끔한 글 문서로 바꾸고, 막대·원그래프는 표로 풀어 준다. 내 컴퓨터 안에서만 돌릴 수 있어서 기밀 문서를 외부 서버에 올리지 않아도 된다. 설치가 조금 필요하므로 깃허브 링크를 ChatGPT나 클로드에 붙여 넣고 설치 방법을 물어보면 된다.
