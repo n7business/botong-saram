@@ -3,7 +3,7 @@ id: business-plan-0397
 domain: business-plan
 claim: 서울에 사는 만 19~39세 예비창업자나 일반인은 2026-11-25 18:00까지 구로구 청년창업지원센터 홈페이지에 회원가입한 뒤 수강
   신청하면 11월 26일 14~17시 '사업계획서 작성 요령' 교육을 들을 수 있지만, 정원 50명 선착순이다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

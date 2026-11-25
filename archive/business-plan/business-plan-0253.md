@@ -3,7 +3,7 @@ id: business-plan-0253
 domain: business-plan
 claim: 용인시산업진흥원 동백S 창업지원센터(2026-11-25 16:00 마감, 2개사)에 지원하려는 바이오헬스 분야 7년 미만 기업·예비창업자는
   유사 사업체 운영이나 폐업 후 3년 이내 재창업에 해당하면 제외되므로 총사업자 등록내역부터 확인해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-07'
 last_confirmed: '2026-11-07'
-review_by: null
+review_by: '2026-11-25'
 supersedes: null
 superseded_by: null
 experiment: null

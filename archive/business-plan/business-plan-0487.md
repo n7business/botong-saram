@@ -4,7 +4,7 @@ domain: business-plan
 claim: 원자력·조선·해양수산 분야에서 기술 개발이 막혔거나 특허·기술이 필요한 기업은 기술이전 계획이 없어도 2026-11-25까지 구글폼으로
   신청하면 11월 27일 부산 윈덤 그랜드에서 열리는 IP-LINK 행사에서 지식재산거래전문관에게 무료로 기술·지원사업 연계 상담을 받을 수 있지만,
   선착순으로 마감된다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -20,7 +20,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-16'
 last_confirmed: '2026-11-18'
-review_by: null
+review_by: '2026-11-25'
 supersedes: null
 superseded_by: null
 experiment: null

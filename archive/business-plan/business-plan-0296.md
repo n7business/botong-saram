@@ -3,7 +3,7 @@ id: business-plan-0296
 domain: business-plan
 claim: 관광 분야 예비창업자나 창업 7년 이하 사업자가 2027년 인천관광기업지원센터에 들어가려면 2026-11-25 18:00까지 이메일로
   신청해야 하며, 다른 정부·공공기관·지자체·대학 보육센터에 입주해 있으면 제외되고 중복 입주가 나중에 확인돼도 입주가 취소된다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
