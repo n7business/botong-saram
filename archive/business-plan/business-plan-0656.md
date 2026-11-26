@@ -3,7 +3,7 @@ id: business-plan-0656
 domain: business-plan
 claim: 국산밀로 만든 빵·국수 같은 메뉴를 매장에서 늘 조리·판매하는 일반음식점·휴게음식점·제과점은 2026-11-26까지 이메일로 신청하면
   '밀당지도'에 매장이 1년쯤 무료로 실리고 홍보물도 받으며, 대표 메뉴를 할인한 비용을 매장당 200만 원까지 돌려받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

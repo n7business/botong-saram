@@ -4,7 +4,7 @@ domain: business-plan
 claim: 투자 유치나 LIPS(소상공인 투자연계 지원) 연계를 원하는 업력 1년 이상 창업기업은 2026-11-26 18:00까지 온라인으로 참가신청서와
   개인정보동의서를 내면 「2026 강원권 LIPS 민간운영사 연합 INVESTOR DAY」에 참여할 수 있으며, 12월 1일 서울역 근처에서 IR
   피칭과 전문심사역 투자상담을 받고 LIPS 연계 검토도 받을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-22'
 last_confirmed: '2026-11-22'
-review_by: null
+review_by: '2026-11-26'
 supersedes: null
 superseded_by: null
 experiment: null

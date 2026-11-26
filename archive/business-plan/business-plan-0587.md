@@ -4,7 +4,7 @@ domain: business-plan
 claim: 대기업·공공기관과 기술협력을 원하는 업력 7년 이내(신산업은 10년 이내) 스타트업은 2026-11-26 16:00까지 구글폼으로 「Next
   OI 기술 커넥트」에 신청하면, 수요기업에게 선택받는 경우 12월 15일 포시즌스 호텔 서울에서 삼성전자·현대자동차 같은 수요기업과 1:1 밋업(회당
   40분, 최대 3회)을 할 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.87
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-21'
 last_confirmed: '2026-11-21'
-review_by: null
+review_by: '2026-11-26'
 supersedes: null
 superseded_by: null
 experiment: null

@@ -3,7 +3,7 @@ id: business-plan-0300
 domain: business-plan
 claim: UniVest Scale-up 신청 법인은 2024·2025년 재무제표와 국세·지방세·4대보험 완납증명서를 내야 하므로, 체납이 있거나
   결산이 끝나지 않았다면 2026-11-26 마감 전에 먼저 정리해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.8
 sources:

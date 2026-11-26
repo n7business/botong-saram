@@ -4,7 +4,7 @@ domain: business-plan
 claim: 여성 벤처·스타트업 대표나 예비창업자는 2026-11-26 23:59까지 구글폼으로 신청하면 11월 30일·12월 1일 유튜브 라이브로
   진행되는 한국여성벤처협회 「여성벤처&스타트업 혁신성장 포럼」을 무료로 들을 수 있으며, 참여 링크는 11월 27일에 신청서에 적은 이메일과 연락처로만
   오므로 연락처를 정확히 적어야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

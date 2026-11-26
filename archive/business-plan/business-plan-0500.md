@@ -4,7 +4,7 @@ domain: business-plan
 claim: 만 19~39세 예비·초기 청년 창업가는 2026-11-26 14:00까지 마포청년나루 홈페이지에서 신청하면 11월 27일 10~16시
   마포청년나루에서 열리는 「모두의 창업 Re:Boot」 행사에 무료로 참가할 수 있다. 이 행사에서는 심사위원이 정부지원사업 합격 전략을 특강하고,
   사업계획서를 가져온 사람은 현장에서 접수해 원포인트 멘토링을 받을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -15,7 +15,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-18'
 last_confirmed: '2026-11-18'
-review_by: null
+review_by: '2026-11-26'
 supersedes: null
 superseded_by: null
 experiment: null

@@ -3,7 +3,7 @@ id: business-plan-0235
 domain: business-plan
 claim: 재창업을 준비하는 사람은 2026-11-26 18:00까지 온라인으로 신청하면 11월 27일 대전 재도전·혁신캠퍼스 성과공유회에서 센터·유관기관
   지원 프로그램 안내를 듣고 재도전 네트워킹에 참여할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.88
 sources:

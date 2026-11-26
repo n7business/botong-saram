@@ -3,7 +3,7 @@ id: business-plan-0251
 domain: business-plan
 claim: 인천 9개 대학 출신 법인 창업기업이 2026-11-26 23:59 마감인 UniVest Scale-up에 지원하려면 대학 구성원 대표가
   대표권 있는 임원으로 투자 6개월 전부터 계속 등기되어 있고 50% 초과 지분을 갖고 있는지부터 확인해야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-07'
 last_confirmed: '2026-11-07'
-review_by: null
+review_by: '2026-11-26'
 supersedes: null
 superseded_by: null
 experiment: null
