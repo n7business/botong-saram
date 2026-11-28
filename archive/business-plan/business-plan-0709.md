@@ -1,0 +1,31 @@
+---
+id: business-plan-0709
+domain: business-plan
+claim: SVC Seoul 확장형 멤버십은 월 35만 원을 내도 공유좌석을 월 120시간까지만 쓸 수 있으므로, 매일 상주할 사무실이 필요한 기업은
+  이 멤버십만으로는 부족하다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=178802
+  author: 창업진흥원
+  seen: '2026-11-28'
+  quote: ① 공유좌석 (월 120시간) 및 회의실 및 IR 공간 (약 20만원 상당)
+  source: K-Startup 사업공고(모집중)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: '2027-03-28'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- SVC Seoul
+- 공유오피스
+- 창업진흥원
+- 글로벌
+- 이용조건
+verified_by: 공식 출처
+---
+SVC Seoul 확장형 멤버십(서울 마포구 양화로 136)은 공유좌석 90석, 회의실, IR룸, 네트워킹 공간을 갖추고 있습니다. 이용료는 월 350,000원이지만 공유좌석은 월 120시간까지만 쓸 수 있습니다. 하루 8시간씩 쓰면 한 달에 15일 정도입니다. 대신 회의실과 IR 공간(약 20만 원 상당), 자문 바우처, 글로벌 IR 기회, 네트워킹 프로그램을 함께 받습니다. 그러니 매일 일할 공간보다 글로벌 투자 연계와 자문이 필요한 기업에 맞는 상품입니다.

@@ -3,7 +3,7 @@ id: business-plan-0655
 domain: business-plan
 claim: 세종 글로벌 기술검증 프로그램은 이메일(square@ccei.kr)로 신청한 뒤 세종창조경제혁신센터에 반드시 전화해 접수 여부를 확인해야
   하며, 세종에 법인·지사·생산공장이 있는 창업 7년 미만(신산업은 10년) 기술창업기업만 2026-11-27까지 신청할 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

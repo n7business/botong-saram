@@ -1,0 +1,33 @@
+---
+id: law-basics-0588
+domain: law-basics
+claim: 한국 인감이 없는 외국인 대표이사는 인감신고서를 낼 때 인감증명서 대신 본인이 기명날인 또는 서명했다는 공증인의 인증서면을 붙일 수 있고,
+  대리인이 출석해 받은 공증도 유효하다고 본 선례가 있다.
+status: candidate
+evidence: policy
+confidence: 0.7
+sources:
+- url: https://www.help-me.kr/blog/article/2026-foreign-registration-apostille-precedent/
+  author: 박효연 변호사(헬프미 법률사무소)
+  seen: '2026-11-28'
+  quote: 인감증명 대신 본인이 기명날인 또는 서명하였다는 공증인의 인증서면을 붙일 수 있습니다
+  source: 헬프미 법률사무소 블로그
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref:
+  law: 상업등기규칙
+  article: 제35조 제2항
+  effective: '2026-11-28'
+contributor: null
+tags:
+- 외국인대표이사
+- 인감신고
+- 공증
+- 법인등기
+- 상업등기선례
+---
+상업등기규칙 제35조 제2항은 대표이사 인감신고서에 인감증명 대신 본인이 기명날인 또는 서명했다는 공증인의 인증서면을 붙일 수 있게 한다. 국내 인감을 만들지 않은 외국인 대표이사가 주로 쓰는 방법이다. 2025년 2월 28일 상업등기 선례(사법등기심의관-1178)는 일본인 대표이사가 취임승낙서와 인감신고서를 낼 때 이 인증서면을 첨부할 수 있고, 대리인이 출석해 받은 공증도 유효하다고 보았다. 다만 임원이 한국에 오지 않고 대행을 맡기면 위임장에 아포스티유를 받아야 하므로, 이 경우 국내 공증의 실익은 크지 않다. 구체적인 서류 인정 여부는 관할 등기관의 심사에 따라 달라질 수 있다.

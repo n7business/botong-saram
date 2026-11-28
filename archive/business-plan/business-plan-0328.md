@@ -3,7 +3,7 @@ id: business-plan-0328
 domain: business-plan
 claim: 기술은 있지만 제조 기반이 부족한 제약·바이오 기업이 2026-11-27까지 이메일로 동물세포기반 백신 공공 CDMO 생산지원 사업에
   신청했다면, 2일 안에 접수 확인 메일이 오지 않을 경우 이메일이나 전화로 접수 여부를 꼭 확인해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

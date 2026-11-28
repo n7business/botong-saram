@@ -13,7 +13,7 @@ sources:
   quote: 해고일로부터 3개월 이내에 노동위원회에 부당해고 구제신청을 할 수 있습니다(근로기준법 제28조).
   source: 박실로 노무사 블로그
 first_seen: '2026-11-25'
-last_confirmed: '2026-11-25'
+last_confirmed: '2026-11-28'
 review_by: null
 supersedes: null
 superseded_by: null

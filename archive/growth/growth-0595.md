@@ -1,0 +1,29 @@
+---
+id: growth-0595
+domain: growth
+claim: AI 도구를 자주 바꾼다면 내 말투, 업무 방식, 작업 절차를 도구마다 새로 가르치지 말고, 텍스트 파일로 된 기억과 스킬 저장소 한
+  곳에 모아 두고 어떤 도구든 거기서 읽고 쓰게 해 볼 만하다고 모세리는 말한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://eopla.net/magazines/49537
+  author: 조쉬의 뉴스레터 (애덤 모세리 인터뷰)
+  seen: '2026-11-28'
+  quote: 바꿀 때마다 새 도구에 제가 어떤 사람인지 처음부터 다시 가르치는 게 귀찮습니다.
+  source: EO 플래닛
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- AI활용
+- 프롬프트관리
+- 업무절차
+- 도구전환
+---
+모세리는 Claude, ChatGPT 같은 AI 도구를 번갈아 쓰는데, 바꿀 때마다 자신이 어떤 사람인지 처음부터 다시 가르치는 게 번거로웠다고 한다. 그래서 개인용 지식 저장소 'Custodian'을 만들었다. 활동 기록과 기억, 그리고 '내 말투로 메일 쓰기' 같은 스킬을 텍스트 파일로 모아 두고, 새로 쓰는 도구를 모두 여기에 연결한다. 이렇게 해 두면 새 도구가 나왔을 때 꽂아서 한동안 써 보고 빼면 된다. 작은 사업장에서도 자주 쓰는 지시문과 업무 메모를 한 폴더의 텍스트 파일로 정리해 두면, 도구를 바꿔도 그대로 옮겨 쓸 수 있다.

@@ -1,0 +1,31 @@
+---
+id: marketing-1096
+domain: marketing
+claim: 홈페이지에 없는 주소로 들어왔을 때 '페이지가 없습니다'라는 문구만 띄우고 정상(200 OK) 응답을 보내지 말고, 404 Not Found
+  응답을 보내야 네이버 검색로봇이 페이지가 없다는 사실을 제대로 알아듣습니다.
+status: verified
+evidence: policy
+confidence: 0.9
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-create
+  author: NAVER Corp. (네이버 서치어드바이저)
+  seen: '2026-11-28'
+  quote: “페이지가 없습니다”라는 내용만 출력하고 HTTP 200 OK return 하지 말아 주세요.
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: '2027-01-27'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- 홈페이지
+- '404'
+- 오류페이지
+verified_by: 공식 출처
+---
+없는 페이지나 오래된 주소로 들어온 방문자에게는 맞춤 오류 페이지로 안내하되, 서버 응답 코드는 404 Not Found로 보내야 합니다. 오류 페이지로 redirect 하는 방식도 쓰지 말라고 네이버가 안내합니다. 권한이 없는 페이지는 403, 서버에 부하가 걸렸을 때는 503처럼 상황에 맞는 코드를 돌려줘야 합니다. 홈페이지 제작업체에 맡겼다면 오류 페이지가 실제로 어떤 응답 코드를 보내는지 확인해 달라고 요청하세요.

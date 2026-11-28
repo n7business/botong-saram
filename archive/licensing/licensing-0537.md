@@ -3,7 +3,7 @@ id: licensing-0537
 domain: licensing
 claim: 외국인근로자와 맺은 근로계약은 사업장에 인수한 날이 아니라 입국한 날부터 효력이 생기므로, 사업주는 입국일을 기준으로 임금과 근로기간을
   계산해야 한다.
-status: verified
+status: merged
 evidence: policy
 confidence: 0.8
 sources:
@@ -29,5 +29,6 @@ tags:
 - 근로계약효력
 - 임금기산일
 verified_by: 공식 출처
+merged_into: licensing-0405
 ---
 외국인고용법 시행령 제17조에 따라 외국인근로자와 맺은 근로계약은 입국한 날부터 효력이 생깁니다. 입국 뒤 취업교육을 거쳐 사업장에 인수하기까지 며칠이 걸리지만, 계약 효력은 인수일이 아니라 입국일부터입니다. 사업주는 첫 달 임금, 근로기간, 출국만기보험 같은 정산 기준일을 입국일로 잡아야 합니다.

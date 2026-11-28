@@ -13,7 +13,7 @@ sources:
   quote: 일용직이라도 퇴직금을 받을 수 있습니다(근로자퇴직급여보장법 제4조).
   source: 박실로 노무사 블로그
 first_seen: '2026-11-22'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-28'
 review_by: null
 supersedes: null
 superseded_by: null

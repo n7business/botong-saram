@@ -1,0 +1,31 @@
+---
+id: marketing-1101
+domain: marketing
+claim: 홈페이지 메뉴나 글 링크를 onClick 같은 자바스크립트 함수로만 만들면 네이버 검색로봇이 연결된 주소를 알 수 없어 안쪽 페이지를
+  찾아가지 못하므로, 링크는 <a href="전체 주소"> 같은 표준 방식으로 만들어야 합니다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://searchadvisor.naver.com/guide/seo-basic-intro
+  author: NAVER Corp. (네이버 서치어드바이저)
+  seen: '2026-11-28'
+  quote: 페이지들의 링크 처리 시 자바스크립트만을 사용하면, 검색로봇이 어떤 URL 인지 정확하게 파악할 수 없어서
+  source: 네이버 서치어드바이저 가이드 (SEO 공식)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: '2027-01-27'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 네이버
+- SEO
+- 링크
+- 자바스크립트
+- nofollow
+verified_by: 공식 출처
+---
+네이버 검색에 반영되는 내 사이트 문서 수가 적다면 페이지 안의 링크 방식부터 확인하세요. <span onClick="javascript:goto(A)">처럼 링크가 자바스크립트 함수로만 되어 있으면 검색로봇은 정확한 URL을 파악하지 못합니다. 그 뒤에 있는 다른 페이지도 찾아가지 못합니다. <a href="http://www.A.com">처럼 URL이 드러나는 표준 링크를 쓰면 됩니다. 페이지 meta 태그에 nofollow가 들어 있어도 그 페이지 안의 링크는 수집되지 않으니 함께 확인하세요.

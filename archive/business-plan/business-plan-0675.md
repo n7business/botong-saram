@@ -3,7 +3,7 @@ id: business-plan-0675
 domain: business-plan
 claim: 어업경영체 등록을 한 전북 부안군의 어업인·어촌계·영어조합법인·수산물 제조·가공업체는 2026-11-27까지 부안군청 해양수산과에 방문
   신청하면, 온라인 판매 할인 비용(최대 30%)과 택배비, 포장재, 이물선별기·금속검출기 같은 가공설비를 지원받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

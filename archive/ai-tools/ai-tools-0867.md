@@ -1,0 +1,29 @@
+---
+id: ai-tools-0867
+domain: ai-tools
+claim: 한 AI 모델이 프로그램 구조를 크게 뜯어고쳤다면, 그대로 반영하지 말고 다른 모델에게 독립 리뷰를 맡겨 실제로 문제를 재현하는 스크립트로
+  확인하게 해야 한다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.gpters.org/ax-education/post/ai-채용-자동화-7일-회고-108건-평가에서-사람이-틀리고-ai가-맞힌-이유-mwya5eah
+  author: 김태현
+  seen: '2026-11-28'
+  quote: 형제 프로젝트 병렬 실행 시 발생하는 충돌 버그 등 13건을 실제 재현 스크립트로 정확히 잡아냈어요.
+  source: 지피터스 GPTers
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 코드리뷰
+- 교차검증
+- 모델조합
+- 병렬화
+---
+화자는 속도 최적화를 Gemini 4 Neon에 맡겨 실행 시간을 절반 이하로 줄였습니다. 하지만 병렬화를 더 밀어붙인 판을 Fable 5.2가 독립 리뷰하자, 동시에 실행할 때 생기는 충돌 버그를 포함한 13건이 재현 스크립트로 드러났습니다. 고친 뒤 세 번째 리뷰에서 '이슈 없음' 판정을 받고서야 반영했습니다. 과감하게 바꾸는 모델과 깐깐하게 검토하는 모델을 짝지어 쓰는 방식이며, 단일 회사의 경험입니다.

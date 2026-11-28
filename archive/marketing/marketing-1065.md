@@ -17,6 +17,11 @@ sources:
   seen: '2026-11-25'
   quote: 10. 부정적인 것은 절대 쓰지 않으려 노력했다.
   source: 빌리쌤 (@billy___ssam)
+- url: https://www.threads.com/@billy___ssam/post/Df6_a3Okdwd
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-23'
+  quote: 부정적인 것은 절대 쓰지 않으려 노력했다.
+  source: 빌리쌤 (@billy___ssam)
 first_seen: '2026-11-25'
 last_confirmed: '2026-11-25'
 review_by: null
@@ -29,5 +34,6 @@ tags:
 - threads
 - 주제
 - 톤
+mentions: 3
 ---
 계정 주제는 하나로 정하고 끝까지 밀고 갑니다. 글의 약 90%는 그 주제로 쓰고, 나머지 10% 정도만 일상이나 감정처럼 사람 냄새가 나는 글을 섞습니다. 남을 험담하거나 부정적인 내용은 쓰지 않으려고 노력해야 한다고 합니다. 빌리쌤이 5.1만 명까지 매일 지켰다는 원칙이며, 운영자 한 사람의 경험에서 나온 비율입니다.

@@ -14,7 +14,7 @@ sources:
     the latest version.
   source: Claude Code 공식 문서
 first_seen: '2026-11-25'
-last_confirmed: '2026-11-25'
+last_confirmed: '2026-11-28'
 review_by: '2026-12-25'
 supersedes: null
 superseded_by: null

@@ -13,7 +13,7 @@ sources:
   quote: 네트제(세후 계약) 역산 시에도 법정 수당이 모두 포함되어야 합니다.
   source: 박실로 노무사 블로그
 first_seen: '2026-11-15'
-last_confirmed: '2026-11-22'
+last_confirmed: '2026-11-28'
 review_by: null
 supersedes: null
 superseded_by: null

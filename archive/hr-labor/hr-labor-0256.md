@@ -13,7 +13,7 @@ sources:
   quote: 업무상 실수가 있었다면 따로 불러서 이야기하면 됩니다.
   source: 윤보름노무사 (Threads)
 first_seen: '2026-11-25'
-last_confirmed: '2026-11-25'
+last_confirmed: '2026-11-28'
 review_by: null
 supersedes: null
 superseded_by: null

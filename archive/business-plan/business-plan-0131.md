@@ -3,7 +3,7 @@ id: business-plan-0131
 domain: business-plan
 claim: 만 40세 이상 예비창업자와 창업 3년 이내 기업은 2026-11-27 18:00까지 김해시중장년기술창업센터에 신청하면 임대료·관리비
   없이 입주할 수 있지만, 모집이 2개사 내외이고 요식업·숙박업·임대업 등 단순서비스 업종은 제외되므로 기술·전문경력 기반 아이템이어야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.92
 sources:
@@ -14,7 +14,7 @@ sources:
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-27'
 supersedes: null
 superseded_by: null
 experiment: null

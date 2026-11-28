@@ -1,0 +1,30 @@
+---
+id: law-basics-0580
+domain: law-basics
+claim: 영화 연출계약이나 시나리오계약을 맺는 제작사는 문화체육관광부와 한국저작권위원회가 마련한 「창작자 수익 보상 표준조항(안)」을 계약서에
+  넣을 수 있고, 이 조항을 넣으면 영화 순수익이 생겼을 때 그 일정 비율을 창작자나 창작자가 지정한 단체에 지급해야 한다.
+status: candidate
+evidence: policy
+confidence: 0.55
+sources:
+- url: https://www.copyright.or.kr/notify/notice/view.do?brdctsno=56235
+  author: 한국저작권위원회
+  seen: '2026-11-28'
+  quote: 순수익이 발생하는 경우 , 순수익의 일정 비율을 창작자 또는 창작자가 지정하는 단체에 지급
+  source: 한국저작권위원회
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 저작권
+- 영상물
+- 표준계약서
+- 수익배분
+- 영화제작
+---
+문화체육관광부와 한국저작권위원회는 2024년 5월부터 창작자, 제작사, 투자·배급사가 참여하는 '영상물 보상 상생협의체'를 운영했고, 그 논의를 바탕으로 이 표준조항(안)을 만들었습니다. 조항은 영화의 총수익이 총비용을 넘어 순수익이 생긴 경우에만 순수익의 일정 비율을 창작자에게 나누도록 정합니다. 영화 연출계약서와 시나리오계약서에 넣어 쓸 수 있습니다. 다만 아직 '안' 단계의 표준조항이라 법으로 꼭 넣어야 하는 것은 아닙니다. 지급 비율과 총수익·총비용을 계산하는 방식은 공지에 적혀 있지 않으므로, 계약 전에 첨부 PDF를 직접 확인해야 합니다.

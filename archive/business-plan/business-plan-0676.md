@@ -3,7 +3,7 @@ id: business-plan-0676
 domain: business-plan
 claim: 어업경영체 등록을 마친 고창군 양식어업인은 2026-11-27까지 고창군청 해양수산과 수산진흥팀에 방문 신청하면, 2026년에 낸 일반영어자금
   대출이자를 1인 1회 100만 원까지 돌려받을 수 있고, 대출 계정이 2개 이상이면 한도 안에서 이자를 합산해 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

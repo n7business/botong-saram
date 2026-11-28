@@ -1,0 +1,29 @@
+---
+id: ai-tools-0854
+domain: ai-tools
+claim: 클로드 아티팩트를 'Install as app'으로 내 컴퓨터에 설치할 때는 내가 만들었거나 믿을 수 있는 앱에만 '전체 컴퓨터 접근'
+  권한을 줘야 한다. 앤트로픽은 설치 전에 앱을 검수하지 않는다.
+status: candidate
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4065/
+  author: 요즘 프로덕트 메이커
+  seen: '2026-11-28'
+  quote: 앤트로픽은 설치 전에 앱을 검수하지 않으니, 믿을 수 있는 앱에만 전체 접근을 주라고 안내합니다.
+  source: 요즘IT
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- claude
+- artifact
+- 권한
+- 보안
+---
+클로드가 만든 아티팩트(회의 준비 페이지·주문 현황표 같은 작은 도구)는 맥·윈도 클로드 앱의 공유 메뉴에서 'Install as app'을 눌러 별도 앱으로 설치할 수 있습니다(2026년 11월 베타). 권한은 기본(브라우저 수준), 앱 권한(알림·전역 단축키 등), 전체 컴퓨터 접근(프로그램 실행, 파일 읽기·수정·삭제를 묻지 않고 함) 세 단계로 나뉩니다. 앤트로픽은 설치 전에 앱을 검수하지 않으므로, 남이 링크로 공유한 앱에는 전체 접근을 주지 않는 것이 안전합니다. 허락은 지금 버전에만 적용되어 앱이 업데이트되면 다시 묻습니다. 다만 앱이 다른 웹사이트에서 불러오는 부분은 묻지 않고 바뀔 수 있습니다. 앱이 클로드에 보내는 요청은 요금제 사용 한도에서 빠집니다.

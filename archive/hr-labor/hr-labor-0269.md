@@ -1,0 +1,29 @@
+---
+id: hr-labor-0269
+domain: hr-labor
+claim: 회사가 직원의 자격증 부정 취득을 알고도 몇 년간 계속 일하게 하면 나중에 그 사유로 해고하거나 근로계약을 취소하기 어려워지므로, 알게
+  된 즉시 사실관계를 조사하고 조치해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.7
+sources:
+- url: https://www.youtube.com/watch?v=_CswxX_g1-k
+  author: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+  seen: '2026-11-28'
+  quote: 부정 취득을 알고도 계속 고용하면 계약 취소가 제한될 수 있으므로 신속하게 조치해야 합니다.
+  source: 사업주를 위한 인사노무 직원관리 (@사업주직원관리방법)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 해고
+- 계약취소
+- 부정행위
+- 신속조치
+---
+입사 한 달 만에 부정행위가 드러난 직원과 10년 동안 문제없이 일해 온 직원은 해고가 정당한지 다르게 판단될 수 있습니다. 특히 회사가 부정행위를 알고도 계속 고용하면 문제 삼지 않기로 한 것으로 보일 수 있어, 해고도 근로계약 취소도 제한될 수 있습니다. 부정 취득 사실을 알게 되면 바로 조사를 시작하고 처분서와 채용 자료를 확보해야 합니다.

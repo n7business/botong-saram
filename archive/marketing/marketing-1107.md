@@ -1,0 +1,27 @@
+---
+id: marketing-1107
+domain: marketing
+claim: 스레드 계정에 2단계 인증을 해 두지 않으면 계정을 잃을 수 있으므로 반드시 켜 두어야 한다는 것이 빌리쌤의 주장이다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.threads.com/@billy___ssam/post/DgM8_kpibOb
+  author: 빌리쌤 (@billy___ssam)
+  seen: '2026-11-28'
+  quote: 2차인증 안해놨다간 계정이 날라갈 수 있어요.
+  source: 빌리쌤 (@billy___ssam)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- threads
+- 계정보안
+- 2단계인증
+---
+빌리쌤은 2단계 인증을 해 두지 않으면 스레드 계정이 날아갈 수 있다고 경고합니다. 스레드는 인스타그램 계정과 연결되어 있습니다. 그러니 인스타그램(Meta 계정 센터)에서 2단계 인증을 켜 두는 것이 기본입니다. 사업용 계정은 팔로워가 곧 자산이니, 인증 앱과 복구 코드도 함께 챙겨 두는 것이 좋습니다.

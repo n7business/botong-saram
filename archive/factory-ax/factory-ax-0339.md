@@ -1,0 +1,28 @@
+---
+id: factory-ax-0339
+domain: factory-ax
+claim: 절삭유 농도를 관리하는 가공업체는 사람마다 읽는 값이 다른 굴절계에만 기대지 말고, 0점을 잡고 측정하면 수치가 바로 나오는 농도 측정기로
+  농도를 계속 기록하는 편이 낫다.
+status: candidate
+evidence: anecdote
+confidence: 0.55
+sources:
+- url: https://www.youtube.com/watch?v=eMiLPmZRR24
+  author: Malco JACK — 베스트정공 대표
+  seen: '2026-11-28'
+  quote: 굴절계로 농도를 보면 사람마다 9%, 8%, 8.5%로 다르게 읽어서 객관성이 없다.
+  source: Malco JACK — 베스트정공 대표 (@MalcoJack)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 절삭유
+- 농도관리
+- 측정기
+---
+굴절계로 같은 절삭유를 재도 사람마다 9%, 8%, 8.5%처럼 다르게 읽어 기록이 객관적이지 않을 수 있습니다. 한 가공업체 대표는 0점을 잡고 절삭유를 넣은 뒤 시작만 누르면 실제 농도가 나오는 측정기를 사서 농도를 계속 추적하고 있습니다. 농도를 꾸준히 기록해야 원액을 얼마나 보충할지 정확히 판단할 수 있습니다. 이 대표의 공장은 처음에 농도를 높게 유지했고, 지금은 5~6%로 관리합니다.

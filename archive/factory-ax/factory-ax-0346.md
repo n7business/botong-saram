@@ -1,0 +1,29 @@
+---
+id: factory-ax-0346
+domain: factory-ax
+claim: 비전 AI로 현장 위험을 감시하려는 사업자는 상용 VLM 하나로 실시간 관제까지 다 하려 하지 말고, 실시간 위험 탐지는 작업 특화 비전
+  모델에 맡기고 VLM은 상황 분석과 재검증에 쓰도록 역할을 나누는 구성을 검토할 만하다.
+status: candidate
+evidence: consensus
+confidence: 0.65
+sources:
+- url: https://www.kidd.co.kr/news/248297
+  author: 이도엽 콘티랩 기술연구소장(산업일보 임지원 기자)
+  seen: '2026-11-28'
+  quote: 실시간 비전 AI 모델과 상용 VLM의 역할을 분리해 적용해야 효용성을 높일 수 있다
+  source: 산업일보
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 비전AI
+- VLM
+- 안전관제
+- 시스템구성
+---
+상용 VLM은 상황 이해 능력이 좋아졌지만, 정밀한 위험 판별과 실시간 안전관제에는 아직 한계가 있다. 복잡한 작업 환경에서는 객체 위치와 거리 측정 정확도가 떨어지고, 처리 지연과 비용도 부담이 된다. 그래서 발표자는 작업 특화 모델로 위험을 빠르게 잡고, VLM으로 그 상황을 분석하고 다시 확인하는 방식을 함께 쓰라고 제안한다. 공급사를 비교할 때도 이 두 단계를 어떻게 나눠 구성하는지 물어본다.

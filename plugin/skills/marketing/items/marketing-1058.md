@@ -9,3 +9,5 @@
 ## 출처
 - 빌리쌤 (@billy___ssam) · 2026-11-25 · https://www.threads.com/@billy___ssam/post/DgFSKMvlP1W
   > 1. 1만 이상의 계정을 팔로잉한다. (1초)
+- 빌리쌤 (@billy___ssam) · 2026-11-22 · https://www.threads.com/@billy___ssam/post/Df8N8h9Ah7O
+  > 1. 1만 이상의 계정을 팔로잉한다. (1초)

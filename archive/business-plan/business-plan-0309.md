@@ -3,7 +3,7 @@ id: business-plan-0309
 domain: business-plan
 claim: 경기 북동부권 예비창업자나 창업 7년 이내 기업은 2026-11-27 18:00까지 경기창업혁신공간 북동부권(구리)에 신청하면 틔움 지정석(1인석)을
   최대 1년 무상으로 쓸 수 있지만, 이룸 입주실을 고르면 고정관리비 10개월분을 보증금으로 먼저 내야 한다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.8
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-09'
 last_confirmed: '2026-11-09'
-review_by: null
+review_by: '2026-11-27'
 supersedes: null
 superseded_by: null
 experiment: null

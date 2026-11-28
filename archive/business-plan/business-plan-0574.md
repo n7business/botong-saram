@@ -3,7 +3,7 @@ id: business-plan-0574
 domain: business-plan
 claim: 스타트업 마케팅을 배우고 싶은 예비·초기 창업자는 2026-11-27 15:00까지 온라인으로 신청하면 같은 날 15:00~16:30
   DDM청년창업센터 유니콘(서울 동대문구)에서 열리는 제11차 DDM 벤처스타트업 아카데미 마케팅 방법론 강의를 무료로 들을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.75
 sources:

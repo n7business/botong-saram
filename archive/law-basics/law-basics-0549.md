@@ -13,7 +13,7 @@ sources:
   quote: 아르바이트나 일용직도 꾸준히 수입을 얻을 가능성이 있다면 개인회생을 검토할 수 있어.
   source: 법무사 정승제 (@__jjjjjeee)
 first_seen: '2026-11-25'
-last_confirmed: '2026-11-25'
+last_confirmed: '2026-11-28'
 review_by: null
 supersedes: null
 superseded_by: null

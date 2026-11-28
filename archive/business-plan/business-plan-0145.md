@@ -3,7 +3,7 @@ id: business-plan-0145
 domain: business-plan
 claim: 대구 달성군의 식품안심업소는 2026-11-18~11-27에 신청하면 상·하수도 요금 납부용 인센티브 10만원을 받을 수 있으며, 자격은
   신청일 기준으로 보므로 신청하는 날 식품안심업소여야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.9
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 기업마당 지원사업 공고
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-27'
 supersedes: null
 superseded_by: null
 experiment: null

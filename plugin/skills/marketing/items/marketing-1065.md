@@ -11,3 +11,5 @@
   > 5. 90%는 메인주제 10%는 인간미를 보인다.
 - 빌리쌤 (@billy___ssam) · 2026-11-25 · https://www.threads.com/@billy___ssam/post/DgFRmoYDQ0n
   > 10. 부정적인 것은 절대 쓰지 않으려 노력했다.
+- 빌리쌤 (@billy___ssam) · 2026-11-23 · https://www.threads.com/@billy___ssam/post/Df6_a3Okdwd
+  > 부정적인 것은 절대 쓰지 않으려 노력했다.

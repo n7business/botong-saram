@@ -1,0 +1,29 @@
+---
+id: ai-tools-0858
+domain: ai-tools
+claim: AI로 어떤 일을 빠르게 만들었다면 그 일 바로 다음 단계(검토·승인·고객 응대)를 누가 맡을지 먼저 정해야 한다. 다음 단계가 그대로면
+  AI로 만든 결과물을 내보내지 못한다.
+status: candidate
+evidence: anecdote
+confidence: 0.65
+sources:
+- url: https://yozm.wishket.com/magazine/detail/4065/
+  author: 요즘 프로덕트 메이커
+  seen: '2026-11-28'
+  quote: 그 언어로 고객 전화를 받을 사람이 없어 출시하지 못했습니다.
+  source: 요즘IT
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- ai도입
+- 병목
+- 업무설계
+- anthropic
+---
+앤트로픽이 AI를 도입한 미국 기업 58곳을 인터뷰한 결과, 도구만 나눠 주고 알아서 쓰게 한 회사에서는 잘 쓰는 몇 사람만 성과를 냈고 조직 전체의 일은 빨라지지 않았습니다. 한 장비 제조사 엔지니어는 AI로 제품 문구를 10개 언어로 번역하는 기능을 만들었지만, 그 언어로 고객 전화를 받을 사람이 없어 출시하지 못했습니다. 작업 속도가 빨라질수록 검토·영업·의사결정이 병목이 되었고, AI 결과물을 검토하는 일도 큰 부담이었습니다. 우리 가게에서 AI로 빨라진 일 바로 다음에 무엇이 기다리는지 적어 보고, 그 단계를 맡을 사람과 시간을 함께 정해야 합니다. 이 인터뷰는 앤트로픽 고객만 대상으로 했고, 성과도 응답자가 스스로 평가한 것입니다.

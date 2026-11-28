@@ -1,0 +1,30 @@
+---
+id: growth-0608
+domain: growth
+claim: 모아 둔 고객 연락처로 재방문 쿠폰이나 문자를 보낼 때는 전체 고객에게 한꺼번에 보내지 말고 꾸준히 오다가 뜸해진 손님만 골라 보내야
+  광고로 여기지 않고 '예전에 갔던 곳'으로 받아들인다고 장사 권프로는 말한다.
+status: candidate
+evidence: anecdote
+confidence: 0.6
+sources:
+- url: https://www.youtube.com/watch?v=YPLxd6b3978
+  author: 장사 권프로
+  seen: '2026-11-28'
+  quote: 꾸준히 오다가 뜸해진 손님만 골라 보내는 것이 좋다.
+  source: 장사 권프로 (@권프로)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 식당
+- CRM
+- 재방문
+- 문자마케팅
+- 단골관리
+---
+장사 권프로는 연락처 수만 명 전체에게 문자를 보내면 손님이 광고로 생각한다고 말합니다. 대신 예를 들어 작년 12월까지 매달 오다가 올해부터 오지 않는 손님만 골라 보내면, 한 번 와 본 곳이라 광고보다는 '예전에 갔던 곳'의 연락으로 받아들인다고 합니다. 연락처는 테이블오더에서 포인트 적립용으로 전화번호를 받아 모을 수 있고, 손님이 많은 가게는 한 달에 약 2천 명, 6개월이면 5천~1만 명이 모인다고 합니다. 저녁 매출이 약하면 저녁에만 쓸 수 있는 혜택을 보내는 식으로 약한 시간대를 겨냥해 볼 수도 있습니다.

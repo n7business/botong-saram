@@ -2,7 +2,7 @@
 id: marketing-0727
 domain: marketing
 claim: 스레드 계정은 주제를 1~2개로 좁혀 운영해야 알고리즘에서 유리하다는 것이 빌리쌤의 주장이다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.55
 sources:
@@ -60,5 +60,6 @@ tags:
 - 알고리즘
 - 브랜딩
 mentions: 8
+merged_into: marketing-0832
 ---
 스레드 알고리즘은 한 가지 주제를 꾸준히 다루는 계정에 유리하다고 빌리쌤은 봅니다. 주제는 1~2개로 정하고 그 안에서 계속 쓰세요. 빌리쌤은 2년 동안 '스레드 알려주기'라는 주제 하나만으로 팔로워 5만 명을 모았다고 밝혔습니다. 다만 글의 90%는 메인 주제로 채우고 10% 정도는 일상 같은 인간미 있는 글을 섞으라고 덧붙입니다.

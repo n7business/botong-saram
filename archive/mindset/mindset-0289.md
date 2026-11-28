@@ -1,0 +1,28 @@
+---
+id: mindset-0289
+domain: mindset
+claim: 다점포왕TV는 사업을 생물로 보고, 오늘 쓸 전략과 6개월·1년 뒤에 쓸 전략이 전혀 다르다고 여겨 정답이 정해진 것처럼 남의 사업을
+  평가하지 않는다고 말한다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.youtube.com/watch?v=HdVmI_N0FlE
+  author: 다점포왕TV (@dajumpo)
+  seen: '2026-11-28'
+  quote: 사업은 생물과 같은 건데
+  source: 다점포왕TV (@dajumpo)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 전략
+- 관점
+- 사업판단
+---
+다점포왕TV는 사업에는 고정된 정답이 없고 시기마다 맞는 전략이 달라진다는 관점을 지킵니다. 그래서 지금 시점의 단면만 보고 남의 브랜드나 가게를 '잘못됐다'고 단정하는 평가를 받아들이지 않습니다. 자기 사업에서도 지금 통하는 방식을 고정하지 말고, 6개월·1년 단위로 전략을 다시 점검해야 한다는 뜻으로 읽을 수 있습니다.

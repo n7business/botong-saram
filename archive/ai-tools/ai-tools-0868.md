@@ -1,0 +1,29 @@
+---
+id: ai-tools-0868
+domain: ai-tools
+claim: AI 코딩 도구로 업무 자동화 도구를 만들 때는 만들기 전에 AI에게 시나리오 점검을 시켜야 한다. 결과가 0건일 때, 중간에 조건을
+  추가할 때, 작업이 끊겼다가 다시 시작할 때, 사람 확인 단계를 건너뛸 때 어떻게 되는지 먼저 따져 보게 하라는 것이다.
+status: candidate
+evidence: anecdote
+confidence: 0.5
+sources:
+- url: https://www.gpters.org/ax-education/post/ai-채용-자동화-7일-회고-108건-평가에서-사람이-틀리고-ai가-맞힌-이유-mwya5eah
+  author: 김태현
+  seen: '2026-11-28'
+  quote: 기획 단계에서 AI에게 시나리오 점검을 시켰다면 충분히 미리 잡을 수 있었어요.
+  source: 지피터스 GPTers
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 기획
+- 시나리오점검
+- 예외처리
+- 클로드코드
+---
+화자의 채용 자동화 도구는 1주일 동안 커밋 111건이 쌓였고 그중 45건이 버그 수정이었습니다. 화면 구조처럼 실제로 돌려 봐야만 알 수 있는 문제도 있었습니다. 하지만 빈 결과 처리, 첫 회차 뒤 검색어 추가, 리뷰 생략 시 빈 목록 처리, 중단 후 재개는 기획 단계에서 점검했다면 미리 잡을 수 있었다고 화자는 돌아봤습니다. 가정이 깨질 때마다 복잡한 구조 위에 예외 명령을 덧붙이지 말고, 가장 단순한 데이터 구조부터 다시 따져 보세요.

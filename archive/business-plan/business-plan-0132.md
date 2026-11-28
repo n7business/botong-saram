@@ -3,7 +3,7 @@ id: business-plan-0132
 domain: business-plan
 claim: 예비창업자와 창업 7년 이내 기업은 2026-11-27 18:00까지 경기창업혁신공간 북동부권(구리)에 신청할 수 있고 지정석(틔움)
   20개사는 공간 사용료가 무상이지만, 이룸 입주실은 고정관리비 10개월분을 보증금으로 선납해야 하므로 공간 유형별 비용을 따져 신청해야 한다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.88
 sources:
@@ -14,7 +14,7 @@ sources:
   source: K-Startup 사업공고(모집중)
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: '2027-03-05'
+review_by: '2026-11-27'
 supersedes: null
 superseded_by: null
 experiment: null

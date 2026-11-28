@@ -3,7 +3,7 @@ id: business-plan-0147
 domain: business-plan
 claim: 다른 직장에 다니는 만 40세 이상 퇴직예정자도 2026-11-27 18:00까지 김해시중장년기술창업센터 입주를 신청할 수 있으며, 입주하면
   시제품 제작·판로개척용 선택형 사업화 자금을 최대 500만원까지 지원받을 수 있다.
-status: candidate
+status: expired
 evidence: policy
 confidence: 0.85
 sources:
@@ -14,7 +14,7 @@ sources:
   source: 벤처스퀘어 지원사업 아카이브
 first_seen: '2026-11-05'
 last_confirmed: '2026-11-05'
-review_by: null
+review_by: '2026-11-27'
 supersedes: null
 superseded_by: null
 experiment: null

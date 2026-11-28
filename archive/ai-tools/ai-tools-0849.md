@@ -1,0 +1,29 @@
+---
+id: ai-tools-0849
+domain: ai-tools
+claim: AI 코딩 도구에 실제 손님 데이터가 든 운영 DB의 쓰기 권한이나 접속 정보를 연결해 주면 안 된다. 개발용과 운영용 환경을 나누고,
+  모든 변경은 테스트와 검증 단계를 거쳐 반영되게 해야 한다.
+status: candidate
+evidence: consensus
+confidence: 0.75
+sources:
+- url: https://www.youtube.com/watch?v=DwuZ5Rrj8Xo
+  author: 양실장 (양실장의 바이브코딩대학)
+  seen: '2026-11-28'
+  quote: 코딩 에이전트에게 운영 DB 쓰기 권한이나 접속 정보를 직접 연결해 주는 건 절대 금물
+  source: 양실장의 바이브코딩대학 (@VibecodingUniversity)
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 바이브코딩
+- 운영
+- 권한
+- 백업
+---
+화자는 코딩 에이전트에게 운영 DB의 쓰기 권한이나 접속 정보를 직접 연결해 주는 것은 '절대 금물'이라고 말합니다. 개발·스테이징(시험)·프로덕션(운영) 환경을 분리하세요. 변경 사항은 Git에 올린 뒤 자동 검사, 테스트, 시험 환경 확인을 거쳐 운영에 반영되게 해야 합니다. 운영 DB는 지우고 다시 만들 수 없으니 시점 복구(PITR) 백업도 켜 두어야 합니다. 그래야 잘못된 작업이 데이터를 망가뜨려도 그 직전 시각의 상태로 되돌릴 수 있습니다.

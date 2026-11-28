@@ -17,3 +17,19 @@
   > 주제는 알다시피 1개만 죽어라 해왔다.
 - 빌리쌤 (@billy___ssam) · 2026-11-23 · https://www.threads.com/@billy___ssam/post/Df7AvGeAKXG
   > 해당 주제에 입지를 다져 존재감을 무기로 만들어라.
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/Dfrjw79D2E4
+  > 알고리즘에서 유리한건 하나의 주제일 때에요.
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrjnUvjyr2
+  > 주제는 1~2개 정도로 하는게 유리합니다.
+- 빌리쌤 (@billy___ssam) · 2026-11-15 · https://www.threads.com/@billy___ssam/post/DfrkLsCjUXa
+  > 90%는 메인주제 10%는 인간미를 보인다.
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo0u_KFJ_q
+  > 알고리즘에서 유리한건 하나의 주제일 때에요.
+- 빌리쌤 (@billy___ssam) · 2026-11-13 · https://www.threads.com/@billy___ssam/post/Dfo06S7DYcH
+  > 주제는 1~2개 정도로 하는게 유리합니다.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha371l2tg
+  > 알고리즘에서 유리한건 하나의 주제일 때에요.
+- 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/DfhbW4lDwrv
+  > 주제는 알다시피 1개만 죽어라 해왔다.
+- 빌리쌤 (@billy___ssam) · 2026-11-12 · https://www.threads.com/@billy___ssam/post/DfjtUN4GYIQ
+  > 1개의 메인주제(8) + 서브 주제(2) 수준으로 계정을 꾸준하게 관리하는 것이 유리합니다.

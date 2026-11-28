@@ -1,0 +1,30 @@
+---
+id: licensing-0560
+domain: licensing
+claim: 고용허가서를 신청할 때 사업주는 고용센터가 3배수로 알선한 사람 중에서 고르는 방식과, 온라인에서 직접 3배수 알선을 받아 면접·채용까지
+  하는 '사업주 근로자 선택' 방식 중 하나를 고를 수 있으므로, 근로자를 직접 면접해 뽑고 싶은 사업주는 신청 단계에서 직접 선택 방식을 골라야
+  한다.
+status: candidate
+evidence: policy
+confidence: 0.8
+sources:
+- url: https://www.eps.go.kr/eo/EmployJobProc.eo?tabGb=01
+  author: 고용노동부 / 한국고용정보원
+  seen: '2026-11-28'
+  quote: 고용센터 알선, 사업주 근로자 선택 중 하나의 알선 방법을 선택하여 진행할 수 있습니다.
+  source: 고용허가제 EPS
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 고용허가서
+- 알선
+- 직접선택
+- E-9
+---
+고용센터 알선 방식은 고용센터가 3배수로 알선한 사람 가운데 적격자를 골라 고용허가서를 받는 방식입니다. 사업주 근로자 선택 방식은 발급 가능 기간 안에 사업주가 온라인에서 3배수 알선을 받아 면접과 채용을 직접 하고, 채용이 끝나면 고용센터에서 고용허가서를 받는 방식입니다. 알선 방법은 발급신청 단계에서 정하므로 미리 정해 두어야 합니다. 사업주 온라인 서비스는 고용24로 통합되었으니 실제 진행 화면은 고용24에서 확인하세요.

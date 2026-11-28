@@ -1,0 +1,35 @@
+---
+id: business-plan-0740
+domain: business-plan
+claim: 지난 한 달 동안 '다음 달 계획 회의가 세 번 넘게 밀림, 예외 결정 누적, 핵심 직원과 한 달 넘게 일대일 대화 없음, 작은 돈은
+  오래 고민하고 큰 결정은 미팅 한 번에 정함' 가운데 두 가지 이상이 있었다면, 대표는 매주 30분을 급한 일과 상관없는 회의로 고정하고 큰 결정은
+  결론을 낸 뒤 하루 기다렸다가 다시 봐야 합니다.
+status: candidate
+evidence: consensus
+confidence: 0.55
+sources:
+- url: https://eopla.net/magazines/49590
+  author: 이모셔너그라피 블랙
+  seen: '2026-11-28'
+  quote: 지난 한 달 동안 네 가지 중 두 가지 이상이 있었다면
+  source: 이오플래닛 매거진
+- url: https://eopla.net/magazines/49590
+  author: 이모셔너그라피 블랙
+  seen: '2026-11-28'
+  quote: 금액이 크거나 되돌리기 어려운 결정은 결론을 낸 뒤 하루 기다렸다가 다시 봅니다.
+  source: 이오플래닛 매거진
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 의사결정
+- 대표
+- 자가점검
+- 핵심인재
+---
+Shah·Mullainathan·Shafir(2012, Science) 실험에서 시간이 모자란 사람은 뒤 문제의 시간을 당겨 쓸 수 있게 하자 점수가 오히려 떨어졌습니다. 모자라면 눈앞의 일에만 정신이 쏠리고 그다음 일은 계산에 넣지 못하기 때문입니다. 대표는 이런 상태를 가장 늦게 알아차리므로, 신호 네 가지를 미리 정해 두고 점검해야 합니다. 두 가지 이상 해당하면 매주 30분을 채용, 핵심 직원 붙잡기, 내년 방향 같은 주제 하나에 쓰고, 이 시간은 다른 일정에 내주지 않습니다. 금액이 크거나 되돌리기 어려운 결정은 하루를 두고 다시 보세요. 한 달에 한 번은 가장 믿는 공동 창업자나 팀장에게 '요즘 제가 놓치고 있는 게 뭐라고 보세요?'라고 물어보는 것도 좋습니다.

@@ -3,7 +3,7 @@ id: business-plan-0478
 domain: business-plan
 claim: 해외 온라인 플랫폼 판로지원사업의 지원 금액은 국비 상한일 뿐이고 자부담금과 부가세는 따로 내야 하므로, 신청 전에 이 현금을 준비해
   둬야 한다.
-status: candidate
+status: merged
 evidence: consensus
 confidence: 0.7
 sources:
@@ -25,5 +25,6 @@ tags:
 - 자부담
 - 부가세
 - 자금계획
+merged_into: business-plan-0369
 ---
 입점지원 450만 원, 활용지원 350만 원, 물류지원 600만 원은 모두 국비로 줄 수 있는 최대 금액입니다. 실제로 사업을 하면 자부담금과 부가세가 따로 들기 때문에, 지원금만 믿고 비용을 계획하면 현금이 모자랄 수 있습니다. 자부담 비율과 납부 방식은 공고문에서 확인하고, 사업비 전체를 기준으로 자금 계획을 세우세요.

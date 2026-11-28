@@ -2,7 +2,7 @@
 id: mindset-0049
 domain: mindset
 claim: 일을 완벽하게 하려다 띄엄띄엄 하기보다 대충이라도 꾸준히 하는 편이 결과가 더 좋다는 것을 판단 기준으로 삼는다.
-status: candidate
+status: merged
 evidence: anecdote
 confidence: 0.55
 sources:
@@ -24,5 +24,6 @@ tags:
 - 실행
 - 습관
 mentions: 1
+merged_into: mindset-0086
 ---
 완성도를 이유로 실행 간격이 벌어진다면 완성도 기준을 낮추더라도 실행을 이어 간다. 화자는 완벽하게 띄엄띄엄 하는 것보다 대충 꾸준히 하는 쪽의 결과가 더 좋았다고 말한다. 비교 수치나 어떤 일에서 얻은 결과인지는 원문에 없으므로 화자의 경험칙으로 받아들여야 한다.

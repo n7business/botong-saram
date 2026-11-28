@@ -1,0 +1,30 @@
+---
+id: business-plan-0743
+domain: business-plan
+claim: 기술창업 기반의 예비창업자와 창업기업은 2026-12-31 18:00까지 온라인이나 전국 17개 창조경제혁신센터 방문으로 「스타트업 원스톱
+  지원센터」를 신청하면 겪고 있는 문제에 맞는 전문가와 연결돼 자문을 받을 수 있습니다.
+status: verified
+evidence: policy
+confidence: 0.85
+sources:
+- url: https://www.k-startup.go.kr/web/contents/bizpbanc-ongoing.do?schM=view&pbancSn=177328
+  author: 창업진흥원
+  seen: '2026-11-28'
+  quote: '방문 접수 : 17개 창조경제혁신센터'
+  source: 창업진흥원 사업공고
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: '2026-12-31'
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 원스톱지원센터
+- 창조경제혁신센터
+- 전문가매칭
+- 마감2026-12-31
+verified_by: 공식 출처
+---
+「2026년 스타트업 원스톱 지원센터」는 기술창업 기반의 예비창업자와 창업기업이 겪는 문제를 풀도록 돕는 사업입니다. 온라인으로 신청하거나 17개 창조경제혁신센터에 직접 찾아가 신청할 수 있습니다. 사업신청서와 개인정보 수집이용 동의서는 신청할 때 온라인으로 쓰고, 개인사업자는 사업자등록증, 법인은 법인등기부등본을 냅니다. 창업지원사업 선정확인서 같은 참고자료는 권장 서류이므로, 다른 지원사업에 선정된 적이 있으면 함께 내는 것이 좋습니다. 요건검토와 전문가 매칭을 거쳐 자문 범위·답변 기한·약정 금액을 정한 약정을 맺고, 지원한도 안에서 자문을 받습니다.

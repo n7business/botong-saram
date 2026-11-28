@@ -3,7 +3,7 @@ id: business-plan-0654
 domain: business-plan
 claim: 서울바이오허브 입주·졸업기업이나 서울에 있는 창업 10년 미만 바이오·의료 기업은 2026-11-27까지 온라인으로 신청하면, KIMES
   2027 서울바이오허브 공동관에서 임차료와 장치비가 포함된 부스 1개를 받을 수 있다.
-status: verified
+status: expired
 evidence: policy
 confidence: 0.85
 sources:

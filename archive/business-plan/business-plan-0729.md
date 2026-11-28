@@ -1,0 +1,29 @@
+---
+id: business-plan-0729
+domain: business-plan
+claim: 2027년 중기부 예산안에서는 모두의창업 1라운드 통과 지원금이 200만 원에서 500만 원으로, 단계별 최대 지원금이 2,000만 원에서
+  3,000만 원으로 올랐지만, 이 금액은 국회 심의 중인 정부안이라 공고문에서 다시 확인해야 합니다.
+status: candidate
+evidence: policy
+confidence: 0.65
+sources:
+- url: https://www.swp.io.kr/guide/yebi-changup-package.html
+  author: 스프링워터 파트너스
+  seen: '2026-11-28'
+  quote: 1라운드 통과 지원금 200만 원 → 500만 원
+  source: 스프링워터 파트너스 예창패 가이드
+first_seen: '2026-11-28'
+last_confirmed: '2026-11-28'
+review_by: null
+supersedes: null
+superseded_by: null
+experiment: null
+law_ref: null
+contributor: null
+tags:
+- 모두의창업
+- 2027예산안
+- 지원금
+- 예비창업자
+---
+2026-09-01에 발표된 2027년도 중소벤처기업부 예산안에는 모두의창업 1라운드 통과 지원금 500만 원, 단계별 최대 지원금 3,000만 원이 들어 있습니다. 2026년에는 각각 200만 원, 2,000만 원이었습니다. 다만 2026년 11월 현재 국회 심의 중이어서 금액이 바뀔 수 있습니다. 라운드별 금액, 지급 방식(카드·현금 등), 쓸 수 있는 비목, 중간에 떨어졌을 때 환수하는지는 회차별 공고문에서 정해집니다. 이 금액을 인용하거나 계획에 넣을 때는 '2027년 예산안 기준'이라고 꼭 밝혀야 합니다.

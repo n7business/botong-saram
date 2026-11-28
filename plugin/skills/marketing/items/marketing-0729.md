@@ -15,3 +15,7 @@
   > 일기장 그만쓰고, 타인의 시선으로 글 쓰기.
 - 빌리쌤 (@billy___ssam) · 2026-11-10 · https://www.threads.com/@billy___ssam/post/Dfha7qhCbb2
   > 댓글이 달리도록 의도된 '틈' 만들기
+- 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtUN4GYIQ
+  > 잘되는 계정들은 모든 콘텐츠가 <상대방>에게 포커싱 되어 있다는 것입니다.
+- 빌리쌤 (@billy___ssam) · 2026-11-11 · https://www.threads.com/@billy___ssam/post/DfjtE0pmZl_
+  > 일기장 그만쓰고, 타인의 시선으로 글 쓰기.

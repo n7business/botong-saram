@@ -9,3 +9,5 @@
 ## 출처
 - 법제처 (찾기 쉬운 생활법령정보) · 2026-11-25 · https://www.easylaw.go.kr/CSP/csp0/introPolicy/getCopyright.do?lang=ko
   > 제3자가 저작권을 갖는 저작물의 경우, 저작자의 저작권 정책 및 「저작권법」에 따릅니다.
+- 법제처 · 2026-11-19 · https://www.easylaw.go.kr/CSP/AboutCopyright.laf?topMenu=introUl3
+  > 제3자가 저작권을 갖는 저작물의 경우, 저작자의 저작권 정책 및 ｢저작권법｣에 따릅니다.
